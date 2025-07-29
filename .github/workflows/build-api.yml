@@ -1,0 +1,30 @@
+name: Update JSON twice a week
+
+on:
+  schedule:
+    - cron: '0 0 * * 2'  # Tuesday at 00:00 UTC
+    - cron: '0 0 * * 5'  # Friday at 00:00 UTC
+  workflow_dispatch:     # Optional: allow manual trigger
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run script to update JSON
+        run: node scripts/updateJson.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add data/*.json
+          git commit -m "Auto-update JSON on schedule"
+          git push
