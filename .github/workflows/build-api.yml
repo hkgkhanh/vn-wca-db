@@ -35,3 +35,4 @@ jobs:
             DATE=$(date +"%d/%m/%Y")
             git commit -m "Last update on ${DATE}"
             git push
+          fi
