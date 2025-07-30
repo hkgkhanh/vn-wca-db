@@ -1,0 +1,124 @@
+{
+  "id": "2023NGUY38",
+  "name": "Bùi Đình Nguyên",
+  "slug": "bui-dinh-nguyen",
+  "country": "VN",
+  "numberOfCompetitions": 1,
+  "competitionIds": [
+    "HanoiSummer2023"
+  ],
+  "numberOfChampionships": 0,
+  "championshipIds": [],
+  "rank": {
+    "singles": [
+      {
+        "eventId": "222",
+        "best": 541,
+        "rank": {
+          "world": 73629,
+          "continent": 21643,
+          "country": 954
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1331,
+        "rank": {
+          "world": 45677,
+          "continent": 16881,
+          "country": 938
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 9340,
+        "rank": {
+          "world": 49650,
+          "continent": 15167,
+          "country": 805
+        }
+      }
+    ],
+    "averages": [
+      {
+        "eventId": "222",
+        "best": 772,
+        "rank": {
+          "world": 74141,
+          "continent": 22288,
+          "country": 995
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1502,
+        "rank": {
+          "world": 37802,
+          "continent": 14211,
+          "country": 828
+        }
+      }
+    ]
+  },
+  "results": {
+    "HanoiSummer2023": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 122,
+          "best": 541,
+          "average": 772,
+          "format": "Average of 5",
+          "solves": [
+            541,
+            701,
+            582,
+            1032,
+            -1
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 126,
+          "best": 1331,
+          "average": 1502,
+          "format": "Average of 5",
+          "solves": [
+            1380,
+            1654,
+            1563,
+            1563,
+            1331
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 98,
+          "best": 9340,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            16650,
+            9340,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "records": {
+    "single": [],
+    "average": []
+  }
+}

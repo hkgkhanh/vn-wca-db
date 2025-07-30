@@ -1,0 +1,65 @@
+{
+  "id": "2019HOAN01",
+  "name": "Nguyễn Như Hoàn",
+  "slug": "nguyen-nhu-hoan",
+  "country": "VN",
+  "numberOfCompetitions": 1,
+  "competitionIds": [
+    "HoChiMinhCityOpen2019"
+  ],
+  "numberOfChampionships": 0,
+  "championshipIds": [],
+  "rank": {
+    "singles": [
+      {
+        "eventId": "333",
+        "best": 2120,
+        "rank": {
+          "world": 108997,
+          "continent": 38143,
+          "country": 1917
+        }
+      }
+    ],
+    "averages": [
+      {
+        "eventId": "333",
+        "best": 2559,
+        "rank": {
+          "world": 108729,
+          "continent": 38208,
+          "country": 1940
+        }
+      }
+    ]
+  },
+  "results": {
+    "HoChiMinhCityOpen2019": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 117,
+          "best": 2120,
+          "average": 2559,
+          "format": "Average of 5",
+          "solves": [
+            2794,
+            2414,
+            2639,
+            2120,
+            2624
+          ]
+        }
+      ]
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "records": {
+    "single": [],
+    "average": []
+  }
+}

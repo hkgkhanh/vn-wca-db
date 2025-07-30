@@ -1,13 +1,53 @@
 {
     "API_URL": "https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api",
+    "PAGE_ITEMS_LIMIT": 100,
+    "TYPES": ["single", "average"],
+    "SHOWS": ["person", "result"],
+    "EVENT_CATEGORIES": [
+            {
+                "id": "all",
+                "name": "All",
+                "events": ["222", "333", "444", "555", "666", "777", "333oh", "333bf", "333fm", "333mbf", "444bf", "555bf", "clock", "minx", "pyram", "skewb", "sq1"]
+            },
+            {
+                "id": "nxn",
+                "name": "NxN",
+                "events": ["222", "333", "444", "555", "666", "777"]
+            },
+            {
+                "id": "big",
+                "name": "Big cubes",
+                "events": ["444", "555", "666", "777"]
+            },
+            {
+                "id": "333",
+                "name": "3x3x3 events",
+                "events": ["333", "333oh", "333bf", "333fm", "333mbf"]
+            },
+            {
+                "id": "side",
+                "name": "Side events",
+                "events": ["clock", "minx", "pyram", "skewb", "sq1"]
+            },
+            {
+                "id": "bld",
+                "name": "Blindfolded events",
+                "events": ["333bf", "333mbf", "444bf", "555bf"]
+            },
+            {
+                "id": "silent",
+                "name": "Silent events",
+                "events": ["333fm", "333bf", "333mbf", "444bf", "555bf"]
+            }
+    ],
     "UNCOUNTED_PEOPLE": [
         {
             "personId": "2014QUYN02",
             "personName": "Tomas Nguyen"
         },
         {
-            "personId": "2018TRAN09",
-            "personName": "Tien Tran"
+            "personId": "2020THAT01",
+            "personName": "Tuan Ton That"
         }
     ]
 }

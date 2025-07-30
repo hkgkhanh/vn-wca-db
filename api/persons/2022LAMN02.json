@@ -1,0 +1,133 @@
+{
+  "id": "2022LAMN02",
+  "name": "Nguyễn Đăng Tùng Lâm",
+  "slug": "nguyen-dang-tung-lam",
+  "country": "VN",
+  "numberOfCompetitions": 1,
+  "competitionIds": [
+    "HanoiOpen2022"
+  ],
+  "numberOfChampionships": 0,
+  "championshipIds": [],
+  "rank": {
+    "singles": [
+      {
+        "eventId": "222",
+        "best": 572,
+        "rank": {
+          "world": 79692,
+          "continent": 23439,
+          "country": 1021
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1698,
+        "rank": {
+          "world": 77278,
+          "continent": 27913,
+          "country": 1522
+        }
+      },
+      {
+        "eventId": "skewb",
+        "best": 1113,
+        "rank": {
+          "world": 40204,
+          "continent": 9756,
+          "country": 300
+        }
+      }
+    ],
+    "averages": [
+      {
+        "eventId": "222",
+        "best": 788,
+        "rank": {
+          "world": 76542,
+          "continent": 23031,
+          "country": 1024
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 2098,
+        "rank": {
+          "world": 80420,
+          "continent": 29259,
+          "country": 1609
+        }
+      },
+      {
+        "eventId": "skewb",
+        "best": 1369,
+        "rank": {
+          "world": 32137,
+          "continent": 8099,
+          "country": 252
+        }
+      }
+    ]
+  },
+  "results": {
+    "HanoiOpen2022": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 60,
+          "best": 572,
+          "average": 788,
+          "format": "Average of 5",
+          "solves": [
+            572,
+            808,
+            967,
+            802,
+            754
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 100,
+          "best": 1698,
+          "average": 2098,
+          "format": "Average of 5",
+          "solves": [
+            2080,
+            2593,
+            1698,
+            2086,
+            2129
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "Final",
+          "position": 16,
+          "best": 1113,
+          "average": 1369,
+          "format": "Average of 5",
+          "solves": [
+            1113,
+            1148,
+            1669,
+            1290,
+            2335
+          ]
+        }
+      ]
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "records": {
+    "single": [],
+    "average": []
+  }
+}

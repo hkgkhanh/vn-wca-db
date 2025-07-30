@@ -1,0 +1,99 @@
+{
+  "id": "2022BAOD01",
+  "name": "Đinh Lâm Gia Bảo",
+  "slug": "dinh-lam-gia-bao",
+  "country": "VN",
+  "numberOfCompetitions": 1,
+  "competitionIds": [
+    "HoChiMinhCityWarmUp2022"
+  ],
+  "numberOfChampionships": 0,
+  "championshipIds": [],
+  "rank": {
+    "singles": [
+      {
+        "eventId": "222",
+        "best": 722,
+        "rank": {
+          "world": 104085,
+          "continent": 30562,
+          "country": 1272
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 2129,
+        "rank": {
+          "world": 109655,
+          "continent": 38356,
+          "country": 1927
+        }
+      }
+    ],
+    "averages": [
+      {
+        "eventId": "222",
+        "best": 869,
+        "rank": {
+          "world": 87379,
+          "continent": 26145,
+          "country": 1162
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 2470,
+        "rank": {
+          "world": 103536,
+          "continent": 36584,
+          "country": 1882
+        }
+      }
+    ]
+  },
+  "results": {
+    "HoChiMinhCityWarmUp2022": {
+      "222": [
+        {
+          "round": "Final",
+          "position": 111,
+          "best": 722,
+          "average": 869,
+          "format": "Average of 5",
+          "solves": [
+            1703,
+            815,
+            832,
+            722,
+            960
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 187,
+          "best": 2129,
+          "average": 2470,
+          "format": "Average of 5",
+          "solves": [
+            2657,
+            3168,
+            2608,
+            2129,
+            2146
+          ]
+        }
+      ]
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "records": {
+    "single": [],
+    "average": []
+  }
+}

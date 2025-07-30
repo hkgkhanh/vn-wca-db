@@ -1,0 +1,99 @@
+{
+  "id": "2018QUAN19",
+  "name": "Nguyễn Tài Anh Quân",
+  "slug": "nguyen-tai-anh-quan",
+  "country": "VN",
+  "numberOfCompetitions": 1,
+  "competitionIds": [
+    "HaNoiOpen2018"
+  ],
+  "numberOfChampionships": 0,
+  "championshipIds": [],
+  "rank": {
+    "singles": [
+      {
+        "eventId": "222",
+        "best": 263,
+        "rank": {
+          "world": 16337,
+          "continent": 4225,
+          "country": 150
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1271,
+        "rank": {
+          "world": 40390,
+          "continent": 14941,
+          "country": 848
+        }
+      }
+    ],
+    "averages": [
+      {
+        "eventId": "222",
+        "best": 517,
+        "rank": {
+          "world": 29585,
+          "continent": 8745,
+          "country": 408
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1646,
+        "rank": {
+          "world": 48572,
+          "continent": 18200,
+          "country": 1054
+        }
+      }
+    ]
+  },
+  "results": {
+    "HaNoiOpen2018": {
+      "222": [
+        {
+          "round": "Final",
+          "position": 20,
+          "best": 263,
+          "average": 517,
+          "format": "Average of 5",
+          "solves": [
+            410,
+            580,
+            263,
+            567,
+            573
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 69,
+          "best": 1271,
+          "average": 1646,
+          "format": "Average of 5",
+          "solves": [
+            1399,
+            1892,
+            1917,
+            1271,
+            1647
+          ]
+        }
+      ]
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "records": {
+    "single": [],
+    "average": []
+  }
+}
