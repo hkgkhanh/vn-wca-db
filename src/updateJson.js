@@ -570,15 +570,21 @@ async function fetchSumOfRank() {
 
 			allProfiles.sort((a, b) => a.sor[categoryId][type] - b.sor[categoryId][type]);
 
-			let actualRank = 1;
+			// let actualRank = 1;
 			if (allProfiles.length > 0) {
 				allProfiles[0].actualRank = 1;
 				for (let j = 1; j < allProfiles.length; j++) {
+					// if (allProfiles[j - 1].sor[categoryId][type] < allProfiles[j].sor[categoryId][type]) {
+					// 	actualRank++;
+					// 	allProfiles[j].actualRank = actualRank;
+					// } else {
+					// 	allProfiles[j].actualRank = j + 1;
+					// }
+
 					if (allProfiles[j - 1].sor[categoryId][type] < allProfiles[j].sor[categoryId][type]) {
-						actualRank++;
-						allProfiles[j].actualRank = actualRank;
-					} else {
 						allProfiles[j].actualRank = j + 1;
+					} else {
+						allProfiles[j].actualRank = allProfiles[j - 1].actualRank;
 					}
 				}
 			}
@@ -878,15 +884,20 @@ async function fetchKinch() {
 		}
 	});
 
-	let actualRank = 1;
+	// let actualRank = 1;
 	if (allProfiles.length > 0) {
 		allProfiles[0].actualRank = 1;
 		for (let j = 1; j < allProfiles.length; j++) {
+			// if (allProfiles[j - 1].avgKinchScore > allProfiles[j].avgKinchScore) {
+			// 	actualRank++;
+			// 	allProfiles[j].actualRank = actualRank;
+			// } else {
+			// 	allProfiles[j].actualRank = j + 1;
+			// }
 			if (allProfiles[j - 1].avgKinchScore > allProfiles[j].avgKinchScore) {
-				actualRank++;
-				allProfiles[j].actualRank = actualRank;
-			} else {
 				allProfiles[j].actualRank = j + 1;
+			} else {
+				allProfiles[j].actualRank = allProfiles[j - 1].actualRank;
 			}
 		}
 	}
