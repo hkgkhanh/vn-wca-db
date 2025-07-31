@@ -200,7 +200,7 @@ async function fetchPersons() {
 			}
 		}
 
-		console.log("persons page 1 done");
+		console.log("fetch persons page 1 done");
 
 		const fetchCount = Math.floor(data.total / data.pagination.size) - 1;
 
@@ -230,7 +230,7 @@ async function fetchPersons() {
 				}
 			}
 
-			console.log(`persons page ${i+2} done`);
+			console.log(`fetch persons page ${i+2} done`);
 		}
 
 		for (let i = 0; i < UNCOUNTED_PEOPLE.length; i++) {
@@ -263,8 +263,15 @@ async function fetchPersons() {
 		let personsInPage = [];
 		
 		while (index < persons.length) {
+			let pageContent = {
+				page: pageCount,
+				pageTotal: Math.ceil(persons.length / PAGE_ITEMS_LIMIT),
+				size: PAGE_ITEMS_LIMIT,
+				total: persons.length
+			}
+
 			if (index != 0 && index % PAGE_ITEMS_LIMIT == 0) {
-				fs.writeFileSync(path.join(__dirname, `../api/persons-page-${pageCount}.json`), JSON.stringify(personsInPage, null, 2), 'utf-8');
+				fs.writeFileSync(path.join(__dirname, `../api/persons-page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": personsInPage }, null, 2), 'utf-8');
 
 				personsInPage = [];
 				pageCount++;
@@ -274,7 +281,7 @@ async function fetchPersons() {
 			personsInPage.push(person);
 
 			if (index == persons.length - 1) {
-				fs.writeFileSync(path.join(__dirname, `../api/persons-page-${pageCount}.json`), JSON.stringify(personsInPage, null, 2), 'utf-8');
+				fs.writeFileSync(path.join(__dirname, `../api/persons-page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": personsInPage }, null, 2), 'utf-8');
 
 				personsInPage = [];
 				pageCount++;
@@ -579,8 +586,15 @@ async function fetchSumOfRank() {
 			let profilesInPage = [];
 			
 			while (index < allProfiles.length) {
+				let pageContent = {
+					page: pageCount,
+					pageTotal: Math.ceil(allProfiles.length / PAGE_ITEMS_LIMIT),
+					size: PAGE_ITEMS_LIMIT,
+					total: allProfiles.length
+				}
+
 				if (index != 0 && index % PAGE_ITEMS_LIMIT == 0) {
-					fs.writeFileSync(path.join(__dirname, `../api/rank/sor/${categoryId}_${type}-page-${pageCount}.json`), JSON.stringify(profilesInPage, null, 2), 'utf-8');
+					fs.writeFileSync(path.join(__dirname, `../api/rank/sor/${categoryId}_${type}-page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
 
 					profilesInPage = [];
 					pageCount++;
@@ -590,7 +604,7 @@ async function fetchSumOfRank() {
 				profilesInPage.push(profile);
 
 				if (index == allProfiles.length - 1) {
-					fs.writeFileSync(path.join(__dirname, `../api/rank/sor/${categoryId}_${type}-page-${pageCount}.json`), JSON.stringify(profilesInPage, null, 2), 'utf-8');
+					fs.writeFileSync(path.join(__dirname, `../api/rank/sor/${categoryId}_${type}-page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
 
 					profilesInPage = [];
 					pageCount++;
@@ -878,8 +892,15 @@ async function fetchKinch() {
 	let profilesInPage = [];
 	
 	while (index < allProfiles.length) {
+		let pageContent = {
+			page: pageCount,
+			pageTotal: Math.ceil(allProfiles.length / PAGE_ITEMS_LIMIT),
+			size: PAGE_ITEMS_LIMIT,
+			total: allProfiles.length
+		}
+		
 		if (index != 0 && index % PAGE_ITEMS_LIMIT == 0) {
-			fs.writeFileSync(path.join(__dirname, `../api/rank/kinch/page-${pageCount}.json`), JSON.stringify(profilesInPage, null, 2), 'utf-8');
+			fs.writeFileSync(path.join(__dirname, `../api/rank/kinch/page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
 
 			profilesInPage = [];
 			pageCount++;
@@ -889,7 +910,7 @@ async function fetchKinch() {
 		profilesInPage.push(profile);
 
 		if (index == allProfiles.length - 1) {
-			fs.writeFileSync(path.join(__dirname, `../api/rank/kinch/page-${pageCount}.json`), JSON.stringify(profilesInPage, null, 2), 'utf-8');
+			fs.writeFileSync(path.join(__dirname, `../api/rank/kinch/page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
 
 			profilesInPage = [];
 			pageCount++;
