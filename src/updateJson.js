@@ -880,7 +880,7 @@ async function fetchKinch() {
 	if (allProfiles.length > 0) {
 		allProfiles[0].actualRank = 1;
 		for (let j = 1; j < allProfiles.length; j++) {
-			if (allProfiles[j - 1].avgKinchScore < allProfiles[j].avgKinchScore) {
+			if (allProfiles[j - 1].avgKinchScore > allProfiles[j].avgKinchScore) {
 				actualRank++;
 			}
 			allProfiles[j].actualRank = actualRank;
