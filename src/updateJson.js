@@ -406,6 +406,7 @@ async function fetchRankings() {
 					}
 
 					if (wcaResults.length > 100) wcaResults = wcaResults.slice(0, 100); // again, only get top 100
+					console.log(`${event} ${type} ${person_or_result} result done`);
 
 					fs.writeFileSync(path.join(__dirname, `../api/rank/${event}_${type}_100_${person_or_result}.json`), JSON.stringify(wcaResults, null, 2), 'utf-8');
 				}
@@ -544,9 +545,9 @@ async function fetchSumOfRank() {
 			let insertIndex = allProfiles.findIndex(p => sor.all.average < p.sor.all.average);
 
 			if (insertIndex === -1) {
-				allProfiles.push({ personId, personName, rank, sor });
+				allProfiles.push({ actualRank: 0, personId, personName, rank, sor });
 			} else {
-				allProfiles.splice(insertIndex, 0, { personId, personName, rank, sor });
+				allProfiles.splice(insertIndex, 0, { actualRank: 0, personId, personName, rank, sor });
 			}
 		}
 	});
@@ -561,6 +562,17 @@ async function fetchSumOfRank() {
 			let type = TYPES[j];
 
 			allProfiles.sort((a, b) => a.sor[categoryId][type] - b.sor[categoryId][type]);
+
+			let actualRank = 1;
+			if (allProfiles.length > 0) {
+				allProfiles[0].actualRank = 1;
+				for (let j = 1; j < allProfiles.length; j++) {
+					if (allProfiles[j - 1].sor[categoryId][type] < allProfiles[j].sor[categoryId][type]) {
+						actualRank++;
+					}
+					allProfiles[j].actualRank = actualRank;
+				}
+			}
 
 			let index = 0;
 			let pageCount = 1;
@@ -843,12 +855,23 @@ async function fetchKinch() {
 			let insertIndex = allProfiles.findIndex(p => avgKinchScore > p.avgKinchScore);
 
 			if (insertIndex === -1) {
-				allProfiles.push({ personId, personName, avgKinchScore, kinchScore });
+				allProfiles.push({ actualRank: 0, personId, personName, avgKinchScore, kinchScore });
 			} else {
-				allProfiles.splice(insertIndex, 0, { personId, personName, avgKinchScore, kinchScore });
+				allProfiles.splice(insertIndex, 0, { actualRank: 0, personId, personName, avgKinchScore, kinchScore });
 			}
 		}
 	});
+
+	let actualRank = 1;
+	if (allProfiles.length > 0) {
+		allProfiles[0].actualRank = 1;
+		for (let j = 1; j < allProfiles.length; j++) {
+			if (allProfiles[j - 1].avgKinchScore < allProfiles[j].avgKinchScore) {
+				actualRank++;
+			}
+			allProfiles[j].actualRank = actualRank;
+		}
+	}
 
 	let index = 0;
 	let pageCount = 1;
@@ -874,17 +897,18 @@ async function fetchKinch() {
 
 		index++;
 	}
+	console.log("kinch rank done");
 }
 
 async function fetchData() {
 	try {
-		fetchEvents();
-		fetchCompetitions();
-		fetchChampionships();
-		fetchPersons();
-		fetchRankings();
-		fetchSumOfRank();
-		fetchKinch();
+		await fetchEvents();
+		await fetchCompetitions();
+		await fetchChampionships();
+		await fetchPersons();
+		await fetchRankings();
+		await fetchSumOfRank();
+		await fetchKinch();
 	} catch (err) {
 		console.error('Failed to update JSON:', err);
 		process.exit(1); // exit with error for GitHub Actions to mark it as failed
