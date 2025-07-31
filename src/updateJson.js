@@ -576,8 +576,10 @@ async function fetchSumOfRank() {
 				for (let j = 1; j < allProfiles.length; j++) {
 					if (allProfiles[j - 1].sor[categoryId][type] < allProfiles[j].sor[categoryId][type]) {
 						actualRank++;
+						allProfiles[j].actualRank = actualRank;
+					} else {
+						allProfiles[j].actualRank = j + 1;
 					}
-					allProfiles[j].actualRank = actualRank;
 				}
 			}
 
@@ -882,8 +884,10 @@ async function fetchKinch() {
 		for (let j = 1; j < allProfiles.length; j++) {
 			if (allProfiles[j - 1].avgKinchScore > allProfiles[j].avgKinchScore) {
 				actualRank++;
+				allProfiles[j].actualRank = actualRank;
+			} else {
+				allProfiles[j].actualRank = j + 1;
 			}
-			allProfiles[j].actualRank = actualRank;
 		}
 	}
 
@@ -923,11 +927,11 @@ async function fetchKinch() {
 
 async function fetchData() {
 	try {
-		await fetchEvents();
-		await fetchCompetitions();
-		await fetchChampionships();
-		await fetchPersons();
-		await fetchRankings();
+		// await fetchEvents();
+		// await fetchCompetitions();
+		// await fetchChampionships();
+		// await fetchPersons();
+		// await fetchRankings();
 		await fetchSumOfRank();
 		await fetchKinch();
 	} catch (err) {
