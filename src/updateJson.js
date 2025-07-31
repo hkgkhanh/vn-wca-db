@@ -927,11 +927,11 @@ async function fetchKinch() {
 
 async function fetchData() {
 	try {
-		// await fetchEvents();
-		// await fetchCompetitions();
-		// await fetchChampionships();
-		// await fetchPersons();
-		// await fetchRankings();
+		await fetchEvents();
+		await fetchCompetitions();
+		await fetchChampionships();
+		await fetchPersons();
+		await fetchRankings();
 		await fetchSumOfRank();
 		await fetchKinch();
 	} catch (err) {
