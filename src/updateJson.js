@@ -873,7 +873,6 @@ async function fetchKinch() {
 
 			avgKinchScore /= 17;
 
-			// allProfiles.push({ personId, personName, avgKinchScore, kinchScore });
 			let insertIndex = allProfiles.findIndex(p => avgKinchScore > p.avgKinchScore);
 
 			if (insertIndex === -1) {
@@ -884,16 +883,9 @@ async function fetchKinch() {
 		}
 	});
 
-	// let actualRank = 1;
 	if (allProfiles.length > 0) {
 		allProfiles[0].actualRank = 1;
 		for (let j = 1; j < allProfiles.length; j++) {
-			// if (allProfiles[j - 1].avgKinchScore > allProfiles[j].avgKinchScore) {
-			// 	actualRank++;
-			// 	allProfiles[j].actualRank = actualRank;
-			// } else {
-			// 	allProfiles[j].actualRank = j + 1;
-			// }
 			if (allProfiles[j - 1].avgKinchScore > allProfiles[j].avgKinchScore) {
 				allProfiles[j].actualRank = j + 1;
 			} else {
@@ -936,6 +928,93 @@ async function fetchKinch() {
 	console.log("kinch rank done");
 }
 
+
+async function fetchMedals() {
+	let allProfiles = [];
+
+	const personFiles = fs.readdirSync(path.join(__dirname, '../api/persons'));
+
+	personFiles.forEach(file => {
+		if (path.extname(file) === '.json') {
+			const filePath = path.join(path.join(__dirname, '../api/persons'), file);				
+			const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+			const personId = content.id;
+			const personName = content.name;
+			const personMedals = content.medals;
+
+			let insertIndex = allProfiles.findIndex(p => {
+				if (personMedals.gold > p.personMedals.gold) return true;
+				if (personMedals.gold < p.personMedals.gold) return false;
+
+				if (personMedals.silver > p.personMedals.silver) return true;
+				if (personMedals.silver < p.personMedals.silver) return false;
+
+				if (personMedals.bronze > p.personMedals.bronze) return true;
+				if (personMedals.bronze < p.personMedals.bronze) return false;
+
+				return false;
+			});
+
+			if (insertIndex === -1) {
+				allProfiles.push({ actualRank: 0, personId, personName, personMedals });
+			} else {
+				allProfiles.splice(insertIndex, 0, { actualRank: 0, personId, personName, personMedals });
+			}
+		}
+	});
+
+	if (allProfiles.length > 0) {
+		allProfiles[0].actualRank = 1;
+		for (let j = 1; j < allProfiles.length; j++) {
+			const prev = allProfiles[j - 1].personMedals;
+			const curr = allProfiles[j].personMedals;
+
+			if (
+				curr.gold < prev.gold ||
+				(curr.gold === prev.gold && curr.silver < prev.silver) ||
+				(curr.gold === prev.gold && curr.silver === prev.silver && curr.bronze < prev.bronze)
+			) {
+				allProfiles[j].actualRank = j + 1;
+			} else {
+				allProfiles[j].actualRank = allProfiles[j - 1].actualRank;
+			}
+		}
+	}
+
+	let index = 0;
+	let pageCount = 1;
+	let profilesInPage = [];
+	
+	while (index < allProfiles.length) {
+		let pageContent = {
+			page: pageCount,
+			pageTotal: Math.ceil(allProfiles.length / PAGE_ITEMS_LIMIT),
+			size: PAGE_ITEMS_LIMIT,
+			total: allProfiles.length
+		}
+		
+		if (index != 0 && index % PAGE_ITEMS_LIMIT == 0) {
+			fs.writeFileSync(path.join(__dirname, `../api/rank/medals/page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
+
+			profilesInPage = [];
+			pageCount++;
+		}
+
+		let profile = allProfiles[index];
+		profilesInPage.push(profile);
+
+		if (index == allProfiles.length - 1) {
+			fs.writeFileSync(path.join(__dirname, `../api/rank/medals/page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
+
+			profilesInPage = [];
+			pageCount++;
+		}
+
+		index++;
+	}
+	console.log("medals rank done");
+}
+
 async function fetchData() {
 	try {
 		await fetchEvents();
@@ -945,6 +1024,7 @@ async function fetchData() {
 		await fetchRankings();
 		await fetchSumOfRank();
 		await fetchKinch();
+		await fetchMedals();
 	} catch (err) {
 		console.error('Failed to update JSON:', err);
 		process.exit(1); // exit with error for GitHub Actions to mark it as failed
