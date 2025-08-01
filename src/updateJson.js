@@ -942,6 +942,11 @@ async function fetchMedals() {
 			const personName = content.name;
 			const personMedals = content.medals;
 
+			// skip if the person has no medal
+			if (personMedals.gold == 0 && personMedals.silver == 0 && personMedals.bronze == 0) {
+				return;
+			}
+
 			let insertIndex = allProfiles.findIndex(p => {
 				if (personMedals.gold > p.personMedals.gold) return true;
 				if (personMedals.gold < p.personMedals.gold) return false;
@@ -1015,6 +1020,127 @@ async function fetchMedals() {
 	console.log("medals rank done");
 }
 
+async function fetchRecords() {
+	let allProfiles = [];
+
+	const personFiles = fs.readdirSync(path.join(__dirname, '../api/persons'));
+
+	personFiles.forEach(file => {
+		if (path.extname(file) === '.json') {
+			const filePath = path.join(path.join(__dirname, '../api/persons'), file);				
+			const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+			const personId = content.id;
+			const personName = content.name;
+			const personRecords = content.records;
+
+			let records = {
+					"NR": 0,
+					"CR": 0,
+					"WR": 0
+			};
+
+			if (personRecords.single.NR) {
+				records.NR += personRecords.single.NR;
+			}
+
+			if (personRecords.single.CR) {
+				records.CR += personRecords.single.CR;
+			}
+
+			if (personRecords.single.WR) {
+				records.WR += personRecords.single.WR;
+			}
+
+			if (personRecords.average.NR) {
+				records.NR += personRecords.average.NR;
+			}
+
+			if (personRecords.average.CR) {
+				records.CR += personRecords.average.CR;
+			}
+
+			if (personRecords.average.WR) {
+				records.WR += personRecords.average.WR;
+			}
+
+			// skip if the person has no medal
+			if (records.NR == 0 && records.CR == 0 && records.WR == 0) {
+				return;
+			}
+
+			let insertIndex = allProfiles.findIndex(p => {
+				if (records.WR > p.records.WR) return true;
+				if (records.WR < p.records.WR) return false;
+
+				if (records.CR > p.records.CR) return true;
+				if (records.CR < p.records.CR) return false;
+
+				if (records.NR > p.records.NR) return true;
+				if (records.NR < p.records.NR) return false;
+
+				return false;
+			});
+
+			if (insertIndex === -1) {
+				allProfiles.push({ actualRank: 0, personId, personName, records });
+			} else {
+				allProfiles.splice(insertIndex, 0, { actualRank: 0, personId, personName, records });
+			}
+		}
+	});
+
+	if (allProfiles.length > 0) {
+		allProfiles[0].actualRank = 1;
+		for (let j = 1; j < allProfiles.length; j++) {
+			const prev = allProfiles[j - 1].records;
+			const curr = allProfiles[j].records;
+
+			if (
+				curr.WR < prev.WR ||
+				(curr.WR === prev.WR && curr.CR < prev.CR) ||
+				(curr.WR === prev.WR && curr.CR === prev.CR && curr.NR < prev.NR)
+			) {
+				allProfiles[j].actualRank = j + 1;
+			} else {
+				allProfiles[j].actualRank = allProfiles[j - 1].actualRank;
+			}
+		}
+	}
+
+	let index = 0;
+	let pageCount = 1;
+	let profilesInPage = [];
+	
+	while (index < allProfiles.length) {
+		let pageContent = {
+			page: pageCount,
+			pageTotal: Math.ceil(allProfiles.length / PAGE_ITEMS_LIMIT),
+			size: PAGE_ITEMS_LIMIT,
+			total: allProfiles.length
+		}
+		
+		if (index != 0 && index % PAGE_ITEMS_LIMIT == 0) {
+			fs.writeFileSync(path.join(__dirname, `../api/rank/records/page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
+
+			profilesInPage = [];
+			pageCount++;
+		}
+
+		let profile = allProfiles[index];
+		profilesInPage.push(profile);
+
+		if (index == allProfiles.length - 1) {
+			fs.writeFileSync(path.join(__dirname, `../api/rank/records/page-${pageCount}.json`), JSON.stringify({ "pagination": pageContent, "items": profilesInPage }, null, 2), 'utf-8');
+
+			profilesInPage = [];
+			pageCount++;
+		}
+
+		index++;
+	}
+	console.log("records rank done");
+}
+
 async function fetchData() {
 	try {
 		await fetchEvents();
@@ -1025,6 +1151,7 @@ async function fetchData() {
 		await fetchSumOfRank();
 		await fetchKinch();
 		await fetchMedals();
+		await fetchRecords();
 	} catch (err) {
 		console.error('Failed to update JSON:', err);
 		process.exit(1); // exit with error for GitHub Actions to mark it as failed
