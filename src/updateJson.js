@@ -327,6 +327,7 @@ async function fetchRankings() {
 
 					// 2. get all results of these 100 people
 					let wcaResults = [];
+					let wcaSingleResults = [];
 					let compDict = {};
 
 					for (let k = 0; k < rankItems.length; k++) {
@@ -390,8 +391,30 @@ async function fetchRankings() {
 						});
 					} else if (type == "single") {
 						wcaResults.filter(item => item.best > 0);
+
+						for (let k = 0; k < wcaResults.length; k++) {
+							let result = wcaResults[k];
+							for (let l = 0; l < result.solves.length; l++) {
+								if (result.solves[l] <= 0) continue;
+
+								let singleResult = {
+									"round": result.round,
+									"position": result.position,
+									"best": result.solves[l],
+									"average": result.average,
+									"format": result.format,
+									"solves": result.solves,
+									"competitionId": result.competitionId,
+									"competitionName": result.competitionName,
+									"personId": result.personId,
+									"personName": result.personName
+								}
+
+								wcaSingleResults.push(singleResult);
+							}
+						}
 						
-						wcaResults.sort((a, b) => {
+						wcaSingleResults.sort((a, b) => {
 							const aVal = a.best;
 							const bVal = b.best;
 
@@ -410,12 +433,19 @@ async function fetchRankings() {
 							seen.add(item.personId);
 							return true;
 						});
+						seen = new Set();
+						wcaSingleResults = wcaSingleResults.filter(item => {
+							if (seen.has(item.personId)) return false;
+							seen.add(item.personId);
+							return true;
+						});
 					}
 
 					if (wcaResults.length > 100) wcaResults = wcaResults.slice(0, 100); // again, only get top 100
+					if (wcaSingleResults.length > 100) wcaSingleResults = wcaSingleResults.slice(0, 100);
 					console.log(`${event} ${type} ${person_or_result} result done`);
 
-					fs.writeFileSync(path.join(__dirname, `../api/rank/${event}_${type}_100_${person_or_result}.json`), JSON.stringify(wcaResults, null, 2), 'utf-8');
+					fs.writeFileSync(path.join(__dirname, `../api/rank/${event}_${type}_100_${person_or_result}.json`), JSON.stringify(type == "average" ? wcaResults : wcaSingleResults, null, 2), 'utf-8');
 				}
 			}
 		}
@@ -425,7 +455,6 @@ async function fetchRankings() {
 		process.exit(1); // exit with error for GitHub Actions to mark it as failed
 	}
 }
-
 async function fetchSumOfRank() {
 	let allProfiles = [];
 	const events_participants = require(path.join(__dirname, '../data/events_participants.json'));
