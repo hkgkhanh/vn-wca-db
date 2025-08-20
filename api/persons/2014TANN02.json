@@ -3,56 +3,127 @@
   "name": "Nguyễn Duy Tân",
   "slug": "nguyen-duy-tan",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "HoChiMinhCubic2014",
-    "HoChiMinhOpen2014"
+    "HoChiMinhOpen2014",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
-        "best": 1268,
+        "best": 1051,
         "rank": {
-          "world": 40314,
-          "continent": 14894,
-          "country": 843
+          "world": 21878,
+          "continent": 7945,
+          "country": 481
         }
       },
       {
         "eventId": "444",
-        "best": 4337,
+        "best": 2981,
         "rank": {
-          "world": 11588,
-          "continent": 4044,
-          "country": 203
+          "world": 1795,
+          "continent": 603,
+          "country": 37
+        }
+      },
+      {
+        "eventId": "555",
+        "best": 8477,
+        "rank": {
+          "world": 7926,
+          "continent": 2625,
+          "country": 147
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 1368,
+        "best": 1198,
         "rank": {
-          "world": 28108,
-          "continent": 10583,
-          "country": 634
+          "world": 17001,
+          "continent": 6323,
+          "country": 399
         }
       },
       {
         "eventId": "444",
-        "best": 4949,
+        "best": 3837,
         "rank": {
-          "world": 11282,
-          "continent": 3998,
-          "country": 218
+          "world": 3382,
+          "continent": 1175,
+          "country": 72
+        }
+      },
+      {
+        "eventId": "555",
+        "best": 9199,
+        "rank": {
+          "world": 7346,
+          "continent": 2445,
+          "country": 134
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 109,
+          "best": 1051,
+          "average": 1198,
+          "format": "Average of 5",
+          "solves": [
+            1051,
+            1125,
+            1198,
+            1271,
+            1337
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 43,
+          "best": 2981,
+          "average": 3837,
+          "format": "Average of 5",
+          "solves": [
+            4262,
+            2981,
+            3241,
+            -1,
+            4008
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "First round",
+          "position": 74,
+          "best": 8477,
+          "average": 9199,
+          "format": "Average of 5",
+          "solves": [
+            9776,
+            9178,
+            9818,
+            8643,
+            8477
+          ]
+        }
+      ]
+    },
     "HoChiMinhOpen2014": {
       "333": [
         {

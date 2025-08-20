@@ -3,32 +3,35 @@
   "name": "Trần Nguyên Bách",
   "slug": "tran-nguyen-bach",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "cubingHCM3x3Winter2024",
     "cubingHCMBigCubeWinter2024",
-    "HCMCVNCWarmUp2025"
+    "HCMCVNCWarmUp2025",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
-        "best": 849,
+        "best": 817,
         "rank": {
-          "world": 8798,
-          "continent": 3059,
-          "country": 171
+          "world": 7296,
+          "continent": 2491,
+          "country": 132
         }
       },
       {
         "eventId": "444",
         "best": 3800,
         "rank": {
-          "world": 6822,
-          "continent": 2372,
-          "country": 130
+          "world": 6847,
+          "continent": 2384,
+          "country": 140
         }
       }
     ],
@@ -37,23 +40,57 @@
         "eventId": "333",
         "best": 929,
         "rank": {
-          "world": 4392,
-          "continent": 1546,
-          "country": 87
+          "world": 4418,
+          "continent": 1565,
+          "country": 93
         }
       },
       {
         "eventId": "444",
-        "best": 4323,
+        "best": 4212,
         "rank": {
-          "world": 6359,
-          "continent": 2225,
-          "country": 118
+          "world": 5650,
+          "continent": 1985,
+          "country": 114
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 48,
+          "best": 817,
+          "average": 970,
+          "format": "Average of 5",
+          "solves": [
+            1134,
+            971,
+            960,
+            978,
+            817
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 64,
+          "best": 3941,
+          "average": 4212,
+          "format": "Average of 5",
+          "solves": [
+            3941,
+            4292,
+            4970,
+            4139,
+            4205
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "333": [
         {

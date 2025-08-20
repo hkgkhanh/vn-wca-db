@@ -3,14 +3,16 @@
   "name": "Doan Minh Duong",
   "slug": "doan-minh-duong",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "HoChiMinhOpen2022",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
@@ -18,54 +20,54 @@
         "eventId": "222",
         "best": 497,
         "rank": {
-          "world": 64852,
-          "continent": 18947,
-          "country": 836
+          "world": 64976,
+          "continent": 19022,
+          "country": 847
         }
       },
       {
         "eventId": "333",
-        "best": 1675,
+        "best": 1552,
         "rank": {
-          "world": 75802,
-          "continent": 27403,
-          "country": 1495
+          "world": 65618,
+          "continent": 23929,
+          "country": 1349
         }
       },
       {
         "eventId": "333oh",
         "best": 4403,
         "rank": {
-          "world": 46879,
-          "continent": 16073,
-          "country": 733
+          "world": 46974,
+          "continent": 16131,
+          "country": 750
         }
       },
       {
         "eventId": "444",
         "best": 11074,
         "rank": {
-          "world": 58296,
-          "continent": 16958,
-          "country": 867
+          "world": 58362,
+          "continent": 16984,
+          "country": 884
         }
       },
       {
         "eventId": "pyram",
         "best": 1801,
         "rank": {
-          "world": 105111,
-          "continent": 28148,
-          "country": 608
+          "world": 105297,
+          "continent": 28226,
+          "country": 630
         }
       },
       {
         "eventId": "skewb",
         "best": 1460,
         "rank": {
-          "world": 50753,
-          "continent": 11981,
-          "country": 367
+          "world": 50848,
+          "continent": 12027,
+          "country": 383
         }
       }
     ],
@@ -74,50 +76,84 @@
         "eventId": "222",
         "best": 1057,
         "rank": {
-          "world": 107024,
-          "continent": 31634,
-          "country": 1293
+          "world": 107206,
+          "continent": 31730,
+          "country": 1323
         }
       },
       {
         "eventId": "333",
-        "best": 1820,
+        "best": 1601,
         "rank": {
-          "world": 61661,
-          "continent": 22902,
-          "country": 1298
+          "world": 45540,
+          "continent": 17119,
+          "country": 1018
         }
       },
       {
         "eventId": "333oh",
         "best": 5180,
         "rank": {
-          "world": 43113,
-          "continent": 14791,
-          "country": 718
+          "world": 43199,
+          "continent": 14841,
+          "country": 734
         }
       },
       {
         "eventId": "pyram",
         "best": 2162,
         "rank": {
-          "world": 95675,
-          "continent": 25666,
-          "country": 565
+          "world": 95845,
+          "continent": 25742,
+          "country": 588
         }
       },
       {
         "eventId": "skewb",
         "best": 1800,
         "rank": {
-          "world": 44030,
-          "continent": 10694,
-          "country": 333
+          "world": 44114,
+          "continent": 10739,
+          "country": 348
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 171,
+          "best": 699,
+          "average": 1205,
+          "format": "Average of 5",
+          "solves": [
+            896,
+            2055,
+            1366,
+            1353,
+            699
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 176,
+          "best": 1552,
+          "average": 1601,
+          "format": "Average of 5",
+          "solves": [
+            1552,
+            1630,
+            1573,
+            -1,
+            1600
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2023": {
       "333": [
         {

@@ -3,55 +3,185 @@
   "name": "Hoàng Ngọc Linh",
   "slug": "hoang-ngoc-linh",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "cubingHCMBigCubeWinter2024"
+    "cubingHCMBigCubeWinter2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
-        "eventId": "444",
-        "best": 5141,
+        "eventId": "333",
+        "best": 1005,
         "rank": {
-          "world": 19380,
-          "continent": 6744,
-          "country": 374
+          "world": 18395,
+          "continent": 6620,
+          "country": 406
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 4064,
+        "rank": {
+          "world": 9083,
+          "continent": 3184,
+          "country": 180
         }
       },
       {
         "eventId": "555",
-        "best": 9751,
+        "best": 8929,
         "rank": {
-          "world": 11773,
-          "continent": 3821,
-          "country": 211
+          "world": 9279,
+          "continent": 3052,
+          "country": 173
+        }
+      },
+      {
+        "eventId": "666",
+        "best": 18644,
+        "rank": {
+          "world": 6475,
+          "continent": 1916,
+          "country": 93
+        }
+      },
+      {
+        "eventId": "777",
+        "best": 29808,
+        "rank": {
+          "world": 5974,
+          "continent": 1815,
+          "country": 83
         }
       }
     ],
     "averages": [
       {
-        "eventId": "444",
-        "best": 5211,
+        "eventId": "333",
+        "best": 1511,
         "rank": {
-          "world": 13515,
-          "continent": 4798,
-          "country": 263
+          "world": 38781,
+          "continent": 14602,
+          "country": 866
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 4616,
+        "rank": {
+          "world": 8620,
+          "continent": 3052,
+          "country": 175
         }
       },
       {
         "eventId": "555",
-        "best": 10749,
+        "best": 9857,
         "rank": {
-          "world": 11515,
-          "continent": 3726,
-          "country": 208
+          "world": 9167,
+          "continent": 3034,
+          "country": 181
+        }
+      },
+      {
+        "eventId": "666",
+        "best": 19226,
+        "rank": {
+          "world": 5866,
+          "continent": 1766,
+          "country": 80
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 167,
+          "best": 1005,
+          "average": 1511,
+          "format": "Average of 5",
+          "solves": [
+            1657,
+            1005,
+            1610,
+            1561,
+            1362
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 82,
+          "best": 4064,
+          "average": 4616,
+          "format": "Average of 5",
+          "solves": [
+            4848,
+            4342,
+            4657,
+            4064,
+            5878
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "First round",
+          "position": 81,
+          "best": 8929,
+          "average": 9857,
+          "format": "Average of 5",
+          "solves": [
+            9491,
+            8929,
+            10102,
+            10629,
+            9978
+          ]
+        }
+      ],
+      "666": [
+        {
+          "round": "Final",
+          "position": 52,
+          "best": 18644,
+          "average": 19226,
+          "format": "Mean of 3",
+          "solves": [
+            19481,
+            18644,
+            19552,
+            0,
+            0
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "Final",
+          "position": 43,
+          "best": 29808,
+          "average": 0,
+          "format": "Mean of 3",
+          "solves": [
+            29808,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "cubingHCMBigCubeWinter2024": {
       "444": [
         {

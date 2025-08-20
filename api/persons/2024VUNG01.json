@@ -3,37 +3,92 @@
   "name": "Nguyễn Huy Vũ",
   "slug": "nguyen-huy-vu",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "cubingHCM3x3Winter2024"
+    "cubingHCM3x3Winter2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
-        "eventId": "333",
-        "best": 1504,
+        "eventId": "222",
+        "best": 509,
         "rank": {
-          "world": 61348,
-          "continent": 22376,
-          "country": 1234
+          "world": 67552,
+          "continent": 19842,
+          "country": 884
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1146,
+        "rank": {
+          "world": 29537,
+          "continent": 10855,
+          "country": 642
         }
       }
     ],
     "averages": [
       {
-        "eventId": "333",
-        "best": 1634,
+        "eventId": "222",
+        "best": 634,
         "rank": {
-          "world": 47909,
-          "continent": 17953,
-          "country": 1036
+          "world": 51246,
+          "continent": 15484,
+          "country": 711
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1384,
+        "rank": {
+          "world": 29347,
+          "continent": 11073,
+          "country": 672
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 126,
+          "best": 509,
+          "average": 634,
+          "format": "Average of 5",
+          "solves": [
+            509,
+            636,
+            599,
+            725,
+            668
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 147,
+          "best": 1146,
+          "average": 1384,
+          "format": "Average of 5",
+          "solves": [
+            1526,
+            1542,
+            1185,
+            1146,
+            1441
+          ]
+        }
+      ]
+    },
     "cubingHCM3x3Winter2024": {
       "333": [
         {

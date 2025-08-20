@@ -3,57 +3,119 @@
   "name": "Kha Võ Nguyễn Hoàng",
   "slug": "kha-vo-nguyen-hoang",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "cubingHCM3x3Winter2024",
     "HCMCCubingAutumn2024",
-    "HCMCVNCWarmUp2025"
+    "HCMCVNCWarmUp2025",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
-        "best": 499,
+        "best": 377,
         "rank": {
-          "world": 65278,
-          "continent": 19071,
-          "country": 842
+          "world": 39047,
+          "continent": 10951,
+          "country": 455
         }
       },
       {
         "eventId": "333",
-        "best": 1391,
+        "best": 1320,
         "rank": {
-          "world": 51208,
-          "continent": 18816,
-          "country": 1043
+          "world": 45021,
+          "continent": 16682,
+          "country": 947
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 10246,
+        "rank": {
+          "world": 54666,
+          "continent": 16251,
+          "country": 856
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 749,
+        "best": 461,
         "rank": {
-          "world": 70947,
-          "continent": 21338,
-          "country": 951
+          "world": 20613,
+          "continent": 5966,
+          "country": 284
         }
       },
       {
         "eventId": "333",
-        "best": 1974,
+        "best": 1484,
         "rank": {
-          "world": 72412,
-          "continent": 26580,
-          "country": 1484
+          "world": 36717,
+          "continent": 13858,
+          "country": 825
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 71,
+          "best": 377,
+          "average": 461,
+          "format": "Average of 5",
+          "solves": [
+            534,
+            411,
+            561,
+            438,
+            377
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 161,
+          "best": 1320,
+          "average": 1484,
+          "format": "Average of 5",
+          "solves": [
+            1467,
+            1472,
+            1320,
+            1512,
+            1787
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 141,
+          "best": 10246,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            10246,
+            -1,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "333": [
         {

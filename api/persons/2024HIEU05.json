@@ -3,39 +3,51 @@
   "name": "Nguyễn Đức Hiếu",
   "slug": "nguyen-duc-hieu",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "cubingHCM3x3Winter2024"
+    "cubingHCM3x3Winter2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
         "best": 304,
         "rank": {
-          "world": 23995,
-          "continent": 6391,
-          "country": 241
+          "world": 24070,
+          "continent": 6437,
+          "country": 251
         }
       },
       {
         "eventId": "333",
         "best": 1027,
         "rank": {
-          "world": 19997,
-          "continent": 7226,
-          "country": 430
+          "world": 20064,
+          "continent": 7267,
+          "country": 441
         }
       },
       {
         "eventId": "333oh",
         "best": 1853,
         "rank": {
-          "world": 10582,
-          "continent": 3892,
-          "country": 201
+          "world": 10628,
+          "continent": 3920,
+          "country": 208
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 1255,
+        "rank": {
+          "world": 82353,
+          "continent": 21816,
+          "country": 529
         }
       }
     ],
@@ -44,32 +56,123 @@
         "eventId": "222",
         "best": 588,
         "rank": {
-          "world": 42658,
-          "continent": 12835,
-          "country": 588
+          "world": 42762,
+          "continent": 12901,
+          "country": 597
         }
       },
       {
         "eventId": "333",
         "best": 1277,
         "rank": {
-          "world": 21837,
-          "continent": 8164,
-          "country": 507
+          "world": 21924,
+          "continent": 8219,
+          "country": 523
         }
       },
       {
         "eventId": "333oh",
         "best": 2511,
         "rank": {
-          "world": 13755,
-          "continent": 5294,
-          "country": 285
+          "world": 13807,
+          "continent": 5330,
+          "country": 296
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 1734,
+        "rank": {
+          "world": 79749,
+          "continent": 21364,
+          "country": 521
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 139,
+          "best": 497,
+          "average": 687,
+          "format": "Average of 5",
+          "solves": [
+            756,
+            647,
+            659,
+            497,
+            838
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 237,
+          "best": 1075,
+          "average": -1,
+          "format": "Average of 5",
+          "solves": [
+            1075,
+            -1,
+            1564,
+            1485,
+            -1
+          ]
+        }
+      ],
+      "333bf": [
+        {
+          "round": "First round",
+          "position": 21,
+          "best": -1,
+          "average": -1,
+          "format": "Best of 3",
+          "solves": [
+            -1,
+            -1,
+            -1,
+            0,
+            0
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 107,
+          "best": 2614,
+          "average": 2952,
+          "format": "Average of 5",
+          "solves": [
+            2614,
+            3680,
+            3193,
+            3041,
+            2622
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 94,
+          "best": 1255,
+          "average": 1734,
+          "format": "Average of 5",
+          "solves": [
+            2198,
+            1570,
+            1255,
+            1433,
+            2420
+          ]
+        }
+      ]
+    },
     "cubingHCM3x3Winter2024": {
       "222": [
         {

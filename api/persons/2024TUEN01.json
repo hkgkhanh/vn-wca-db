@@ -3,30 +3,33 @@
   "name": "Nguyen Minh Tue",
   "slug": "nguyen-minh-tue",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "cubingHCM3x3Winter2024"
+    "cubingHCM3x3Winter2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
-        "best": 1817,
+        "best": 1540,
         "rank": {
-          "world": 87122,
-          "continent": 31241,
-          "country": 1659
+          "world": 64573,
+          "continent": 23567,
+          "country": 1323
         }
       },
       {
         "eventId": "333oh",
         "best": 3720,
         "rank": {
-          "world": 40545,
-          "continent": 14248,
-          "country": 680
+          "world": 40638,
+          "continent": 14303,
+          "country": 695
         }
       }
     ],
@@ -35,23 +38,41 @@
         "eventId": "333",
         "best": 1945,
         "rank": {
-          "world": 70434,
-          "continent": 25899,
-          "country": 1447
+          "world": 70584,
+          "continent": 26000,
+          "country": 1477
         }
       },
       {
         "eventId": "333oh",
         "best": 4341,
         "rank": {
-          "world": 37162,
-          "continent": 13128,
-          "country": 643
+          "world": 37245,
+          "continent": 13178,
+          "country": 659
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 198,
+          "best": 1540,
+          "average": 1982,
+          "format": "Average of 5",
+          "solves": [
+            1827,
+            1540,
+            2232,
+            2243,
+            1886
+          ]
+        }
+      ]
+    },
     "cubingHCM3x3Winter2024": {
       "333": [
         {

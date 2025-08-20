@@ -3,7 +3,7 @@
   "name": "Đinh Hữu Phúc",
   "slug": "dinh-huu-phuc",
   "country": "VN",
-  "numberOfCompetitions": 7,
+  "numberOfCompetitions": 8,
   "competitionIds": [
     "cubingHCM3x3Winter2024",
     "DaNangOpen2022",
@@ -11,55 +11,103 @@
     "HCMCVNCWarmUp2025",
     "HoChiMinhCityWarmUp2022",
     "HoChiMinhOpen2022",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
-        "best": 644,
+        "best": 488,
         "rank": {
-          "world": 1772,
-          "continent": 576,
-          "country": 33
+          "world": 201,
+          "continent": 63,
+          "country": 3
         }
       },
       {
         "eventId": "333oh",
         "best": 1946,
         "rank": {
-          "world": 12306,
-          "continent": 4568,
-          "country": 237
+          "world": 12351,
+          "continent": 4596,
+          "country": 241
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 736,
+        "best": 704,
         "rank": {
-          "world": 692,
-          "continent": 234,
-          "country": 15
+          "world": 449,
+          "continent": 168,
+          "country": 9
         }
       },
       {
         "eventId": "333oh",
         "best": 2121,
         "rank": {
-          "world": 8129,
-          "continent": 3089,
-          "country": 178
+          "world": 8167,
+          "continent": 3115,
+          "country": 188
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "Semi Final",
+          "position": 28,
+          "best": 734,
+          "average": 953,
+          "format": "Average of 5",
+          "solves": [
+            920,
+            863,
+            1077,
+            1081,
+            734
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 12,
+          "best": 711,
+          "average": 774,
+          "format": "Average of 5",
+          "solves": [
+            711,
+            712,
+            725,
+            884,
+            980
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 7,
+          "best": 488,
+          "average": 704,
+          "format": "Average of 5",
+          "solves": [
+            738,
+            794,
+            488,
+            698,
+            676
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "333": [
         {

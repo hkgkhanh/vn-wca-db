@@ -3,15 +3,17 @@
   "name": "Nguyễn Minh Hiếu",
   "slug": "nguyen-minh-hieu",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "cubingHCM3x3Winter2024",
     "HCMCCubingAutumn2024",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
@@ -19,27 +21,27 @@
         "eventId": "222",
         "best": 287,
         "rank": {
-          "world": 20766,
-          "continent": 5471,
-          "country": 209
+          "world": 20832,
+          "continent": 5511,
+          "country": 218
         }
       },
       {
         "eventId": "333",
         "best": 935,
         "rank": {
-          "world": 13652,
-          "continent": 4869,
-          "country": 293
+          "world": 13709,
+          "continent": 4908,
+          "country": 303
         }
       },
       {
         "eventId": "333oh",
-        "best": 1424,
+        "best": 1298,
         "rank": {
-          "world": 4134,
-          "continent": 1450,
-          "country": 82
+          "world": 2722,
+          "continent": 910,
+          "country": 57
         }
       }
     ],
@@ -48,32 +50,94 @@
         "eventId": "222",
         "best": 451,
         "rank": {
-          "world": 19050,
-          "continent": 5485,
-          "country": 248
+          "world": 19116,
+          "continent": 5523,
+          "country": 255
         }
       },
       {
         "eventId": "333",
-        "best": 1127,
+        "best": 1027,
         "rank": {
-          "world": 12897,
-          "continent": 4749,
-          "country": 298
+          "world": 8102,
+          "continent": 2934,
+          "country": 179
         }
       },
       {
         "eventId": "333oh",
-        "best": 1549,
+        "best": 1451,
         "rank": {
-          "world": 1989,
-          "continent": 702,
-          "country": 47
+          "world": 1314,
+          "continent": 463,
+          "country": 34
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 74,
+          "best": 1004,
+          "average": 1186,
+          "format": "Average of 5",
+          "solves": [
+            2035,
+            1157,
+            1004,
+            1259,
+            1143
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 59,
+          "best": 949,
+          "average": 1027,
+          "format": "Average of 5",
+          "solves": [
+            1016,
+            949,
+            1100,
+            1011,
+            1054
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "Second round",
+          "position": 37,
+          "best": 1415,
+          "average": 1734,
+          "format": "Average of 5",
+          "solves": [
+            1643,
+            -1,
+            1919,
+            1415,
+            1641
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 18,
+          "best": 1298,
+          "average": 1451,
+          "format": "Average of 5",
+          "solves": [
+            1307,
+            1702,
+            1552,
+            1298,
+            1493
+          ]
+        }
+      ]
+    },
     "cubingHCM3x3Winter2024": {
       "222": [
         {

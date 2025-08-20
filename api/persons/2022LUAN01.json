@@ -3,91 +3,222 @@
   "name": "Đỗ Thành Nhật Luân",
   "slug": "do-thanh-nhat-luan",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "DaNangOpen2022"
+    "DaNangOpen2022",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
-        "best": 337,
+        "best": 306,
         "rank": {
-          "world": 30629,
-          "continent": 8385,
-          "country": 328
+          "world": 24475,
+          "continent": 6554,
+          "country": 255
         }
       },
       {
         "eventId": "333",
         "best": 824,
         "rank": {
-          "world": 7564,
-          "continent": 2587,
-          "country": 139
+          "world": 7604,
+          "continent": 2616,
+          "country": 146
         }
       },
       {
         "eventId": "333oh",
-        "best": 2085,
+        "best": 1964,
         "rank": {
-          "world": 14836,
-          "continent": 5521,
-          "country": 284
+          "world": 12655,
+          "continent": 4707,
+          "country": 247
         }
       },
       {
         "eventId": "444",
         "best": 4521,
         "rank": {
-          "world": 13337,
-          "continent": 4657,
-          "country": 241
+          "world": 13376,
+          "continent": 4677,
+          "country": 256
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 774,
+        "rank": {
+          "world": 39436,
+          "continent": 10537,
+          "country": 258
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 502,
+        "best": 452,
         "rank": {
-          "world": 27171,
-          "continent": 8010,
-          "country": 367
+          "world": 19267,
+          "continent": 5571,
+          "country": 259
         }
       },
       {
         "eventId": "333",
-        "best": 1072,
+        "best": 1023,
         "rank": {
-          "world": 10090,
-          "continent": 3696,
-          "country": 233
+          "world": 7929,
+          "continent": 2873,
+          "country": 174
         }
       },
       {
         "eventId": "333oh",
-        "best": 2257,
+        "best": 2007,
         "rank": {
-          "world": 10021,
-          "continent": 3851,
-          "country": 210
+          "world": 6741,
+          "continent": 2542,
+          "country": 158
         }
       },
       {
         "eventId": "444",
-        "best": 5661,
+        "best": 5141,
         "rank": {
-          "world": 17531,
-          "continent": 6196,
-          "country": 334
+          "world": 12941,
+          "continent": 4607,
+          "country": 267
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 1319,
+        "rank": {
+          "world": 52962,
+          "continent": 14427,
+          "country": 372
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "Second round",
+          "position": 62,
+          "best": 306,
+          "average": 456,
+          "format": "Average of 5",
+          "solves": [
+            438,
+            495,
+            306,
+            529,
+            436
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 66,
+          "best": 424,
+          "average": 452,
+          "format": "Average of 5",
+          "solves": [
+            442,
+            453,
+            424,
+            461,
+            471
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 52,
+          "best": 952,
+          "average": 1023,
+          "format": "Average of 5",
+          "solves": [
+            1033,
+            952,
+            982,
+            1076,
+            1054
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 63,
+          "best": 865,
+          "average": 1030,
+          "format": "Average of 5",
+          "solves": [
+            1165,
+            1076,
+            1076,
+            865,
+            937
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 102,
+          "best": 4695,
+          "average": 5141,
+          "format": "Average of 5",
+          "solves": [
+            4695,
+            5306,
+            5293,
+            4974,
+            5156
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 62,
+          "best": 1964,
+          "average": 2007,
+          "format": "Average of 5",
+          "solves": [
+            1964,
+            1966,
+            1995,
+            2646,
+            2061
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 84,
+          "best": 774,
+          "average": 1319,
+          "format": "Average of 5",
+          "solves": [
+            1184,
+            988,
+            1786,
+            774,
+            2116
+          ]
+        }
+      ]
+    },
     "DaNangOpen2022": {
       "222": [
         {

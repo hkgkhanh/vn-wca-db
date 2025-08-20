@@ -3,7 +3,7 @@
   "name": "Phan Tu Nghi",
   "slug": "phan-tu-nghi",
   "country": "VN",
-  "numberOfCompetitions": 17,
+  "numberOfCompetitions": 18,
   "competitionIds": [
     "Cubetcha2016",
     "cubingHCM3x3Winter2024",
@@ -21,73 +21,76 @@
     "HoChiMinhOpen2022",
     "HoChiMinhSpringOpen2018",
     "HoChiMinhWarmUp2017",
+    "VietnamChampionship2025",
     "Wiscube2016"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
         "best": 258,
         "rank": {
-          "world": 15630,
-          "continent": 3979,
-          "country": 137
+          "world": 15682,
+          "continent": 4009,
+          "country": 142
         }
       },
       {
         "eventId": "333",
         "best": 866,
         "rank": {
-          "world": 9702,
-          "continent": 3411,
-          "country": 196
+          "world": 9745,
+          "continent": 3442,
+          "country": 203
         }
       },
       {
         "eventId": "444",
         "best": 4409,
         "rank": {
-          "world": 12253,
-          "continent": 4253,
-          "country": 220
+          "world": 12293,
+          "continent": 4275,
+          "country": 235
         }
       },
       {
         "eventId": "555",
         "best": 6598,
         "rank": {
-          "world": 2886,
-          "continent": 990,
-          "country": 53
+          "world": 2903,
+          "continent": 996,
+          "country": 56
         }
       },
       {
         "eventId": "666",
         "best": 15239,
         "rank": {
-          "world": 3761,
-          "continent": 1189,
-          "country": 46
+          "world": 3782,
+          "continent": 1199,
+          "country": 52
         }
       },
       {
         "eventId": "777",
         "best": 24574,
         "rank": {
-          "world": 3810,
-          "continent": 1232,
-          "country": 51
+          "world": 3828,
+          "continent": 1241,
+          "country": 56
         }
       },
       {
         "eventId": "minx",
         "best": 16752,
         "rank": {
-          "world": 21107,
-          "continent": 5013,
-          "country": 158
+          "world": 21159,
+          "continent": 5040,
+          "country": 174
         }
       }
     ],
@@ -96,35 +99,35 @@
         "eventId": "222",
         "best": 532,
         "rank": {
-          "world": 32390,
-          "continent": 9583,
-          "country": 440
+          "world": 32473,
+          "continent": 9639,
+          "country": 447
         }
       },
       {
         "eventId": "333",
         "best": 1078,
         "rank": {
-          "world": 10384,
-          "continent": 3797,
-          "country": 241
+          "world": 10433,
+          "continent": 3830,
+          "country": 253
         }
       },
       {
         "eventId": "444",
         "best": 4812,
         "rank": {
-          "world": 10159,
-          "continent": 3600,
-          "country": 192
+          "world": 10190,
+          "continent": 3620,
+          "country": 208
         }
       },
       {
         "eventId": "555",
         "best": 7261,
         "rank": {
-          "world": 2695,
-          "continent": 949,
+          "world": 2708,
+          "continent": 951,
           "country": 54
         }
       },
@@ -132,32 +135,114 @@
         "eventId": "666",
         "best": 15861,
         "rank": {
-          "world": 3436,
-          "continent": 1088,
-          "country": 42
+          "world": 3458,
+          "continent": 1101,
+          "country": 52
         }
       },
       {
         "eventId": "777",
         "best": 26054,
         "rank": {
-          "world": 3726,
-          "continent": 1189,
-          "country": 50
+          "world": 3747,
+          "continent": 1199,
+          "country": 56
         }
       },
       {
         "eventId": "minx",
         "best": 19553,
         "rank": {
-          "world": 16843,
-          "continent": 4251,
-          "country": 130
+          "world": 16879,
+          "continent": 4270,
+          "country": 141
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 115,
+          "best": 1065,
+          "average": 1241,
+          "format": "Average of 5",
+          "solves": [
+            1293,
+            1247,
+            1283,
+            1192,
+            1065
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "First round",
+          "position": 46,
+          "best": 6977,
+          "average": 7784,
+          "format": "Average of 5",
+          "solves": [
+            7963,
+            7713,
+            6977,
+            7811,
+            7827
+          ]
+        }
+      ],
+      "666": [
+        {
+          "round": "Final",
+          "position": 43,
+          "best": 15895,
+          "average": 17175,
+          "format": "Mean of 3",
+          "solves": [
+            19466,
+            15895,
+            16163,
+            0,
+            0
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "Final",
+          "position": 49,
+          "best": 31877,
+          "average": 0,
+          "format": "Mean of 3",
+          "solves": [
+            31877,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "Final",
+          "position": 67,
+          "best": 16877,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            17540,
+            16877,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "333": [
         {

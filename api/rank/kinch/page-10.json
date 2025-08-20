@@ -1,13 +1,438 @@
 {
   "pagination": {
     "page": 10,
-    "pageTotal": 28,
+    "pageTotal": 29,
     "size": 100,
-    "total": 2761
+    "total": 2809
   },
   "items": [
     {
       "actualRank": 901,
+      "personId": "2016SONL01",
+      "personName": "Lê Hoàng Sơn",
+      "avgKinchScore": 5.204365366846067,
+      "kinchScore": {
+        "222": 21.540656205420827,
+        "333": 31.431590068674065,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 24.077490774907748,
+        "skewb": 11.424474187380497,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 902,
+      "personId": "2015HIEU01",
+      "personName": "Hoàng Trung Hiếu",
+      "avgKinchScore": 5.201600471613723,
+      "kinchScore": {
+        "222": 28.436911487758948,
+        "333": 36.21424223980523,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 23.776054289869123,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 903,
+      "personId": "2024TRAN15",
+      "personName": "Minh Khoa Tran",
+      "avgKinchScore": 5.201042266313338,
+      "kinchScore": {
+        "222": 25.04145936981758,
+        "333": 35.75721153846153,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 27.61904761904762,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 904,
+      "personId": "2018HIEN02",
+      "personName": "Nguyen Van Huu Hien",
+      "avgKinchScore": 5.182057763085446,
+      "kinchScore": {
+        "222": 21.75792507204611,
+        "333": 29.764882441220607,
+        "444": 15.397989266006501,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 21.174185193179365,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 905,
+      "personId": "2021NGUY13",
+      "personName": "Minh Nguyen",
+      "avgKinchScore": 5.169193401386405,
+      "kinchScore": {
+        "222": 21.75792507204611,
+        "333": 28.48252752513164,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 25.22499357161224,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 12.410841654778887,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 906,
+      "personId": "2016HUYN01",
+      "personName": "Nguyễn Mạch Khang Huy",
+      "avgKinchScore": 5.163049710409561,
+      "kinchScore": {
+        "222": 19.383825417201543,
+        "333": 26.176858776946766,
+        "444": 22.129277566539923,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 20.08188331627431,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 907,
+      "personId": "2017KHAN27",
+      "personName": "Nguyễn Quốc Khánh",
+      "avgKinchScore": 5.161888428261988,
+      "kinchScore": {
+        "222": 26.3986013986014,
+        "333": 38.33762886597938,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 23.015873015873016,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 908,
+      "personId": "2015HUNG04",
+      "personName": "Bùi Việt Hùng",
+      "avgKinchScore": 5.156755018720084,
+      "kinchScore": {
+        "222": 26.58450704225352,
+        "333": 38.165490699166135,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 22.91483757682177,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 909,
+      "personId": "2022LONG15",
+      "personName": "Trần Gia Long",
+      "avgKinchScore": 5.147054286875981,
+      "kinchScore": {
+        "222": 0,
+        "333": 28.000000000000004,
+        "444": 22.555641678662386,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 25.38163001293661,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 11.562651185292696,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 910,
+      "personId": "2020MINH05",
+      "personName": "Nguyễn Quang Minh",
+      "avgKinchScore": 5.138001754500803,
+      "kinchScore": {
+        "222": 0,
+        "333": 31.398416886543533,
+        "444": 23.565478944932902,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 32.38213399503722,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 911,
+      "personId": "2015ANNG01",
+      "personName": "Nguyễn Ngọc Hữu Ân",
+      "avgKinchScore": 5.135909598931504,
+      "kinchScore": {
+        "222": 0,
+        "333": 39.351851851851855,
+        "444": 26.859177215189874,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 21.099434114793855,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 912,
+      "personId": "2011NGUY08",
+      "personName": "Nguyễn Khải",
+      "avgKinchScore": 5.131727385038639,
+      "kinchScore": {
+        "222": 18.127250900360146,
+        "333": 38.43669250645995,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 30.675422138836772,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 913,
+      "personId": "2022KHOI14",
+      "personName": "Trần Minh Khôi",
+      "avgKinchScore": 5.1207254597426,
+      "kinchScore": {
+        "222": 0,
+        "333": 30.749354005167955,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 22.397260273972602,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 13.19514661274014,
+        "skewb": 20.7105719237435,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 914,
+      "personId": "2023HAND10",
+      "personName": "Đỗ Ngọc Minh Hân",
+      "avgKinchScore": 5.116985877387383,
+      "kinchScore": {
+        "222": 18.21471652593486,
+        "333": 37.849872773536894,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 30.924170616113745,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 915,
+      "personId": "2022HAIN06",
+      "personName": "Nguyễn Hoàng Trung Hải",
+      "avgKinchScore": 5.110056479186559,
+      "kinchScore": {
+        "222": 14.394661582459486,
+        "333": 35.75721153846153,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 28.076702919290213,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 8.642384105960264,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 916,
+      "personId": "2010QUYP01",
+      "personName": "Phan Ngoc Quy",
+      "avgKinchScore": 5.10839587447417,
+      "kinchScore": {
+        "222": 18.55036855036855,
+        "333": 31.498147167813656,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 23.956043956043956,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 12.838170191834728,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 917,
+      "personId": "2018VUTR01",
+      "personName": "Trần Tuấn Vũ",
+      "avgKinchScore": 5.104771712729503,
+      "kinchScore": {
+        "222": 0,
+        "333": 42.108987968860575,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 44.67213114754098,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 918,
       "personId": "2018QUAN14",
       "personName": "Bùi Minh Quang",
       "avgKinchScore": 5.098112130660271,
@@ -32,7 +457,7 @@
       }
     },
     {
-      "actualRank": 902,
+      "actualRank": 919,
       "personId": "2018MANH02",
       "personName": "Đào Đức Mạnh",
       "avgKinchScore": 5.096700711126743,
@@ -57,7 +482,32 @@
       }
     },
     {
-      "actualRank": 903,
+      "actualRank": 920,
+      "personId": "2016VUPH01",
+      "personName": "Phạm Hoàng Vũ",
+      "avgKinchScore": 5.093457931503887,
+      "kinchScore": {
+        "222": 19.61038961038961,
+        "333": 23.75249500998004,
+        "444": 10.322809506917347,
+        "555": 10.50546249089585,
+        "666": 0,
+        "777": 0,
+        "333oh": 12.126081582200248,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 10.271546635182998,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 921,
       "personId": "2022DUON07",
       "personName": "Nguyễn Tùng Dương",
       "avgKinchScore": 5.078353728595954,
@@ -82,7 +532,7 @@
       }
     },
     {
-      "actualRank": 904,
+      "actualRank": 922,
       "personId": "2017NAMT02",
       "personName": "Trần Hoàng Nam",
       "avgKinchScore": 5.0759696585983685,
@@ -107,7 +557,7 @@
       }
     },
     {
-      "actualRank": 905,
+      "actualRank": 923,
       "personId": "2018TRUO09",
       "personName": "Hồ Xuân Trường",
       "avgKinchScore": 5.0752676568686885,
@@ -132,15 +582,15 @@
       }
     },
     {
-      "actualRank": 906,
-      "personId": "2018DUNG04",
-      "personName": "Nguyễn Quang Dũng",
-      "avgKinchScore": 5.070147067525278,
+      "actualRank": 924,
+      "personId": "2025PHON03",
+      "personName": "Nguyễn Hải Phong",
+      "avgKinchScore": 5.068938786445353,
       "kinchScore": {
-        "222": 0,
-        "333": 34.593023255813954,
-        "444": 25.609756097560975,
-        "555": 25.9897207945548,
+        "222": 20,
+        "333": 42.13881019830028,
+        "444": 0,
+        "555": 0,
         "666": 0,
         "777": 0,
         "333oh": 0,
@@ -151,13 +601,13 @@
         "555bf": 0,
         "clock": 0,
         "minx": 0,
-        "pyram": 0,
+        "pyram": 24.03314917127072,
         "skewb": 0,
         "sq1": 0
       }
     },
     {
-      "actualRank": 907,
+      "actualRank": 925,
       "personId": "2024DATN04",
       "personName": "Nguyễn Thành Đạt",
       "avgKinchScore": 5.030087897227856,
@@ -182,7 +632,7 @@
       }
     },
     {
-      "actualRank": 908,
+      "actualRank": 926,
       "personId": "2019ANTR01",
       "personName": "Trương Quốc An",
       "avgKinchScore": 5.025005845859067,
@@ -207,7 +657,7 @@
       }
     },
     {
-      "actualRank": 909,
+      "actualRank": 927,
       "personId": "2023VIET01",
       "personName": "Lâm Hoàng Việt",
       "avgKinchScore": 5.01819226970163,
@@ -232,7 +682,7 @@
       }
     },
     {
-      "actualRank": 910,
+      "actualRank": 928,
       "personId": "2018THAN03",
       "personName": "Tran Dai Thang",
       "avgKinchScore": 5.015068467050749,
@@ -257,7 +707,7 @@
       }
     },
     {
-      "actualRank": 911,
+      "actualRank": 929,
       "personId": "2022SONP01",
       "personName": "Phạm Đức Minh Sơn",
       "avgKinchScore": 5.014661643772354,
@@ -282,7 +732,32 @@
       }
     },
     {
-      "actualRank": 912,
+      "actualRank": 930,
+      "personId": "2018DUNG04",
+      "personName": "Nguyễn Quang Dũng",
+      "avgKinchScore": 5.014583794848518,
+      "kinchScore": {
+        "222": 0,
+        "333": 34.593023255813954,
+        "444": 25.609756097560975,
+        "555": 25.04514515904987,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 931,
       "personId": "2022KHAN23",
       "personName": "Lê Vĩnh Khang",
       "avgKinchScore": 5.008562288831135,
@@ -307,7 +782,32 @@
       }
     },
     {
-      "actualRank": 913,
+      "actualRank": 932,
+      "personId": "2025KHAN25",
+      "personName": "Đỗ Hoàng Khang",
+      "avgKinchScore": 5.002008768286301,
+      "kinchScore": {
+        "222": 0,
+        "333": 51.87445510026155,
+        "444": 33.159693960605566,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 933,
       "personId": "2022MINH20",
       "personName": "Hoàng Nhật Minh",
       "avgKinchScore": 4.9979956249071,
@@ -332,7 +832,7 @@
       }
     },
     {
-      "actualRank": 914,
+      "actualRank": 934,
       "personId": "2022HUNG05",
       "personName": "Gia Hưng",
       "avgKinchScore": 4.991310395028197,
@@ -357,7 +857,7 @@
       }
     },
     {
-      "actualRank": 915,
+      "actualRank": 935,
       "personId": "2023BACH08",
       "personName": "Nguyễn Tường Bách",
       "avgKinchScore": 4.990585555169327,
@@ -382,7 +882,7 @@
       }
     },
     {
-      "actualRank": 916,
+      "actualRank": 936,
       "personId": "2022THAI05",
       "personName": "Vũ Phong Thái",
       "avgKinchScore": 4.98737558952435,
@@ -407,7 +907,7 @@
       }
     },
     {
-      "actualRank": 917,
+      "actualRank": 937,
       "personId": "2023DUNG03",
       "personName": "Đào Lâm Dũng",
       "avgKinchScore": 4.985248762044743,
@@ -432,57 +932,7 @@
       }
     },
     {
-      "actualRank": 918,
-      "personId": "2014TANN02",
-      "personName": "Nguyễn Duy Tân",
-      "avgKinchScore": 4.979646018560281,
-      "kinchScore": {
-        "222": 0,
-        "333": 43.494152046783626,
-        "444": 41.15983026874116,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 919,
-      "personId": "2024ANHN04",
-      "personName": "Nguyễn Minh Anh",
-      "avgKinchScore": 4.97135758560692,
-      "kinchScore": {
-        "222": 20.516304347826086,
-        "333": 45.17843583902809,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 18.81833876846346,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 920,
+      "actualRank": 938,
       "personId": "2012HOAN01",
       "personName": "Phan Lê Thanh Hoàng",
       "avgKinchScore": 4.970033831156669,
@@ -507,7 +957,7 @@
       }
     },
     {
-      "actualRank": 921,
+      "actualRank": 939,
       "personId": "2023ANHN02",
       "personName": "Nguyễn Giang Anh",
       "avgKinchScore": 4.967460787130119,
@@ -532,7 +982,7 @@
       }
     },
     {
-      "actualRank": 922,
+      "actualRank": 940,
       "personId": "2020TUNG02",
       "personName": "Ngô Sơn Tùng",
       "avgKinchScore": 4.965874555790014,
@@ -557,7 +1007,7 @@
       }
     },
     {
-      "actualRank": 923,
+      "actualRank": 941,
       "personId": "2022VINH02",
       "personName": "Cao Nguyễn Trí Vĩnh",
       "avgKinchScore": 4.959798445042372,
@@ -582,7 +1032,32 @@
       }
     },
     {
-      "actualRank": 924,
+      "actualRank": 942,
+      "personId": "2023TIEN01",
+      "personName": "Hồ Quang Tiến",
+      "avgKinchScore": 4.958016229671197,
+      "kinchScore": {
+        "222": 0,
+        "333": 0,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 28.495532480077273,
+        "333fm": 0,
+        "333mbf": 38.68229166666667,
+        "444bf": 17.10845175766642,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 943,
       "personId": "2018DUON01",
       "personName": "Nguyễn Anh Dương",
       "avgKinchScore": 4.947117017067584,
@@ -607,7 +1082,57 @@
       }
     },
     {
-      "actualRank": 925,
+      "actualRank": 944,
+      "personId": "2024HUYH01",
+      "personName": "Hà Ngọc Huy",
+      "avgKinchScore": 4.944798167902835,
+      "kinchScore": {
+        "222": 27.01252236135957,
+        "333": 31.381856540084392,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 25.66718995290424,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 945,
+      "personId": "2025QUAN09",
+      "personName": "Nguyễn Minh Quân",
+      "avgKinchScore": 4.942580230873766,
+      "kinchScore": {
+        "222": 0,
+        "333": 46.666666666666664,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 37.357197258187355,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 946,
       "personId": "2022HUYD02",
       "personName": "Đặng Quang Huy",
       "avgKinchScore": 4.942124437228313,
@@ -632,7 +1157,7 @@
       }
     },
     {
-      "actualRank": 926,
+      "actualRank": 947,
       "personId": "2017THOL01",
       "personName": "Lê Minh Hữu Thọ",
       "avgKinchScore": 4.931877121602125,
@@ -657,7 +1182,7 @@
       }
     },
     {
-      "actualRank": 927,
+      "actualRank": 948,
       "personId": "2018HOAN05",
       "personName": "Ngô Huy Hoàng",
       "avgKinchScore": 4.929610722840554,
@@ -682,7 +1207,7 @@
       }
     },
     {
-      "actualRank": 928,
+      "actualRank": 949,
       "personId": "2022DUYN01",
       "personName": "Nguyễn Bá Trường Duy",
       "avgKinchScore": 4.9235103512459615,
@@ -707,7 +1232,7 @@
       }
     },
     {
-      "actualRank": 929,
+      "actualRank": 950,
       "personId": "2010NGUY34",
       "personName": "Nguyễn Nhật Minh",
       "avgKinchScore": 4.918006657459674,
@@ -732,15 +1257,15 @@
       }
     },
     {
-      "actualRank": 930,
+      "actualRank": 951,
       "personId": "2010THIE02",
       "personName": "Trung Le Thien",
-      "avgKinchScore": 4.916232892831827,
+      "avgKinchScore": 4.892177083353838,
       "kinchScore": {
         "222": 14.312796208530806,
         "333": 22.46978851963746,
         "444": 14.704396159676605,
-        "555": 11.252104883329324,
+        "555": 10.843156122203512,
         "666": 0,
         "777": 0,
         "333oh": 20.836873406966866,
@@ -757,7 +1282,7 @@
       }
     },
     {
-      "actualRank": 931,
+      "actualRank": 952,
       "personId": "2022HUUL01",
       "personName": "Lê Thanh Hữu",
       "avgKinchScore": 4.8881906509837,
@@ -782,7 +1307,7 @@
       }
     },
     {
-      "actualRank": 932,
+      "actualRank": 953,
       "personId": "2018LONG05",
       "personName": "Lê Bảo Long",
       "avgKinchScore": 4.885767637983438,
@@ -807,7 +1332,7 @@
       }
     },
     {
-      "actualRank": 933,
+      "actualRank": 954,
       "personId": "2016HOAN10",
       "personName": "Nguyễn Huy Hoàng",
       "avgKinchScore": 4.8845186247836105,
@@ -832,7 +1357,32 @@
       }
     },
     {
-      "actualRank": 934,
+      "actualRank": 955,
+      "personId": "2022KHOA03",
+      "personName": "Trần Ngọc Anh Khoa",
+      "avgKinchScore": 4.879556232587904,
+      "kinchScore": {
+        "222": 32.826086956521735,
+        "333": 50.12636899747262,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 956,
       "personId": "2025LYLO01",
       "personName": "Long Ly",
       "avgKinchScore": 4.876649763362081,
@@ -857,32 +1407,7 @@
       }
     },
     {
-      "actualRank": 935,
-      "personId": "2024LYTR01",
-      "personName": "Trần Minh Thiên Lý",
-      "avgKinchScore": 4.871041350916668,
-      "kinchScore": {
-        "222": 18.347509113001216,
-        "333": 42.898341744772885,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 21.56185210780926,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 936,
+      "actualRank": 957,
       "personId": "2019LENH01",
       "personName": "Nhatvu Le",
       "avgKinchScore": 4.849377441469809,
@@ -907,7 +1432,7 @@
       }
     },
     {
-      "actualRank": 937,
+      "actualRank": 958,
       "personId": "2018QUYE01",
       "personName": "Nguyễn Hoàng Bảo Quyết",
       "avgKinchScore": 4.84817563938083,
@@ -932,7 +1457,7 @@
       }
     },
     {
-      "actualRank": 938,
+      "actualRank": 959,
       "personId": "2023MINH24",
       "personName": "Vũ Hải Minh",
       "avgKinchScore": 4.847972432059688,
@@ -957,7 +1482,7 @@
       }
     },
     {
-      "actualRank": 939,
+      "actualRank": 960,
       "personId": "2024DANG05",
       "personName": "Lê Hải Đăng",
       "avgKinchScore": 4.844858954942106,
@@ -982,7 +1507,7 @@
       }
     },
     {
-      "actualRank": 940,
+      "actualRank": 961,
       "personId": "2012QUAC02",
       "personName": "Nguyễn Thái Anh Quốc",
       "avgKinchScore": 4.8419567060074336,
@@ -1007,7 +1532,7 @@
       }
     },
     {
-      "actualRank": 941,
+      "actualRank": 962,
       "personId": "2016ANHU02",
       "personName": "Huỳnh Khánh An",
       "avgKinchScore": 4.8415633125356905,
@@ -1032,7 +1557,7 @@
       }
     },
     {
-      "actualRank": 942,
+      "actualRank": 963,
       "personId": "2024HUNG06",
       "personName": "Lê Thanh Hùng",
       "avgKinchScore": 4.841558827603316,
@@ -1057,7 +1582,7 @@
       }
     },
     {
-      "actualRank": 943,
+      "actualRank": 964,
       "personId": "2019LONG02",
       "personName": "Huỳnh Phúc Long",
       "avgKinchScore": 4.839433285660109,
@@ -1082,7 +1607,7 @@
       }
     },
     {
-      "actualRank": 944,
+      "actualRank": 965,
       "personId": "2010NGUY23",
       "personName": "Nguyễn Đăng Quang",
       "avgKinchScore": 4.831315444945518,
@@ -1107,7 +1632,7 @@
       }
     },
     {
-      "actualRank": 945,
+      "actualRank": 966,
       "personId": "2022ANBU01",
       "personName": "Bui An",
       "avgKinchScore": 4.826104729627305,
@@ -1132,7 +1657,7 @@
       }
     },
     {
-      "actualRank": 946,
+      "actualRank": 967,
       "personId": "2019TANL01",
       "personName": "Lâm Nguyên Minh Tấn",
       "avgKinchScore": 4.825527272055822,
@@ -1157,32 +1682,7 @@
       }
     },
     {
-      "actualRank": 947,
-      "personId": "2019NHUN01",
-      "personName": "Nguyễn Hoàng Thùy Như",
-      "avgKinchScore": 4.824411934546658,
-      "kinchScore": {
-        "222": 21.001390820584145,
-        "333": 44.770504138449965,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 16.24310792825908,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 948,
+      "actualRank": 968,
       "personId": "2016HOAN11",
       "personName": "Tống Minh Hoàng",
       "avgKinchScore": 4.813023885487252,
@@ -1207,7 +1707,7 @@
       }
     },
     {
-      "actualRank": 949,
+      "actualRank": 969,
       "personId": "2022PHUP01",
       "personName": "Phạm Đức Phú",
       "avgKinchScore": 4.811802671297667,
@@ -1232,7 +1732,7 @@
       }
     },
     {
-      "actualRank": 950,
+      "actualRank": 970,
       "personId": "2017NGHI05",
       "personName": "Cao Hiếu Nghĩa",
       "avgKinchScore": 4.811119378650204,
@@ -1257,32 +1757,7 @@
       }
     },
     {
-      "actualRank": 951,
-      "personId": "2015PHUC03",
-      "personName": "Nguyễn Xuân Phúc",
-      "avgKinchScore": 4.808747939478586,
-      "kinchScore": {
-        "222": 0,
-        "333": 33.54002254791432,
-        "444": 26.101998974884676,
-        "555": 22.106693448336976,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 952,
+      "actualRank": 971,
       "personId": "2018TRUO12",
       "personName": "Nguyễn Văn Quang Trường",
       "avgKinchScore": 4.80376430709456,
@@ -1307,32 +1782,7 @@
       }
     },
     {
-      "actualRank": 953,
-      "personId": "2014LONG04",
-      "personName": "Trần Minh Long",
-      "avgKinchScore": 4.79784288428557,
-      "kinchScore": {
-        "222": 16.30669546436285,
-        "333": 30.749354005167955,
-        "444": 15.77480058855417,
-        "555": 18.732478974769723,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 954,
+      "actualRank": 972,
       "personId": "2017TRIE05",
       "personName": "Do Minh Triet",
       "avgKinchScore": 4.789320745988279,
@@ -1357,7 +1807,7 @@
       }
     },
     {
-      "actualRank": 955,
+      "actualRank": 973,
       "personId": "2010HOAN05",
       "personName": "Nguyễn Quốc Hoàng",
       "avgKinchScore": 4.789224107518182,
@@ -1382,7 +1832,7 @@
       }
     },
     {
-      "actualRank": 956,
+      "actualRank": 974,
       "personId": "2020MANH01",
       "personName": "Nguyễn Đức Mạnh",
       "avgKinchScore": 4.7819984451140005,
@@ -1407,7 +1857,7 @@
       }
     },
     {
-      "actualRank": 957,
+      "actualRank": 975,
       "personId": "2020GIAP01",
       "personName": "Nguyễn Hoàng Giáp",
       "avgKinchScore": 4.770788589795874,
@@ -1432,7 +1882,7 @@
       }
     },
     {
-      "actualRank": 958,
+      "actualRank": 976,
       "personId": "2024LONG13",
       "personName": "Lê Hải Long",
       "avgKinchScore": 4.765262526648629,
@@ -1457,7 +1907,57 @@
       }
     },
     {
-      "actualRank": 959,
+      "actualRank": 977,
+      "personId": "2015PHUC03",
+      "personName": "Nguyễn Xuân Phúc",
+      "avgKinchScore": 4.761486168343714,
+      "kinchScore": {
+        "222": 0,
+        "333": 33.54002254791432,
+        "444": 26.101998974884676,
+        "555": 21.30324333904413,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 978,
+      "personId": "2014LONG04",
+      "personName": "Trần Minh Long",
+      "avgKinchScore": 4.757794826616368,
+      "kinchScore": {
+        "222": 16.30669546436285,
+        "333": 30.749354005167955,
+        "444": 15.77480058855417,
+        "555": 18.05166199439327,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 979,
       "personId": "2023TRIN06",
       "personName": "Nguyễn Văn Minh Trí",
       "avgKinchScore": 4.756364443830294,
@@ -1482,7 +1982,32 @@
       }
     },
     {
-      "actualRank": 960,
+      "actualRank": 980,
+      "personId": "2019NHUN01",
+      "personName": "Nguyễn Hoàng Thùy Như",
+      "avgKinchScore": 4.748734284058109,
+      "kinchScore": {
+        "222": 21.001390820584145,
+        "333": 44.770504138449965,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 14.956587869953736,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 0
+      }
+    },
+    {
+      "actualRank": 981,
       "personId": "2012TRIV02",
       "personName": "Võ Minh Trí",
       "avgKinchScore": 4.746513723067202,
@@ -1507,7 +2032,7 @@
       }
     },
     {
-      "actualRank": 961,
+      "actualRank": 982,
       "personId": "2024GIAN01",
       "personName": "Nguyễn Đức Giang",
       "avgKinchScore": 4.746454828804224,
@@ -1532,7 +2057,7 @@
       }
     },
     {
-      "actualRank": 962,
+      "actualRank": 983,
       "personId": "2010TRAN12",
       "personName": "Trần Quang Huy",
       "avgKinchScore": 4.743773034112284,
@@ -1557,7 +2082,7 @@
       }
     },
     {
-      "actualRank": 963,
+      "actualRank": 984,
       "personId": "2019KHAN03",
       "personName": "Nguyễn Minh Khánh",
       "avgKinchScore": 4.74030046467507,
@@ -1582,7 +2107,7 @@
       }
     },
     {
-      "actualRank": 964,
+      "actualRank": 985,
       "personId": "2014PHUC01",
       "personName": "Hoàng Gia Phúc",
       "avgKinchScore": 4.7008603469152925,
@@ -1607,7 +2132,7 @@
       }
     },
     {
-      "actualRank": 965,
+      "actualRank": 986,
       "personId": "2018PHUO02",
       "personName": "Nguyễn Thu Phương",
       "avgKinchScore": 4.69675399807025,
@@ -1632,7 +2157,7 @@
       }
     },
     {
-      "actualRank": 966,
+      "actualRank": 987,
       "personId": "2016ANHN01",
       "personName": "Nguyễn Thế Anh",
       "avgKinchScore": 4.69627065221973,
@@ -1657,7 +2182,7 @@
       }
     },
     {
-      "actualRank": 967,
+      "actualRank": 988,
       "personId": "2023NHAN01",
       "personName": "Nguyễn Bá Nhân",
       "avgKinchScore": 4.666075948244473,
@@ -1682,7 +2207,7 @@
       }
     },
     {
-      "actualRank": 968,
+      "actualRank": 989,
       "personId": "2023MINH23",
       "personName": "Phạm Ngọc Nhật Minh",
       "avgKinchScore": 4.662457715610559,
@@ -1707,7 +2232,7 @@
       }
     },
     {
-      "actualRank": 969,
+      "actualRank": 990,
       "personId": "2020KHAN04",
       "personName": "Trần Trọng Minh Khang",
       "avgKinchScore": 4.654618322057776,
@@ -1732,7 +2257,7 @@
       }
     },
     {
-      "actualRank": 970,
+      "actualRank": 991,
       "personId": "2022HAIP01",
       "personName": "Phạm Minh Hải",
       "avgKinchScore": 4.65166970222349,
@@ -1757,7 +2282,32 @@
       }
     },
     {
-      "actualRank": 971,
+      "actualRank": 992,
+      "personId": "2025DAIN02",
+      "personName": "Nguyễn Đức Đại",
+      "avgKinchScore": 4.649375614719252,
+      "kinchScore": {
+        "222": 0,
+        "333": 47.90660225442834,
+        "444": 0,
+        "555": 0,
+        "666": 0,
+        "777": 0,
+        "333oh": 0,
+        "333bf": 0,
+        "333fm": 0,
+        "333mbf": 0,
+        "444bf": 0,
+        "555bf": 0,
+        "clock": 0,
+        "minx": 0,
+        "pyram": 0,
+        "skewb": 0,
+        "sq1": 31.13278319579895
+      }
+    },
+    {
+      "actualRank": 993,
       "personId": "2022VUHU01",
       "personName": "Huỳnh Long Vũ",
       "avgKinchScore": 4.648996785243224,
@@ -1782,7 +2332,7 @@
       }
     },
     {
-      "actualRank": 972,
+      "actualRank": 994,
       "personId": "2015THAN03",
       "personName": "Lê Tấn Thành",
       "avgKinchScore": 4.64138773930542,
@@ -1807,7 +2357,7 @@
       }
     },
     {
-      "actualRank": 973,
+      "actualRank": 995,
       "personId": "2022HUYN09",
       "personName": "Nguyễn Việt Đan Huy",
       "avgKinchScore": 4.640468936743618,
@@ -1832,7 +2382,7 @@
       }
     },
     {
-      "actualRank": 974,
+      "actualRank": 996,
       "personId": "2022KHAN38",
       "personName": "Nguyễn Quốc Khánh",
       "avgKinchScore": 4.640309633395113,
@@ -1857,7 +2407,7 @@
       }
     },
     {
-      "actualRank": 975,
+      "actualRank": 997,
       "personId": "2011NGUY09",
       "personName": "Nguyễn Ngọc Minh Châu",
       "avgKinchScore": 4.639392395938788,
@@ -1882,7 +2432,7 @@
       }
     },
     {
-      "actualRank": 976,
+      "actualRank": 998,
       "personId": "2022SANG04",
       "personName": "Lê Hoàng Sang",
       "avgKinchScore": 4.638972504424656,
@@ -1907,7 +2457,7 @@
       }
     },
     {
-      "actualRank": 977,
+      "actualRank": 999,
       "personId": "2023TUED01",
       "personName": "Đàm Đình Tuệ",
       "avgKinchScore": 4.617934806712287,
@@ -1932,7 +2482,7 @@
       }
     },
     {
-      "actualRank": 978,
+      "actualRank": 1000,
       "personId": "2025SANG05",
       "personName": "Lương Minh Sang",
       "avgKinchScore": 4.6107425620090305,
@@ -1952,556 +2502,6 @@
         "clock": 0,
         "minx": 0,
         "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 979,
-      "personId": "2022DANG02",
-      "personName": "Đoàn Minh Đăng",
-      "avgKinchScore": 4.604872978814002,
-      "kinchScore": {
-        "222": 23.77952755905512,
-        "333": 35.26970954356847,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 19.233603537214446,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 980,
-      "personId": "2023MANH01",
-      "personName": "Trần Duy Mạnh",
-      "avgKinchScore": 4.603472138492738,
-      "kinchScore": {
-        "222": 20.160213618157545,
-        "333": 30.813050233039874,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 14.53229398663697,
-        "skewb": 12.753468516542155,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 981,
-      "personId": "2014TUNN01",
-      "personName": "Nguyễn Minh Quốc Tuấn",
-      "avgKinchScore": 4.60293179092369,
-      "kinchScore": {
-        "222": 18.303030303030305,
-        "333": 33.57787810383747,
-        "444": 26.368932038834952,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 982,
-      "personId": "2022VUTH01",
-      "personName": "Thân Nguyễn Anh Vũ",
-      "avgKinchScore": 4.595292885766708,
-      "kinchScore": {
-        "222": 24.552845528455283,
-        "333": 19.959745051995974,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 23.727272727272727,
-        "skewb": 9.880115750310045,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 983,
-      "personId": "2020THAN07",
-      "personName": "Trần Tuấn Thành",
-      "avgKinchScore": 4.589687422016698,
-      "kinchScore": {
-        "222": 0,
-        "333": 44.83798040693293,
-        "444": 33.18670576735093,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 984,
-      "personId": "2014ANHV01",
-      "personName": "Vũ Hải Anh",
-      "avgKinchScore": 4.58602022731355,
-      "kinchScore": {
-        "222": 0,
-        "333": 42.198581560283685,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 35.763762304046665,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 985,
-      "personId": "2024HIEU03",
-      "personName": "Lê Huỳnh Minh Hiếu",
-      "avgKinchScore": 4.582341664776926,
-      "kinchScore": {
-        "222": 28.171641791044777,
-        "333": 38.41187863137508,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 11.316287878787879,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 986,
-      "personId": "2010DANG04",
-      "personName": "Đặng Xuân Bách",
-      "avgKinchScore": 4.5766337317435895,
-      "kinchScore": {
-        "222": 17.3963133640553,
-        "333": 25.858322468491963,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 19.452706722189173,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 15.09543088490457,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 987,
-      "personId": "2017TUET01",
-      "personName": "Tran Minh Tue",
-      "avgKinchScore": 4.5683927948137715,
-      "kinchScore": {
-        "222": 35.613207547169814,
-        "333": 42.04946996466431,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 988,
-      "personId": "2024ANTR01",
-      "personName": "Trần Hải An",
-      "avgKinchScore": 4.56791188074506,
-      "kinchScore": {
-        "222": 19.61038961038961,
-        "333": 35.04122497055359,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 23.00288739172281,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 989,
-      "personId": "2010NGUY13",
-      "personName": "Hong Quan Nguyen",
-      "avgKinchScore": 4.567586583039588,
-      "kinchScore": {
-        "222": 20.656634746922027,
-        "333": 56.992337164750964,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 990,
-      "personId": "2020ANHP01",
-      "personName": "Phạm Ngọc Trâm Anh",
-      "avgKinchScore": 4.566321215909147,
-      "kinchScore": {
-        "222": 23.630672926447573,
-        "333": 34.917840375586856,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 19.078947368421055,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 991,
-      "personId": "2018THIE03",
-      "personName": "Phan Minh Thiện",
-      "avgKinchScore": 4.565960242227766,
-      "kinchScore": {
-        "222": 24.552845528455283,
-        "333": 36.570374923171485,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 16.49810366624526,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 992,
-      "personId": "2014DUCN01",
-      "personName": "Nguyễn Xuân Đức",
-      "avgKinchScore": 4.561516446856936,
-      "kinchScore": {
-        "222": 0,
-        "333": 0,
-        "444": 31.704280155642024,
-        "555": 24.47191158197633,
-        "666": 0,
-        "777": 21.36958785894956,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 993,
-      "personId": "2016HIEU01",
-      "personName": "Nguyễn Đăng Hiếu",
-      "avgKinchScore": 4.556313536729213,
-      "kinchScore": {
-        "222": 19.23566878980892,
-        "333": 35.73573573573574,
-        "444": 22.48592559885197,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 994,
-      "personId": "2022LANN01",
-      "personName": "Nguyễn Hoàng Lân",
-      "avgKinchScore": 4.5487875331447105,
-      "kinchScore": {
-        "222": 36.124401913875595,
-        "333": 41.204986149584485,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 995,
-      "personId": "2017DUYV02",
-      "personName": "Võ Anh Duy",
-      "avgKinchScore": 4.548637298821937,
-      "kinchScore": {
-        "222": 25.636672325976228,
-        "333": 30.02018163471241,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 21.669980119284293,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 996,
-      "personId": "2018MINH09",
-      "personName": "Lưu Tuấn Minh",
-      "avgKinchScore": 4.547691375746987,
-      "kinchScore": {
-        "222": 21.089385474860336,
-        "333": 32.531437944231826,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 23.689929968606616,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 997,
-      "personId": "2023HUNG01",
-      "personName": "Nguyễn Công Gia Hưng",
-      "avgKinchScore": 4.513550483831927,
-      "kinchScore": {
-        "222": 32.12765957446809,
-        "333": 44.60269865067466,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 998,
-      "personId": "2018HUYP01",
-      "personName": "Phan Vũ Huy",
-      "avgKinchScore": 4.502495428060496,
-      "kinchScore": {
-        "222": 17.660818713450293,
-        "333": 33.55893965031021,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 25.322663913267938,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 0,
-        "skewb": 0,
-        "sq1": 0
-      }
-    },
-    {
-      "actualRank": 999,
-      "personId": "2019HAIT01",
-      "personName": "Trịnh Tuấn Hải",
-      "avgKinchScore": 4.494663956722241,
-      "kinchScore": {
-        "222": 13.94275161588181,
-        "333": 21.288014311270125,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 15.675675675675677,
-        "skewb": 14.863184079601991,
-        "sq1": 10.63966158184848
-      }
-    },
-    {
-      "actualRank": 1000,
-      "personId": "2022NGOC01",
-      "personName": "Trần Bảo Ngọc",
-      "avgKinchScore": 4.486497052808854,
-      "kinchScore": {
-        "222": 0,
-        "333": 49.583333333333336,
-        "444": 0,
-        "555": 0,
-        "666": 0,
-        "777": 0,
-        "333oh": 0,
-        "333bf": 0,
-        "333fm": 0,
-        "333mbf": 0,
-        "444bf": 0,
-        "555bf": 0,
-        "clock": 0,
-        "minx": 0,
-        "pyram": 26.68711656441718,
         "skewb": 0,
         "sq1": 0
       }

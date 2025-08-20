@@ -3,15 +3,17 @@
   "name": "Lý Ngọc Tân",
   "slug": "ly-ngoc-tan",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HoChiMinhCityWarmUp2022",
     "HoChiMinhSpring2024",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
@@ -19,45 +21,45 @@
         "eventId": "222",
         "best": 581,
         "rank": {
-          "world": 81736,
-          "continent": 24042,
-          "country": 1041
+          "world": 81888,
+          "continent": 24124,
+          "country": 1057
         }
       },
       {
         "eventId": "333",
-        "best": 1641,
+        "best": 1552,
         "rank": {
-          "world": 73019,
-          "continent": 26498,
-          "country": 1456
+          "world": 65618,
+          "continent": 23929,
+          "country": 1349
         }
       },
       {
         "eventId": "333oh",
         "best": 2665,
         "rank": {
-          "world": 25275,
-          "continent": 9311,
-          "country": 463
+          "world": 25342,
+          "continent": 9352,
+          "country": 473
         }
       },
       {
         "eventId": "444",
         "best": 8703,
         "rank": {
-          "world": 46302,
-          "continent": 14413,
-          "country": 763
+          "world": 46360,
+          "continent": 14432,
+          "country": 776
         }
       },
       {
         "eventId": "skewb",
         "best": 1506,
         "rank": {
-          "world": 51751,
-          "continent": 12193,
-          "country": 374
+          "world": 51847,
+          "continent": 12240,
+          "country": 391
         }
       }
     ],
@@ -66,50 +68,84 @@
         "eventId": "222",
         "best": 594,
         "rank": {
-          "world": 43766,
-          "continent": 13149,
-          "country": 603
+          "world": 43868,
+          "continent": 13215,
+          "country": 612
         }
       },
       {
         "eventId": "333",
         "best": 1734,
         "rank": {
-          "world": 55470,
-          "continent": 20667,
-          "country": 1188
+          "world": 55604,
+          "continent": 20759,
+          "country": 1219
         }
       },
       {
         "eventId": "333oh",
         "best": 3571,
         "rank": {
-          "world": 28794,
-          "continent": 10595,
-          "country": 539
+          "world": 28864,
+          "continent": 10639,
+          "country": 551
         }
       },
       {
         "eventId": "444",
         "best": 12592,
         "rank": {
-          "world": 45799,
-          "continent": 13885,
-          "country": 713
+          "world": 45850,
+          "continent": 13903,
+          "country": 725
         }
       },
       {
         "eventId": "skewb",
         "best": 2270,
         "rank": {
-          "world": 52397,
-          "continent": 12319,
-          "country": 385
+          "world": 52493,
+          "continent": 12364,
+          "country": 400
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 130,
+          "best": 598,
+          "average": 649,
+          "format": "Average of 5",
+          "solves": [
+            645,
+            773,
+            624,
+            677,
+            598
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 195,
+          "best": 1552,
+          "average": 1854,
+          "format": "Average of 5",
+          "solves": [
+            1552,
+            2241,
+            1651,
+            2247,
+            1669
+          ]
+        }
+      ]
+    },
     "HoChiMinhSpring2024": {
       "222": [
         {

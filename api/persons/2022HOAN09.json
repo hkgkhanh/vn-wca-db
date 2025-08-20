@@ -3,80 +3,146 @@
   "name": "Trần Thủy Hoàng",
   "slug": "tran-thuy-hoang",
   "country": "VN",
-  "numberOfCompetitions": 6,
+  "numberOfCompetitions": 7,
   "competitionIds": [
     "cubingHCM3x3Winter2024",
     "HCMCCubingAutumn2024",
     "HCMCVNCWarmUp2025",
     "HoChiMinhOpen2022",
     "HoChiMinhSpring2024",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
-        "best": 384,
+        "best": 302,
         "rank": {
-          "world": 40432,
-          "continent": 11362,
-          "country": 471
+          "world": 23672,
+          "continent": 6315,
+          "country": 247
         }
       },
       {
         "eventId": "333",
         "best": 1079,
         "rank": {
-          "world": 23925,
-          "continent": 8705,
-          "country": 511
+          "world": 23999,
+          "continent": 8755,
+          "country": 526
         }
       },
       {
         "eventId": "333oh",
-        "best": 2320,
+        "best": 2108,
         "rank": {
-          "world": 19199,
-          "continent": 7168,
-          "country": 375
+          "world": 15311,
+          "continent": 5722,
+          "country": 302
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 485,
+        "best": 410,
         "rank": {
-          "world": 24309,
-          "continent": 7097,
-          "country": 329
+          "world": 13491,
+          "continent": 3783,
+          "country": 166
         }
       },
       {
         "eventId": "333",
         "best": 1199,
         "rank": {
-          "world": 16998,
-          "continent": 6308,
-          "country": 387
+          "world": 17061,
+          "continent": 6354,
+          "country": 401
         }
       },
       {
         "eventId": "333oh",
-        "best": 2789,
+        "best": 2605,
         "rank": {
-          "world": 18075,
-          "continent": 6939,
-          "country": 369
+          "world": 15284,
+          "continent": 5884,
+          "country": 324
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "Second round",
+          "position": 59,
+          "best": 399,
+          "average": 449,
+          "format": "Average of 5",
+          "solves": [
+            442,
+            476,
+            428,
+            479,
+            399
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 50,
+          "best": 302,
+          "average": 410,
+          "format": "Average of 5",
+          "solves": [
+            445,
+            350,
+            436,
+            676,
+            302
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 124,
+          "best": 1183,
+          "average": 1272,
+          "format": "Average of 5",
+          "solves": [
+            1225,
+            1405,
+            1185,
+            1183,
+            1613
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 93,
+          "best": 2108,
+          "average": 2605,
+          "format": "Average of 5",
+          "solves": [
+            2108,
+            -1,
+            2211,
+            3293,
+            2310
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "222": [
         {

@@ -3,38 +3,73 @@
   "name": "Nguyễn Trí Kiệt",
   "slug": "nguyen-tri-kiet",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "HoChiMinhCityWarmUp2022",
-    "HoChiMinhOpen2022"
+    "HoChiMinhOpen2022",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
-        "best": 1084,
+        "best": 895,
         "rank": {
-          "world": 24317,
-          "continent": 8854,
-          "country": 521
+          "world": 11350,
+          "continent": 4023,
+          "country": 243
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 1177,
+        "best": 1146,
         "rank": {
-          "world": 15678,
-          "continent": 5792,
-          "country": 362
+          "world": 13975,
+          "continent": 5177,
+          "country": 337
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 79,
+          "best": 895,
+          "average": -1,
+          "format": "Average of 5",
+          "solves": [
+            -1,
+            895,
+            1507,
+            1247,
+            -1
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 90,
+          "best": 1037,
+          "average": 1146,
+          "format": "Average of 5",
+          "solves": [
+            1212,
+            1119,
+            1343,
+            1107,
+            1037
+          ]
+        }
+      ]
+    },
     "HoChiMinhOpen2022": {
       "333": [
         {

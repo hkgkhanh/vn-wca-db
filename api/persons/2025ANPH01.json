@@ -3,37 +3,92 @@
   "name": "Phạm Phúc An",
   "slug": "pham-phuc-an",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "HCMCVNCWarmUp2025"
+    "HCMCVNCWarmUp2025",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
-        "eventId": "333",
-        "best": 1483,
+        "eventId": "222",
+        "best": 358,
         "rank": {
-          "world": 59472,
-          "continent": 21705,
-          "country": 1197
+          "world": 35020,
+          "continent": 9708,
+          "country": 404
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1176,
+        "rank": {
+          "world": 32208,
+          "continent": 11857,
+          "country": 701
         }
       }
     ],
     "averages": [
       {
-        "eventId": "333",
-        "best": 1864,
+        "eventId": "222",
+        "best": 625,
         "rank": {
-          "world": 64840,
-          "continent": 23976,
-          "country": 1348
+          "world": 49634,
+          "continent": 14997,
+          "country": 690
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1306,
+        "rank": {
+          "world": 23870,
+          "continent": 8976,
+          "country": 563
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 122,
+          "best": 358,
+          "average": 625,
+          "format": "Average of 5",
+          "solves": [
+            652,
+            358,
+            -1,
+            630,
+            594
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 133,
+          "best": 1176,
+          "average": 1306,
+          "format": "Average of 5",
+          "solves": [
+            1243,
+            1422,
+            1704,
+            1254,
+            1176
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "333": [
         {

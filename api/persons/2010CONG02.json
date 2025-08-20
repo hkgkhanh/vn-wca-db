@@ -3,7 +3,7 @@
   "name": "Toan Do Cong",
   "slug": "toan-do-cong",
   "country": "VN",
-  "numberOfCompetitions": 14,
+  "numberOfCompetitions": 15,
   "competitionIds": [
     "BuonMeThuotCubeDay2018",
     "DaNangOpen2018",
@@ -18,46 +18,58 @@
     "HoChiMinhCityOpen2019",
     "HoChiMinhLetsCube2019",
     "HoChiMinhOpen2018",
-    "HoChiMinhSpringOpen2018"
+    "HoChiMinhSpringOpen2018",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
         "best": 747,
         "rank": {
-          "world": 107773,
-          "continent": 31590,
-          "country": 1297
+          "world": 107954,
+          "continent": 31686,
+          "country": 1325
         }
       },
       {
         "eventId": "333",
         "best": 1590,
         "rank": {
-          "world": 68724,
-          "continent": 24991,
-          "country": 1380
+          "world": 68874,
+          "continent": 25085,
+          "country": 1407
         }
       },
       {
         "eventId": "444",
         "best": 6203,
         "rank": {
-          "world": 28813,
-          "continent": 9608,
-          "country": 544
+          "world": 28865,
+          "continent": 9628,
+          "country": 560
         }
       },
       {
         "eventId": "555",
         "best": 13496,
         "rank": {
-          "world": 20998,
-          "continent": 6271,
-          "country": 333
+          "world": 21039,
+          "continent": 6291,
+          "country": 347
+        }
+      },
+      {
+        "eventId": "minx",
+        "best": 16475,
+        "rank": {
+          "world": 20799,
+          "continent": 4984,
+          "country": 173
         }
       }
     ],
@@ -66,41 +78,91 @@
         "eventId": "222",
         "best": 918,
         "rank": {
-          "world": 93696,
-          "continent": 27933,
-          "country": 1207
+          "world": 93854,
+          "continent": 28021,
+          "country": 1233
         }
       },
       {
         "eventId": "333",
         "best": 1904,
         "rank": {
-          "world": 67628,
-          "continent": 24934,
-          "country": 1402
+          "world": 67768,
+          "continent": 25030,
+          "country": 1432
         }
       },
       {
         "eventId": "444",
         "best": 7483,
         "rank": {
-          "world": 30714,
-          "continent": 9954,
-          "country": 583
+          "world": 30772,
+          "continent": 9973,
+          "country": 597
         }
       },
       {
         "eventId": "555",
         "best": 16436,
         "rank": {
-          "world": 20692,
-          "continent": 6092,
-          "country": 322
+          "world": 20727,
+          "continent": 6105,
+          "country": 331
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 216,
+          "best": 2060,
+          "average": 2658,
+          "format": "Average of 5",
+          "solves": [
+            2060,
+            4750,
+            2801,
+            2413,
+            2761
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "First round",
+          "position": 102,
+          "best": 15647,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            15998,
+            15647,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "Final",
+          "position": 66,
+          "best": 16475,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            19444,
+            16475,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "HCMCCubingAutumn2024": {
       "333": [
         {

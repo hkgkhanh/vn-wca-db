@@ -3,37 +3,92 @@
   "name": "Trương Công Bách",
   "slug": "truong-cong-bach",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "HCMCVNCWarmUp2025"
+    "HCMCVNCWarmUp2025",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
+      {
+        "eventId": "222",
+        "best": 745,
+        "rank": {
+          "world": 107711,
+          "continent": 31613,
+          "country": 1323
+        }
+      },
       {
         "eventId": "333",
         "best": 1504,
         "rank": {
-          "world": 61348,
-          "continent": 22376,
-          "country": 1234
+          "world": 61488,
+          "continent": 22462,
+          "country": 1259
         }
       }
     ],
     "averages": [
       {
-        "eventId": "333",
-        "best": 1792,
+        "eventId": "222",
+        "best": 870,
         "rank": {
-          "world": 59678,
-          "continent": 22224,
-          "country": 1260
+          "world": 88071,
+          "continent": 26371,
+          "country": 1189
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1703,
+        "rank": {
+          "world": 53251,
+          "continent": 19880,
+          "country": 1166
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 159,
+          "best": 745,
+          "average": 870,
+          "format": "Average of 5",
+          "solves": [
+            745,
+            825,
+            886,
+            961,
+            900
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 186,
+          "best": 1590,
+          "average": 1703,
+          "format": "Average of 5",
+          "solves": [
+            2011,
+            1628,
+            1731,
+            1590,
+            1750
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "333": [
         {

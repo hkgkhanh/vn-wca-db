@@ -3,56 +3,93 @@
   "name": "Nguyễn Hữu Thế Bảo",
   "slug": "nguyen-huu-the-bao",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "HCMCCubingAutumn2024",
-    "HoChiMinhSpring2024"
+    "HoChiMinhSpring2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
-        "best": 597,
+        "best": 328,
         "rank": {
-          "world": 84711,
-          "continent": 24928,
-          "country": 1077
+          "world": 28902,
+          "continent": 7881,
+          "country": 311
         }
       },
       {
         "eventId": "333",
         "best": 1021,
         "rank": {
-          "world": 19563,
-          "continent": 7059,
-          "country": 422
+          "world": 19628,
+          "continent": 7098,
+          "country": 433
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 828,
+        "best": 523,
         "rank": {
-          "world": 82507,
-          "continent": 24728,
-          "country": 1100
+          "world": 30896,
+          "continent": 9138,
+          "country": 425
         }
       },
       {
         "eventId": "333",
         "best": 1335,
         "rank": {
-          "world": 25796,
-          "continent": 9704,
-          "country": 591
+          "world": 25888,
+          "continent": 9765,
+          "country": 609
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 94,
+          "best": 328,
+          "average": 523,
+          "format": "Average of 5",
+          "solves": [
+            478,
+            569,
+            670,
+            521,
+            328
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 184,
+          "best": 1105,
+          "average": 1669,
+          "format": "Average of 5",
+          "solves": [
+            1805,
+            1105,
+            1894,
+            1593,
+            1609
+          ]
+        }
+      ]
+    },
     "HCMCCubingAutumn2024": {
       "222": [
         {

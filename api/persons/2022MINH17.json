@@ -3,37 +3,72 @@
   "name": "Trương Tấn Minh",
   "slug": "truong-tan-minh",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "HoChiMinhCityWarmUp2022"
+    "HoChiMinhCityWarmUp2022",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
-        "best": 856,
+        "best": 846,
         "rank": {
-          "world": 9154,
-          "continent": 3195,
-          "country": 183
+          "world": 8690,
+          "continent": 3031,
+          "country": 178
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 1056,
+        "best": 967,
         "rank": {
-          "world": 9324,
-          "continent": 3384,
-          "country": 207
+          "world": 5705,
+          "continent": 2031,
+          "country": 118
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 56,
+          "best": 846,
+          "average": 1030,
+          "format": "Average of 5",
+          "solves": [
+            1124,
+            957,
+            1029,
+            1103,
+            846
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 47,
+          "best": 948,
+          "average": 967,
+          "format": "Average of 5",
+          "solves": [
+            948,
+            965,
+            988,
+            1039,
+            948
+          ]
+        }
+      ]
+    },
     "HoChiMinhCityWarmUp2022": {
       "333": [
         {

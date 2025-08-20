@@ -3,183 +3,413 @@
   "name": "Phạm An Bình",
   "slug": "pham-an-binh",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HCMCCubingAutumn2024",
     "HCMCVNCWarmUp2025",
-    "HoChiMinhSpring2024"
+    "HoChiMinhSpring2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
         "best": 272,
         "rank": {
-          "world": 17985,
-          "continent": 4689,
-          "country": 173
+          "world": 18044,
+          "continent": 4723,
+          "country": 179
         }
       },
       {
         "eventId": "333",
-        "best": 1011,
+        "best": 980,
         "rank": {
-          "world": 18792,
-          "continent": 6761,
-          "country": 407
+          "world": 16684,
+          "continent": 6020,
+          "country": 367
+        }
+      },
+      {
+        "eventId": "333fm",
+        "best": 51,
+        "rank": {
+          "world": 9118,
+          "continent": 2542,
+          "country": 52
         }
       },
       {
         "eventId": "333oh",
-        "best": 2093,
+        "best": 1433,
         "rank": {
-          "world": 14992,
-          "continent": 5586,
-          "country": 285
+          "world": 4252,
+          "continent": 1506,
+          "country": 91
         }
       },
       {
         "eventId": "444",
         "best": 4202,
         "rank": {
-          "world": 10302,
-          "continent": 3591,
-          "country": 185
+          "world": 10345,
+          "continent": 3611,
+          "country": 200
         }
       },
       {
         "eventId": "555",
-        "best": 9583,
+        "best": 8304,
         "rank": {
-          "world": 11296,
-          "continent": 3664,
-          "country": 196
+          "world": 7390,
+          "continent": 2454,
+          "country": 138
         }
       },
       {
         "eventId": "clock",
-        "best": 540,
+        "best": 506,
         "rank": {
-          "world": 1410,
-          "continent": 320,
-          "country": 10
+          "world": 1159,
+          "continent": 264,
+          "country": 8
         }
       },
       {
         "eventId": "minx",
-        "best": 7362,
+        "best": 6243,
         "rank": {
-          "world": 5248,
-          "continent": 1450,
-          "country": 44
+          "world": 3244,
+          "continent": 879,
+          "country": 32
         }
       },
       {
         "eventId": "pyram",
         "best": 349,
         "rank": {
-          "world": 6039,
-          "continent": 1619,
+          "world": 6069,
+          "continent": 1632,
           "country": 42
         }
       },
       {
         "eventId": "skewb",
-        "best": 576,
+        "best": 529,
         "rank": {
-          "world": 15419,
-          "continent": 3932,
-          "country": 116
+          "world": 13124,
+          "continent": 3383,
+          "country": 106
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 441,
+        "best": 398,
         "rank": {
-          "world": 17561,
-          "continent": 5014,
-          "country": 216
+          "world": 12022,
+          "continent": 3329,
+          "country": 140
         }
       },
       {
         "eventId": "333",
         "best": 1221,
         "rank": {
-          "world": 18370,
-          "continent": 6819,
-          "country": 425
+          "world": 18444,
+          "continent": 6869,
+          "country": 438
         }
       },
       {
         "eventId": "333oh",
-        "best": 2539,
+        "best": 1967,
         "rank": {
-          "world": 14183,
-          "continent": 5462,
-          "country": 294
+          "world": 6214,
+          "continent": 2356,
+          "country": 145
         }
       },
       {
         "eventId": "444",
-        "best": 4850,
+        "best": 4625,
         "rank": {
-          "world": 10465,
-          "continent": 3705,
-          "country": 200
+          "world": 8699,
+          "continent": 3079,
+          "country": 179
         }
       },
       {
         "eventId": "555",
-        "best": 10479,
+        "best": 9355,
         "rank": {
-          "world": 10814,
-          "continent": 3508,
-          "country": 199
+          "world": 7773,
+          "continent": 2588,
+          "country": 142
         }
       },
       {
         "eventId": "clock",
-        "best": 613,
+        "best": 589,
         "rank": {
-          "world": 1035,
-          "continent": 230,
-          "country": 8
+          "world": 919,
+          "continent": 207,
+          "country": 9
         }
       },
       {
         "eventId": "minx",
-        "best": 7700,
+        "best": 7161,
         "rank": {
-          "world": 4249,
-          "continent": 1180,
-          "country": 34
+          "world": 3424,
+          "continent": 928,
+          "country": 29
         }
       },
       {
         "eventId": "pyram",
         "best": 550,
         "rank": {
-          "world": 5325,
-          "continent": 1559,
-          "country": 39
+          "world": 5352,
+          "continent": 1573,
+          "country": 40
         }
       },
       {
         "eventId": "skewb",
-        "best": 842,
+        "best": 673,
         "rank": {
-          "world": 13131,
-          "continent": 3617,
-          "country": 92
+          "world": 7380,
+          "continent": 2061,
+          "country": 60
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "Second round",
+          "position": 43,
+          "best": 377,
+          "average": 398,
+          "format": "Average of 5",
+          "solves": [
+            423,
+            382,
+            410,
+            401,
+            377
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 67,
+          "best": 340,
+          "average": 453,
+          "format": "Average of 5",
+          "solves": [
+            409,
+            -1,
+            539,
+            340,
+            412
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 114,
+          "best": 980,
+          "average": 1231,
+          "format": "Average of 5",
+          "solves": [
+            1156,
+            1062,
+            -1,
+            980,
+            1476
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 83,
+          "best": 4493,
+          "average": 4625,
+          "format": "Average of 5",
+          "solves": [
+            4578,
+            4554,
+            5164,
+            4743,
+            4493
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "First round",
+          "position": 76,
+          "best": 8304,
+          "average": 9355,
+          "format": "Average of 5",
+          "solves": [
+            8669,
+            -1,
+            8304,
+            9866,
+            9530
+          ]
+        }
+      ],
+      "333fm": [
+        {
+          "round": "Final",
+          "position": 39,
+          "best": 51,
+          "average": -1,
+          "format": "Mean of 3",
+          "solves": [
+            -2,
+            -1,
+            51,
+            0,
+            0
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "Second round",
+          "position": 50,
+          "best": 1817,
+          "average": 2105,
+          "format": "Average of 5",
+          "solves": [
+            2057,
+            1817,
+            2078,
+            2179,
+            2532
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 59,
+          "best": 1433,
+          "average": 1967,
+          "format": "Average of 5",
+          "solves": [
+            1983,
+            1433,
+            1965,
+            2273,
+            1952
+          ]
+        }
+      ],
+      "clock": [
+        {
+          "round": "Final",
+          "position": 4,
+          "best": 506,
+          "average": 589,
+          "format": "Average of 5",
+          "solves": [
+            608,
+            803,
+            506,
+            571,
+            589
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "Final",
+          "position": 26,
+          "best": 6243,
+          "average": 7161,
+          "format": "Average of 5",
+          "solves": [
+            7444,
+            6243,
+            7718,
+            6729,
+            7310
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "Final",
+          "position": 23,
+          "best": 554,
+          "average": 675,
+          "format": "Average of 5",
+          "solves": [
+            831,
+            554,
+            587,
+            954,
+            608
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 25,
+          "best": 589,
+          "average": 636,
+          "format": "Average of 5",
+          "solves": [
+            874,
+            589,
+            593,
+            650,
+            665
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "Final",
+          "position": 22,
+          "best": 529,
+          "average": 688,
+          "format": "Average of 5",
+          "solves": [
+            692,
+            696,
+            529,
+            998,
+            677
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 24,
+          "best": 655,
+          "average": 673,
+          "format": "Average of 5",
+          "solves": [
+            677,
+            655,
+            668,
+            673,
+            944
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "222": [
         {

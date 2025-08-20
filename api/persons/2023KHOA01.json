@@ -3,92 +3,94 @@
   "name": "Đậu Thế Khoa",
   "slug": "dau-the-khoa",
   "country": "VN",
-  "numberOfCompetitions": 6,
+  "numberOfCompetitions": 7,
   "competitionIds": [
     "cubingHCM3x3Winter2024",
     "HCMCCubingAutumn2024",
     "HCMCVNCWarmUp2025",
     "HoChiMinhSpring2024",
     "VietnamChampionship2023",
-    "VietnamChampionship2024"
+    "VietnamChampionship2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 2,
+  "numberOfChampionships": 3,
   "championshipIds": [
     "VietnamChampionship2023",
-    "VietnamChampionship2024"
+    "VietnamChampionship2024",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
-        "best": 255,
+        "best": 252,
         "rank": {
-          "world": 15081,
-          "continent": 3824,
-          "country": 132
+          "world": 14659,
+          "continent": 3730,
+          "country": 133
         }
       },
       {
         "eventId": "333",
-        "best": 986,
+        "best": 930,
         "rank": {
-          "world": 17014,
-          "continent": 6110,
-          "country": 366
+          "world": 13388,
+          "continent": 4789,
+          "country": 293
         }
       },
       {
         "eventId": "333oh",
         "best": 2198,
         "rank": {
-          "world": 16989,
-          "continent": 6323,
-          "country": 326
+          "world": 17044,
+          "continent": 6361,
+          "country": 340
         }
       },
       {
         "eventId": "444",
-        "best": 5944,
+        "best": 5572,
         "rank": {
-          "world": 26634,
-          "continent": 8958,
-          "country": 511
+          "world": 23397,
+          "continent": 7999,
+          "country": 471
         }
       },
       {
         "eventId": "555",
         "best": 18079,
         "rank": {
-          "world": 28588,
-          "continent": 7875,
-          "country": 412
+          "world": 28644,
+          "continent": 7897,
+          "country": 427
         }
       },
       {
         "eventId": "clock",
-        "best": 1952,
+        "best": 1824,
         "rank": {
-          "world": 16677,
-          "continent": 3838,
-          "country": 104
+          "world": 15699,
+          "continent": 3642,
+          "country": 110
         }
       },
       {
         "eventId": "pyram",
-        "best": 562,
+        "best": 396,
         "rank": {
-          "world": 19629,
-          "continent": 5229,
-          "country": 117
+          "world": 8385,
+          "continent": 2253,
+          "country": 53
         }
       },
       {
         "eventId": "skewb",
-        "best": 1078,
+        "best": 779,
         "rank": {
-          "world": 39122,
-          "continent": 9504,
-          "country": 291
+          "world": 25968,
+          "continent": 6571,
+          "country": 214
         }
       }
     ],
@@ -97,68 +99,224 @@
         "eventId": "222",
         "best": 370,
         "rank": {
-          "world": 8979,
-          "continent": 2396,
-          "country": 91
+          "world": 9018,
+          "continent": 2424,
+          "country": 95
         }
       },
       {
         "eventId": "333",
-        "best": 1163,
+        "best": 1096,
         "rank": {
-          "world": 14851,
-          "continent": 5501,
-          "country": 343
+          "world": 11307,
+          "continent": 4173,
+          "country": 276
         }
       },
       {
         "eventId": "333oh",
-        "best": 2601,
+        "best": 2535,
         "rank": {
-          "world": 15170,
-          "continent": 5829,
-          "country": 312
+          "world": 14174,
+          "continent": 5472,
+          "country": 304
         }
       },
       {
         "eventId": "444",
         "best": 6818,
         "rank": {
-          "world": 26386,
-          "continent": 8824,
-          "country": 504
+          "world": 26440,
+          "continent": 8847,
+          "country": 522
         }
       },
       {
         "eventId": "clock",
-        "best": 2198,
+        "best": 2189,
         "rank": {
-          "world": 14728,
-          "continent": 3404,
-          "country": 92
+          "world": 14726,
+          "continent": 3416,
+          "country": 101
         }
       },
       {
         "eventId": "pyram",
-        "best": 735,
+        "best": 653,
         "rank": {
-          "world": 12265,
-          "continent": 3557,
-          "country": 84
+          "world": 8836,
+          "continent": 2596,
+          "country": 67
         }
       },
       {
         "eventId": "skewb",
-        "best": 1352,
+        "best": 879,
         "rank": {
-          "world": 31721,
-          "continent": 8007,
-          "country": 242
+          "world": 14484,
+          "continent": 3980,
+          "country": 111
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "Second round",
+          "position": 39,
+          "best": 252,
+          "average": 380,
+          "format": "Average of 5",
+          "solves": [
+            408,
+            388,
+            345,
+            596,
+            252
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 84,
+          "best": 284,
+          "average": 487,
+          "format": "Average of 5",
+          "solves": [
+            471,
+            478,
+            284,
+            513,
+            512
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 67,
+          "best": 930,
+          "average": 1096,
+          "format": "Average of 5",
+          "solves": [
+            1175,
+            1097,
+            1067,
+            1123,
+            930
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 85,
+          "best": 941,
+          "average": 1133,
+          "format": "Average of 5",
+          "solves": [
+            1069,
+            1435,
+            941,
+            1120,
+            1211
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 127,
+          "best": 5572,
+          "average": 6855,
+          "format": "Average of 5",
+          "solves": [
+            6577,
+            5572,
+            8337,
+            7663,
+            6324
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 89,
+          "best": 2277,
+          "average": 2535,
+          "format": "Average of 5",
+          "solves": [
+            2277,
+            3085,
+            2495,
+            2624,
+            2487
+          ]
+        }
+      ],
+      "clock": [
+        {
+          "round": "Final",
+          "position": 52,
+          "best": 1824,
+          "average": 2189,
+          "format": "Average of 5",
+          "solves": [
+            2265,
+            2154,
+            2148,
+            2461,
+            1824
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "Final",
+          "position": 27,
+          "best": 473,
+          "average": 848,
+          "format": "Average of 5",
+          "solves": [
+            907,
+            473,
+            894,
+            744,
+            975
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 27,
+          "best": 396,
+          "average": 653,
+          "format": "Average of 5",
+          "solves": [
+            736,
+            607,
+            396,
+            742,
+            616
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "First round",
+          "position": 46,
+          "best": 779,
+          "average": 879,
+          "format": "Average of 5",
+          "solves": [
+            1167,
+            779,
+            842,
+            1002,
+            794
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "222": [
         {

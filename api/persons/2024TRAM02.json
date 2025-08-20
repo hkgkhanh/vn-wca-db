@@ -3,21 +3,24 @@
   "name": "Cao Phan Bảo Trâm",
   "slug": "cao-phan-bao-tram",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "HCMCCubingAutumn2024"
+    "HCMCCubingAutumn2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
         "best": 1011,
         "rank": {
-          "world": 18792,
-          "continent": 6761,
-          "country": 407
+          "world": 18859,
+          "continent": 6804,
+          "country": 419
         }
       }
     ],
@@ -26,14 +29,32 @@
         "eventId": "333",
         "best": 1156,
         "rank": {
-          "world": 14467,
-          "continent": 5360,
-          "country": 331
+          "world": 14526,
+          "continent": 5403,
+          "country": 345
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 150,
+          "best": 1095,
+          "average": 1401,
+          "format": "Average of 5",
+          "solves": [
+            1667,
+            1095,
+            1277,
+            1813,
+            1258
+          ]
+        }
+      ]
+    },
     "HCMCCubingAutumn2024": {
       "333": [
         {

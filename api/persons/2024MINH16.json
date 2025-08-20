@@ -3,92 +3,173 @@
   "name": "Nguyễn Ngọc Bảo Minh",
   "slug": "nguyen-ngoc-bao-minh",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "cubingHCM3x3Winter2024",
-    "HCMCVNCWarmUp2025"
+    "HCMCVNCWarmUp2025",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
         "best": 202,
         "rank": {
-          "world": 7628,
-          "continent": 1788,
-          "country": 47
+          "world": 7653,
+          "continent": 1806,
+          "country": 50
         }
       },
       {
         "eventId": "333",
-        "best": 1203,
+        "best": 1153,
         "rank": {
-          "world": 34443,
-          "continent": 12663,
-          "country": 711
+          "world": 30177,
+          "continent": 11088,
+          "country": 659
         }
       },
       {
         "eventId": "333oh",
-        "best": 2335,
+        "best": 2107,
         "rank": {
-          "world": 19462,
-          "continent": 7262,
-          "country": 381
+          "world": 15295,
+          "continent": 5717,
+          "country": 300
         }
       },
       {
         "eventId": "444",
         "best": 7576,
         "rank": {
-          "world": 39294,
-          "continent": 12620,
-          "country": 694
+          "world": 39349,
+          "continent": 12640,
+          "country": 707
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 305,
+        "best": 288,
         "rank": {
-          "world": 4107,
-          "continent": 1049,
-          "country": 41
+          "world": 3275,
+          "continent": 832,
+          "country": 38
         }
       },
       {
         "eventId": "333",
         "best": 1314,
         "rank": {
-          "world": 24317,
-          "continent": 9124,
-          "country": 559
+          "world": 24406,
+          "continent": 9182,
+          "country": 577
         }
       },
       {
         "eventId": "333oh",
-        "best": 2778,
+        "best": 2564,
         "rank": {
-          "world": 17894,
-          "continent": 6872,
-          "country": 366
+          "world": 14652,
+          "continent": 5651,
+          "country": 316
         }
       },
       {
         "eventId": "444",
         "best": 8946,
         "rank": {
-          "world": 38025,
-          "continent": 11883,
-          "country": 667
+          "world": 38077,
+          "continent": 11901,
+          "country": 679
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "Final",
+          "position": 16,
+          "best": 242,
+          "average": 288,
+          "format": "Average of 5",
+          "solves": [
+            295,
+            286,
+            282,
+            568,
+            242
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 15,
+          "best": 203,
+          "average": 311,
+          "format": "Average of 5",
+          "solves": [
+            338,
+            203,
+            299,
+            297,
+            386
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 19,
+          "best": 211,
+          "average": 320,
+          "format": "Average of 5",
+          "solves": [
+            353,
+            323,
+            284,
+            -1,
+            211
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 134,
+          "best": 1153,
+          "average": 1314,
+          "format": "Average of 5",
+          "solves": [
+            1576,
+            1266,
+            1237,
+            1438,
+            1153
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 90,
+          "best": 2107,
+          "average": 2564,
+          "format": "Average of 5",
+          "solves": [
+            2387,
+            2514,
+            2107,
+            -1,
+            2792
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "222": [
         {

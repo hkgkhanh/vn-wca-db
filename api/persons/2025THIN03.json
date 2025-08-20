@@ -3,30 +3,33 @@
   "name": "Trần Quốc Thịnh",
   "slug": "tran-quoc-thinh",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "HCMCVNCWarmUp2025"
+    "HCMCVNCWarmUp2025",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
         "best": 515,
         "rank": {
-          "world": 68637,
-          "continent": 20136,
-          "country": 893
+          "world": 68768,
+          "continent": 20211,
+          "country": 906
         }
       },
       {
         "eventId": "333",
         "best": 2061,
         "rank": {
-          "world": 105285,
-          "continent": 36953,
-          "country": 1871
+          "world": 105471,
+          "continent": 37065,
+          "country": 1900
         }
       }
     ],
@@ -35,23 +38,57 @@
         "eventId": "222",
         "best": 584,
         "rank": {
-          "world": 41869,
-          "continent": 12593,
-          "country": 580
+          "world": 41975,
+          "continent": 12659,
+          "country": 589
         }
       },
       {
         "eventId": "333",
-        "best": 2576,
+        "best": 2565,
         "rank": {
-          "world": 110184,
-          "continent": 38628,
-          "country": 1954
+          "world": 109739,
+          "continent": 38550,
+          "country": 1981
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 145,
+          "best": 580,
+          "average": 729,
+          "format": "Average of 5",
+          "solves": [
+            1117,
+            653,
+            580,
+            821,
+            714
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 214,
+          "best": 2375,
+          "average": 2565,
+          "format": "Average of 5",
+          "solves": [
+            2451,
+            2375,
+            2401,
+            -1,
+            2844
+          ]
+        }
+      ]
+    },
     "HCMCVNCWarmUp2025": {
       "222": [
         {

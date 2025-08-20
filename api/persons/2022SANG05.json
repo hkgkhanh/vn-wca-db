@@ -3,15 +3,17 @@
   "name": "Nguyễn Quang Sáng",
   "slug": "nguyen-quang-sang",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HoChiMinhCityWarmUp2022",
     "HoChiMinhOpen2022",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
@@ -19,45 +21,54 @@
         "eventId": "222",
         "best": 525,
         "rank": {
-          "world": 70707,
-          "continent": 20726,
-          "country": 917
+          "world": 70842,
+          "continent": 20802,
+          "country": 930
         }
       },
       {
         "eventId": "333",
         "best": 1057,
         "rank": {
-          "world": 22248,
-          "continent": 8060,
-          "country": 478
+          "world": 22323,
+          "continent": 8109,
+          "country": 492
         }
       },
       {
         "eventId": "333oh",
         "best": 1662,
         "rank": {
-          "world": 7443,
-          "continent": 2708,
-          "country": 149
+          "world": 7477,
+          "continent": 2729,
+          "country": 154
         }
       },
       {
         "eventId": "444",
-        "best": 4692,
+        "best": 3965,
         "rank": {
-          "world": 14968,
-          "continent": 5247,
-          "country": 288
+          "world": 8206,
+          "continent": 2864,
+          "country": 162
+        }
+      },
+      {
+        "eventId": "555",
+        "best": 7910,
+        "rank": {
+          "world": 6223,
+          "continent": 2090,
+          "country": 114
         }
       },
       {
         "eventId": "skewb",
-        "best": 619,
+        "best": 444,
         "rank": {
-          "world": 17628,
-          "continent": 4503,
-          "country": 128
+          "world": 8945,
+          "continent": 2294,
+          "country": 74
         }
       }
     ],
@@ -66,50 +77,141 @@
         "eventId": "222",
         "best": 738,
         "rank": {
-          "world": 69204,
-          "continent": 20820,
-          "country": 932
+          "world": 69338,
+          "continent": 20904,
+          "country": 951
         }
       },
       {
         "eventId": "333",
         "best": 1167,
         "rank": {
-          "world": 15104,
-          "continent": 5584,
-          "country": 349
+          "world": 15161,
+          "continent": 5627,
+          "country": 363
         }
       },
       {
         "eventId": "333oh",
         "best": 1902,
         "rank": {
-          "world": 5432,
-          "continent": 2055,
-          "country": 121
+          "world": 5460,
+          "continent": 2071,
+          "country": 125
         }
       },
       {
         "eventId": "444",
-        "best": 5602,
+        "best": 4349,
         "rank": {
-          "world": 16994,
-          "continent": 6009,
-          "country": 323
+          "world": 6571,
+          "continent": 2313,
+          "country": 139
+        }
+      },
+      {
+        "eventId": "555",
+        "best": 10533,
+        "rank": {
+          "world": 10982,
+          "continent": 3569,
+          "country": 210
         }
       },
       {
         "eventId": "skewb",
-        "best": 996,
+        "best": 847,
         "rank": {
-          "world": 18849,
-          "continent": 5071,
-          "country": 138
+          "world": 13358,
+          "continent": 3696,
+          "country": 103
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 132,
+          "best": 1059,
+          "average": 1304,
+          "format": "Average of 5",
+          "solves": [
+            1562,
+            1456,
+            1059,
+            1348,
+            1108
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 74,
+          "best": 3965,
+          "average": 4349,
+          "format": "Average of 5",
+          "solves": [
+            4168,
+            4019,
+            3965,
+            4860,
+            7232
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "First round",
+          "position": 88,
+          "best": 7910,
+          "average": 10533,
+          "format": "Average of 5",
+          "solves": [
+            11139,
+            10823,
+            7910,
+            11163,
+            9638
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 64,
+          "best": 1824,
+          "average": 2030,
+          "format": "Average of 5",
+          "solves": [
+            1824,
+            2575,
+            2111,
+            2056,
+            1923
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "First round",
+          "position": 43,
+          "best": 444,
+          "average": 847,
+          "format": "Average of 5",
+          "solves": [
+            1729,
+            683,
+            915,
+            943,
+            444
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2023": {
       "222": [
         {

@@ -3,96 +3,206 @@
   "name": "Cao Nguyễn Thái Dương",
   "slug": "cao-nguyen-thai-duong",
   "country": "VN",
-  "numberOfCompetitions": 4,
+  "numberOfCompetitions": 5,
   "competitionIds": [
     "HoChiMinhCityWarmUp2022",
     "HoChiMinhOpen2022",
     "HoChiMinhSpring2024",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
-        "best": 411,
+        "best": 332,
         "rank": {
-          "world": 46304,
-          "continent": 13169,
-          "country": 563
+          "world": 29733,
+          "continent": 8146,
+          "country": 326
         }
       },
       {
         "eventId": "333",
         "best": 620,
         "rank": {
-          "world": 1340,
-          "continent": 415,
-          "country": 27
+          "world": 1345,
+          "continent": 419,
+          "country": 29
         }
       },
       {
         "eventId": "333oh",
         "best": 1423,
         "rank": {
-          "world": 4125,
-          "continent": 1446,
-          "country": 81
+          "world": 4147,
+          "continent": 1460,
+          "country": 86
         }
       },
       {
         "eventId": "444",
-        "best": 3349,
+        "best": 3030,
         "rank": {
-          "world": 3571,
-          "continent": 1212,
-          "country": 69
+          "world": 1974,
+          "continent": 666,
+          "country": 43
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 497,
+        "best": 447,
         "rank": {
-          "world": 26355,
-          "continent": 7732,
-          "country": 355
+          "world": 18523,
+          "continent": 5327,
+          "country": 240
         }
       },
       {
         "eventId": "333",
         "best": 789,
         "rank": {
-          "world": 1318,
-          "continent": 451,
-          "country": 29
+          "world": 1328,
+          "continent": 459,
+          "country": 31
         }
       },
       {
         "eventId": "333oh",
         "best": 1784,
         "rank": {
-          "world": 4096,
-          "continent": 1511,
-          "country": 88
+          "world": 4117,
+          "continent": 1524,
+          "country": 91
         }
       },
       {
         "eventId": "444",
         "best": 4131,
         "rank": {
-          "world": 5038,
-          "continent": 1778,
-          "country": 98
+          "world": 5073,
+          "continent": 1794,
+          "country": 108
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "Second round",
+          "position": 56,
+          "best": 332,
+          "average": 447,
+          "format": "Average of 5",
+          "solves": [
+            435,
+            503,
+            332,
+            753,
+            402
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 80,
+          "best": 343,
+          "average": 478,
+          "format": "Average of 5",
+          "solves": [
+            634,
+            343,
+            397,
+            702,
+            402
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Semi Final",
+          "position": 17,
+          "best": 730,
+          "average": 848,
+          "format": "Average of 5",
+          "solves": [
+            989,
+            881,
+            831,
+            831,
+            730
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 27,
+          "best": 699,
+          "average": 852,
+          "format": "Average of 5",
+          "solves": [
+            914,
+            867,
+            699,
+            776,
+            -1
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 31,
+          "best": 821,
+          "average": 897,
+          "format": "Average of 5",
+          "solves": [
+            825,
+            998,
+            821,
+            867,
+            1017
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 63,
+          "best": 3030,
+          "average": 4202,
+          "format": "Average of 5",
+          "solves": [
+            4116,
+            4537,
+            3953,
+            5645,
+            3030
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 69,
+          "best": 1607,
+          "average": 2116,
+          "format": "Average of 5",
+          "solves": [
+            3087,
+            1607,
+            2450,
+            2191,
+            1707
+          ]
+        }
+      ]
+    },
     "HoChiMinhSpring2024": {
       "333": [
         {

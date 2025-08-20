@@ -3,58 +3,108 @@
   "name": "Trần Ngọc Anh Khoa",
   "slug": "tran-ngoc-anh-khoa",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "HoChiMinhCityWarmUp2022",
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
       {
         "eventId": "222",
-        "best": 430,
+        "best": 425,
         "rank": {
-          "world": 50416,
-          "continent": 14488,
-          "country": 614
+          "world": 49436,
+          "continent": 14212,
+          "country": 609
         }
       },
       {
         "eventId": "333",
-        "best": 1238,
+        "best": 995,
         "rank": {
-          "world": 37472,
-          "continent": 13819,
-          "country": 780
+          "world": 17692,
+          "continent": 6372,
+          "country": 388
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 497,
+        "best": 460,
         "rank": {
-          "world": 26355,
-          "continent": 7732,
-          "country": 355
+          "world": 20476,
+          "continent": 5930,
+          "country": 283
         }
       },
       {
         "eventId": "333",
-        "best": 1418,
+        "best": 1187,
         "rank": {
-          "world": 31664,
-          "continent": 11914,
-          "country": 704
+          "world": 16353,
+          "continent": 6075,
+          "country": 386
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "222": [
+        {
+          "round": "Second round",
+          "position": 65,
+          "best": 434,
+          "average": 460,
+          "format": "Average of 5",
+          "solves": [
+            434,
+            466,
+            441,
+            570,
+            473
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 83,
+          "best": 425,
+          "average": 484,
+          "format": "Average of 5",
+          "solves": [
+            499,
+            516,
+            425,
+            1024,
+            436
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 104,
+          "best": 995,
+          "average": 1187,
+          "format": "Average of 5",
+          "solves": [
+            1358,
+            1136,
+            1340,
+            1085,
+            995
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2023": {
       "222": [
         {

@@ -3,13 +3,15 @@
   "name": "Phan Hà Tuấn Khanh",
   "slug": "phan-ha-tuan-khanh",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 1,
+  "numberOfChampionships": 2,
   "championshipIds": [
-    "VietnamChampionship2023"
+    "VietnamChampionship2023",
+    "VietnamChampionship2025"
   ],
   "rank": {
     "singles": [
@@ -17,27 +19,27 @@
         "eventId": "222",
         "best": 314,
         "rank": {
-          "world": 26036,
-          "continent": 7025,
-          "country": 266
+          "world": 26111,
+          "continent": 7073,
+          "country": 277
         }
       },
       {
         "eventId": "333",
-        "best": 1595,
+        "best": 1139,
         "rank": {
-          "world": 69173,
-          "continent": 25147,
-          "country": 1390
+          "world": 28896,
+          "continent": 10608,
+          "country": 629
         }
       },
       {
         "eventId": "444",
-        "best": 6593,
+        "best": 4596,
         "rank": {
-          "world": 31942,
-          "continent": 10543,
-          "country": 599
+          "world": 14117,
+          "continent": 4956,
+          "country": 280
         }
       }
     ],
@@ -46,32 +48,66 @@
         "eventId": "222",
         "best": 517,
         "rank": {
-          "world": 29749,
-          "continent": 8786,
-          "country": 408
+          "world": 29830,
+          "continent": 8839,
+          "country": 414
         }
       },
       {
         "eventId": "333",
-        "best": 1737,
+        "best": 1292,
         "rank": {
-          "world": 55714,
-          "continent": 20770,
-          "country": 1195
+          "world": 22930,
+          "continent": 8625,
+          "country": 544
         }
       },
       {
         "eventId": "444",
-        "best": 7363,
+        "best": 5132,
         "rank": {
-          "world": 29992,
-          "continent": 9774,
-          "country": 577
+          "world": 12867,
+          "continent": 4577,
+          "country": 264
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 129,
+          "best": 1139,
+          "average": 1292,
+          "format": "Average of 5",
+          "solves": [
+            1619,
+            1181,
+            1526,
+            1168,
+            1139
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 100,
+          "best": 4596,
+          "average": 5132,
+          "format": "Average of 5",
+          "solves": [
+            6530,
+            5756,
+            4839,
+            4596,
+            4800
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2023": {
       "222": [
         {

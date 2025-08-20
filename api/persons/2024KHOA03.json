@@ -3,37 +3,83 @@
   "name": "Đặng Phạm Anh Khoa",
   "slug": "dang-pham-anh-khoa",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "cubingHCM3x3Winter2024"
+    "cubingHCM3x3Winter2024",
+    "VietnamChampionship2025"
   ],
-  "numberOfChampionships": 0,
-  "championshipIds": [],
+  "numberOfChampionships": 1,
+  "championshipIds": [
+    "VietnamChampionship2025"
+  ],
   "rank": {
     "singles": [
       {
         "eventId": "333",
-        "best": 2752,
+        "best": 2006,
         "rank": {
-          "world": 147247,
-          "continent": 49423,
-          "country": 2268
+          "world": 101482,
+          "continent": 35824,
+          "country": 1856
+        }
+      },
+      {
+        "eventId": "333oh",
+        "best": 4181,
+        "rank": {
+          "world": 45142,
+          "continent": 15641,
+          "country": 732
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 3444,
+        "best": 2115,
         "rank": {
-          "world": 151228,
-          "continent": 50622,
-          "country": 2280
+          "world": 82137,
+          "continent": 29854,
+          "country": 1651
         }
       }
     ]
   },
   "results": {
+    "VietnamChampionship2025": {
+      "333": [
+        {
+          "round": "First round",
+          "position": 203,
+          "best": 2006,
+          "average": 2115,
+          "format": "Average of 5",
+          "solves": [
+            2041,
+            2094,
+            2006,
+            2543,
+            2211
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 132,
+          "best": 4181,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            4181,
+            4582,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "cubingHCM3x3Winter2024": {
       "333": [
         {
