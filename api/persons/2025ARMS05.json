@@ -3,8 +3,9 @@
   "name": "Ryan Armstrong",
   "slug": "ryan-armstrong",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
+    "CubinginTerredise2025",
     "GreatLakesChampionship2025",
     "LandofLincoln2025"
   ],
@@ -14,37 +15,46 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 874,
+        "best": 623,
         "rank": {
-          "world": 121692,
-          "continent": 35446,
-          "country": 1402
+          "world": 89679,
+          "continent": 26459,
+          "country": 1160
         }
       },
       {
         "eventId": "333",
-        "best": 1820,
+        "best": 1684,
         "rank": {
-          "world": 87494,
-          "continent": 31413,
-          "country": 1688
+          "world": 76914,
+          "continent": 27833,
+          "country": 1534
         }
       },
       {
         "eventId": "333oh",
-        "best": 5943,
+        "best": 4466,
         "rank": {
-          "world": 55788,
-          "continent": 18109,
-          "country": 802
+          "world": 47633,
+          "continent": 16287,
+          "country": 755
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 7872,
+        "rank": {
+          "world": 41528,
+          "continent": 13277,
+          "country": 727
         }
       },
       {
         "eventId": "555",
         "best": 20880,
         "rank": {
-          "world": 31582,
-          "continent": 8416,
+          "world": 31733,
+          "continent": 8470,
           "country": 453
         }
       },
@@ -52,17 +62,26 @@
         "eventId": "clock",
         "best": 1716,
         "rank": {
-          "world": 14781,
-          "continent": 3474,
+          "world": 14916,
+          "continent": 3535,
           "country": 100
+        }
+      },
+      {
+        "eventId": "minx",
+        "best": 15908,
+        "rank": {
+          "world": 20161,
+          "continent": 4876,
+          "country": 165
         }
       },
       {
         "eventId": "pyram",
         "best": 614,
         "rank": {
-          "world": 24159,
-          "continent": 6471,
+          "world": 24238,
+          "continent": 6503,
           "country": 159
         }
       },
@@ -70,8 +89,8 @@
         "eventId": "skewb",
         "best": 1511,
         "rank": {
-          "world": 51947,
-          "continent": 12267,
+          "world": 52092,
+          "continent": 12318,
           "country": 394
         }
       }
@@ -79,28 +98,46 @@
     "averages": [
       {
         "eventId": "222",
-        "best": 950,
+        "best": 821,
         "rank": {
-          "world": 97392,
-          "continent": 29002,
-          "country": 1263
+          "world": 81957,
+          "continent": 24647,
+          "country": 1112
         }
       },
       {
         "eventId": "333",
-        "best": 2345,
+        "best": 2130,
         "rank": {
-          "world": 96663,
-          "continent": 34503,
-          "country": 1832
+          "world": 83382,
+          "continent": 30318,
+          "country": 1666
+        }
+      },
+      {
+        "eventId": "333oh",
+        "best": 5415,
+        "rank": {
+          "world": 44537,
+          "continent": 15197,
+          "country": 746
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 9927,
+        "rank": {
+          "world": 41424,
+          "continent": 12794,
+          "country": 705
         }
       },
       {
         "eventId": "clock",
         "best": 1981,
         "rank": {
-          "world": 13388,
-          "continent": 3139,
+          "world": 13524,
+          "continent": 3202,
           "country": 94
         }
       },
@@ -108,8 +145,8 @@
         "eventId": "pyram",
         "best": 1211,
         "rank": {
-          "world": 44528,
-          "continent": 12233,
+          "world": 44676,
+          "continent": 12275,
           "country": 309
         }
       },
@@ -117,14 +154,110 @@
         "eventId": "skewb",
         "best": 1644,
         "rank": {
-          "world": 40390,
-          "continent": 9932,
+          "world": 40507,
+          "continent": 9977,
           "country": 319
         }
       }
     ]
   },
   "results": {
+    "CubinginTerredise2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 40,
+          "best": 623,
+          "average": 821,
+          "format": "Average of 5",
+          "solves": [
+            689,
+            -1,
+            896,
+            878,
+            623
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 40,
+          "best": 1684,
+          "average": 2130,
+          "format": "Average of 5",
+          "solves": [
+            1684,
+            2005,
+            2109,
+            2276,
+            2436
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 43,
+          "best": 2261,
+          "average": 2431,
+          "format": "Average of 5",
+          "solves": [
+            2687,
+            2261,
+            2336,
+            2727,
+            2269
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 34,
+          "best": 7872,
+          "average": 9927,
+          "format": "Average of 5",
+          "solves": [
+            7872,
+            10788,
+            -1,
+            9859,
+            9133
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 32,
+          "best": 4466,
+          "average": 5415,
+          "format": "Average of 5",
+          "solves": [
+            4466,
+            4910,
+            5484,
+            13265,
+            5852
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "First round",
+          "position": 26,
+          "best": 15908,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            17102,
+            15908,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "GreatLakesChampionship2025": {
       "222": [
         {

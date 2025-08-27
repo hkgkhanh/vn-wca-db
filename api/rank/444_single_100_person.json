@@ -199,6 +199,24 @@
   },
   {
     "round": "First round",
+    "position": 3,
+    "best": 2559,
+    "average": 3252,
+    "format": "Average of 5",
+    "solves": [
+      3060,
+      2559,
+      3502,
+      3458,
+      3238
+    ],
+    "competitionId": "BattleGround2025",
+    "competitionName": "Battle Ground 2025",
+    "personId": "2015LUON01",
+    "personName": "Quan Trần Thanh Lương"
+  },
+  {
+    "round": "First round",
     "position": 6,
     "best": 2574,
     "average": 2837,
@@ -340,24 +358,6 @@
     "competitionName": "Hanoi COP Open 2024",
     "personId": "2019ANHT01",
     "personName": "Trần Đình Anh"
-  },
-  {
-    "round": "First round",
-    "position": 160,
-    "best": 2725,
-    "average": 3166,
-    "format": "Average of 5",
-    "solves": [
-      3977,
-      2725,
-      3103,
-      3202,
-      3193
-    ],
-    "competitionId": "WC2025",
-    "competitionName": "Rubik's WCA World Championship 2025",
-    "personId": "2015LUON01",
-    "personName": "Quan Trần Thanh Lương"
   },
   {
     "round": "Second round",
@@ -682,6 +682,24 @@
     "competitionName": "Vietnam Championship 2025",
     "personId": "2022NAMT03",
     "personName": "Trần Hoàng Bảo Nam"
+  },
+  {
+    "round": "Final",
+    "position": 5,
+    "best": 3007,
+    "average": 3264,
+    "format": "Average of 5",
+    "solves": [
+      3205,
+      3462,
+      3124,
+      3602,
+      3007
+    ],
+    "competitionId": "UCLAWesternsWarmup2025",
+    "competitionName": "UCLA Westerns Warmup 2025",
+    "personId": "2022NGUY24",
+    "personName": "Khôi Minh Nguyễn"
   },
   {
     "round": "Second round",
@@ -1780,23 +1798,5 @@
     "competitionName": "Melbourne Summer 2020",
     "personId": "2016PHAM06",
     "personName": "Tu Pham"
-  },
-  {
-    "round": "Final",
-    "position": 10,
-    "best": 3506,
-    "average": 4616,
-    "format": "Average of 5",
-    "solves": [
-      5801,
-      5004,
-      4338,
-      3506,
-      4505
-    ],
-    "competitionId": "HoChiMinhCityOpen2017",
-    "competitionName": "Ho Chi Minh City Open 2017",
-    "personId": "2014HIPH01",
-    "personName": "Phan Thanh Hải"
   }
 ]
