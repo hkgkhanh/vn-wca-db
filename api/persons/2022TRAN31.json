@@ -3,9 +3,10 @@
   "name": "Do Phuoc An Tran",
   "slug": "do-phuoc-an-tran",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "CubeWithIntentioninDenton2022",
+    "DFWBacktoSchool2025",
     "DFWMinicompA2024",
     "PretzelManiaDallas2023"
   ],
@@ -17,8 +18,8 @@
         "eventId": "333",
         "best": 1019,
         "rank": {
-          "world": 19567,
-          "continent": 7097,
+          "world": 19624,
+          "continent": 7107,
           "country": 427
         }
       }
@@ -26,16 +27,62 @@
     "averages": [
       {
         "eventId": "333",
-        "best": 1308,
+        "best": 1270,
         "rank": {
-          "world": 24119,
-          "continent": 9098,
-          "country": 569
+          "world": 21704,
+          "continent": 8133,
+          "country": 515
         }
       }
     ]
   },
   "results": {
+    "DFWBacktoSchool2025": {
+      "333": [
+        {
+          "round": "Semi Final",
+          "position": 27,
+          "best": 1190,
+          "average": 1294,
+          "format": "Average of 5",
+          "solves": [
+            1232,
+            1358,
+            1494,
+            1190,
+            1292
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 28,
+          "best": 1092,
+          "average": 1287,
+          "format": "Average of 5",
+          "solves": [
+            1280,
+            1092,
+            1666,
+            1389,
+            1192
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 26,
+          "best": 1166,
+          "average": 1270,
+          "format": "Average of 5",
+          "solves": [
+            1305,
+            1166,
+            1270,
+            1261,
+            1278
+          ]
+        }
+      ]
+    },
     "DFWMinicompA2024": {
       "333": [
         {

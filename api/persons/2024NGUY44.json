@@ -3,14 +3,15 @@
   "name": "Shin Nguyen",
   "slug": "shin-nguyen",
   "country": "VN",
-  "numberOfCompetitions": 6,
+  "numberOfCompetitions": 7,
   "competitionIds": [
     "JohnsonvilleFTOpen2025",
     "JustSolveinJohnsonville2025",
     "KubinginKapiti2024",
     "NZNorthIslandChampionship2024",
     "NZNorthIslandChampionship2025",
-    "OnlyCubesinWellington2024"
+    "OnlyCubesinWellington2024",
+    "SolveWellinWellington2025"
   ],
   "numberOfChampionships": 0,
   "championshipIds": [],
@@ -18,19 +19,19 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 410,
+        "best": 194,
         "rank": {
-          "world": 46418,
-          "continent": 13250,
-          "country": 574
+          "world": 6917,
+          "continent": 1614,
+          "country": 45
         }
       },
       {
         "eventId": "333",
         "best": 1293,
         "rank": {
-          "world": 42764,
-          "continent": 15854,
+          "world": 42870,
+          "continent": 15875,
           "country": 913
         }
       },
@@ -38,26 +39,26 @@
         "eventId": "444",
         "best": 5604,
         "rank": {
-          "world": 23853,
-          "continent": 8169,
+          "world": 23898,
+          "continent": 8178,
           "country": 475
         }
       },
       {
         "eventId": "pyram",
-        "best": 727,
+        "best": 393,
         "rank": {
-          "world": 34904,
-          "continent": 9293,
-          "country": 232
+          "world": 8298,
+          "continent": 2230,
+          "country": 51
         }
       },
       {
         "eventId": "skewb",
         "best": 800,
         "rank": {
-          "world": 27111,
-          "continent": 6840,
+          "world": 27206,
+          "continent": 6848,
           "country": 223
         }
       }
@@ -65,52 +66,188 @@
     "averages": [
       {
         "eventId": "222",
-        "best": 469,
+        "best": 460,
         "rank": {
-          "world": 21970,
-          "continent": 6416,
-          "country": 305
+          "world": 20638,
+          "continent": 5990,
+          "country": 283
         }
       },
       {
         "eventId": "333",
         "best": 1569,
         "rank": {
-          "world": 43369,
-          "continent": 16371,
-          "country": 967
+          "world": 43502,
+          "continent": 16403,
+          "country": 968
         }
       },
       {
         "eventId": "444",
         "best": 6887,
         "rank": {
-          "world": 27089,
-          "continent": 9066,
+          "world": 27157,
+          "continent": 9076,
           "country": 529
         }
       },
       {
         "eventId": "pyram",
-        "best": 1116,
+        "best": 1027,
         "rank": {
-          "world": 37137,
-          "continent": 10237,
-          "country": 258
+          "world": 30548,
+          "continent": 8528,
+          "country": 208
         }
       },
       {
         "eventId": "skewb",
         "best": 1416,
         "rank": {
-          "world": 33958,
-          "continent": 8525,
+          "world": 34065,
+          "continent": 8530,
           "country": 277
         }
       }
     ]
   },
   "results": {
+    "SolveWellinWellington2025": {
+      "222": [
+        {
+          "round": "Final",
+          "position": 18,
+          "best": 457,
+          "average": 577,
+          "format": "Average of 5",
+          "solves": [
+            518,
+            457,
+            581,
+            673,
+            633
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 18,
+          "best": 194,
+          "average": 460,
+          "format": "Average of 5",
+          "solves": [
+            445,
+            194,
+            474,
+            630,
+            461
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 20,
+          "best": 488,
+          "average": 572,
+          "format": "Average of 5",
+          "solves": [
+            644,
+            658,
+            549,
+            523,
+            488
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Final",
+          "position": 23,
+          "best": 1498,
+          "average": 1775,
+          "format": "Average of 5",
+          "solves": [
+            1498,
+            1628,
+            1992,
+            1746,
+            1952
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 23,
+          "best": 1355,
+          "average": 1596,
+          "format": "Average of 5",
+          "solves": [
+            1762,
+            1355,
+            1436,
+            1706,
+            1646
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 21,
+          "best": 1343,
+          "average": 1618,
+          "format": "Average of 5",
+          "solves": [
+            2085,
+            1557,
+            1662,
+            1634,
+            1343
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 23,
+          "best": 6180,
+          "average": 7004,
+          "format": "Average of 5",
+          "solves": [
+            6640,
+            6180,
+            7131,
+            7240,
+            7350
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "Second round",
+          "position": 21,
+          "best": 946,
+          "average": 1172,
+          "format": "Average of 5",
+          "solves": [
+            1038,
+            1418,
+            1061,
+            946,
+            1651
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 19,
+          "best": 393,
+          "average": 1027,
+          "format": "Average of 5",
+          "solves": [
+            1438,
+            1677,
+            729,
+            393,
+            913
+          ]
+        }
+      ]
+    },
     "NZNorthIslandChampionship2025": {
       "222": [
         {
