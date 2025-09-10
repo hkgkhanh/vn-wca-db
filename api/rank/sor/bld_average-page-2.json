@@ -690,8 +690,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -736,12 +736,12 @@
       },
       "sor": {
         "333": {
-          "single": 1268,
-          "average": 1123
+          "single": 1267,
+          "average": 1122
         },
         "all": {
-          "single": 2593,
-          "average": 2200
+          "single": 2592,
+          "average": 2199
         },
         "nxn": {
           "single": 1162,
@@ -1163,7 +1163,7 @@
         },
         "skewb": {
           "single": 200,
-          "average": 167
+          "average": 168
         },
         "sq1": {
           "single": 58,
@@ -1177,7 +1177,7 @@
         },
         "all": {
           "single": 1496,
-          "average": 1202
+          "average": 1203
         },
         "nxn": {
           "single": 791,
@@ -1189,11 +1189,11 @@
         },
         "sprint": {
           "single": 405,
-          "average": 325
+          "average": 326
         },
         "side": {
           "single": 421,
-          "average": 377
+          "average": 378
         },
         "bld": {
           "single": 122,
@@ -1220,7 +1220,7 @@
         },
         "444": {
           "single": 950,
-          "average": 742
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -1235,8 +1235,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -1281,20 +1281,20 @@
       },
       "sor": {
         "333": {
-          "single": 2995,
-          "average": 2860
+          "single": 2994,
+          "average": 2859
         },
         "all": {
-          "single": 5384,
-          "average": 4994
+          "single": 5383,
+          "average": 4992
         },
         "nxn": {
           "single": 3900,
-          "average": 3762
+          "average": 3761
         },
         "big": {
           "single": 1737,
-          "average": 1342
+          "average": 1341
         },
         "sprint": {
           "single": 263,
@@ -1490,7 +1490,7 @@
         },
         "skewb": {
           "single": 197,
-          "average": 173
+          "average": 174
         },
         "sq1": {
           "single": 140,
@@ -1504,7 +1504,7 @@
         },
         "all": {
           "single": 1874,
-          "average": 1517
+          "average": 1518
         },
         "nxn": {
           "single": 1146,
@@ -1516,11 +1516,11 @@
         },
         "sprint": {
           "single": 266,
-          "average": 251
+          "average": 252
         },
         "side": {
           "single": 417,
-          "average": 389
+          "average": 390
         },
         "bld": {
           "single": 122,
@@ -1547,7 +1547,7 @@
         },
         "444": {
           "single": 764,
-          "average": 742
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -1613,15 +1613,15 @@
         },
         "all": {
           "single": 3894,
-          "average": 3850
+          "average": 3849
         },
         "nxn": {
           "single": 2625,
-          "average": 2679
+          "average": 2678
         },
         "big": {
           "single": 1551,
-          "average": 1342
+          "average": 1341
         },
         "sprint": {
           "single": 378,
@@ -1739,6 +1739,115 @@
         "side": {
           "single": 487,
           "average": 402
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 23,
+      "personId": "2022PHAM08",
+      "personName": "Alex Pham",
+      "rank": {
+        "222": {
+          "single": 29,
+          "average": 80
+        },
+        "333": {
+          "single": 46,
+          "average": 80
+        },
+        "444": {
+          "single": 88,
+          "average": 87
+        },
+        "555": {
+          "single": 116,
+          "average": 117
+        },
+        "666": {
+          "single": 68,
+          "average": 75
+        },
+        "777": {
+          "single": 93,
+          "average": 85
+        },
+        "333oh": {
+          "single": 51,
+          "average": 108
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 47,
+          "average": 44
+        },
+        "minx": {
+          "single": 51,
+          "average": 48
+        },
+        "pyram": {
+          "single": 36,
+          "average": 38
+        },
+        "skewb": {
+          "single": 149,
+          "average": 146
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 270,
+          "average": 235
+        },
+        "all": {
+          "single": 1101,
+          "average": 1085
+        },
+        "nxn": {
+          "single": 440,
+          "average": 524
+        },
+        "big": {
+          "single": 365,
+          "average": 364
+        },
+        "sprint": {
+          "single": 214,
+          "average": 264
+        },
+        "side": {
+          "single": 423,
+          "average": 403
         },
         "bld": {
           "single": 122,
@@ -1889,8 +1998,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -1935,12 +2044,12 @@
       },
       "sor": {
         "333": {
-          "single": 1202,
-          "average": 1046
+          "single": 1201,
+          "average": 1045
         },
         "all": {
-          "single": 2503,
-          "average": 2258
+          "single": 2502,
+          "average": 2257
         },
         "nxn": {
           "single": 981,
@@ -2083,8 +2192,8 @@
       "personName": "Bùi Minh Đức",
       "rank": {
         "222": {
-          "single": 1567,
-          "average": 1542
+          "single": 1566,
+          "average": 1541
         },
         "333": {
           "single": 511,
@@ -2107,8 +2216,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -2153,137 +2262,28 @@
       },
       "sor": {
         "333": {
-          "single": 1531,
-          "average": 1543
+          "single": 1530,
+          "average": 1542
         },
         "all": {
-          "single": 4740,
-          "average": 4355
+          "single": 4738,
+          "average": 4353
         },
         "nxn": {
-          "single": 3110,
-          "average": 3070
+          "single": 3109,
+          "average": 3069
         },
         "big": {
           "single": 1032,
           "average": 836
         },
         "sprint": {
-          "single": 1716,
-          "average": 1620
+          "single": 1715,
+          "average": 1619
         },
         "side": {
           "single": 596,
           "average": 431
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 23,
-      "personId": "2022PHAM08",
-      "personName": "Alex Pham",
-      "rank": {
-        "222": {
-          "single": 29,
-          "average": 80
-        },
-        "333": {
-          "single": 46,
-          "average": 80
-        },
-        "444": {
-          "single": 88,
-          "average": 87
-        },
-        "555": {
-          "single": 116,
-          "average": 135
-        },
-        "666": {
-          "single": 68,
-          "average": 75
-        },
-        "777": {
-          "single": 93,
-          "average": 85
-        },
-        "333oh": {
-          "single": 51,
-          "average": 108
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 47,
-          "average": 46
-        },
-        "minx": {
-          "single": 51,
-          "average": 48
-        },
-        "pyram": {
-          "single": 36,
-          "average": 38
-        },
-        "skewb": {
-          "single": 149,
-          "average": 178
-        },
-        "sq1": {
-          "single": 140,
-          "average": 127
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 270,
-          "average": 235
-        },
-        "all": {
-          "single": 1101,
-          "average": 1137
-        },
-        "nxn": {
-          "single": 440,
-          "average": 542
-        },
-        "big": {
-          "single": 365,
-          "average": 382
-        },
-        "sprint": {
-          "single": 214,
-          "average": 296
-        },
-        "side": {
-          "single": 423,
-          "average": 437
         },
         "bld": {
           "single": 122,
@@ -2761,8 +2761,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -2807,12 +2807,12 @@
       },
       "sor": {
         "333": {
-          "single": 1188,
-          "average": 955
+          "single": 1187,
+          "average": 954
         },
         "all": {
-          "single": 3002,
-          "average": 2380
+          "single": 3001,
+          "average": 2379
         },
         "nxn": {
           "single": 1365,
@@ -3290,8 +3290,8 @@
           "average": 163
         },
         "444": {
-          "single": 1004,
-          "average": 742
+          "single": 1003,
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -3356,16 +3356,16 @@
           "average": 470
         },
         "all": {
-          "single": 3272,
-          "average": 2379
+          "single": 3271,
+          "average": 2378
         },
         "nxn": {
-          "single": 2176,
-          "average": 1581
+          "single": 2175,
+          "average": 1580
         },
         "big": {
-          "single": 1791,
-          "average": 1342
+          "single": 1790,
+          "average": 1341
         },
         "sprint": {
           "single": 255,
@@ -3399,8 +3399,8 @@
           "average": 702
         },
         "444": {
-          "single": 1004,
-          "average": 742
+          "single": 1003,
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -3415,8 +3415,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -3461,20 +3461,20 @@
       },
       "sor": {
         "333": {
-          "single": 1642,
-          "average": 1553
+          "single": 1641,
+          "average": 1552
         },
         "all": {
-          "single": 4070,
-          "average": 3408
+          "single": 4068,
+          "average": 3406
         },
         "nxn": {
-          "single": 2424,
-          "average": 2058
+          "single": 2423,
+          "average": 2057
         },
         "big": {
-          "single": 1791,
-          "average": 1342
+          "single": 1790,
+          "average": 1341
         },
         "sprint": {
           "single": 93,
@@ -3622,7 +3622,7 @@
         },
         "555": {
           "single": 99,
-          "average": 119
+          "average": 120
         },
         "666": {
           "single": 44,
@@ -3684,15 +3684,15 @@
         },
         "all": {
           "single": 2478,
-          "average": 2217
+          "average": 2218
         },
         "nxn": {
           "single": 1621,
-          "average": 1492
+          "average": 1493
         },
         "big": {
           "single": 336,
-          "average": 337
+          "average": 338
         },
         "sprint": {
           "single": 1178,
@@ -3997,7 +3997,7 @@
         },
         "skewb": {
           "single": 217,
-          "average": 156
+          "average": 157
         },
         "sq1": {
           "single": 140,
@@ -4011,7 +4011,7 @@
         },
         "all": {
           "single": 2071,
-          "average": 1597
+          "average": 1598
         },
         "nxn": {
           "single": 895,
@@ -4023,11 +4023,11 @@
         },
         "sprint": {
           "single": 432,
-          "average": 296
+          "average": 297
         },
         "side": {
           "single": 636,
-          "average": 536
+          "average": 537
         },
         "bld": {
           "single": 122,
@@ -4053,8 +4053,8 @@
           "average": 1854
         },
         "444": {
-          "single": 1004,
-          "average": 742
+          "single": 1003,
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -4069,8 +4069,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -4115,20 +4115,20 @@
       },
       "sor": {
         "333": {
-          "single": 2991,
-          "average": 2705
+          "single": 2990,
+          "average": 2704
         },
         "all": {
-          "single": 5863,
-          "average": 4852
+          "single": 5861,
+          "average": 4850
         },
         "nxn": {
-          "single": 4157,
-          "average": 3451
+          "single": 4156,
+          "average": 3450
         },
         "big": {
-          "single": 1791,
-          "average": 1342
+          "single": 1790,
+          "average": 1341
         },
         "sprint": {
           "single": 537,
@@ -4913,115 +4913,6 @@
     },
     {
       "actualRank": 23,
-      "personId": "2023HUYH01",
-      "personName": "Hoàng Gia Huy",
-      "rank": {
-        "222": {
-          "single": 484,
-          "average": 329
-        },
-        "333": {
-          "single": 550,
-          "average": 581
-        },
-        "444": {
-          "single": 553,
-          "average": 511
-        },
-        "555": {
-          "single": 503,
-          "average": 365
-        },
-        "666": {
-          "single": 159,
-          "average": 137
-        },
-        "777": {
-          "single": 125,
-          "average": 98
-        },
-        "333oh": {
-          "single": 358,
-          "average": 364
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 170,
-          "average": 146
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 77,
-          "average": 56
-        },
-        "skewb": {
-          "single": 166,
-          "average": 159
-        },
-        "sq1": {
-          "single": 67,
-          "average": 68
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 1081,
-          "average": 992
-        },
-        "all": {
-          "single": 3619,
-          "average": 3016
-        },
-        "nxn": {
-          "single": 2374,
-          "average": 2021
-        },
-        "big": {
-          "single": 1340,
-          "average": 1111
-        },
-        "sprint": {
-          "single": 727,
-          "average": 544
-        },
-        "side": {
-          "single": 700,
-          "average": 581
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 23,
       "personId": "2017NAMH03",
       "personName": "Huỳnh Phong Nam",
       "rank": {
@@ -5118,6 +5009,115 @@
         "side": {
           "single": 719,
           "average": 581
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 23,
+      "personId": "2023HUYH01",
+      "personName": "Hoàng Gia Huy",
+      "rank": {
+        "222": {
+          "single": 484,
+          "average": 329
+        },
+        "333": {
+          "single": 550,
+          "average": 581
+        },
+        "444": {
+          "single": 553,
+          "average": 511
+        },
+        "555": {
+          "single": 503,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 358,
+          "average": 364
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 170,
+          "average": 146
+        },
+        "minx": {
+          "single": 220,
+          "average": 152
+        },
+        "pyram": {
+          "single": 77,
+          "average": 56
+        },
+        "skewb": {
+          "single": 166,
+          "average": 160
+        },
+        "sq1": {
+          "single": 67,
+          "average": 68
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 1081,
+          "average": 992
+        },
+        "all": {
+          "single": 3619,
+          "average": 3017
+        },
+        "nxn": {
+          "single": 2374,
+          "average": 2021
+        },
+        "big": {
+          "single": 1340,
+          "average": 1111
+        },
+        "sprint": {
+          "single": 727,
+          "average": 545
+        },
+        "side": {
+          "single": 700,
+          "average": 582
         },
         "bld": {
           "single": 122,
@@ -5353,16 +5353,16 @@
       "personName": "Nguyễn Thanh Long",
       "rank": {
         "222": {
-          "single": 1567,
-          "average": 1542
+          "single": 1566,
+          "average": 1541
         },
         "333": {
           "single": 702,
           "average": 466
         },
         "444": {
-          "single": 1004,
-          "average": 742
+          "single": 1003,
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -5427,133 +5427,24 @@
           "average": 988
         },
         "all": {
-          "single": 5563,
-          "average": 4469
+          "single": 5561,
+          "average": 4467
         },
         "nxn": {
-          "single": 4060,
-          "average": 3350
+          "single": 4058,
+          "average": 3348
         },
         "big": {
-          "single": 1791,
-          "average": 1342
+          "single": 1790,
+          "average": 1341
         },
         "sprint": {
-          "single": 1816,
-          "average": 1711
+          "single": 1815,
+          "average": 1710
         },
         "side": {
           "single": 779,
           "average": 594
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 23,
-      "personId": "2018TUAN03",
-      "personName": "Ninh Nguyễn Phạm Tuân",
-      "rank": {
-        "222": {
-          "single": 202,
-          "average": 285
-        },
-        "333": {
-          "single": 339,
-          "average": 306
-        },
-        "444": {
-          "single": 380,
-          "average": 399
-        },
-        "555": {
-          "single": 503,
-          "average": 365
-        },
-        "666": {
-          "single": 159,
-          "average": 137
-        },
-        "777": {
-          "single": 125,
-          "average": 98
-        },
-        "333oh": {
-          "single": 178,
-          "average": 120
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 49,
-          "average": 53
-        },
-        "minx": {
-          "single": 43,
-          "average": 49
-        },
-        "pyram": {
-          "single": 67,
-          "average": 220
-        },
-        "skewb": {
-          "single": 140,
-          "average": 146
-        },
-        "sq1": {
-          "single": 140,
-          "average": 127
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 690,
-          "average": 473
-        },
-        "all": {
-          "single": 2512,
-          "average": 2355
-        },
-        "nxn": {
-          "single": 1708,
-          "average": 1590
-        },
-        "big": {
-          "single": 1167,
-          "average": 999
-        },
-        "sprint": {
-          "single": 409,
-          "average": 651
-        },
-        "side": {
-          "single": 439,
-          "average": 595
         },
         "bld": {
           "single": 122,
@@ -5663,6 +5554,115 @@
         "side": {
           "single": 750,
           "average": 595
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 23,
+      "personId": "2018TUAN03",
+      "personName": "Ninh Nguyễn Phạm Tuân",
+      "rank": {
+        "222": {
+          "single": 202,
+          "average": 285
+        },
+        "333": {
+          "single": 339,
+          "average": 306
+        },
+        "444": {
+          "single": 380,
+          "average": 399
+        },
+        "555": {
+          "single": 503,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 178,
+          "average": 120
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 49,
+          "average": 53
+        },
+        "minx": {
+          "single": 43,
+          "average": 49
+        },
+        "pyram": {
+          "single": 67,
+          "average": 220
+        },
+        "skewb": {
+          "single": 140,
+          "average": 147
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 690,
+          "average": 473
+        },
+        "all": {
+          "single": 2512,
+          "average": 2356
+        },
+        "nxn": {
+          "single": 1708,
+          "average": 1590
+        },
+        "big": {
+          "single": 1167,
+          "average": 999
+        },
+        "sprint": {
+          "single": 409,
+          "average": 652
+        },
+        "side": {
+          "single": 439,
+          "average": 596
         },
         "bld": {
           "single": 122,
@@ -5850,7 +5850,7 @@
         },
         "skewb": {
           "single": 221,
-          "average": 171
+          "average": 172
         },
         "sq1": {
           "single": 132,
@@ -5864,7 +5864,7 @@
         },
         "all": {
           "single": 3975,
-          "average": 4077
+          "average": 4078
         },
         "nxn": {
           "single": 2557,
@@ -5876,11 +5876,11 @@
         },
         "sprint": {
           "single": 854,
-          "average": 1029
+          "average": 1030
         },
         "side": {
           "single": 681,
-          "average": 601
+          "average": 602
         },
         "bld": {
           "single": 122,
@@ -6031,8 +6031,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -6077,12 +6077,12 @@
       },
       "sor": {
         "333": {
-          "single": 1363,
-          "average": 1113
+          "single": 1362,
+          "average": 1112
         },
         "all": {
-          "single": 2794,
-          "average": 2500
+          "single": 2793,
+          "average": 2499
         },
         "nxn": {
           "single": 1021,
@@ -6250,7 +6250,7 @@
         },
         "333oh": {
           "single": 774,
-          "average": 804
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -6296,11 +6296,11 @@
       "sor": {
         "333": {
           "single": 1247,
-          "average": 1168
+          "average": 1167
         },
         "all": {
           "single": 2967,
-          "average": 2869
+          "average": 2868
         },
         "nxn": {
           "single": 1232,
@@ -6467,8 +6467,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -6513,12 +6513,12 @@
       },
       "sor": {
         "333": {
-          "single": 1393,
-          "average": 1241
+          "single": 1392,
+          "average": 1240
         },
         "all": {
-          "single": 3649,
-          "average": 3228
+          "single": 3648,
+          "average": 3227
         },
         "nxn": {
           "single": 1894,
@@ -6722,7 +6722,7 @@
         },
         "skewb": {
           "single": 38,
-          "average": 147
+          "average": 148
         },
         "sq1": {
           "single": 140,
@@ -6736,7 +6736,7 @@
         },
         "all": {
           "single": 2401,
-          "average": 2409
+          "average": 2410
         },
         "nxn": {
           "single": 1025,
@@ -6748,11 +6748,11 @@
         },
         "sprint": {
           "single": 479,
-          "average": 725
+          "average": 726
         },
         "side": {
           "single": 585,
-          "average": 642
+          "average": 643
         },
         "bld": {
           "single": 122,
@@ -7106,7 +7106,7 @@
         },
         "444": {
           "single": 587,
-          "average": 742
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -7172,15 +7172,15 @@
         },
         "all": {
           "single": 4063,
-          "average": 3911
+          "average": 3910
         },
         "nxn": {
           "single": 2446,
-          "average": 2560
+          "average": 2559
         },
         "big": {
           "single": 1374,
-          "average": 1342
+          "average": 1341
         },
         "sprint": {
           "single": 717,
@@ -7376,7 +7376,7 @@
         },
         "skewb": {
           "single": 187,
-          "average": 154
+          "average": 155
         },
         "sq1": {
           "single": 140,
@@ -7390,7 +7390,7 @@
         },
         "all": {
           "single": 3275,
-          "average": 2621
+          "average": 2622
         },
         "nxn": {
           "single": 1718,
@@ -7402,11 +7402,11 @@
         },
         "sprint": {
           "single": 488,
-          "average": 384
+          "average": 385
         },
         "side": {
           "single": 841,
-          "average": 661
+          "average": 662
         },
         "bld": {
           "single": 122,
@@ -8305,7 +8305,7 @@
         },
         "444": {
           "single": 762,
-          "average": 742
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -8320,8 +8320,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -8366,20 +8366,20 @@
       },
       "sor": {
         "333": {
-          "single": 1603,
-          "average": 1501
+          "single": 1602,
+          "average": 1500
         },
         "all": {
-          "single": 4240,
-          "average": 4429
+          "single": 4239,
+          "average": 4427
         },
         "nxn": {
           "single": 2343,
-          "average": 2880
+          "average": 2879
         },
         "big": {
           "single": 1549,
-          "average": 1342
+          "average": 1341
         },
         "sprint": {
           "single": 544,
@@ -8756,8 +8756,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -8802,12 +8802,12 @@
       },
       "sor": {
         "333": {
-          "single": 2038,
-          "average": 2132
+          "single": 2037,
+          "average": 2131
         },
         "all": {
-          "single": 5509,
-          "average": 5093
+          "single": 5508,
+          "average": 5092
         },
         "nxn": {
           "single": 3543,
@@ -9229,7 +9229,7 @@
         },
         "skewb": {
           "single": 208,
-          "average": 158
+          "average": 159
         },
         "sq1": {
           "single": 140,
@@ -9243,7 +9243,7 @@
         },
         "all": {
           "single": 1939,
-          "average": 1946
+          "average": 1947
         },
         "nxn": {
           "single": 738,
@@ -9255,11 +9255,11 @@
         },
         "sprint": {
           "single": 468,
-          "average": 530
+          "average": 531
         },
         "side": {
           "single": 782,
-          "average": 708
+          "average": 709
         },
         "bld": {
           "single": 122,
@@ -9410,8 +9410,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -9456,12 +9456,12 @@
       },
       "sor": {
         "333": {
-          "single": 1692,
-          "average": 1329
+          "single": 1691,
+          "average": 1328
         },
         "all": {
-          "single": 4402,
-          "average": 3834
+          "single": 4401,
+          "average": 3833
         },
         "nxn": {
           "single": 2666,
@@ -9504,7 +9504,7 @@
         },
         "444": {
           "single": 808,
-          "average": 742
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -9570,15 +9570,15 @@
         },
         "all": {
           "single": 4927,
-          "average": 4360
+          "average": 4359
         },
         "nxn": {
           "single": 3167,
-          "average": 2874
+          "average": 2873
         },
         "big": {
           "single": 1595,
-          "average": 1342
+          "average": 1341
         },
         "sprint": {
           "single": 1329,
@@ -9613,7 +9613,7 @@
         },
         "444": {
           "single": 851,
-          "average": 742
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -9679,15 +9679,15 @@
         },
         "all": {
           "single": 5809,
-          "average": 4883
+          "average": 4882
         },
         "nxn": {
           "single": 4136,
-          "average": 3513
+          "average": 3512
         },
         "big": {
           "single": 1638,
-          "average": 1342
+          "average": 1341
         },
         "sprint": {
           "single": 1077,
@@ -9774,7 +9774,7 @@
         },
         "skewb": {
           "single": 219,
-          "average": 152
+          "average": 153
         },
         "sq1": {
           "single": 140,
@@ -9788,7 +9788,7 @@
         },
         "all": {
           "single": 4594,
-          "average": 4078
+          "average": 4079
         },
         "nxn": {
           "single": 3093,
@@ -9800,11 +9800,11 @@
         },
         "sprint": {
           "single": 1225,
-          "average": 996
+          "average": 997
         },
         "side": {
           "single": 696,
-          "average": 728
+          "average": 729
         },
         "bld": {
           "single": 122,
@@ -9846,8 +9846,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -9892,12 +9892,12 @@
       },
       "sor": {
         "333": {
-          "single": 1147,
-          "average": 1067
+          "single": 1146,
+          "average": 1066
         },
         "all": {
-          "single": 3126,
-          "average": 2649
+          "single": 3125,
+          "average": 2648
         },
         "nxn": {
           "single": 1293,
@@ -10048,8 +10048,8 @@
           "average": 860
         },
         "444": {
-          "single": 1004,
-          "average": 742
+          "single": 1003,
+          "average": 741
         },
         "555": {
           "single": 503,
@@ -10114,16 +10114,16 @@
           "average": 1332
         },
         "all": {
-          "single": 5227,
-          "average": 3973
+          "single": 5226,
+          "average": 3972
         },
         "nxn": {
-          "single": 3616,
-          "average": 2765
+          "single": 3615,
+          "average": 2764
         },
         "big": {
-          "single": 1791,
-          "average": 1342
+          "single": 1790,
+          "average": 1341
         },
         "sprint": {
           "single": 1160,
@@ -10283,7 +10283,7 @@
         },
         "333oh": {
           "single": 788,
-          "average": 804
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -10329,11 +10329,11 @@
       "sor": {
         "333": {
           "single": 1222,
-          "average": 1079
+          "average": 1078
         },
         "all": {
           "single": 4201,
-          "average": 3393
+          "average": 3392
         },
         "nxn": {
           "single": 2403,
@@ -10500,8 +10500,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -10546,12 +10546,12 @@
       },
       "sor": {
         "333": {
-          "single": 2203,
-          "average": 2011
+          "single": 2202,
+          "average": 2010
         },
         "all": {
-          "single": 5337,
-          "average": 4688
+          "single": 5336,
+          "average": 4687
         },
         "nxn": {
           "single": 3410,
@@ -10827,8 +10827,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 847,
-          "average": 804
+          "single": 846,
+          "average": 803
         },
         "333bf": {
           "single": 91,
@@ -10873,12 +10873,12 @@
       },
       "sor": {
         "333": {
-          "single": 1626,
-          "average": 1473
+          "single": 1625,
+          "average": 1472
         },
         "all": {
-          "single": 3997,
-          "average": 3419
+          "single": 3996,
+          "average": 3418
         },
         "nxn": {
           "single": 1996,
