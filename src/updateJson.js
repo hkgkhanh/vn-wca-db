@@ -102,6 +102,7 @@ async function fetchChampionships() {
 async function fetchPersons() {
 	try {
 		let persons = [];
+		let competitionsById = {};
 		let events_paricipants = {
 			"222": {
 				"single": 0,
@@ -184,6 +185,32 @@ async function fetchPersons() {
 		for (let i = 0; i < data.items.length; i++) {
 			let person = data.items[i];
 			if (person.country == "VN" && !UNCOUNTED_PEOPLE.includes(person.id)) {
+
+				person.competitionsById = {};
+
+				for (let j = 0; j < person.competitionIds.length; j++) {
+					const compId = person.competitionIds[j];
+
+					// check if already cached
+					if (competitionsById[compId]) {
+						person.competitionsById[compId] = competitionsById[compId];
+					} else {
+						// not cached, fetch it
+						const compres = await fetch(`${API_URL}/competitions/${compId}.json`);
+						if (!compres.ok) {
+							throw new Error(`API returned status ${compres.status}`);
+						}
+
+						const compdata = await compres.json();
+
+						// add to both caches
+						competitionsById[compdata.id] = compdata.name;
+						person.competitionsById[compdata.id] = compdata.name;
+					}
+				}
+
+				// console.log(person);
+
 				persons.push(person);
 				fs.writeFileSync(path.join(__dirname, `../api/persons/${person.id}.json`), JSON.stringify(person, null, 2), 'utf-8');
 
@@ -214,6 +241,29 @@ async function fetchPersons() {
 			for (let j = 0; j < nextData.items.length; j++) {
 				let person = nextData.items[j];
 				if (person.country == "VN" && !UNCOUNTED_PEOPLE.includes(person.id)) {
+					person.competitionsById = {};
+
+					for (let j = 0; j < person.competitionIds.length; j++) {
+						const compId = person.competitionIds[j];
+
+						// check if already cached
+						if (competitionsById[compId]) {
+							person.competitionsById[compId] = competitionsById[compId];
+						} else {
+							// not cached, fetch it
+							const compres = await fetch(`${API_URL}/competitions/${compId}.json`);
+							if (!compres.ok) {
+								throw new Error(`API returned status ${compres.status}`);
+							}
+
+							const compdata = await compres.json();
+
+							// add to both caches
+							competitionsById[compdata.id] = compdata.name;
+							person.competitionsById[compdata.id] = compdata.name;
+						}
+					}
+
 					persons.push(person);
 					fs.writeFileSync(path.join(__dirname, `../api/persons/${person.id}.json`), JSON.stringify(person, null, 2), 'utf-8');
 				
