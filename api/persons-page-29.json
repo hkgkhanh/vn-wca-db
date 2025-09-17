@@ -3,9 +3,268 @@
     "page": 29,
     "pageTotal": 29,
     "size": 100,
-    "total": 2810
+    "total": 2813
   },
   "items": [
+    {
+      "id": "2025TRAN02",
+      "name": "Quan Tran",
+      "slug": "quan-tran",
+      "country": "VN",
+      "numberOfCompetitions": 2,
+      "competitionIds": [
+        "CubeAgainstCancerHouston2025",
+        "DFWCubingSpring2025"
+      ],
+      "numberOfChampionships": 0,
+      "championshipIds": [],
+      "rank": {
+        "singles": [
+          {
+            "eventId": "222",
+            "best": 734,
+            "rank": {
+              "world": 107435,
+              "continent": 31557,
+              "country": 1317
+            }
+          },
+          {
+            "eventId": "333",
+            "best": 1421,
+            "rank": {
+              "world": 54799,
+              "continent": 20130,
+              "country": 1128
+            }
+          },
+          {
+            "eventId": "pyram",
+            "best": 942,
+            "rank": {
+              "world": 56942,
+              "continent": 15104,
+              "country": 371
+            }
+          }
+        ],
+        "averages": [
+          {
+            "eventId": "222",
+            "best": 879,
+            "rank": {
+              "world": 90148,
+              "continent": 27005,
+              "country": 1202
+            }
+          },
+          {
+            "eventId": "333",
+            "best": 1764,
+            "rank": {
+              "world": 58563,
+              "continent": 21817,
+              "country": 1260
+            }
+          },
+          {
+            "eventId": "pyram",
+            "best": 1811,
+            "rank": {
+              "world": 84351,
+              "continent": 22484,
+              "country": 546
+            }
+          }
+        ]
+      },
+      "results": {
+        "DFWCubingSpring2025": {
+          "333": [
+            {
+              "round": "Semi Final",
+              "position": 61,
+              "best": 1421,
+              "average": 1838,
+              "format": "Average of 5",
+              "solves": [
+                1896,
+                1586,
+                2214,
+                1421,
+                2032
+              ]
+            },
+            {
+              "round": "Second round",
+              "position": 67,
+              "best": 1588,
+              "average": 1849,
+              "format": "Average of 5",
+              "solves": [
+                1674,
+                1899,
+                2747,
+                1975,
+                1588
+              ]
+            },
+            {
+              "round": "First round",
+              "position": 62,
+              "best": 1539,
+              "average": 1764,
+              "format": "Average of 5",
+              "solves": [
+                1728,
+                2208,
+                1896,
+                1669,
+                1539
+              ]
+            }
+          ],
+          "pyram": [
+            {
+              "round": "First round",
+              "position": 84,
+              "best": 942,
+              "average": 1811,
+              "format": "Average of 5",
+              "solves": [
+                1880,
+                2405,
+                3227,
+                942,
+                1148
+              ]
+            }
+          ]
+        },
+        "CubeAgainstCancerHouston2025": {
+          "222": [
+            {
+              "round": "First round",
+              "position": 60,
+              "best": 734,
+              "average": 879,
+              "format": "Average of 5",
+              "solves": [
+                1064,
+                734,
+                758,
+                1044,
+                834
+              ]
+            }
+          ],
+          "333": [
+            {
+              "round": "Second round",
+              "position": 65,
+              "best": 2014,
+              "average": 2423,
+              "format": "Average of 5",
+              "solves": [
+                2014,
+                2526,
+                2176,
+                2566,
+                2946
+              ]
+            },
+            {
+              "round": "First round",
+              "position": 59,
+              "best": 1746,
+              "average": 2316,
+              "format": "Average of 5",
+              "solves": [
+                2668,
+                2805,
+                1746,
+                2104,
+                2177
+              ]
+            }
+          ]
+        }
+      },
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      "records": {
+        "single": [],
+        "average": []
+      }
+    },
+    {
+      "id": "2025TRAN07",
+      "name": "Hàn Thị Linh Trang",
+      "slug": "han-thi-linh-trang",
+      "country": "VN",
+      "numberOfCompetitions": 1,
+      "competitionIds": [
+        "NxNinHanoi2025"
+      ],
+      "numberOfChampionships": 0,
+      "championshipIds": [],
+      "rank": {
+        "singles": [
+          {
+            "eventId": "333",
+            "best": 1692,
+            "rank": {
+              "world": 78182,
+              "continent": 28233,
+              "country": 1544
+            }
+          }
+        ],
+        "averages": [
+          {
+            "eventId": "333",
+            "best": 2021,
+            "rank": {
+              "world": 76602,
+              "continent": 28069,
+              "country": 1567
+            }
+          }
+        ]
+      },
+      "results": {
+        "NxNinHanoi2025": {
+          "333": [
+            {
+              "round": "First round",
+              "position": 78,
+              "best": 1692,
+              "average": 2021,
+              "format": "Average of 5",
+              "solves": [
+                2411,
+                1851,
+                2195,
+                2018,
+                1692
+              ]
+            }
+          ]
+        }
+      },
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      "records": {
+        "single": [],
+        "average": []
+      }
+    },
     {
       "id": "2025TRIT01",
       "name": "Trịnh Hữu Trí",
@@ -25,18 +284,18 @@
             "eventId": "222",
             "best": 721,
             "rank": {
-              "world": 105383,
-              "continent": 30978,
-              "country": 1300
+              "world": 105686,
+              "continent": 31066,
+              "country": 1301
             }
           },
           {
             "eventId": "333",
             "best": 1575,
             "rank": {
-              "world": 68224,
-              "continent": 24850,
-              "country": 1385
+              "world": 68425,
+              "continent": 24905,
+              "country": 1387
             }
           }
         ],
@@ -45,18 +304,18 @@
             "eventId": "222",
             "best": 865,
             "rank": {
-              "world": 88121,
-              "continent": 26418,
-              "country": 1180
+              "world": 88375,
+              "continent": 26489,
+              "country": 1181
             }
           },
           {
             "eventId": "333",
             "best": 1896,
             "rank": {
-              "world": 67809,
-              "continent": 25054,
-              "country": 1424
+              "world": 68004,
+              "continent": 25115,
+              "country": 1426
             }
           }
         ]
@@ -124,9 +383,9 @@
             "eventId": "333",
             "best": 2424,
             "rank": {
-              "world": 130375,
-              "continent": 44615,
-              "country": 2158
+              "world": 130709,
+              "continent": 44721,
+              "country": 2160
             }
           }
         ],
@@ -135,9 +394,9 @@
             "eventId": "333",
             "best": 2723,
             "rank": {
-              "world": 119257,
-              "continent": 41392,
-              "country": 2069
+              "world": 119558,
+              "continent": 41492,
+              "country": 2071
             }
           }
         ]
@@ -191,9 +450,9 @@
             "eventId": "333",
             "best": 2911,
             "rank": {
-              "world": 156452,
-              "continent": 52128,
-              "country": 2347
+              "world": 156829,
+              "continent": 52239,
+              "country": 2349
             }
           }
         ],
@@ -202,9 +461,9 @@
             "eventId": "333",
             "best": 3755,
             "rank": {
-              "world": 164408,
-              "continent": 54285,
-              "country": 2382
+              "world": 164810,
+              "continent": 54405,
+              "country": 2384
             }
           }
         ]
@@ -256,8 +515,8 @@
             "eventId": "222",
             "best": 270,
             "rank": {
-              "world": 17894,
-              "continent": 4703,
+              "world": 17981,
+              "continent": 4727,
               "country": 174
             }
           },
@@ -265,8 +524,8 @@
             "eventId": "333",
             "best": 835,
             "rank": {
-              "world": 8253,
-              "continent": 2860,
+              "world": 8297,
+              "continent": 2874,
               "country": 165
             }
           },
@@ -274,8 +533,8 @@
             "eventId": "333oh",
             "best": 2038,
             "rank": {
-              "world": 14110,
-              "continent": 5244,
+              "world": 14149,
+              "continent": 5256,
               "country": 272
             }
           }
@@ -285,8 +544,8 @@
             "eventId": "222",
             "best": 445,
             "rank": {
-              "world": 18452,
-              "continent": 5304,
+              "world": 18503,
+              "continent": 5320,
               "country": 228
             }
           },
@@ -294,8 +553,8 @@
             "eventId": "333",
             "best": 1114,
             "rank": {
-              "world": 12426,
-              "continent": 4604,
+              "world": 12477,
+              "continent": 4621,
               "country": 297
             }
           },
@@ -303,8 +562,8 @@
             "eventId": "333oh",
             "best": 2179,
             "rank": {
-              "world": 8996,
-              "continent": 3445,
+              "world": 9027,
+              "continent": 3456,
               "country": 198
             }
           }
@@ -420,17 +679,17 @@
             "eventId": "333",
             "best": 1385,
             "rank": {
-              "world": 51329,
-              "continent": 18910,
-              "country": 1060
+              "world": 51504,
+              "continent": 18964,
+              "country": 1063
             }
           },
           {
             "eventId": "444",
             "best": 5335,
             "rank": {
-              "world": 21536,
-              "continent": 7472,
+              "world": 21612,
+              "continent": 7492,
               "country": 426
             }
           },
@@ -438,8 +697,8 @@
             "eventId": "clock",
             "best": 968,
             "rank": {
-              "world": 6332,
-              "continent": 1494,
+              "world": 6366,
+              "continent": 1499,
               "country": 55
             }
           },
@@ -447,8 +706,8 @@
             "eventId": "minx",
             "best": 9964,
             "rank": {
-              "world": 10524,
-              "continent": 2852,
+              "world": 10556,
+              "continent": 2860,
               "country": 91
             }
           },
@@ -456,8 +715,8 @@
             "eventId": "sq1",
             "best": 1656,
             "rank": {
-              "world": 4438,
-              "continent": 994,
+              "world": 4451,
+              "continent": 998,
               "country": 40
             }
           }
@@ -467,17 +726,17 @@
             "eventId": "333",
             "best": 1670,
             "rank": {
-              "world": 51240,
-              "continent": 19187,
-              "country": 1124
+              "world": 51405,
+              "continent": 19238,
+              "country": 1126
             }
           },
           {
             "eventId": "444",
             "best": 6297,
             "rank": {
-              "world": 22965,
-              "continent": 7885,
+              "world": 23048,
+              "continent": 7905,
               "country": 450
             }
           },
@@ -485,8 +744,8 @@
             "eventId": "clock",
             "best": 1039,
             "rank": {
-              "world": 4811,
-              "continent": 1106,
+              "world": 4839,
+              "continent": 1111,
               "country": 39
             }
           },
@@ -494,8 +753,8 @@
             "eventId": "minx",
             "best": 10647,
             "rank": {
-              "world": 9486,
-              "continent": 2601,
+              "world": 9518,
+              "continent": 2609,
               "country": 84
             }
           },
@@ -503,8 +762,8 @@
             "eventId": "sq1",
             "best": 2227,
             "rank": {
-              "world": 4301,
-              "continent": 1004,
+              "world": 4320,
+              "continent": 1006,
               "country": 37
             }
           }
@@ -669,9 +928,9 @@
             "eventId": "333",
             "best": 1494,
             "rank": {
-              "world": 61171,
-              "continent": 22326,
-              "country": 1244
+              "world": 61363,
+              "continent": 22382,
+              "country": 1247
             }
           }
         ],
@@ -680,9 +939,9 @@
             "eventId": "333",
             "best": 1632,
             "rank": {
-              "world": 48379,
-              "continent": 18177,
-              "country": 1067
+              "world": 48538,
+              "continent": 18223,
+              "country": 1069
             }
           }
         ]
@@ -734,17 +993,17 @@
             "eventId": "333",
             "best": 2994,
             "rank": {
-              "world": 160234,
-              "continent": 53274,
-              "country": 2379
+              "world": 160626,
+              "continent": 53388,
+              "country": 2381
             }
           },
           {
             "eventId": "pyram",
             "best": 1099,
             "rank": {
-              "world": 71140,
-              "continent": 18822,
+              "world": 71356,
+              "continent": 18868,
               "country": 473
             }
           },
@@ -752,8 +1011,8 @@
             "eventId": "skewb",
             "best": 1028,
             "rank": {
-              "world": 37574,
-              "continent": 9188,
+              "world": 37696,
+              "continent": 9224,
               "country": 293
             }
           }
@@ -763,17 +1022,17 @@
             "eventId": "333",
             "best": 3220,
             "rank": {
-              "world": 143169,
-              "continent": 48373,
-              "country": 2249
+              "world": 143518,
+              "continent": 48477,
+              "country": 2251
             }
           },
           {
             "eventId": "pyram",
             "best": 1449,
             "rank": {
-              "world": 62768,
-              "continent": 16974,
+              "world": 62955,
+              "continent": 17013,
               "country": 426
             }
           },
@@ -781,8 +1040,8 @@
             "eventId": "skewb",
             "best": 1266,
             "rank": {
-              "world": 29146,
-              "continent": 7440,
+              "world": 29242,
+              "continent": 7470,
               "country": 229
             }
           }
@@ -869,17 +1128,17 @@
             "eventId": "222",
             "best": 593,
             "rank": {
-              "world": 84813,
-              "continent": 25020,
-              "country": 1093
+              "world": 85085,
+              "continent": 25097,
+              "country": 1094
             }
           },
           {
             "eventId": "333",
             "best": 1049,
             "rank": {
-              "world": 21967,
-              "continent": 7982,
+              "world": 22044,
+              "continent": 8011,
               "country": 477
             }
           }
@@ -889,18 +1148,18 @@
             "eventId": "222",
             "best": 749,
             "rank": {
-              "world": 71666,
-              "continent": 21609,
-              "country": 970
+              "world": 71875,
+              "continent": 21670,
+              "country": 971
             }
           },
           {
             "eventId": "333",
             "best": 1294,
             "rank": {
-              "world": 23317,
-              "continent": 8779,
-              "country": 548
+              "world": 23385,
+              "continent": 8801,
+              "country": 549
             }
           }
         ]
@@ -970,26 +1229,26 @@
             "eventId": "222",
             "best": 509,
             "rank": {
-              "world": 68144,
-              "continent": 20033,
-              "country": 885
+              "world": 68385,
+              "continent": 20104,
+              "country": 886
             }
           },
           {
             "eventId": "333",
             "best": 2032,
             "rank": {
-              "world": 104217,
-              "continent": 36705,
-              "country": 1881
+              "world": 104495,
+              "continent": 36787,
+              "country": 1883
             }
           },
           {
             "eventId": "444",
             "best": 9262,
             "rank": {
-              "world": 49983,
-              "continent": 15281,
+              "world": 50131,
+              "continent": 15319,
               "country": 814
             }
           },
@@ -997,8 +1256,8 @@
             "eventId": "pyram",
             "best": 684,
             "rank": {
-              "world": 30902,
-              "continent": 8255,
+              "world": 31015,
+              "continent": 8289,
               "country": 204
             }
           },
@@ -1006,8 +1265,8 @@
             "eventId": "skewb",
             "best": 598,
             "rank": {
-              "world": 16798,
-              "continent": 4313,
+              "world": 16848,
+              "continent": 4329,
               "country": 136
             }
           },
@@ -1015,8 +1274,8 @@
             "eventId": "sq1",
             "best": 3235,
             "rank": {
-              "world": 12204,
-              "continent": 2722,
+              "world": 12235,
+              "continent": 2726,
               "country": 90
             }
           }
@@ -1026,26 +1285,26 @@
             "eventId": "222",
             "best": 706,
             "rank": {
-              "world": 64646,
-              "continent": 19537,
-              "country": 883
+              "world": 64842,
+              "continent": 19594,
+              "country": 884
             }
           },
           {
             "eventId": "333",
             "best": 2251,
             "rank": {
-              "world": 91494,
-              "continent": 32954,
-              "country": 1749
+              "world": 91735,
+              "continent": 33028,
+              "country": 1751
             }
           },
           {
             "eventId": "pyram",
             "best": 1013,
             "rank": {
-              "world": 29645,
-              "continent": 8283,
+              "world": 29757,
+              "continent": 8317,
               "country": 202
             }
           },
@@ -1053,8 +1312,8 @@
             "eventId": "skewb",
             "best": 1196,
             "rank": {
-              "world": 26560,
-              "continent": 6873,
+              "world": 26654,
+              "continent": 6903,
               "country": 218
             }
           },
@@ -1062,8 +1321,8 @@
             "eventId": "sq1",
             "best": 4465,
             "rank": {
-              "world": 12380,
-              "continent": 2761,
+              "world": 12407,
+              "continent": 2767,
               "country": 93
             }
           }
@@ -1199,26 +1458,26 @@
             "eventId": "222",
             "best": 382,
             "rank": {
-              "world": 40503,
-              "continent": 11409,
-              "country": 479
+              "world": 40645,
+              "continent": 11448,
+              "country": 480
             }
           },
           {
             "eventId": "333",
             "best": 1464,
             "rank": {
-              "world": 58483,
-              "continent": 21403,
-              "country": 1195
+              "world": 58668,
+              "continent": 21456,
+              "country": 1198
             }
           },
           {
             "eventId": "333oh",
             "best": 2659,
             "rank": {
-              "world": 25457,
-              "continent": 9381,
+              "world": 25512,
+              "continent": 9397,
               "country": 472
             }
           },
@@ -1226,8 +1485,8 @@
             "eventId": "444",
             "best": 6156,
             "rank": {
-              "world": 28805,
-              "continent": 9632,
+              "world": 28897,
+              "continent": 9657,
               "country": 551
             }
           },
@@ -1235,8 +1494,8 @@
             "eventId": "555",
             "best": 11820,
             "rank": {
-              "world": 17561,
-              "continent": 5428,
+              "world": 17604,
+              "continent": 5441,
               "country": 297
             }
           },
@@ -1244,8 +1503,8 @@
             "eventId": "666",
             "best": 31815,
             "rank": {
-              "world": 13143,
-              "continent": 3383,
+              "world": 13178,
+              "continent": 3394,
               "country": 148
             }
           },
@@ -1253,8 +1512,8 @@
             "eventId": "clock",
             "best": 966,
             "rank": {
-              "world": 6308,
-              "continent": 1487,
+              "world": 6342,
+              "continent": 1492,
               "country": 54
             }
           },
@@ -1262,8 +1521,8 @@
             "eventId": "minx",
             "best": 16013,
             "rank": {
-              "world": 20380,
-              "continent": 4900,
+              "world": 20445,
+              "continent": 4914,
               "country": 167
             }
           },
@@ -1271,8 +1530,8 @@
             "eventId": "pyram",
             "best": 769,
             "rank": {
-              "world": 39278,
-              "continent": 10495,
+              "world": 39403,
+              "continent": 10535,
               "country": 256
             }
           },
@@ -1280,8 +1539,8 @@
             "eventId": "skewb",
             "best": 478,
             "rank": {
-              "world": 10719,
-              "continent": 2746,
+              "world": 10756,
+              "continent": 2758,
               "country": 88
             }
           },
@@ -1289,8 +1548,8 @@
             "eventId": "sq1",
             "best": 2444,
             "rank": {
-              "world": 8496,
-              "continent": 1937,
+              "world": 8520,
+              "continent": 1941,
               "country": 69
             }
           }
@@ -1300,8 +1559,8 @@
             "eventId": "222",
             "best": 533,
             "rank": {
-              "world": 32967,
-              "continent": 9821,
+              "world": 33064,
+              "continent": 9852,
               "country": 451
             }
           },
@@ -1309,17 +1568,17 @@
             "eventId": "333",
             "best": 1594,
             "rank": {
-              "world": 45481,
-              "continent": 17124,
-              "country": 1004
+              "world": 45629,
+              "continent": 17173,
+              "country": 1007
             }
           },
           {
             "eventId": "333oh",
             "best": 3689,
             "rank": {
-              "world": 30541,
-              "continent": 11139,
+              "world": 30616,
+              "continent": 11162,
               "country": 573
             }
           },
@@ -1327,8 +1586,8 @@
             "eventId": "444",
             "best": 7971,
             "rank": {
-              "world": 33869,
-              "continent": 10808,
+              "world": 33989,
+              "continent": 10838,
               "country": 629
             }
           },
@@ -1336,8 +1595,8 @@
             "eventId": "clock",
             "best": 1148,
             "rank": {
-              "world": 6036,
-              "continent": 1391,
+              "world": 6070,
+              "continent": 1395,
               "country": 51
             }
           },
@@ -1345,8 +1604,8 @@
             "eventId": "pyram",
             "best": 941,
             "rank": {
-              "world": 24525,
-              "continent": 6909,
+              "world": 24617,
+              "continent": 6935,
               "country": 164
             }
           },
@@ -1354,8 +1613,8 @@
             "eventId": "skewb",
             "best": 961,
             "rank": {
-              "world": 17737,
-              "continent": 4802,
+              "world": 17795,
+              "continent": 4823,
               "country": 134
             }
           },
@@ -1363,8 +1622,8 @@
             "eventId": "sq1",
             "best": 4055,
             "rank": {
-              "world": 11147,
-              "continent": 2511,
+              "world": 11169,
+              "continent": 2513,
               "country": 85
             }
           }
@@ -1659,6 +1918,175 @@
                 1017,
                 800,
                 1252
+              ]
+            }
+          ]
+        }
+      },
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      "records": {
+        "single": [],
+        "average": []
+      }
+    },
+    {
+      "id": "2025YTTH01",
+      "name": "Từ Thanh Ý",
+      "slug": "tu-thanh-y",
+      "country": "VN",
+      "numberOfCompetitions": 1,
+      "competitionIds": [
+        "VietnamChampionship2025"
+      ],
+      "numberOfChampionships": 1,
+      "championshipIds": [
+        "VietnamChampionship2025"
+      ],
+      "rank": {
+        "singles": [
+          {
+            "eventId": "222",
+            "best": 463,
+            "rank": {
+              "world": 58419,
+              "continent": 17005,
+              "country": 744
+            }
+          },
+          {
+            "eventId": "333",
+            "best": 1010,
+            "rank": {
+              "world": 19083,
+              "continent": 6880,
+              "country": 417
+            }
+          },
+          {
+            "eventId": "333oh",
+            "best": 1468,
+            "rank": {
+              "world": 4778,
+              "continent": 1695,
+              "country": 98
+            }
+          },
+          {
+            "eventId": "444",
+            "best": 3888,
+            "rank": {
+              "world": 7775,
+              "continent": 2733,
+              "country": 154
+            }
+          }
+        ],
+        "averages": [
+          {
+            "eventId": "222",
+            "best": 543,
+            "rank": {
+              "world": 34865,
+              "continent": 10463,
+              "country": 485
+            }
+          },
+          {
+            "eventId": "333",
+            "best": 1117,
+            "rank": {
+              "world": 12654,
+              "continent": 4682,
+              "country": 298
+            }
+          },
+          {
+            "eventId": "333oh",
+            "best": 1931,
+            "rank": {
+              "world": 5887,
+              "continent": 2231,
+              "country": 136
+            }
+          },
+          {
+            "eventId": "444",
+            "best": 4366,
+            "rank": {
+              "world": 6883,
+              "continent": 2445,
+              "country": 143
+            }
+          }
+        ]
+      },
+      "results": {
+        "VietnamChampionship2025": {
+          "222": [
+            {
+              "round": "First round",
+              "position": 102,
+              "best": 463,
+              "average": 543,
+              "format": "Average of 5",
+              "solves": [
+                483,
+                544,
+                602,
+                702,
+                463
+              ]
+            }
+          ],
+          "333": [
+            {
+              "round": "First round",
+              "position": 83,
+              "best": 1010,
+              "average": 1117,
+              "format": "Average of 5",
+              "solves": [
+                1198,
+                1021,
+                1332,
+                1010,
+                1133
+              ]
+            }
+          ],
+          "444": [
+            {
+              "round": "First round",
+              "position": 77,
+              "best": 3888,
+              "average": 4366,
+              "format": "Average of 5",
+              "solves": [
+                4857,
+                3888,
+                4292,
+                3949,
+                5458
+              ]
+            }
+          ],
+          "333oh": [
+            {
+              "round": "First round",
+              "position": 54,
+              "best": 1468,
+              "average": 1931,
+              "format": "Average of 5",
+              "solves": [
+                1468,
+                1639,
+                2011,
+                2143,
+                2294
               ]
             }
           ]

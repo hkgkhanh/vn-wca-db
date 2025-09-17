@@ -3,37 +3,104 @@
   "name": "Hoàng Quốc Huy",
   "slug": "hoang-quoc-huy",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "KatanoMilkyWay2024"
+    "KatanoMilkyWay2024",
+    "KatanoSummer2025"
   ],
   "numberOfChampionships": 0,
   "championshipIds": [],
   "rank": {
     "singles": [
       {
-        "eventId": "333",
-        "best": 1499,
+        "eventId": "222",
+        "best": 300,
         "rank": {
-          "world": 61613,
-          "continent": 22478,
-          "country": 1252
+          "world": 23636,
+          "continent": 6320,
+          "country": 242
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1154,
+        "rank": {
+          "world": 30682,
+          "continent": 11284,
+          "country": 664
         }
       }
     ],
     "averages": [
       {
-        "eventId": "333",
-        "best": 1628,
+        "eventId": "222",
+        "best": 546,
         "rank": {
-          "world": 48086,
-          "continent": 18071,
-          "country": 1062
+          "world": 35394,
+          "continent": 10630,
+          "country": 492
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1410,
+        "rank": {
+          "world": 31616,
+          "continent": 11922,
+          "country": 708
         }
       }
     ]
   },
   "results": {
+    "KatanoSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 33,
+          "best": 300,
+          "average": 546,
+          "format": "Average of 5",
+          "solves": [
+            559,
+            300,
+            438,
+            723,
+            642
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 48,
+          "best": 1154,
+          "average": 1428,
+          "format": "Average of 5",
+          "solves": [
+            1264,
+            -1,
+            1154,
+            1512,
+            1508
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 49,
+          "best": 1235,
+          "average": 1410,
+          "format": "Average of 5",
+          "solves": [
+            1372,
+            1452,
+            1235,
+            1406,
+            1521
+          ]
+        }
+      ]
+    },
     "KatanoMilkyWay2024": {
       "333": [
         {

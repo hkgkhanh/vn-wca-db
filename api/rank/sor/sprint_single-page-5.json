@@ -3,130 +3,21 @@
     "page": 5,
     "pageTotal": 29,
     "size": 100,
-    "total": 2811
+    "total": 2813
   },
   "items": [
     {
       "actualRank": 401,
-      "personId": "2022KIEN11",
-      "personName": "Vương Thiện Kiên",
-      "rank": {
-        "222": {
-          "single": 470,
-          "average": 1012
-        },
-        "333": {
-          "single": 862,
-          "average": 1186
-        },
-        "444": {
-          "single": 550,
-          "average": 516
-        },
-        "555": {
-          "single": 503,
-          "average": 365
-        },
-        "666": {
-          "single": 159,
-          "average": 137
-        },
-        "777": {
-          "single": 125,
-          "average": 98
-        },
-        "333oh": {
-          "single": 575,
-          "average": 601
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 72,
-          "average": 62
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 659,
-          "average": 641
-        },
-        "skewb": {
-          "single": 202,
-          "average": 226
-        },
-        "sq1": {
-          "single": 104,
-          "average": 90
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 1610,
-          "average": 1834
-        },
-        "all": {
-          "single": 4688,
-          "average": 5136
-        },
-        "nxn": {
-          "single": 2669,
-          "average": 3314
-        },
-        "big": {
-          "single": 1337,
-          "average": 1116
-        },
-        "sprint": {
-          "single": 1331,
-          "average": 1879
-        },
-        "side": {
-          "single": 1257,
-          "average": 1171
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 402,
       "personId": "2024DUYH01",
       "personName": "Huynh Duc Duy",
       "rank": {
         "222": {
           "single": 204,
-          "average": 1541
+          "average": 1543
         },
         "333": {
-          "single": 538,
-          "average": 548
+          "single": 539,
+          "average": 549
         },
         "444": {
           "single": 382,
@@ -191,16 +82,16 @@
       },
       "sor": {
         "333": {
-          "single": 931,
-          "average": 782
+          "single": 932,
+          "average": 783
         },
         "all": {
-          "single": 3976,
-          "average": 4917
+          "single": 3977,
+          "average": 4920
         },
         "nxn": {
-          "single": 1911,
-          "average": 3164
+          "single": 1912,
+          "average": 3167
         },
         "big": {
           "single": 1169,
@@ -208,11 +99,120 @@
         },
         "sprint": {
           "single": 1332,
-          "average": 2632
+          "average": 2634
         },
         "side": {
           "single": 1658,
           "average": 1516
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 401,
+      "personId": "2022KIEN11",
+      "personName": "Vương Thiện Kiên",
+      "rank": {
+        "222": {
+          "single": 471,
+          "average": 1013
+        },
+        "333": {
+          "single": 864,
+          "average": 1188
+        },
+        "444": {
+          "single": 550,
+          "average": 516
+        },
+        "555": {
+          "single": 503,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 575,
+          "average": 601
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 72,
+          "average": 62
+        },
+        "minx": {
+          "single": 220,
+          "average": 152
+        },
+        "pyram": {
+          "single": 659,
+          "average": 641
+        },
+        "skewb": {
+          "single": 202,
+          "average": 226
+        },
+        "sq1": {
+          "single": 104,
+          "average": 90
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 1612,
+          "average": 1836
+        },
+        "all": {
+          "single": 4691,
+          "average": 5139
+        },
+        "nxn": {
+          "single": 2672,
+          "average": 3317
+        },
+        "big": {
+          "single": 1337,
+          "average": 1116
+        },
+        "sprint": {
+          "single": 1332,
+          "average": 1880
+        },
+        "side": {
+          "single": 1257,
+          "average": 1171
         },
         "bld": {
           "single": 122,
@@ -230,12 +230,12 @@
       "personName": "Nguyễn Hữu Minh",
       "rank": {
         "222": {
-          "single": 681,
-          "average": 819
+          "single": 682,
+          "average": 820
         },
         "333": {
-          "single": 1425,
-          "average": 1353
+          "single": 1427,
+          "average": 1355
         },
         "444": {
           "single": 456,
@@ -255,7 +255,7 @@
         },
         "333oh": {
           "single": 522,
-          "average": 803
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -300,24 +300,24 @@
       },
       "sor": {
         "333": {
-          "single": 2120,
-          "average": 2203
+          "single": 2122,
+          "average": 2206
         },
         "all": {
-          "single": 5200,
-          "average": 5132
+          "single": 5203,
+          "average": 5136
         },
         "nxn": {
-          "single": 3349,
-          "average": 3264
+          "single": 3352,
+          "average": 3267
         },
         "big": {
           "single": 1243,
           "average": 1092
         },
         "sprint": {
-          "single": 1333,
-          "average": 1442
+          "single": 1334,
+          "average": 1443
         },
         "side": {
           "single": 1142,
@@ -340,7 +340,7 @@
       "rank": {
         "222": {
           "single": 209,
-          "average": 839
+          "average": 840
         },
         "333": {
           "single": 278,
@@ -363,8 +363,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -409,16 +409,16 @@
       },
       "sor": {
         "333": {
-          "single": 1297,
-          "average": 1122
+          "single": 1298,
+          "average": 1123
         },
         "all": {
-          "single": 4179,
-          "average": 4274
+          "single": 4180,
+          "average": 4276
         },
         "nxn": {
           "single": 1488,
-          "average": 1905
+          "average": 1906
         },
         "big": {
           "single": 1001,
@@ -426,7 +426,7 @@
         },
         "sprint": {
           "single": 1337,
-          "average": 1930
+          "average": 1931
         },
         "side": {
           "single": 1658,
@@ -456,8 +456,8 @@
           "average": 110
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -522,16 +522,16 @@
           "average": 292
         },
         "all": {
-          "single": 4262,
-          "average": 3407
+          "single": 4263,
+          "average": 3408
         },
         "nxn": {
-          "single": 2232,
-          "average": 1706
+          "single": 2233,
+          "average": 1707
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
           "single": 1339,
@@ -553,11 +553,120 @@
     },
     {
       "actualRank": 405,
+      "personId": "2011LEDI01",
+      "personName": "Lê Đình Khang",
+      "rank": {
+        "222": {
+          "single": 211,
+          "average": 543
+        },
+        "333": {
+          "single": 842,
+          "average": 747
+        },
+        "444": {
+          "single": 479,
+          "average": 472
+        },
+        "555": {
+          "single": 401,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 434,
+          "average": 416
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 170,
+          "average": 146
+        },
+        "minx": {
+          "single": 220,
+          "average": 152
+        },
+        "pyram": {
+          "single": 659,
+          "average": 641
+        },
+        "skewb": {
+          "single": 469,
+          "average": 450
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 1449,
+          "average": 1210
+        },
+        "all": {
+          "single": 4496,
+          "average": 4344
+        },
+        "nxn": {
+          "single": 2217,
+          "average": 2362
+        },
+        "big": {
+          "single": 1164,
+          "average": 1072
+        },
+        "sprint": {
+          "single": 1339,
+          "average": 1634
+        },
+        "side": {
+          "single": 1658,
+          "average": 1516
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 407,
       "personId": "2023KHAN51",
       "personName": "Phan Duy Khang",
       "rank": {
         "222": {
-          "single": 280,
+          "single": 281,
           "average": 205
         },
         "333": {
@@ -631,11 +740,11 @@
           "average": 827
         },
         "all": {
-          "single": 4339,
+          "single": 4340,
           "average": 3593
         },
         "nxn": {
-          "single": 2257,
+          "single": 2258,
           "average": 1841
         },
         "big": {
@@ -643,7 +752,7 @@
           "average": 1211
         },
         "sprint": {
-          "single": 1339,
+          "single": 1340,
           "average": 1127
         },
         "side": {
@@ -661,225 +770,7 @@
       }
     },
     {
-      "actualRank": 405,
-      "personId": "2011LEDI01",
-      "personName": "Lê Đình Khang",
-      "rank": {
-        "222": {
-          "single": 211,
-          "average": 542
-        },
-        "333": {
-          "single": 840,
-          "average": 745
-        },
-        "444": {
-          "single": 479,
-          "average": 472
-        },
-        "555": {
-          "single": 401,
-          "average": 365
-        },
-        "666": {
-          "single": 159,
-          "average": 137
-        },
-        "777": {
-          "single": 125,
-          "average": 98
-        },
-        "333oh": {
-          "single": 434,
-          "average": 416
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 170,
-          "average": 146
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 659,
-          "average": 641
-        },
-        "skewb": {
-          "single": 469,
-          "average": 450
-        },
-        "sq1": {
-          "single": 140,
-          "average": 127
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 1447,
-          "average": 1208
-        },
-        "all": {
-          "single": 4494,
-          "average": 4341
-        },
-        "nxn": {
-          "single": 2215,
-          "average": 2359
-        },
-        "big": {
-          "single": 1164,
-          "average": 1072
-        },
-        "sprint": {
-          "single": 1339,
-          "average": 1633
-        },
-        "side": {
-          "single": 1658,
-          "average": 1516
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
       "actualRank": 408,
-      "personId": "2022VULE01",
-      "personName": "Lê Khoa Vũ",
-      "rank": {
-        "222": {
-          "single": 648,
-          "average": 686
-        },
-        "333": {
-          "single": 1337,
-          "average": 1284
-        },
-        "444": {
-          "single": 846,
-          "average": 741
-        },
-        "555": {
-          "single": 503,
-          "average": 365
-        },
-        "666": {
-          "single": 159,
-          "average": 137
-        },
-        "777": {
-          "single": 125,
-          "average": 98
-        },
-        "333oh": {
-          "single": 846,
-          "average": 803
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 170,
-          "average": 146
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 283,
-          "average": 231
-        },
-        "skewb": {
-          "single": 411,
-          "average": 364
-        },
-        "sq1": {
-          "single": 140,
-          "average": 127
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 2356,
-          "average": 2134
-        },
-        "all": {
-          "single": 5875,
-          "average": 5184
-        },
-        "nxn": {
-          "single": 3618,
-          "average": 3311
-        },
-        "big": {
-          "single": 1633,
-          "average": 1341
-        },
-        "sprint": {
-          "single": 1342,
-          "average": 1281
-        },
-        "side": {
-          "single": 1224,
-          "average": 1020
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 409,
       "personId": "2017KHOI06",
       "personName": "Đoàn Minh Khôi",
       "rank": {
@@ -888,12 +779,12 @@
           "average": 237
         },
         "333": {
-          "single": 600,
-          "average": 618
+          "single": 601,
+          "average": 619
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -954,20 +845,20 @@
       },
       "sor": {
         "333": {
-          "single": 1127,
-          "average": 982
+          "single": 1128,
+          "average": 983
         },
         "all": {
-          "single": 4804,
-          "average": 4079
+          "single": 4806,
+          "average": 4081
         },
         "nxn": {
-          "single": 2605,
-          "average": 2196
+          "single": 2607,
+          "average": 2198
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
           "single": 1343,
@@ -988,16 +879,125 @@
       }
     },
     {
+      "actualRank": 408,
+      "personId": "2022VULE01",
+      "personName": "Lê Khoa Vũ",
+      "rank": {
+        "222": {
+          "single": 649,
+          "average": 687
+        },
+        "333": {
+          "single": 1339,
+          "average": 1286
+        },
+        "444": {
+          "single": 846,
+          "average": 742
+        },
+        "555": {
+          "single": 503,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 847,
+          "average": 804
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 170,
+          "average": 146
+        },
+        "minx": {
+          "single": 220,
+          "average": 152
+        },
+        "pyram": {
+          "single": 283,
+          "average": 231
+        },
+        "skewb": {
+          "single": 411,
+          "average": 364
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 2359,
+          "average": 2137
+        },
+        "all": {
+          "single": 5879,
+          "average": 5189
+        },
+        "nxn": {
+          "single": 3621,
+          "average": 3315
+        },
+        "big": {
+          "single": 1633,
+          "average": 1342
+        },
+        "sprint": {
+          "single": 1343,
+          "average": 1282
+        },
+        "side": {
+          "single": 1224,
+          "average": 1020
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
       "actualRank": 410,
       "personId": "2010LEHO01",
       "personName": "Lê Hoàng Công Thành",
       "rank": {
         "222": {
-          "single": 566,
-          "average": 522
+          "single": 567,
+          "average": 523
         },
         "333": {
-          "single": 620,
+          "single": 621,
           "average": 409
         },
         "444": {
@@ -1063,24 +1063,24 @@
       },
       "sor": {
         "333": {
-          "single": 1086,
+          "single": 1087,
           "average": 696
         },
         "all": {
-          "single": 3372,
-          "average": 2864
+          "single": 3374,
+          "average": 2865
         },
         "nxn": {
-          "single": 1747,
-          "average": 1477
+          "single": 1749,
+          "average": 1478
         },
         "big": {
           "single": 561,
           "average": 546
         },
         "sprint": {
-          "single": 1345,
-          "average": 1273
+          "single": 1346,
+          "average": 1274
         },
         "side": {
           "single": 1145,
@@ -1098,115 +1098,6 @@
     },
     {
       "actualRank": 411,
-      "personId": "2010NGUY23",
-      "personName": "Nguyễn Đăng Quang",
-      "rank": {
-        "222": {
-          "single": 641,
-          "average": 836
-        },
-        "333": {
-          "single": 1559,
-          "average": 1460
-        },
-        "444": {
-          "single": 752,
-          "average": 741
-        },
-        "555": {
-          "single": 503,
-          "average": 365
-        },
-        "666": {
-          "single": 159,
-          "average": 137
-        },
-        "777": {
-          "single": 125,
-          "average": 98
-        },
-        "333oh": {
-          "single": 846,
-          "average": 803
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 170,
-          "average": 146
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 236,
-          "average": 144
-        },
-        "skewb": {
-          "single": 469,
-          "average": 450
-        },
-        "sq1": {
-          "single": 140,
-          "average": 127
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 2578,
-          "average": 2310
-        },
-        "all": {
-          "single": 6007,
-          "average": 5509
-        },
-        "nxn": {
-          "single": 3739,
-          "average": 3637
-        },
-        "big": {
-          "single": 1539,
-          "average": 1341
-        },
-        "sprint": {
-          "single": 1346,
-          "average": 1430
-        },
-        "side": {
-          "single": 1235,
-          "average": 1019
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 412,
       "personId": "2023HIEU03",
       "personName": "Nguyễn Minh Hiếu",
       "rank": {
@@ -1219,8 +1110,8 @@
           "average": 179
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -1285,16 +1176,16 @@
           "average": 261
         },
         "all": {
-          "single": 4216,
-          "average": 3376
+          "single": 4217,
+          "average": 3377
         },
         "nxn": {
-          "single": 2312,
-          "average": 1775
+          "single": 2313,
+          "average": 1776
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
           "single": 1347,
@@ -1315,25 +1206,25 @@
       }
     },
     {
-      "actualRank": 413,
-      "personId": "2022TUAN01",
-      "personName": "Nguyễn Minh Tuấn",
+      "actualRank": 411,
+      "personId": "2010NGUY23",
+      "personName": "Nguyễn Đăng Quang",
       "rank": {
         "222": {
-          "single": 858,
-          "average": 695
+          "single": 642,
+          "average": 837
         },
         "333": {
-          "single": 447,
-          "average": 488
+          "single": 1561,
+          "average": 1462
         },
         "444": {
-          "single": 331,
-          "average": 294
+          "single": 752,
+          "average": 742
         },
         "555": {
-          "single": 226,
-          "average": 214
+          "single": 503,
+          "average": 365
         },
         "666": {
           "single": 159,
@@ -1344,8 +1235,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 337,
-          "average": 347
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -1368,20 +1259,20 @@
           "average": 2
         },
         "clock": {
-          "single": 96,
-          "average": 97
+          "single": 170,
+          "average": 146
         },
         "minx": {
           "single": 220,
           "average": 152
         },
         "pyram": {
-          "single": 251,
-          "average": 243
+          "single": 236,
+          "average": 144
         },
         "skewb": {
-          "single": 240,
-          "average": 132
+          "single": 469,
+          "average": 450
         },
         "sq1": {
           "single": 140,
@@ -1390,28 +1281,28 @@
       },
       "sor": {
         "333": {
-          "single": 957,
-          "average": 882
+          "single": 2581,
+          "average": 2313
         },
         "all": {
-          "single": 3617,
-          "average": 3074
+          "single": 6011,
+          "average": 5514
         },
         "nxn": {
-          "single": 2146,
-          "average": 1926
+          "single": 3742,
+          "average": 3641
         },
         "big": {
-          "single": 841,
-          "average": 743
+          "single": 1539,
+          "average": 1342
         },
         "sprint": {
-          "single": 1349,
-          "average": 1070
+          "single": 1347,
+          "average": 1431
         },
         "side": {
-          "single": 947,
-          "average": 751
+          "single": 1235,
+          "average": 1019
         },
         "bld": {
           "single": 122,
@@ -1433,12 +1324,12 @@
           "average": 94
         },
         "333": {
-          "single": 585,
-          "average": 615
+          "single": 586,
+          "average": 616
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -1499,20 +1390,20 @@
       },
       "sor": {
         "333": {
-          "single": 1036,
-          "average": 884
+          "single": 1037,
+          "average": 885
         },
         "all": {
-          "single": 4525,
-          "average": 3713
+          "single": 4527,
+          "average": 3715
         },
         "nxn": {
-          "single": 2596,
-          "average": 2050
+          "single": 2598,
+          "average": 2052
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
           "single": 1349,
@@ -1533,116 +1424,7 @@
       }
     },
     {
-      "actualRank": 413,
-      "personId": "2017TAIH01",
-      "personName": "Hoàn Đức Tài",
-      "rank": {
-        "222": {
-          "single": 317,
-          "average": 1541
-        },
-        "333": {
-          "single": 950,
-          "average": 1409
-        },
-        "444": {
-          "single": 1003,
-          "average": 741
-        },
-        "555": {
-          "single": 503,
-          "average": 365
-        },
-        "666": {
-          "single": 159,
-          "average": 137
-        },
-        "777": {
-          "single": 125,
-          "average": 98
-        },
-        "333oh": {
-          "single": 846,
-          "average": 803
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 170,
-          "average": 146
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 659,
-          "average": 641
-        },
-        "skewb": {
-          "single": 373,
-          "average": 296
-        },
-        "sq1": {
-          "single": 140,
-          "average": 127
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 1969,
-          "average": 2259
-        },
-        "all": {
-          "single": 5652,
-          "average": 6506
-        },
-        "nxn": {
-          "single": 3057,
-          "average": 4291
-        },
-        "big": {
-          "single": 1790,
-          "average": 1341
-        },
-        "sprint": {
-          "single": 1349,
-          "average": 2478
-        },
-        "side": {
-          "single": 1562,
-          "average": 1362
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 416,
+      "actualRank": 414,
       "personId": "2022HOAN02",
       "personName": "Nguyễn Lê Hoàng",
       "rank": {
@@ -1655,8 +1437,8 @@
           "average": 116
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -1721,16 +1503,16 @@
           "average": 285
         },
         "all": {
-          "single": 4167,
-          "average": 3343
+          "single": 4168,
+          "average": 3344
         },
         "nxn": {
-          "single": 2184,
-          "average": 1655
+          "single": 2185,
+          "average": 1656
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
           "single": 1350,
@@ -1751,7 +1533,7 @@
       }
     },
     {
-      "actualRank": 416,
+      "actualRank": 414,
       "personId": "2023THAI03",
       "personName": "Nguyễn Quang Thái",
       "rank": {
@@ -1860,7 +1642,7 @@
       }
     },
     {
-      "actualRank": 416,
+      "actualRank": 414,
       "personId": "2018BINH02",
       "personName": "Tôn Thất Nguyên Bình",
       "rank": {
@@ -1869,8 +1651,8 @@
           "average": 201
         },
         "333": {
-          "single": 568,
-          "average": 563
+          "single": 569,
+          "average": 564
         },
         "444": {
           "single": 404,
@@ -1935,16 +1717,16 @@
       },
       "sor": {
         "333": {
-          "single": 834,
-          "average": 743
+          "single": 835,
+          "average": 744
         },
         "all": {
-          "single": 3919,
-          "average": 3479
+          "single": 3920,
+          "average": 3480
         },
         "nxn": {
-          "single": 1981,
-          "average": 1780
+          "single": 1982,
+          "average": 1781
         },
         "big": {
           "single": 1191,
@@ -1957,6 +1739,224 @@
         "side": {
           "single": 1658,
           "average": 1516
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 414,
+      "personId": "2022TUAN01",
+      "personName": "Nguyễn Minh Tuấn",
+      "rank": {
+        "222": {
+          "single": 859,
+          "average": 696
+        },
+        "333": {
+          "single": 447,
+          "average": 488
+        },
+        "444": {
+          "single": 331,
+          "average": 294
+        },
+        "555": {
+          "single": 226,
+          "average": 214
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 337,
+          "average": 347
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 96,
+          "average": 97
+        },
+        "minx": {
+          "single": 220,
+          "average": 152
+        },
+        "pyram": {
+          "single": 251,
+          "average": 243
+        },
+        "skewb": {
+          "single": 240,
+          "average": 132
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 957,
+          "average": 882
+        },
+        "all": {
+          "single": 3618,
+          "average": 3075
+        },
+        "nxn": {
+          "single": 2147,
+          "average": 1927
+        },
+        "big": {
+          "single": 841,
+          "average": 743
+        },
+        "sprint": {
+          "single": 1350,
+          "average": 1071
+        },
+        "side": {
+          "single": 947,
+          "average": 751
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 414,
+      "personId": "2017TAIH01",
+      "personName": "Hoàn Đức Tài",
+      "rank": {
+        "222": {
+          "single": 318,
+          "average": 1543
+        },
+        "333": {
+          "single": 953,
+          "average": 1411
+        },
+        "444": {
+          "single": 1004,
+          "average": 742
+        },
+        "555": {
+          "single": 503,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 847,
+          "average": 804
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 170,
+          "average": 146
+        },
+        "minx": {
+          "single": 220,
+          "average": 152
+        },
+        "pyram": {
+          "single": 659,
+          "average": 641
+        },
+        "skewb": {
+          "single": 373,
+          "average": 296
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 1973,
+          "average": 2262
+        },
+        "all": {
+          "single": 5658,
+          "average": 6512
+        },
+        "nxn": {
+          "single": 3062,
+          "average": 4296
+        },
+        "big": {
+          "single": 1791,
+          "average": 1342
+        },
+        "sprint": {
+          "single": 1350,
+          "average": 2480
+        },
+        "side": {
+          "single": 1562,
+          "average": 1362
         },
         "bld": {
           "single": 122,
@@ -2088,7 +2088,7 @@
         },
         "333": {
           "single": 365,
-          "average": 814
+          "average": 816
         },
         "444": {
           "single": 470,
@@ -2107,8 +2107,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -2153,16 +2153,16 @@
       },
       "sor": {
         "333": {
-          "single": 1384,
-          "average": 1664
+          "single": 1385,
+          "average": 1667
         },
         "all": {
-          "single": 4539,
-          "average": 4446
+          "single": 4540,
+          "average": 4449
         },
         "nxn": {
           "single": 1848,
-          "average": 2077
+          "average": 2079
         },
         "big": {
           "single": 1257,
@@ -2192,7 +2192,7 @@
       "personName": "Tony Nguyen",
       "rank": {
         "222": {
-          "single": 256,
+          "single": 257,
           "average": 169
         },
         "333": {
@@ -2201,7 +2201,7 @@
         },
         "444": {
           "single": 722,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 379,
@@ -2266,19 +2266,19 @@
           "average": 683
         },
         "all": {
-          "single": 4132,
-          "average": 3712
+          "single": 4133,
+          "average": 3713
         },
         "nxn": {
-          "single": 2020,
-          "average": 1844
+          "single": 2021,
+          "average": 1845
         },
         "big": {
           "single": 1385,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1362,
+          "single": 1363,
           "average": 1260
         },
         "side": {
@@ -2296,7 +2296,7 @@
       }
     },
     {
-      "actualRank": 422,
+      "actualRank": 421,
       "personId": "2023BAON02",
       "personName": "Nguyễn Đức Bảo",
       "rank": {
@@ -2305,8 +2305,8 @@
           "average": 273
         },
         "333": {
-          "single": 610,
-          "average": 685
+          "single": 611,
+          "average": 686
         },
         "444": {
           "single": 406,
@@ -2371,16 +2371,16 @@
       },
       "sor": {
         "333": {
-          "single": 1093,
-          "average": 987
+          "single": 1094,
+          "average": 988
         },
         "all": {
-          "single": 4045,
-          "average": 3807
+          "single": 4046,
+          "average": 3808
         },
         "nxn": {
-          "single": 2038,
-          "average": 2063
+          "single": 2039,
+          "average": 2064
         },
         "big": {
           "single": 1193,
@@ -2406,121 +2406,12 @@
     },
     {
       "actualRank": 423,
-      "personId": "2024NGUY10",
-      "personName": "Thanh Minh Nguyen",
-      "rank": {
-        "222": {
-          "single": 427,
-          "average": 215
-        },
-        "333": {
-          "single": 284,
-          "average": 543
-        },
-        "444": {
-          "single": 232,
-          "average": 208
-        },
-        "555": {
-          "single": 166,
-          "average": 129
-        },
-        "666": {
-          "single": 89,
-          "average": 97
-        },
-        "777": {
-          "single": 88,
-          "average": 98
-        },
-        "333oh": {
-          "single": 342,
-          "average": 509
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 170,
-          "average": 146
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 578,
-          "average": 595
-        },
-        "skewb": {
-          "single": 359,
-          "average": 403
-        },
-        "sq1": {
-          "single": 140,
-          "average": 127
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 799,
-          "average": 1099
-        },
-        "all": {
-          "single": 3282,
-          "average": 3272
-        },
-        "nxn": {
-          "single": 1286,
-          "average": 1290
-        },
-        "big": {
-          "single": 575,
-          "average": 532
-        },
-        "sprint": {
-          "single": 1364,
-          "average": 1213
-        },
-        "side": {
-          "single": 1467,
-          "average": 1423
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 424,
       "personId": "2023QUAN07",
       "personName": "Mai Bảo Minh Quân",
       "rank": {
         "222": {
           "single": 237,
-          "average": 862
+          "average": 863
         },
         "333": {
           "single": 116,
@@ -2594,11 +2485,11 @@
         },
         "all": {
           "single": 2998,
-          "average": 3212
+          "average": 3213
         },
         "nxn": {
           "single": 922,
-          "average": 1493
+          "average": 1494
         },
         "big": {
           "single": 569,
@@ -2606,7 +2497,7 @@
         },
         "sprint": {
           "single": 1365,
-          "average": 1953
+          "average": 1954
         },
         "side": {
           "single": 1658,
@@ -2623,37 +2514,37 @@
       }
     },
     {
-      "actualRank": 425,
-      "personId": "2019VUNG02",
-      "personName": "Nguyễn Hoàng Thiên Vũ",
+      "actualRank": 423,
+      "personId": "2024NGUY10",
+      "personName": "Thanh Minh Nguyen",
       "rank": {
         "222": {
-          "single": 716,
-          "average": 764
+          "single": 428,
+          "average": 215
         },
         "333": {
-          "single": 330,
-          "average": 222
+          "single": 284,
+          "average": 544
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 232,
+          "average": 208
         },
         "555": {
-          "single": 503,
-          "average": 365
+          "single": 166,
+          "average": 129
         },
         "666": {
-          "single": 159,
-          "average": 137
+          "single": 89,
+          "average": 97
         },
         "777": {
-          "single": 125,
+          "single": 88,
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 342,
+          "average": 509
         },
         "333bf": {
           "single": 91,
@@ -2680,16 +2571,16 @@
           "average": 146
         },
         "minx": {
-          "single": 4,
-          "average": 8
+          "single": 220,
+          "average": 152
         },
         "pyram": {
-          "single": 182,
-          "average": 112
+          "single": 578,
+          "average": 595
         },
         "skewb": {
-          "single": 469,
-          "average": 450
+          "single": 359,
+          "average": 403
         },
         "sq1": {
           "single": 140,
@@ -2698,28 +2589,28 @@
       },
       "sor": {
         "333": {
-          "single": 1349,
-          "average": 1072
+          "single": 799,
+          "average": 1100
         },
         "all": {
-          "single": 4834,
-          "average": 4023
+          "single": 3283,
+          "average": 3273
         },
         "nxn": {
-          "single": 2836,
-          "average": 2327
+          "single": 1287,
+          "average": 1291
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 575,
+          "average": 532
         },
         "sprint": {
-          "single": 1367,
-          "average": 1326
+          "single": 1365,
+          "average": 1213
         },
         "side": {
-          "single": 965,
-          "average": 843
+          "single": 1467,
+          "average": 1423
         },
         "bld": {
           "single": 122,
@@ -2732,13 +2623,13 @@
       }
     },
     {
-      "actualRank": 426,
+      "actualRank": 425,
       "personId": "2016TULE01",
       "personName": "Le Huu Anh Tu",
       "rank": {
         "222": {
           "single": 240,
-          "average": 73
+          "average": 74
         },
         "333": {
           "single": 91,
@@ -2812,11 +2703,11 @@
         },
         "all": {
           "single": 3382,
-          "average": 2900
+          "average": 2901
         },
         "nxn": {
           "single": 1460,
-          "average": 1264
+          "average": 1265
         },
         "big": {
           "single": 1129,
@@ -2824,7 +2715,7 @@
         },
         "sprint": {
           "single": 1368,
-          "average": 1164
+          "average": 1165
         },
         "side": {
           "single": 1658,
@@ -2841,7 +2732,7 @@
       }
     },
     {
-      "actualRank": 426,
+      "actualRank": 425,
       "personId": "2023TRAN32",
       "personName": "Minh Phuc Anh Martin Tran",
       "rank": {
@@ -2851,11 +2742,11 @@
         },
         "333": {
           "single": 481,
-          "average": 581
+          "average": 582
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -2917,19 +2808,19 @@
       "sor": {
         "333": {
           "single": 1138,
-          "average": 1066
+          "average": 1067
         },
         "all": {
-          "single": 4840,
-          "average": 4086
+          "single": 4841,
+          "average": 4088
         },
         "nxn": {
-          "single": 2511,
-          "average": 2082
+          "single": 2512,
+          "average": 2084
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
           "single": 1368,
@@ -2950,21 +2841,21 @@
       }
     },
     {
-      "actualRank": 426,
-      "personId": "2019THUA01",
-      "personName": "Nguyễn Phong Thuận",
+      "actualRank": 425,
+      "personId": "2019VUNG02",
+      "personName": "Nguyễn Hoàng Thiên Vũ",
       "rank": {
         "222": {
-          "single": 600,
-          "average": 485
+          "single": 717,
+          "average": 765
         },
         "333": {
-          "single": 1531,
-          "average": 1284
+          "single": 330,
+          "average": 222
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -2979,8 +2870,117 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 170,
+          "average": 146
+        },
+        "minx": {
+          "single": 4,
+          "average": 8
+        },
+        "pyram": {
+          "single": 182,
+          "average": 112
+        },
+        "skewb": {
+          "single": 469,
+          "average": 450
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 1350,
+          "average": 1073
+        },
+        "all": {
+          "single": 4837,
+          "average": 4026
+        },
+        "nxn": {
+          "single": 2838,
+          "average": 2329
+        },
+        "big": {
+          "single": 1791,
+          "average": 1342
+        },
+        "sprint": {
+          "single": 1368,
+          "average": 1327
+        },
+        "side": {
+          "single": 965,
+          "average": 843
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 428,
+      "personId": "2019THUA01",
+      "personName": "Nguyễn Phong Thuận",
+      "rank": {
+        "222": {
+          "single": 601,
+          "average": 485
+        },
+        "333": {
+          "single": 1533,
+          "average": 1286
+        },
+        "444": {
+          "single": 1004,
+          "average": 742
+        },
+        "555": {
+          "single": 503,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -3025,23 +3025,23 @@
       },
       "sor": {
         "333": {
-          "single": 2550,
-          "average": 2134
+          "single": 2553,
+          "average": 2137
         },
         "all": {
-          "single": 6252,
-          "average": 5005
+          "single": 6257,
+          "average": 5009
         },
         "nxn": {
-          "single": 3921,
-          "average": 3110
+          "single": 3925,
+          "average": 3113
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1368,
+          "single": 1369,
           "average": 1102
         },
         "side": {
@@ -3059,21 +3059,21 @@
       }
     },
     {
-      "actualRank": 426,
+      "actualRank": 428,
       "personId": "2018KIET03",
       "personName": "Đặng Tuấn Kiệt",
       "rank": {
         "222": {
-          "single": 505,
-          "average": 632
+          "single": 506,
+          "average": 633
         },
         "333": {
-          "single": 1751,
-          "average": 1617
+          "single": 1753,
+          "average": 1619
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -3134,24 +3134,24 @@
       },
       "sor": {
         "333": {
-          "single": 2624,
-          "average": 2420
+          "single": 2626,
+          "average": 2422
         },
         "all": {
-          "single": 6326,
-          "average": 5701
+          "single": 6330,
+          "average": 5705
         },
         "nxn": {
-          "single": 4046,
-          "average": 3590
+          "single": 4050,
+          "average": 3594
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1368,
-          "average": 1512
+          "single": 1369,
+          "average": 1513
         },
         "side": {
           "single": 1393,
@@ -3168,17 +3168,17 @@
       }
     },
     {
-      "actualRank": 426,
+      "actualRank": 428,
       "personId": "2018HIEU01",
       "personName": "Nguyễn Mai Minh Hiếu",
       "rank": {
         "222": {
-          "single": 898,
-          "average": 576
+          "single": 899,
+          "average": 577
         },
         "333": {
-          "single": 1899,
-          "average": 1763
+          "single": 1901,
+          "average": 1765
         },
         "444": {
           "single": 662,
@@ -3197,8 +3197,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -3243,24 +3243,24 @@
       },
       "sor": {
         "333": {
-          "single": 2918,
-          "average": 2613
+          "single": 2921,
+          "average": 2616
         },
         "all": {
-          "single": 6183,
-          "average": 5243
+          "single": 6187,
+          "average": 5247
         },
         "nxn": {
-          "single": 4150,
-          "average": 3542
+          "single": 4153,
+          "average": 3545
         },
         "big": {
           "single": 1353,
           "average": 1203
         },
         "sprint": {
-          "single": 1368,
-          "average": 999
+          "single": 1369,
+          "average": 1000
         },
         "side": {
           "single": 1000,
@@ -3286,12 +3286,12 @@
           "average": 237
         },
         "333": {
-          "single": 667,
+          "single": 669,
           "average": 483
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -3306,8 +3306,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -3352,24 +3352,133 @@
       },
       "sor": {
         "333": {
-          "single": 1686,
-          "average": 1333
+          "single": 1689,
+          "average": 1334
         },
         "all": {
-          "single": 5390,
-          "average": 4430
+          "single": 5394,
+          "average": 4432
         },
         "nxn": {
-          "single": 2699,
-          "average": 2061
+          "single": 2702,
+          "average": 2062
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
           "single": 1370,
           "average": 1328
+        },
+        "side": {
+          "single": 1658,
+          "average": 1516
+        },
+        "bld": {
+          "single": 122,
+          "average": 26
+        },
+        "silent": {
+          "single": 187,
+          "average": 50
+        }
+      }
+    },
+    {
+      "actualRank": 431,
+      "personId": "2024HUYH02",
+      "personName": "Hoàng Quốc Huy",
+      "rank": {
+        "222": {
+          "single": 242,
+          "average": 492
+        },
+        "333": {
+          "single": 664,
+          "average": 708
+        },
+        "444": {
+          "single": 1004,
+          "average": 742
+        },
+        "555": {
+          "single": 503,
+          "average": 365
+        },
+        "666": {
+          "single": 159,
+          "average": 137
+        },
+        "777": {
+          "single": 125,
+          "average": 98
+        },
+        "333oh": {
+          "single": 847,
+          "average": 804
+        },
+        "333bf": {
+          "single": 91,
+          "average": 23
+        },
+        "333fm": {
+          "single": 65,
+          "average": 24
+        },
+        "333mbf": {
+          "single": 17,
+          "average": 0
+        },
+        "444bf": {
+          "single": 10,
+          "average": 1
+        },
+        "555bf": {
+          "single": 4,
+          "average": 2
+        },
+        "clock": {
+          "single": 170,
+          "average": 146
+        },
+        "minx": {
+          "single": 220,
+          "average": 152
+        },
+        "pyram": {
+          "single": 659,
+          "average": 641
+        },
+        "skewb": {
+          "single": 469,
+          "average": 450
+        },
+        "sq1": {
+          "single": 140,
+          "average": 127
+        }
+      },
+      "sor": {
+        "333": {
+          "single": 1684,
+          "average": 1559
+        },
+        "all": {
+          "single": 5389,
+          "average": 4912
+        },
+        "nxn": {
+          "single": 2697,
+          "average": 2542
+        },
+        "big": {
+          "single": 1791,
+          "average": 1342
+        },
+        "sprint": {
+          "single": 1370,
+          "average": 1583
         },
         "side": {
           "single": 1658,
@@ -3395,8 +3504,8 @@
           "average": 301
         },
         "333": {
-          "single": 930,
-          "average": 1206
+          "single": 933,
+          "average": 1208
         },
         "444": {
           "single": 514,
@@ -3461,16 +3570,16 @@
       },
       "sor": {
         "333": {
-          "single": 1729,
-          "average": 1758
+          "single": 1732,
+          "average": 1760
         },
         "all": {
-          "single": 4944,
-          "average": 4734
+          "single": 4947,
+          "average": 4736
         },
         "nxn": {
-          "single": 2473,
-          "average": 2663
+          "single": 2476,
+          "average": 2665
         },
         "big": {
           "single": 1301,
@@ -3495,12 +3604,12 @@
       }
     },
     {
-      "actualRank": 433,
+      "actualRank": 434,
       "personId": "2015DANH01",
       "personName": "Đoàn Văn Danh",
       "rank": {
         "222": {
-          "single": 246,
+          "single": 247,
           "average": 228
         },
         "333": {
@@ -3525,7 +3634,7 @@
         },
         "333oh": {
           "single": 143,
-          "average": 100
+          "average": 101
         },
         "333bf": {
           "single": 17,
@@ -3571,14 +3680,14 @@
       "sor": {
         "333": {
           "single": 436,
-          "average": 409
+          "average": 410
         },
         "all": {
-          "single": 3217,
-          "average": 2935
+          "single": 3218,
+          "average": 2936
         },
         "nxn": {
-          "single": 1303,
+          "single": 1304,
           "average": 1269
         },
         "big": {
@@ -3586,7 +3695,7 @@
           "average": 779
         },
         "sprint": {
-          "single": 1374,
+          "single": 1375,
           "average": 1319
         },
         "side": {
@@ -3604,17 +3713,17 @@
       }
     },
     {
-      "actualRank": 433,
+      "actualRank": 434,
       "personId": "2018KHAN12",
       "personName": "Nguyễn Hoàng Khang",
       "rank": {
         "222": {
-          "single": 246,
+          "single": 247,
           "average": 354
         },
         "333": {
-          "single": 720,
-          "average": 660
+          "single": 722,
+          "average": 661
         },
         "444": {
           "single": 679,
@@ -3633,8 +3742,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -3679,23 +3788,23 @@
       },
       "sor": {
         "333": {
-          "single": 1739,
-          "average": 1510
+          "single": 1742,
+          "average": 1512
         },
         "all": {
-          "single": 5123,
-          "average": 4618
+          "single": 5127,
+          "average": 4620
         },
         "nxn": {
-          "single": 2432,
-          "average": 2249
+          "single": 2435,
+          "average": 2250
         },
         "big": {
           "single": 1466,
           "average": 1235
         },
         "sprint": {
-          "single": 1374,
+          "single": 1375,
           "average": 1445
         },
         "side": {
@@ -3713,21 +3822,21 @@
       }
     },
     {
-      "actualRank": 433,
+      "actualRank": 434,
       "personId": "2022LAMD01",
       "personName": "Đoàn Khánh Lâm",
       "rank": {
         "222": {
-          "single": 749,
-          "average": 723
+          "single": 750,
+          "average": 724
         },
         "333": {
-          "single": 1403,
-          "average": 1213
+          "single": 1405,
+          "average": 1215
         },
         "444": {
           "single": 834,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -3788,24 +3897,24 @@
       },
       "sor": {
         "333": {
-          "single": 2263,
-          "average": 1870
+          "single": 2265,
+          "average": 1872
         },
         "all": {
-          "single": 5802,
-          "average": 5000
+          "single": 5805,
+          "average": 5004
         },
         "nxn": {
-          "single": 3773,
-          "average": 3277
+          "single": 3776,
+          "average": 3281
         },
         "big": {
           "single": 1621,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1374,
-          "average": 1361
+          "single": 1375,
+          "average": 1362
         },
         "side": {
           "single": 1155,
@@ -3822,21 +3931,21 @@
       }
     },
     {
-      "actualRank": 436,
+      "actualRank": 437,
       "personId": "2019ANTR01",
       "personName": "Trương Quốc An",
       "rank": {
         "222": {
-          "single": 694,
-          "average": 754
+          "single": 695,
+          "average": 755
         },
         "333": {
-          "single": 995,
-          "average": 698
+          "single": 998,
+          "average": 699
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -3851,8 +3960,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -3897,24 +4006,24 @@
       },
       "sor": {
         "333": {
-          "single": 2014,
-          "average": 1548
+          "single": 2018,
+          "average": 1550
         },
         "all": {
-          "single": 5723,
-          "average": 4898
+          "single": 5729,
+          "average": 4902
         },
         "nxn": {
-          "single": 3479,
-          "average": 2793
+          "single": 3484,
+          "average": 2796
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1375,
-          "average": 1581
+          "single": 1376,
+          "average": 1582
         },
         "side": {
           "single": 1211,
@@ -3931,21 +4040,21 @@
       }
     },
     {
-      "actualRank": 437,
+      "actualRank": 438,
       "personId": "2022HOAN09",
       "personName": "Trần Thủy Hoàng",
       "rank": {
         "222": {
-          "single": 248,
+          "single": 249,
           "average": 166
         },
         "333": {
-          "single": 526,
+          "single": 527,
           "average": 401
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -4006,23 +4115,23 @@
       },
       "sor": {
         "333": {
-          "single": 1001,
+          "single": 1002,
           "average": 772
         },
         "all": {
-          "single": 4711,
-          "average": 3798
+          "single": 4714,
+          "average": 3799
         },
         "nxn": {
-          "single": 2564,
-          "average": 1908
+          "single": 2567,
+          "average": 1909
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1376,
+          "single": 1377,
           "average": 1257
         },
         "side": {
@@ -4040,21 +4149,21 @@
       }
     },
     {
-      "actualRank": 438,
+      "actualRank": 439,
       "personId": "2019KHAN03",
       "personName": "Nguyễn Minh Khánh",
       "rank": {
         "222": {
-          "single": 503,
+          "single": 504,
           "average": 424
         },
         "333": {
-          "single": 1039,
-          "average": 1020
+          "single": 1042,
+          "average": 1023
         },
         "444": {
           "single": 597,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -4069,8 +4178,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -4115,23 +4224,23 @@
       },
       "sor": {
         "333": {
-          "single": 2058,
-          "average": 1870
+          "single": 2062,
+          "average": 1874
         },
         "all": {
-          "single": 5364,
-          "average": 5026
+          "single": 5369,
+          "average": 5031
         },
         "nxn": {
-          "single": 2926,
-          "average": 2785
+          "single": 2930,
+          "average": 2789
         },
         "big": {
           "single": 1384,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1378,
+          "single": 1379,
           "average": 1387
         },
         "side": {
@@ -4149,21 +4258,21 @@
       }
     },
     {
-      "actualRank": 438,
+      "actualRank": 439,
       "personId": "2023NGUY39",
       "personName": "Lưu Đăng Nguyên",
       "rank": {
         "222": {
-          "single": 801,
-          "average": 706
+          "single": 802,
+          "average": 707
         },
         "333": {
-          "single": 2275,
-          "average": 2185
+          "single": 2277,
+          "average": 2187
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -4178,8 +4287,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -4224,24 +4333,24 @@
       },
       "sor": {
         "333": {
-          "single": 3294,
-          "average": 3035
+          "single": 3297,
+          "average": 3038
         },
         "all": {
-          "single": 6960,
-          "average": 6019
+          "single": 6965,
+          "average": 6024
         },
         "nxn": {
-          "single": 4866,
-          "average": 4232
+          "single": 4870,
+          "average": 4236
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1378,
-          "average": 1258
+          "single": 1379,
+          "average": 1259
         },
         "side": {
           "single": 1061,
@@ -4258,12 +4367,12 @@
       }
     },
     {
-      "actualRank": 440,
+      "actualRank": 441,
       "personId": "2018DAID03",
       "personName": "Diệp Tử Đại",
       "rank": {
         "222": {
-          "single": 252,
+          "single": 253,
           "average": 468
         },
         "333": {
@@ -4337,11 +4446,11 @@
           "average": 780
         },
         "all": {
-          "single": 3754,
+          "single": 3755,
           "average": 3474
         },
         "nxn": {
-          "single": 1528,
+          "single": 1529,
           "average": 1605
         },
         "big": {
@@ -4349,7 +4458,7 @@
           "average": 707
         },
         "sprint": {
-          "single": 1380,
+          "single": 1381,
           "average": 1559
         },
         "side": {
@@ -4367,17 +4476,17 @@
       }
     },
     {
-      "actualRank": 440,
+      "actualRank": 441,
       "personId": "2024NGUY07",
       "personName": "Đặng Khoa Nguyên",
       "rank": {
         "222": {
-          "single": 490,
+          "single": 491,
           "average": 334
         },
         "333": {
           "single": 471,
-          "average": 583
+          "average": 584
         },
         "444": {
           "single": 694,
@@ -4443,22 +4552,22 @@
       "sor": {
         "333": {
           "single": 1121,
-          "average": 1041
+          "average": 1042
         },
         "all": {
-          "single": 4506,
-          "average": 3994
+          "single": 4507,
+          "average": 3995
         },
         "nxn": {
-          "single": 2442,
-          "average": 2173
+          "single": 2443,
+          "average": 2174
         },
         "big": {
           "single": 1481,
           "average": 1256
         },
         "sprint": {
-          "single": 1380,
+          "single": 1381,
           "average": 1269
         },
         "side": {
@@ -4476,17 +4585,17 @@
       }
     },
     {
-      "actualRank": 442,
+      "actualRank": 443,
       "personId": "2013NGCP01",
       "personName": "Phạm Tuấn Ngọc",
       "rank": {
         "222": {
-          "single": 1239,
-          "average": 1089
+          "single": 1240,
+          "average": 1090
         },
         "333": {
-          "single": 1263,
-          "average": 1398
+          "single": 1265,
+          "average": 1400
         },
         "444": {
           "single": 621,
@@ -4551,24 +4660,24 @@
       },
       "sor": {
         "333": {
-          "single": 1937,
-          "average": 1988
+          "single": 1939,
+          "average": 1990
         },
         "all": {
-          "single": 5008,
-          "average": 4861
+          "single": 5011,
+          "average": 4864
         },
         "nxn": {
-          "single": 3747,
-          "average": 3572
+          "single": 3750,
+          "average": 3575
         },
         "big": {
           "single": 1245,
           "average": 1085
         },
         "sprint": {
-          "single": 1382,
-          "average": 1394
+          "single": 1383,
+          "average": 1395
         },
         "side": {
           "single": 573,
@@ -4585,12 +4694,12 @@
       }
     },
     {
-      "actualRank": 443,
+      "actualRank": 444,
       "personId": "2018CUON02",
       "personName": "Lê Nguyễn Việt Cường",
       "rank": {
         "222": {
-          "single": 255,
+          "single": 256,
           "average": 131
         },
         "333": {
@@ -4664,11 +4773,11 @@
           "average": 513
         },
         "all": {
-          "single": 3520,
+          "single": 3521,
           "average": 2930
         },
         "nxn": {
-          "single": 1496,
+          "single": 1497,
           "average": 1200
         },
         "big": {
@@ -4676,7 +4785,7 @@
           "average": 767
         },
         "sprint": {
-          "single": 1383,
+          "single": 1384,
           "average": 1222
         },
         "side": {
@@ -4694,12 +4803,12 @@
       }
     },
     {
-      "actualRank": 444,
+      "actualRank": 445,
       "personId": "2018KIET07",
       "personName": "Võ Đăng Quang Kiệt",
       "rank": {
         "222": {
-          "single": 596,
+          "single": 597,
           "average": 246
         },
         "333": {
@@ -4724,7 +4833,7 @@
         },
         "333oh": {
           "single": 135,
-          "average": 103
+          "average": 104
         },
         "333bf": {
           "single": 91,
@@ -4770,14 +4879,14 @@
       "sor": {
         "333": {
           "single": 573,
-          "average": 313
+          "average": 314
         },
         "all": {
-          "single": 2907,
-          "average": 2080
+          "single": 2908,
+          "average": 2081
         },
         "nxn": {
-          "single": 1267,
+          "single": 1268,
           "average": 757
         },
         "big": {
@@ -4785,7 +4894,7 @@
           "average": 348
         },
         "sprint": {
-          "single": 1384,
+          "single": 1385,
           "average": 991
         },
         "side": {
@@ -4803,12 +4912,12 @@
       }
     },
     {
-      "actualRank": 444,
+      "actualRank": 445,
       "personId": "2018KHAI03",
       "personName": "Đỗ Tuấn Khải",
       "rank": {
         "222": {
-          "single": 256,
+          "single": 257,
           "average": 492
         },
         "333": {
@@ -4882,11 +4991,11 @@
           "average": 903
         },
         "all": {
-          "single": 3981,
+          "single": 3982,
           "average": 3772
         },
         "nxn": {
-          "single": 1594,
+          "single": 1595,
           "average": 1720
         },
         "big": {
@@ -4894,7 +5003,7 @@
           "average": 858
         },
         "sprint": {
-          "single": 1384,
+          "single": 1385,
           "average": 1583
         },
         "side": {
@@ -4912,21 +5021,21 @@
       }
     },
     {
-      "actualRank": 446,
+      "actualRank": 447,
       "personId": "2024TRAN15",
       "personName": "Minh Khoa Tran",
       "rank": {
         "222": {
-          "single": 641,
-          "average": 635
+          "single": 642,
+          "average": 636
         },
         "333": {
-          "single": 1187,
-          "average": 1113
+          "single": 1190,
+          "average": 1115
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -4941,8 +5050,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -4987,24 +5096,24 @@
       },
       "sor": {
         "333": {
-          "single": 2206,
-          "average": 1963
+          "single": 2210,
+          "average": 1966
         },
         "all": {
-          "single": 5925,
-          "average": 4983
+          "single": 5931,
+          "average": 4988
         },
         "nxn": {
-          "single": 3618,
-          "average": 3089
+          "single": 3623,
+          "average": 3093
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1385,
-          "average": 1251
+          "single": 1386,
+          "average": 1252
         },
         "side": {
           "single": 1274,
@@ -5021,12 +5130,12 @@
       }
     },
     {
-      "actualRank": 447,
+      "actualRank": 448,
       "personId": "2015QUYA01",
       "personName": "Đàm Sơn Quý",
       "rank": {
         "222": {
-          "single": 260,
+          "single": 261,
           "average": 180
         },
         "333": {
@@ -5100,11 +5209,11 @@
           "average": 826
         },
         "all": {
-          "single": 3545,
+          "single": 3546,
           "average": 3170
         },
         "nxn": {
-          "single": 1333,
+          "single": 1334,
           "average": 1255
         },
         "big": {
@@ -5112,7 +5221,7 @@
           "average": 645
         },
         "sprint": {
-          "single": 1388,
+          "single": 1389,
           "average": 1271
         },
         "side": {
@@ -5130,12 +5239,12 @@
       }
     },
     {
-      "actualRank": 448,
+      "actualRank": 449,
       "personId": "2022KHOI09",
       "personName": "Lê Viết Nguyên Khôi",
       "rank": {
         "222": {
-          "single": 261,
+          "single": 262,
           "average": 157
         },
         "333": {
@@ -5209,11 +5318,11 @@
           "average": 383
         },
         "all": {
-          "single": 3602,
+          "single": 3603,
           "average": 3079
         },
         "nxn": {
-          "single": 1620,
+          "single": 1621,
           "average": 1332
         },
         "big": {
@@ -5221,7 +5330,7 @@
           "average": 1020
         },
         "sprint": {
-          "single": 1389,
+          "single": 1390,
           "average": 1248
         },
         "side": {
@@ -5239,12 +5348,12 @@
       }
     },
     {
-      "actualRank": 449,
+      "actualRank": 450,
       "personId": "2022HIEU03",
       "personName": "Nguyễn Minh Hiếu",
       "rank": {
         "222": {
-          "single": 637,
+          "single": 638,
           "average": 344
         },
         "333": {
@@ -5252,8 +5361,8 @@
           "average": 167
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -5318,19 +5427,19 @@
           "average": 292
         },
         "all": {
-          "single": 4210,
-          "average": 3116
+          "single": 4212,
+          "average": 3117
         },
         "nxn": {
-          "single": 2678,
-          "average": 1852
+          "single": 2680,
+          "average": 1853
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1391,
+          "single": 1392,
           "average": 1055
         },
         "side": {
@@ -5348,21 +5457,21 @@
       }
     },
     {
-      "actualRank": 449,
+      "actualRank": 450,
       "personId": "2023PHUC01",
       "personName": "Trần Huỳnh Thiên Phúc",
       "rank": {
         "222": {
-          "single": 788,
-          "average": 1036
+          "single": 789,
+          "average": 1037
         },
         "333": {
-          "single": 1493,
-          "average": 1473
+          "single": 1495,
+          "average": 1475
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -5423,24 +5532,24 @@
       },
       "sor": {
         "333": {
-          "single": 2221,
-          "average": 2002
+          "single": 2223,
+          "average": 2004
         },
         "all": {
-          "single": 5929,
-          "average": 5202
+          "single": 5933,
+          "average": 5206
         },
         "nxn": {
-          "single": 4071,
-          "average": 3850
+          "single": 4075,
+          "average": 3854
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1391,
-          "average": 1431
+          "single": 1392,
+          "average": 1432
         },
         "side": {
           "single": 1116,
@@ -5457,21 +5566,21 @@
       }
     },
     {
-      "actualRank": 449,
+      "actualRank": 450,
       "personId": "2016DUCL01",
       "personName": "Lê Quý Đức",
       "rank": {
         "222": {
-          "single": 418,
-          "average": 1105
+          "single": 419,
+          "average": 1106
         },
         "333": {
-          "single": 1375,
-          "average": 1581
+          "single": 1377,
+          "average": 1583
         },
         "444": {
           "single": 766,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 390,
@@ -5532,24 +5641,24 @@
       },
       "sor": {
         "333": {
-          "single": 2232,
-          "average": 2351
+          "single": 2234,
+          "average": 2353
         },
         "all": {
-          "single": 5582,
-          "average": 6089
+          "single": 5585,
+          "average": 6093
         },
         "nxn": {
-          "single": 3233,
-          "average": 4019
+          "single": 3236,
+          "average": 4023
         },
         "big": {
           "single": 1440,
-          "average": 1333
+          "average": 1334
         },
         "sprint": {
-          "single": 1391,
-          "average": 1985
+          "single": 1392,
+          "average": 1986
         },
         "side": {
           "single": 1478,
@@ -5566,17 +5675,17 @@
       }
     },
     {
-      "actualRank": 452,
+      "actualRank": 453,
       "personId": "2018TUNG03",
       "personName": "Nguyễn Quang Tùng",
       "rank": {
         "222": {
-          "single": 264,
+          "single": 265,
           "average": 346
         },
         "333": {
-          "single": 870,
-          "average": 1003
+          "single": 873,
+          "average": 1006
         },
         "444": {
           "single": 448,
@@ -5641,23 +5750,23 @@
       },
       "sor": {
         "333": {
-          "single": 1524,
-          "average": 1463
+          "single": 1527,
+          "average": 1466
         },
         "all": {
-          "single": 4492,
-          "average": 4299
+          "single": 4496,
+          "average": 4302
         },
         "nxn": {
-          "single": 2166,
-          "average": 2320
+          "single": 2170,
+          "average": 2323
         },
         "big": {
           "single": 1032,
           "average": 971
         },
         "sprint": {
-          "single": 1392,
+          "single": 1393,
           "average": 1437
         },
         "side": {
@@ -5675,21 +5784,21 @@
       }
     },
     {
-      "actualRank": 453,
+      "actualRank": 454,
       "personId": "2015HUNG04",
       "personName": "Bùi Việt Hùng",
       "rank": {
         "222": {
-          "single": 619,
-          "average": 542
+          "single": 620,
+          "average": 543
         },
         "333": {
-          "single": 1053,
-          "average": 950
+          "single": 1056,
+          "average": 952
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -5704,8 +5813,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -5750,24 +5859,24 @@
       },
       "sor": {
         "333": {
-          "single": 2072,
-          "average": 1800
+          "single": 2076,
+          "average": 1803
         },
         "all": {
-          "single": 5804,
-          "average": 4835
+          "single": 5810,
+          "average": 4840
         },
         "nxn": {
-          "single": 3462,
-          "average": 2833
+          "single": 3467,
+          "average": 2837
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1398,
-          "average": 1266
+          "single": 1399,
+          "average": 1267
         },
         "side": {
           "single": 1309,
@@ -5784,17 +5893,17 @@
       }
     },
     {
-      "actualRank": 454,
+      "actualRank": 455,
       "personId": "2023ANNG01",
       "personName": "Nguyễn Minh Ân",
       "rank": {
         "222": {
-          "single": 752,
-          "average": 552
+          "single": 753,
+          "average": 553
         },
         "333": {
-          "single": 737,
-          "average": 928
+          "single": 739,
+          "average": 930
         },
         "444": {
           "single": 555,
@@ -5859,24 +5968,24 @@
       },
       "sor": {
         "333": {
-          "single": 1361,
-          "average": 1423
+          "single": 1363,
+          "average": 1425
         },
         "all": {
-          "single": 4503,
-          "average": 4168
+          "single": 4506,
+          "average": 4171
         },
         "nxn": {
-          "single": 2687,
-          "average": 2660
+          "single": 2690,
+          "average": 2663
         },
         "big": {
           "single": 1198,
           "average": 1180
         },
         "sprint": {
-          "single": 1400,
-          "average": 1137
+          "single": 1401,
+          "average": 1138
         },
         "side": {
           "single": 1178,
@@ -5893,12 +6002,12 @@
       }
     },
     {
-      "actualRank": 455,
+      "actualRank": 456,
       "personId": "2023NHAT06",
       "personName": "Phạm Long Nhật",
       "rank": {
         "222": {
-          "single": 274,
+          "single": 275,
           "average": 265
         },
         "333": {
@@ -5906,8 +6015,8 @@
           "average": 228
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -5922,8 +6031,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -5968,23 +6077,23 @@
       },
       "sor": {
         "333": {
-          "single": 1203,
-          "average": 1078
+          "single": 1204,
+          "average": 1079
         },
         "all": {
-          "single": 4939,
-          "average": 4203
+          "single": 4942,
+          "average": 4205
         },
         "nxn": {
-          "single": 2248,
-          "average": 1834
+          "single": 2250,
+          "average": 1835
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1402,
+          "single": 1403,
           "average": 1356
         },
         "side": {
@@ -6002,17 +6111,17 @@
       }
     },
     {
-      "actualRank": 456,
+      "actualRank": 457,
       "personId": "2023NGUY37",
       "personName": "Chu Hoàng Hải Nguyên",
       "rank": {
         "222": {
-          "single": 971,
-          "average": 593
+          "single": 972,
+          "average": 594
         },
         "333": {
-          "single": 913,
-          "average": 785
+          "single": 916,
+          "average": 787
         },
         "444": {
           "single": 511,
@@ -6077,24 +6186,24 @@
       },
       "sor": {
         "333": {
-          "single": 1417,
-          "average": 1178
+          "single": 1420,
+          "average": 1180
         },
         "all": {
-          "single": 4253,
-          "average": 3478
+          "single": 4257,
+          "average": 3481
         },
         "nxn": {
-          "single": 2973,
-          "average": 2333
+          "single": 2977,
+          "average": 2336
         },
         "big": {
           "single": 1089,
           "average": 955
         },
         "sprint": {
-          "single": 1404,
-          "average": 1028
+          "single": 1405,
+          "average": 1029
         },
         "side": {
           "single": 762,
@@ -6111,17 +6220,17 @@
       }
     },
     {
-      "actualRank": 457,
+      "actualRank": 458,
       "personId": "2023KHAN46",
       "personName": "Phan Hà Tuấn Khanh",
       "rank": {
         "222": {
-          "single": 278,
+          "single": 279,
           "average": 415
         },
         "333": {
-          "single": 629,
-          "average": 545
+          "single": 630,
+          "average": 546
         },
         "444": {
           "single": 280,
@@ -6140,8 +6249,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -6186,23 +6295,23 @@
       },
       "sor": {
         "333": {
-          "single": 1648,
-          "average": 1395
+          "single": 1650,
+          "average": 1397
         },
         "all": {
-          "single": 4665,
-          "average": 4193
+          "single": 4668,
+          "average": 4195
         },
         "nxn": {
-          "single": 1974,
-          "average": 1824
+          "single": 1976,
+          "average": 1825
         },
         "big": {
           "single": 1067,
           "average": 864
         },
         "sprint": {
-          "single": 1406,
+          "single": 1407,
           "average": 1506
         },
         "side": {
@@ -6220,17 +6329,17 @@
       }
     },
     {
-      "actualRank": 457,
+      "actualRank": 458,
       "personId": "2019DUCL04",
       "personName": "Lê Trung Đức",
       "rank": {
         "222": {
-          "single": 938,
-          "average": 798
+          "single": 939,
+          "average": 799
         },
         "333": {
-          "single": 1183,
-          "average": 1160
+          "single": 1186,
+          "average": 1162
         },
         "444": {
           "single": 502,
@@ -6249,8 +6358,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -6295,24 +6404,24 @@
       },
       "sor": {
         "333": {
-          "single": 2202,
-          "average": 2010
+          "single": 2206,
+          "average": 2013
         },
         "all": {
-          "single": 5336,
-          "average": 4687
+          "single": 5341,
+          "average": 4691
         },
         "nxn": {
-          "single": 3410,
-          "average": 3084
+          "single": 3414,
+          "average": 3087
         },
         "big": {
           "single": 1289,
           "average": 1126
         },
         "sprint": {
-          "single": 1406,
-          "average": 1174
+          "single": 1407,
+          "average": 1175
         },
         "side": {
           "single": 893,
@@ -6329,13 +6438,13 @@
       }
     },
     {
-      "actualRank": 459,
+      "actualRank": 460,
       "personId": "2020DUNG01",
       "personName": "Nguyễn Tấn Dũng",
       "rank": {
         "222": {
-          "single": 530,
-          "average": 819
+          "single": 531,
+          "average": 820
         },
         "333": {
           "single": 414,
@@ -6408,20 +6517,20 @@
           "average": 477
         },
         "all": {
-          "single": 4077,
-          "average": 3760
+          "single": 4078,
+          "average": 3761
         },
         "nxn": {
-          "single": 2398,
-          "average": 2295
+          "single": 2399,
+          "average": 2296
         },
         "big": {
           "single": 1454,
           "average": 1226
         },
         "sprint": {
-          "single": 1407,
-          "average": 1629
+          "single": 1408,
+          "average": 1630
         },
         "side": {
           "single": 1407,
@@ -6438,13 +6547,13 @@
       }
     },
     {
-      "actualRank": 460,
+      "actualRank": 461,
       "personId": "2020PHAT01",
       "personName": "Nguyễn Tiến Phát",
       "rank": {
         "222": {
-          "single": 725,
-          "average": 593
+          "single": 726,
+          "average": 594
         },
         "333": {
           "single": 499,
@@ -6452,7 +6561,7 @@
         },
         "444": {
           "single": 773,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -6517,20 +6626,20 @@
           "average": 839
         },
         "all": {
-          "single": 4461,
-          "average": 3857
+          "single": 4462,
+          "average": 3859
         },
         "nxn": {
-          "single": 2784,
-          "average": 2414
+          "single": 2785,
+          "average": 2416
         },
         "big": {
           "single": 1560,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1410,
-          "average": 1249
+          "single": 1411,
+          "average": 1250
         },
         "side": {
           "single": 1215,
@@ -6547,12 +6656,12 @@
       }
     },
     {
-      "actualRank": 461,
+      "actualRank": 462,
       "personId": "2020QUAN03",
       "personName": "Vũ Hồng Quang",
       "rank": {
         "222": {
-          "single": 283,
+          "single": 284,
           "average": 293
         },
         "333": {
@@ -6626,11 +6735,11 @@
           "average": 185
         },
         "all": {
-          "single": 2939,
+          "single": 2940,
           "average": 2694
         },
         "nxn": {
-          "single": 1099,
+          "single": 1100,
           "average": 1077
         },
         "big": {
@@ -6638,7 +6747,7 @@
           "average": 697
         },
         "sprint": {
-          "single": 1411,
+          "single": 1412,
           "average": 1384
         },
         "side": {
@@ -6656,12 +6765,12 @@
       }
     },
     {
-      "actualRank": 462,
+      "actualRank": 463,
       "personId": "2012GIAN01",
       "personName": "Hoàng Minh Giang",
       "rank": {
         "222": {
-          "single": 286,
+          "single": 287,
           "average": 433
         },
         "333": {
@@ -6735,11 +6844,11 @@
           "average": 582
         },
         "all": {
-          "single": 3460,
+          "single": 3461,
           "average": 3504
         },
         "nxn": {
-          "single": 1301,
+          "single": 1302,
           "average": 1565
         },
         "big": {
@@ -6747,7 +6856,7 @@
           "average": 970
         },
         "sprint": {
-          "single": 1414,
+          "single": 1415,
           "average": 1524
         },
         "side": {
@@ -6765,12 +6874,12 @@
       }
     },
     {
-      "actualRank": 462,
+      "actualRank": 463,
       "personId": "2019KHAN20",
       "personName": "Nguyễn Nhật Khánh",
       "rank": {
         "222": {
-          "single": 286,
+          "single": 287,
           "average": 133
         },
         "333": {
@@ -6794,8 +6903,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -6840,15 +6949,15 @@
       },
       "sor": {
         "333": {
-          "single": 1326,
-          "average": 1201
+          "single": 1327,
+          "average": 1202
         },
         "all": {
-          "single": 3855,
-          "average": 3402
+          "single": 3857,
+          "average": 3403
         },
         "nxn": {
-          "single": 1164,
+          "single": 1165,
           "average": 1033
         },
         "big": {
@@ -6856,7 +6965,7 @@
           "average": 549
         },
         "sprint": {
-          "single": 1414,
+          "single": 1415,
           "average": 1224
         },
         "side": {
@@ -6874,21 +6983,21 @@
       }
     },
     {
-      "actualRank": 462,
+      "actualRank": 463,
       "personId": "2022KHAN22",
       "personName": "Hoàng Công Khanh",
       "rank": {
         "222": {
-          "single": 286,
-          "average": 768
+          "single": 287,
+          "average": 769
         },
         "333": {
-          "single": 895,
-          "average": 678
+          "single": 898,
+          "average": 679
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -6903,8 +7012,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -6949,24 +7058,24 @@
       },
       "sor": {
         "333": {
-          "single": 1914,
-          "average": 1528
+          "single": 1918,
+          "average": 1530
         },
         "all": {
-          "single": 5662,
-          "average": 5156
+          "single": 5668,
+          "average": 5160
         },
         "nxn": {
-          "single": 2971,
-          "average": 2787
+          "single": 2976,
+          "average": 2790
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1414,
-          "average": 1859
+          "single": 1415,
+          "average": 1860
         },
         "side": {
           "single": 1658,
@@ -6983,12 +7092,12 @@
       }
     },
     {
-      "actualRank": 465,
+      "actualRank": 466,
       "personId": "2018MINH06",
       "personName": "Nguyễn Thiện Minh",
       "rank": {
         "222": {
-          "single": 327,
+          "single": 328,
           "average": 279
         },
         "333": {
@@ -7062,11 +7171,11 @@
           "average": 373
         },
         "all": {
-          "single": 3540,
+          "single": 3541,
           "average": 3044
         },
         "nxn": {
-          "single": 1617,
+          "single": 1618,
           "average": 1388
         },
         "big": {
@@ -7074,7 +7183,7 @@
           "average": 907
         },
         "sprint": {
-          "single": 1417,
+          "single": 1418,
           "average": 1336
         },
         "side": {
@@ -7092,21 +7201,21 @@
       }
     },
     {
-      "actualRank": 466,
+      "actualRank": 467,
       "personId": "2023DUNG06",
       "personName": "Tăng Trí Dũng",
       "rank": {
         "222": {
-          "single": 292,
-          "average": 766
+          "single": 293,
+          "average": 767
         },
         "333": {
-          "single": 1239,
-          "average": 1046
+          "single": 1242,
+          "average": 1049
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -7121,8 +7230,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -7167,24 +7276,24 @@
       },
       "sor": {
         "333": {
-          "single": 2258,
-          "average": 1896
+          "single": 2262,
+          "average": 1900
         },
         "all": {
-          "single": 6012,
-          "average": 5522
+          "single": 6018,
+          "average": 5528
         },
         "nxn": {
-          "single": 3321,
-          "average": 3153
+          "single": 3326,
+          "average": 3158
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1420,
-          "average": 1857
+          "single": 1421,
+          "average": 1858
         },
         "side": {
           "single": 1658,
@@ -7201,17 +7310,17 @@
       }
     },
     {
-      "actualRank": 467,
+      "actualRank": 468,
       "personId": "2010LEHA01",
       "personName": "Lê Hải Ninh",
       "rank": {
         "222": {
-          "single": 319,
-          "average": 855
+          "single": 320,
+          "average": 856
         },
         "333": {
-          "single": 597,
-          "average": 622
+          "single": 598,
+          "average": 623
         },
         "444": {
           "single": 661,
@@ -7276,24 +7385,24 @@
       },
       "sor": {
         "333": {
-          "single": 1460,
-          "average": 1311
+          "single": 1461,
+          "average": 1312
         },
         "all": {
-          "single": 4708,
-          "average": 4849
+          "single": 4710,
+          "average": 4851
         },
         "nxn": {
-          "single": 2294,
-          "average": 2699
+          "single": 2296,
+          "average": 2701
         },
         "big": {
           "single": 1378,
           "average": 1222
         },
         "sprint": {
-          "single": 1422,
-          "average": 1926
+          "single": 1423,
+          "average": 1927
         },
         "side": {
           "single": 1537,
@@ -7310,17 +7419,17 @@
       }
     },
     {
-      "actualRank": 467,
+      "actualRank": 468,
       "personId": "2016PHAT01",
       "personName": "Hồ Tấn Phát",
       "rank": {
         "222": {
-          "single": 557,
+          "single": 558,
           "average": 473
         },
         "333": {
-          "single": 1549,
-          "average": 1353
+          "single": 1551,
+          "average": 1355
         },
         "444": {
           "single": 697,
@@ -7385,23 +7494,23 @@
       },
       "sor": {
         "333": {
-          "single": 2483,
-          "average": 2149
+          "single": 2485,
+          "average": 2151
         },
         "all": {
-          "single": 5835,
-          "average": 5155
+          "single": 5838,
+          "average": 5157
         },
         "nxn": {
-          "single": 3492,
-          "average": 3077
+          "single": 3495,
+          "average": 3079
         },
         "big": {
           "single": 1386,
           "average": 1251
         },
         "sprint": {
-          "single": 1422,
+          "single": 1423,
           "average": 1327
         },
         "side": {
@@ -7419,17 +7528,17 @@
       }
     },
     {
-      "actualRank": 469,
+      "actualRank": 470,
       "personId": "2015ANHL01",
       "personName": "Lưu Nguyễn Nhật Anh",
       "rank": {
         "222": {
-          "single": 297,
+          "single": 298,
           "average": 306
         },
         "333": {
-          "single": 550,
-          "average": 916
+          "single": 551,
+          "average": 918
         },
         "444": {
           "single": 516,
@@ -7448,8 +7557,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -7494,23 +7603,23 @@
       },
       "sor": {
         "333": {
-          "single": 1569,
-          "average": 1766
+          "single": 1571,
+          "average": 1769
         },
         "all": {
-          "single": 4546,
-          "average": 4528
+          "single": 4549,
+          "average": 4531
         },
         "nxn": {
-          "single": 1855,
-          "average": 2159
+          "single": 1857,
+          "average": 2161
         },
         "big": {
           "single": 1008,
           "average": 937
         },
         "sprint": {
-          "single": 1425,
+          "single": 1426,
           "average": 1397
         },
         "side": {
@@ -7528,17 +7637,17 @@
       }
     },
     {
-      "actualRank": 470,
+      "actualRank": 471,
       "personId": "2022NHAT02",
       "personName": "Lê Minh Nhật",
       "rank": {
         "222": {
-          "single": 624,
+          "single": 625,
           "average": 389
         },
         "333": {
-          "single": 691,
-          "average": 771
+          "single": 693,
+          "average": 773
         },
         "444": {
           "single": 608,
@@ -7603,23 +7712,23 @@
       },
       "sor": {
         "333": {
-          "single": 1354,
-          "average": 1365
+          "single": 1356,
+          "average": 1367
         },
         "all": {
-          "single": 4721,
-          "average": 4088
+          "single": 4724,
+          "average": 4090
         },
         "nxn": {
-          "single": 2710,
-          "average": 2348
+          "single": 2713,
+          "average": 2350
         },
         "big": {
           "single": 1395,
           "average": 1188
         },
         "sprint": {
-          "single": 1428,
+          "single": 1429,
           "average": 1107
         },
         "side": {
@@ -7637,21 +7746,21 @@
       }
     },
     {
-      "actualRank": 470,
+      "actualRank": 471,
       "personId": "2017BINH06",
       "personName": "Đoàn Thanh Bình",
       "rank": {
         "222": {
-          "single": 796,
-          "average": 1263
+          "single": 797,
+          "average": 1264
         },
         "333": {
-          "single": 2262,
-          "average": 2288
+          "single": 2264,
+          "average": 2290
         },
         "444": {
           "single": 947,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -7712,24 +7821,24 @@
       },
       "sor": {
         "333": {
-          "single": 3244,
-          "average": 3125
+          "single": 3246,
+          "average": 3127
         },
         "all": {
-          "single": 6950,
-          "average": 6707
+          "single": 6953,
+          "average": 6711
         },
         "nxn": {
-          "single": 4792,
-          "average": 4892
+          "single": 4795,
+          "average": 4896
         },
         "big": {
           "single": 1734,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1428,
-          "average": 1813
+          "single": 1429,
+          "average": 1814
         },
         "side": {
           "single": 1162,
@@ -7746,21 +7855,21 @@
       }
     },
     {
-      "actualRank": 472,
+      "actualRank": 473,
       "personId": "2022GIAN03",
       "personName": "Nguyễn Hoàng Minh Giang",
       "rank": {
         "222": {
-          "single": 301,
+          "single": 302,
           "average": 475
         },
         "333": {
-          "single": 905,
-          "average": 657
+          "single": 908,
+          "average": 658
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -7775,8 +7884,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -7821,23 +7930,23 @@
       },
       "sor": {
         "333": {
-          "single": 1924,
-          "average": 1507
+          "single": 1928,
+          "average": 1509
         },
         "all": {
-          "single": 5687,
-          "average": 4842
+          "single": 5693,
+          "average": 4845
         },
         "nxn": {
-          "single": 2996,
-          "average": 2473
+          "single": 3001,
+          "average": 2475
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1429,
+          "single": 1430,
           "average": 1566
         },
         "side": {
@@ -7855,17 +7964,17 @@
       }
     },
     {
-      "actualRank": 472,
+      "actualRank": 473,
       "personId": "2018BAOT01",
       "personName": "Trần Quân Bảo",
       "rank": {
         "222": {
-          "single": 535,
+          "single": 536,
           "average": 317
         },
         "333": {
-          "single": 673,
-          "average": 839
+          "single": 675,
+          "average": 841
         },
         "444": {
           "single": 355,
@@ -7884,8 +7993,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -7930,23 +8039,23 @@
       },
       "sor": {
         "333": {
-          "single": 1692,
-          "average": 1689
+          "single": 1695,
+          "average": 1692
         },
         "all": {
-          "single": 4807,
-          "average": 4347
+          "single": 4811,
+          "average": 4350
         },
         "nxn": {
-          "single": 2350,
-          "average": 2173
+          "single": 2353,
+          "average": 2175
         },
         "big": {
           "single": 1142,
           "average": 1017
         },
         "sprint": {
-          "single": 1429,
+          "single": 1430,
           "average": 1213
         },
         "side": {
@@ -7964,12 +8073,12 @@
       }
     },
     {
-      "actualRank": 474,
+      "actualRank": 475,
       "personId": "2016DUCN01",
       "personName": "Nguyễn Trí Đức",
       "rank": {
         "222": {
-          "single": 305,
+          "single": 306,
           "average": 448
         },
         "333": {
@@ -7978,7 +8087,7 @@
         },
         "444": {
           "single": 816,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -7993,8 +8102,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -8039,23 +8148,23 @@
       },
       "sor": {
         "333": {
-          "single": 1521,
-          "average": 1215
+          "single": 1522,
+          "average": 1216
         },
         "all": {
-          "single": 5099,
-          "average": 4502
+          "single": 5101,
+          "average": 4504
         },
         "nxn": {
-          "single": 2410,
-          "average": 2154
+          "single": 2411,
+          "average": 2155
         },
         "big": {
           "single": 1603,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1431,
+          "single": 1432,
           "average": 1518
         },
         "side": {
@@ -8073,21 +8182,21 @@
       }
     },
     {
-      "actualRank": 474,
+      "actualRank": 475,
       "personId": "2019KHOA05",
       "personName": "Nguyễn Anh Khoa",
       "rank": {
         "222": {
-          "single": 303,
-          "average": 736
+          "single": 304,
+          "average": 737
         },
         "333": {
-          "single": 1800,
-          "average": 1801
+          "single": 1802,
+          "average": 1803
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -8102,8 +8211,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -8148,24 +8257,24 @@
       },
       "sor": {
         "333": {
-          "single": 2819,
-          "average": 2651
+          "single": 2822,
+          "average": 2654
         },
         "all": {
-          "single": 6584,
-          "average": 6247
+          "single": 6589,
+          "average": 6252
         },
         "nxn": {
-          "single": 3893,
-          "average": 3878
+          "single": 3897,
+          "average": 3882
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1431,
-          "average": 1827
+          "single": 1432,
+          "average": 1828
         },
         "side": {
           "single": 1658,
@@ -8182,12 +8291,12 @@
       }
     },
     {
-      "actualRank": 476,
+      "actualRank": 477,
       "personId": "2018TULE01",
       "personName": "Lê Anh Tú",
       "rank": {
         "222": {
-          "single": 305,
+          "single": 306,
           "average": 111
         },
         "333": {
@@ -8261,11 +8370,11 @@
           "average": 141
         },
         "all": {
-          "single": 2735,
+          "single": 2736,
           "average": 2149
         },
         "nxn": {
-          "single": 792,
+          "single": 793,
           "average": 525
         },
         "big": {
@@ -8273,7 +8382,7 @@
           "average": 378
         },
         "sprint": {
-          "single": 1433,
+          "single": 1434,
           "average": 1202
         },
         "side": {
@@ -8291,21 +8400,21 @@
       }
     },
     {
-      "actualRank": 476,
+      "actualRank": 477,
       "personId": "2022PHUP01",
       "personName": "Phạm Đức Phú",
       "rank": {
         "222": {
-          "single": 305,
+          "single": 306,
           "average": 228
         },
         "333": {
-          "single": 667,
+          "single": 669,
           "average": 469
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -8320,8 +8429,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -8366,23 +8475,23 @@
       },
       "sor": {
         "333": {
-          "single": 1686,
-          "average": 1319
+          "single": 1689,
+          "average": 1320
         },
         "all": {
-          "single": 5453,
-          "average": 4407
+          "single": 5458,
+          "average": 4409
         },
         "nxn": {
-          "single": 2762,
-          "average": 2038
+          "single": 2766,
+          "average": 2039
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1433,
+          "single": 1434,
           "average": 1319
         },
         "side": {
@@ -8400,16 +8509,16 @@
       }
     },
     {
-      "actualRank": 476,
+      "actualRank": 477,
       "personId": "2023HOAN06",
       "personName": "Kuba Bao Gia Hoang",
       "rank": {
         "222": {
-          "single": 305,
+          "single": 306,
           "average": 451
         },
         "333": {
-          "single": 591,
+          "single": 592,
           "average": 488
         },
         "444": {
@@ -8429,8 +8538,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -8475,15 +8584,15 @@
       },
       "sor": {
         "333": {
-          "single": 1610,
-          "average": 1338
+          "single": 1612,
+          "average": 1339
         },
         "all": {
-          "single": 4690,
-          "average": 4349
+          "single": 4693,
+          "average": 4350
         },
         "nxn": {
-          "single": 1999,
+          "single": 2001,
           "average": 1980
         },
         "big": {
@@ -8491,7 +8600,7 @@
           "average": 1041
         },
         "sprint": {
-          "single": 1433,
+          "single": 1434,
           "average": 1542
         },
         "side": {
@@ -8509,17 +8618,17 @@
       }
     },
     {
-      "actualRank": 476,
+      "actualRank": 477,
       "personId": "2024MANH03",
       "personName": "Đỗ Đình Mạnh",
       "rank": {
         "222": {
-          "single": 654,
-          "average": 793
+          "single": 655,
+          "average": 794
         },
         "333": {
-          "single": 1227,
-          "average": 1121
+          "single": 1230,
+          "average": 1123
         },
         "444": {
           "single": 642,
@@ -8584,24 +8693,24 @@
       },
       "sor": {
         "333": {
-          "single": 1843,
-          "average": 1645
+          "single": 1846,
+          "average": 1647
         },
         "all": {
-          "single": 5199,
-          "average": 4849
+          "single": 5203,
+          "average": 4852
         },
         "nxn": {
-          "single": 3260,
-          "average": 3194
+          "single": 3264,
+          "average": 3197
         },
         "big": {
           "single": 1379,
           "average": 1280
         },
         "sprint": {
-          "single": 1433,
-          "average": 1496
+          "single": 1434,
+          "average": 1497
         },
         "side": {
           "single": 1309,
@@ -8618,21 +8727,21 @@
       }
     },
     {
-      "actualRank": 480,
+      "actualRank": 481,
       "personId": "2023KHAN40",
       "personName": "Đỗ An Khang",
       "rank": {
         "222": {
-          "single": 879,
-          "average": 622
+          "single": 880,
+          "average": 623
         },
         "333": {
           "single": 499,
-          "average": 780
+          "average": 782
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -8694,23 +8803,23 @@
       "sor": {
         "333": {
           "single": 810,
-          "average": 971
+          "average": 973
         },
         "all": {
-          "single": 4377,
-          "average": 3767
+          "single": 4379,
+          "average": 3771
         },
         "nxn": {
-          "single": 3168,
-          "average": 2743
+          "single": 3170,
+          "average": 2747
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1439,
-          "average": 1149
+          "single": 1440,
+          "average": 1150
         },
         "side": {
           "single": 884,
@@ -8727,21 +8836,21 @@
       }
     },
     {
-      "actualRank": 481,
+      "actualRank": 482,
       "personId": "2022NAMN01",
       "personName": "Nguyễn Hoàng Nam",
       "rank": {
         "222": {
-          "single": 312,
+          "single": 313,
           "average": 227
         },
         "333": {
           "single": 462,
-          "average": 532
+          "average": 533
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -8803,22 +8912,22 @@
       "sor": {
         "333": {
           "single": 922,
-          "average": 821
+          "average": 822
         },
         "all": {
-          "single": 4608,
-          "average": 3841
+          "single": 4610,
+          "average": 3843
         },
         "nxn": {
-          "single": 2564,
-          "average": 2100
+          "single": 2566,
+          "average": 2102
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1440,
+          "single": 1441,
           "average": 1318
         },
         "side": {
@@ -8836,21 +8945,21 @@
       }
     },
     {
-      "actualRank": 481,
+      "actualRank": 482,
       "personId": "2024BAON02",
       "personName": "Nguyễn Hữu Thế Bảo",
       "rank": {
         "222": {
-          "single": 312,
+          "single": 313,
           "average": 426
         },
         "333": {
           "single": 433,
-          "average": 609
+          "average": 610
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -8865,8 +8974,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -8911,23 +9020,23 @@
       },
       "sor": {
         "333": {
-          "single": 1452,
-          "average": 1459
+          "single": 1453,
+          "average": 1461
         },
         "all": {
-          "single": 5226,
-          "average": 4745
+          "single": 5229,
+          "average": 4748
         },
         "nxn": {
-          "single": 2535,
-          "average": 2376
+          "single": 2537,
+          "average": 2378
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1440,
+          "single": 1441,
           "average": 1517
         },
         "side": {
@@ -8945,21 +9054,21 @@
       }
     },
     {
-      "actualRank": 481,
+      "actualRank": 482,
       "personId": "2023QUAN10",
       "personName": "Đặng Minh Quân",
       "rank": {
         "222": {
-          "single": 312,
-          "average": 510
+          "single": 313,
+          "average": 511
         },
         "333": {
-          "single": 818,
-          "average": 1090
+          "single": 820,
+          "average": 1092
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -9020,24 +9129,24 @@
       },
       "sor": {
         "333": {
-          "single": 1294,
-          "average": 1470
+          "single": 1296,
+          "average": 1472
         },
         "all": {
-          "single": 5068,
-          "average": 4840
+          "single": 5072,
+          "average": 4844
         },
         "nxn": {
-          "single": 2920,
-          "average": 2941
+          "single": 2924,
+          "average": 2945
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1440,
-          "average": 1601
+          "single": 1441,
+          "average": 1602
         },
         "side": {
           "single": 1658,
@@ -9054,21 +9163,21 @@
       }
     },
     {
-      "actualRank": 481,
+      "actualRank": 482,
       "personId": "2017NHAN03",
       "personName": "Lê Trung Nhân",
       "rank": {
         "222": {
-          "single": 312,
-          "average": 533
+          "single": 313,
+          "average": 534
         },
         "333": {
-          "single": 1572,
-          "average": 1283
+          "single": 1574,
+          "average": 1285
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -9083,8 +9192,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -9129,24 +9238,24 @@
       },
       "sor": {
         "333": {
-          "single": 2591,
-          "average": 2133
+          "single": 2594,
+          "average": 2136
         },
         "all": {
-          "single": 6365,
-          "average": 5526
+          "single": 6370,
+          "average": 5531
         },
         "nxn": {
-          "single": 3674,
-          "average": 3157
+          "single": 3678,
+          "average": 3161
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1440,
-          "average": 1624
+          "single": 1441,
+          "average": 1625
         },
         "side": {
           "single": 1658,
@@ -9163,17 +9272,17 @@
       }
     },
     {
-      "actualRank": 485,
+      "actualRank": 486,
       "personId": "2017DATH01",
       "personName": "Huỳnh Minh Đạt",
       "rank": {
         "222": {
-          "single": 885,
-          "average": 762
+          "single": 886,
+          "average": 763
         },
         "333": {
-          "single": 1318,
-          "average": 1247
+          "single": 1320,
+          "average": 1249
         },
         "444": {
           "single": 734,
@@ -9192,8 +9301,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -9238,24 +9347,24 @@
       },
       "sor": {
         "333": {
-          "single": 2337,
-          "average": 2097
+          "single": 2340,
+          "average": 2100
         },
         "all": {
-          "single": 5796,
-          "average": 5120
+          "single": 5800,
+          "average": 5124
         },
         "nxn": {
-          "single": 3724,
-          "average": 3275
+          "single": 3727,
+          "average": 3278
         },
         "big": {
           "single": 1521,
           "average": 1266
         },
         "sprint": {
-          "single": 1443,
-          "average": 1344
+          "single": 1444,
+          "average": 1345
         },
         "side": {
           "single": 1039,
@@ -9272,21 +9381,21 @@
       }
     },
     {
-      "actualRank": 486,
+      "actualRank": 487,
       "personId": "2018KHOA02",
       "personName": "Phạm Ngọc Khoa",
       "rank": {
         "222": {
-          "single": 598,
+          "single": 599,
           "average": 411
         },
         "333": {
-          "single": 1219,
-          "average": 1054
+          "single": 1222,
+          "average": 1057
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -9347,23 +9456,23 @@
       },
       "sor": {
         "333": {
-          "single": 1923,
-          "average": 1670
+          "single": 1926,
+          "average": 1673
         },
         "all": {
-          "single": 5702,
-          "average": 4763
+          "single": 5707,
+          "average": 4767
         },
         "nxn": {
-          "single": 3607,
-          "average": 2806
+          "single": 3612,
+          "average": 2810
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1445,
+          "single": 1446,
           "average": 1324
         },
         "side": {
@@ -9381,21 +9490,21 @@
       }
     },
     {
-      "actualRank": 486,
+      "actualRank": 487,
       "personId": "2022KHAN70",
       "personName": "Đỗ Vinh Khang",
       "rank": {
         "222": {
-          "single": 826,
-          "average": 752
+          "single": 827,
+          "average": 753
         },
         "333": {
-          "single": 1875,
-          "average": 1850
+          "single": 1877,
+          "average": 1852
         },
         "444": {
           "single": 879,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -9410,8 +9519,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -9456,24 +9565,24 @@
       },
       "sor": {
         "333": {
-          "single": 2894,
-          "average": 2700
+          "single": 2897,
+          "average": 2703
         },
         "all": {
-          "single": 6508,
-          "average": 5718
+          "single": 6512,
+          "average": 5723
         },
         "nxn": {
-          "single": 4367,
-          "average": 3943
+          "single": 4370,
+          "average": 3947
         },
         "big": {
           "single": 1666,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1445,
-          "average": 1279
+          "single": 1446,
+          "average": 1280
         },
         "side": {
           "single": 1108,
@@ -9490,21 +9599,21 @@
       }
     },
     {
-      "actualRank": 486,
+      "actualRank": 487,
       "personId": "2019DOKH01",
       "personName": "Khoi Tran Minh Do",
       "rank": {
         "222": {
-          "single": 317,
-          "average": 1028
+          "single": 318,
+          "average": 1029
         },
         "333": {
-          "single": 2355,
-          "average": 2243
+          "single": 2357,
+          "average": 2245
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -9519,8 +9628,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -9565,24 +9674,24 @@
       },
       "sor": {
         "333": {
-          "single": 3374,
-          "average": 3093
+          "single": 3377,
+          "average": 3096
         },
         "all": {
-          "single": 7153,
-          "average": 6981
+          "single": 7158,
+          "average": 6986
         },
         "nxn": {
-          "single": 4462,
-          "average": 4612
+          "single": 4466,
+          "average": 4616
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1445,
-          "average": 2119
+          "single": 1446,
+          "average": 2120
         },
         "side": {
           "single": 1658,
@@ -9599,12 +9708,12 @@
       }
     },
     {
-      "actualRank": 489,
+      "actualRank": 490,
       "personId": "2024LAML02",
       "personName": "Lê Việt Lâm",
       "rank": {
         "222": {
-          "single": 319,
+          "single": 320,
           "average": 180
         },
         "333": {
@@ -9628,8 +9737,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -9674,15 +9783,15 @@
       },
       "sor": {
         "333": {
-          "single": 1222,
-          "average": 1080
+          "single": 1223,
+          "average": 1081
         },
         "all": {
-          "single": 4246,
-          "average": 3579
+          "single": 4248,
+          "average": 3580
         },
         "nxn": {
-          "single": 1555,
+          "single": 1556,
           "average": 1210
         },
         "big": {
@@ -9690,7 +9799,7 @@
           "average": 800
         },
         "sprint": {
-          "single": 1447,
+          "single": 1448,
           "average": 1271
         },
         "side": {
@@ -9708,17 +9817,17 @@
       }
     },
     {
-      "actualRank": 489,
+      "actualRank": 490,
       "personId": "2018KIET04",
       "personName": "Huỳnh Vỹ Kiệt",
       "rank": {
         "222": {
-          "single": 592,
-          "average": 720
+          "single": 593,
+          "average": 721
         },
         "333": {
-          "single": 1283,
-          "average": 1150
+          "single": 1285,
+          "average": 1152
         },
         "444": {
           "single": 240,
@@ -9783,24 +9892,24 @@
       },
       "sor": {
         "333": {
-          "single": 2053,
-          "average": 1875
+          "single": 2055,
+          "average": 1877
         },
         "all": {
-          "single": 4769,
-          "average": 4366
+          "single": 4772,
+          "average": 4369
         },
         "nxn": {
-          "single": 2600,
-          "average": 2502
+          "single": 2603,
+          "average": 2505
         },
         "big": {
           "single": 725,
           "average": 632
         },
         "sprint": {
-          "single": 1447,
-          "average": 1431
+          "single": 1448,
+          "average": 1432
         },
         "side": {
           "single": 1385,
@@ -9817,21 +9926,21 @@
       }
     },
     {
-      "actualRank": 489,
+      "actualRank": 490,
       "personId": "2015HUYN01",
       "personName": "Nguyễn Gia Huy",
       "rank": {
         "222": {
-          "single": 319,
-          "average": 1171
+          "single": 320,
+          "average": 1172
         },
         "333": {
-          "single": 2091,
-          "average": 1888
+          "single": 2093,
+          "average": 1890
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -9846,8 +9955,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -9892,24 +10001,24 @@
       },
       "sor": {
         "333": {
-          "single": 3110,
-          "average": 2738
+          "single": 3113,
+          "average": 2741
         },
         "all": {
-          "single": 6891,
-          "average": 6769
+          "single": 6896,
+          "average": 6774
         },
         "nxn": {
-          "single": 4200,
-          "average": 4400
+          "single": 4204,
+          "average": 4404
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1447,
-          "average": 2262
+          "single": 1448,
+          "average": 2263
         },
         "side": {
           "single": 1658,
@@ -9926,21 +10035,21 @@
       }
     },
     {
-      "actualRank": 492,
+      "actualRank": 493,
       "personId": "2025PHON03",
       "personName": "Nguyễn Hải Phong",
       "rank": {
         "222": {
-          "single": 704,
-          "average": 978
+          "single": 705,
+          "average": 979
         },
         "333": {
-          "single": 822,
-          "average": 714
+          "single": 824,
+          "average": 716
         },
         "444": {
           "single": 613,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -9955,8 +10064,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -10001,24 +10110,24 @@
       },
       "sor": {
         "333": {
-          "single": 1841,
-          "average": 1564
+          "single": 1844,
+          "average": 1567
         },
         "all": {
-          "single": 5235,
-          "average": 5005
+          "single": 5239,
+          "average": 5010
         },
         "nxn": {
-          "single": 2926,
-          "average": 3033
+          "single": 2929,
+          "average": 3037
         },
         "big": {
           "single": 1400,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1450,
-          "average": 1672
+          "single": 1451,
+          "average": 1673
         },
         "side": {
           "single": 1276,
@@ -10035,13 +10144,13 @@
       }
     },
     {
-      "actualRank": 493,
+      "actualRank": 494,
       "personId": "2018KIEN03",
       "personName": "Đặng Anh Kiên",
       "rank": {
         "222": {
-          "single": 324,
-          "average": 599
+          "single": 325,
+          "average": 600
         },
         "333": {
           "single": 199,
@@ -10114,20 +10223,20 @@
           "average": 389
         },
         "all": {
-          "single": 3103,
-          "average": 3037
+          "single": 3104,
+          "average": 3038
         },
         "nxn": {
-          "single": 1113,
-          "average": 1303
+          "single": 1114,
+          "average": 1304
         },
         "big": {
           "single": 590,
           "average": 530
         },
         "sprint": {
-          "single": 1452,
-          "average": 1690
+          "single": 1453,
+          "average": 1691
         },
         "side": {
           "single": 1658,
@@ -10144,12 +10253,12 @@
       }
     },
     {
-      "actualRank": 493,
+      "actualRank": 494,
       "personId": "2019THAN14",
       "personName": "Tống Vũ Tuấn Thành",
       "rank": {
         "222": {
-          "single": 324,
+          "single": 325,
           "average": 244
         },
         "333": {
@@ -10173,8 +10282,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -10219,15 +10328,15 @@
       },
       "sor": {
         "333": {
-          "single": 1358,
-          "average": 1134
+          "single": 1359,
+          "average": 1135
         },
         "all": {
-          "single": 4024,
-          "average": 3473
+          "single": 4026,
+          "average": 3474
         },
         "nxn": {
-          "single": 1333,
+          "single": 1334,
           "average": 1104
         },
         "big": {
@@ -10235,7 +10344,7 @@
           "average": 576
         },
         "sprint": {
-          "single": 1452,
+          "single": 1453,
           "average": 1335
         },
         "side": {
@@ -10253,17 +10362,17 @@
       }
     },
     {
-      "actualRank": 493,
+      "actualRank": 494,
       "personId": "2010TRIN02",
       "personName": "Trịnh Nguyên Anh",
       "rank": {
         "222": {
-          "single": 873,
-          "average": 819
+          "single": 874,
+          "average": 820
         },
         "333": {
-          "single": 1394,
-          "average": 1398
+          "single": 1396,
+          "average": 1400
         },
         "444": {
           "single": 626,
@@ -10328,24 +10437,24 @@
       },
       "sor": {
         "333": {
-          "single": 2072,
-          "average": 1919
+          "single": 2074,
+          "average": 1921
         },
         "all": {
-          "single": 5327,
-          "average": 5012
+          "single": 5330,
+          "average": 5015
         },
         "nxn": {
-          "single": 3580,
-          "average": 3376
+          "single": 3583,
+          "average": 3379
         },
         "big": {
           "single": 1313,
           "average": 1159
         },
         "sprint": {
-          "single": 1452,
-          "average": 1527
+          "single": 1453,
+          "average": 1528
         },
         "side": {
           "single": 1055,
@@ -10362,13 +10471,13 @@
       }
     },
     {
-      "actualRank": 496,
+      "actualRank": 497,
       "personId": "2014TRUN01",
       "personName": "Vương Thiện Trung",
       "rank": {
         "222": {
-          "single": 494,
-          "average": 932
+          "single": 495,
+          "average": 933
         },
         "333": {
           "single": 221,
@@ -10392,7 +10501,7 @@
         },
         "333oh": {
           "single": 106,
-          "average": 97
+          "average": 98
         },
         "333bf": {
           "single": 24,
@@ -10438,23 +10547,23 @@
       "sor": {
         "333": {
           "single": 433,
-          "average": 328
+          "average": 329
         },
         "all": {
-          "single": 3120,
-          "average": 3329
+          "single": 3121,
+          "average": 3331
         },
         "nxn": {
-          "single": 1405,
-          "average": 1725
+          "single": 1406,
+          "average": 1726
         },
         "big": {
           "single": 690,
           "average": 609
         },
         "sprint": {
-          "single": 1453,
-          "average": 1964
+          "single": 1454,
+          "average": 1965
         },
         "side": {
           "single": 1489,
@@ -10471,21 +10580,21 @@
       }
     },
     {
-      "actualRank": 496,
+      "actualRank": 497,
       "personId": "2024VIDU04",
       "personName": "Dương Lợi Vĩ",
       "rank": {
         "222": {
-          "single": 431,
+          "single": 432,
           "average": 145
         },
         "333": {
-          "single": 1047,
-          "average": 1031
+          "single": 1050,
+          "average": 1034
         },
         "444": {
-          "single": 1003,
-          "average": 741
+          "single": 1004,
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -10500,8 +10609,8 @@
           "average": 98
         },
         "333oh": {
-          "single": 846,
-          "average": 803
+          "single": 847,
+          "average": 804
         },
         "333bf": {
           "single": 91,
@@ -10546,23 +10655,23 @@
       },
       "sor": {
         "333": {
-          "single": 2066,
-          "average": 1881
+          "single": 2070,
+          "average": 1885
         },
         "all": {
-          "single": 5853,
-          "average": 4699
+          "single": 5859,
+          "average": 4704
         },
         "nxn": {
-          "single": 3268,
-          "average": 2517
+          "single": 3273,
+          "average": 2521
         },
         "big": {
-          "single": 1790,
-          "average": 1341
+          "single": 1791,
+          "average": 1342
         },
         "sprint": {
-          "single": 1453,
+          "single": 1454,
           "average": 1049
         },
         "side": {
@@ -10580,21 +10689,21 @@
       }
     },
     {
-      "actualRank": 498,
+      "actualRank": 499,
       "personId": "2024MINH04",
       "personName": "Bùi Thúc Minh",
       "rank": {
         "222": {
-          "single": 557,
-          "average": 744
+          "single": 558,
+          "average": 745
         },
         "333": {
-          "single": 1293,
-          "average": 1278
+          "single": 1295,
+          "average": 1280
         },
         "444": {
           "single": 941,
-          "average": 741
+          "average": 742
         },
         "555": {
           "single": 503,
@@ -10655,24 +10764,24 @@
       },
       "sor": {
         "333": {
-          "single": 2177,
-          "average": 2062
+          "single": 2179,
+          "average": 2064
         },
         "all": {
-          "single": 5742,
-          "average": 5183
+          "single": 5745,
+          "average": 5187
         },
         "nxn": {
-          "single": 3578,
-          "average": 3363
+          "single": 3581,
+          "average": 3367
         },
         "big": {
           "single": 1728,
-          "average": 1341
+          "average": 1342
         },
         "sprint": {
-          "single": 1454,
-          "average": 1490
+          "single": 1455,
+          "average": 1491
         },
         "side": {
           "single": 1266,
@@ -10689,12 +10798,12 @@
       }
     },
     {
-      "actualRank": 499,
+      "actualRank": 500,
       "personId": "2022DUON04",
       "personName": "Cao Nguyễn Thái Dương",
       "rank": {
         "222": {
-          "single": 327,
+          "single": 328,
           "average": 240
         },
         "333": {
@@ -10719,7 +10828,7 @@
         },
         "333oh": {
           "single": 87,
-          "average": 91
+          "average": 92
         },
         "333bf": {
           "single": 91,
@@ -10765,14 +10874,14 @@
       "sor": {
         "333": {
           "single": 289,
-          "average": 169
+          "average": 170
         },
         "all": {
-          "single": 3119,
-          "average": 2637
+          "single": 3120,
+          "average": 2638
         },
         "nxn": {
-          "single": 1187,
+          "single": 1188,
           "average": 980
         },
         "big": {
@@ -10780,121 +10889,12 @@
           "average": 709
         },
         "sprint": {
-          "single": 1455,
+          "single": 1456,
           "average": 1331
         },
         "side": {
           "single": 1658,
           "average": 1516
-        },
-        "bld": {
-          "single": 122,
-          "average": 26
-        },
-        "silent": {
-          "single": 187,
-          "average": 50
-        }
-      }
-    },
-    {
-      "actualRank": 499,
-      "personId": "2011NGUY18",
-      "personName": "Nguyễn Đức Huy",
-      "rank": {
-        "222": {
-          "single": 439,
-          "average": 428
-        },
-        "333": {
-          "single": 459,
-          "average": 454
-        },
-        "444": {
-          "single": 302,
-          "average": 264
-        },
-        "555": {
-          "single": 212,
-          "average": 215
-        },
-        "666": {
-          "single": 127,
-          "average": 137
-        },
-        "777": {
-          "single": 112,
-          "average": 92
-        },
-        "333oh": {
-          "single": 601,
-          "average": 574
-        },
-        "333bf": {
-          "single": 91,
-          "average": 23
-        },
-        "333fm": {
-          "single": 65,
-          "average": 24
-        },
-        "333mbf": {
-          "single": 17,
-          "average": 0
-        },
-        "444bf": {
-          "single": 10,
-          "average": 1
-        },
-        "555bf": {
-          "single": 4,
-          "average": 2
-        },
-        "clock": {
-          "single": 170,
-          "average": 146
-        },
-        "minx": {
-          "single": 220,
-          "average": 152
-        },
-        "pyram": {
-          "single": 547,
-          "average": 600
-        },
-        "skewb": {
-          "single": 469,
-          "average": 450
-        },
-        "sq1": {
-          "single": 131,
-          "average": 125
-        }
-      },
-      "sor": {
-        "333": {
-          "single": 1233,
-          "average": 1075
-        },
-        "all": {
-          "single": 3976,
-          "average": 3687
-        },
-        "nxn": {
-          "single": 1651,
-          "average": 1590
-        },
-        "big": {
-          "single": 753,
-          "average": 708
-        },
-        "sprint": {
-          "single": 1455,
-          "average": 1478
-        },
-        "side": {
-          "single": 1537,
-          "average": 1473
         },
         "bld": {
           "single": 122,
