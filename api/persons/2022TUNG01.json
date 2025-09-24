@@ -3,10 +3,11 @@
   "name": "Cao Viết Tùng",
   "slug": "cao-viet-tung",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HaNoiSummer2022",
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "HanoiSuperBrainZyo2023"
   ],
   "numberOfChampionships": 0,
@@ -14,64 +15,190 @@
   "rank": {
     "singles": [
       {
-        "eventId": "333",
-        "best": 700,
+        "eventId": "222",
+        "best": 293,
         "rank": {
-          "world": 3110,
-          "continent": 1019,
-          "country": 56
+          "world": 22411,
+          "continent": 6001,
+          "country": 235
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 651,
+        "rank": {
+          "world": 1997,
+          "continent": 659,
+          "country": 40
         }
       },
       {
         "eventId": "333oh",
-        "best": 1337,
+        "best": 1259,
         "rank": {
-          "world": 3213,
-          "continent": 1096,
-          "country": 66
+          "world": 2393,
+          "continent": 793,
+          "country": 48
         }
       },
       {
         "eventId": "444",
-        "best": 4349,
+        "best": 3619,
         "rank": {
-          "world": 11991,
-          "continent": 4198,
-          "country": 224
+          "world": 5585,
+          "continent": 1953,
+          "country": 116
         }
       }
     ],
     "averages": [
       {
-        "eventId": "333",
-        "best": 855,
+        "eventId": "222",
+        "best": 414,
         "rank": {
-          "world": 2562,
-          "continent": 914,
-          "country": 54
+          "world": 14286,
+          "continent": 4055,
+          "country": 176
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 786,
+        "rank": {
+          "world": 1316,
+          "continent": 456,
+          "country": 31
         }
       },
       {
         "eventId": "333oh",
-        "best": 1589,
+        "best": 1463,
         "rank": {
-          "world": 2353,
-          "continent": 848,
-          "country": 56
+          "world": 1411,
+          "continent": 496,
+          "country": 37
         }
       },
       {
         "eventId": "444",
-        "best": 4879,
+        "best": 4024,
         "rank": {
-          "world": 10963,
-          "continent": 3887,
-          "country": 221
+          "world": 4564,
+          "continent": 1618,
+          "country": 99
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 32,
+          "best": 293,
+          "average": 414,
+          "format": "Average of 5",
+          "solves": [
+            432,
+            437,
+            484,
+            374,
+            293
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Final",
+          "position": 6,
+          "best": 731,
+          "average": 786,
+          "format": "Average of 5",
+          "solves": [
+            772,
+            789,
+            797,
+            832,
+            731
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 6,
+          "best": 759,
+          "average": 792,
+          "format": "Average of 5",
+          "solves": [
+            765,
+            803,
+            759,
+            914,
+            808
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 9,
+          "best": 651,
+          "average": 829,
+          "format": "Average of 5",
+          "solves": [
+            956,
+            806,
+            879,
+            651,
+            802
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 24,
+          "best": 3619,
+          "average": 4024,
+          "format": "Average of 5",
+          "solves": [
+            3694,
+            4132,
+            4666,
+            4247,
+            3619
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "Final",
+          "position": 7,
+          "best": 1357,
+          "average": 1481,
+          "format": "Average of 5",
+          "solves": [
+            1659,
+            1415,
+            1369,
+            1357,
+            -1
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 9,
+          "best": 1259,
+          "average": 1463,
+          "format": "Average of 5",
+          "solves": [
+            1572,
+            1259,
+            1430,
+            1388,
+            2255
+          ]
+        }
+      ]
+    },
     "HanoiSummer2023": {
       "333": [
         {
@@ -301,6 +428,7 @@
   "competitionsById": {
     "HaNoiSummer2022": "Ha Noi Summer 2022",
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023"
   }
 }

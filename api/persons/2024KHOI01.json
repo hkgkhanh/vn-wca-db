@@ -3,10 +3,11 @@
   "name": "Đào Việt Khôi",
   "slug": "dao-viet-khoi",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "AeonMallLongBien2024",
     "HanoiSideEvents2024",
+    "HanoiSummer2025",
     "NxNinHanoi2024"
   ],
   "numberOfChampionships": 0,
@@ -17,54 +18,54 @@
         "eventId": "222",
         "best": 309,
         "rank": {
-          "world": 25549,
-          "continent": 6914,
-          "country": 265
+          "world": 25559,
+          "continent": 6924,
+          "country": 275
         }
       },
       {
         "eventId": "333",
         "best": 1050,
         "rank": {
-          "world": 22192,
-          "continent": 8061,
-          "country": 478
+          "world": 22210,
+          "continent": 8079,
+          "country": 496
         }
       },
       {
         "eventId": "444",
         "best": 9758,
         "rank": {
-          "world": 52889,
-          "continent": 15943,
-          "country": 836
+          "world": 52901,
+          "continent": 15953,
+          "country": 845
         }
       },
       {
         "eventId": "clock",
-        "best": 2722,
+        "best": 2410,
         "rank": {
-          "world": 21836,
-          "continent": 4837,
-          "country": 144
+          "world": 20331,
+          "continent": 4608,
+          "country": 145
         }
       },
       {
         "eventId": "pyram",
         "best": 711,
         "rank": {
-          "world": 33708,
-          "continent": 8980,
-          "country": 223
+          "world": 33715,
+          "continent": 8986,
+          "country": 229
         }
       },
       {
         "eventId": "skewb",
         "best": 631,
         "rank": {
-          "world": 18651,
-          "continent": 4788,
-          "country": 150
+          "world": 18658,
+          "continent": 4795,
+          "country": 157
         }
       }
     ],
@@ -73,50 +74,132 @@
         "eventId": "222",
         "best": 390,
         "rank": {
-          "world": 11367,
-          "continent": 3169,
-          "country": 125
+          "world": 11372,
+          "continent": 3174,
+          "country": 130
         }
       },
       {
         "eventId": "333",
         "best": 1301,
         "rank": {
-          "world": 23949,
-          "continent": 9012,
-          "country": 558
+          "world": 23967,
+          "continent": 9030,
+          "country": 576
         }
       },
       {
         "eventId": "clock",
-        "best": 3324,
+        "best": 2810,
         "rank": {
-          "world": 19165,
-          "continent": 4334,
-          "country": 129
+          "world": 17876,
+          "continent": 4081,
+          "country": 128
         }
       },
       {
         "eventId": "pyram",
-        "best": 971,
+        "best": 914,
         "rank": {
-          "world": 26801,
-          "continent": 7531,
-          "country": 178
+          "world": 22924,
+          "continent": 6528,
+          "country": 163
         }
       },
       {
         "eventId": "skewb",
-        "best": 1173,
+        "best": 1101,
         "rank": {
-          "world": 25892,
-          "continent": 6722,
-          "country": 213
+          "world": 23238,
+          "continent": 6111,
+          "country": 194
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 60,
+          "best": 373,
+          "average": 490,
+          "format": "Average of 5",
+          "solves": [
+            746,
+            550,
+            413,
+            508,
+            373
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 81,
+          "best": 1183,
+          "average": 1430,
+          "format": "Average of 5",
+          "solves": [
+            1361,
+            1481,
+            1183,
+            1448,
+            1914
+          ]
+        }
+      ],
+      "clock": [
+        {
+          "round": "First round",
+          "position": 30,
+          "best": 2410,
+          "average": 2810,
+          "format": "Average of 5",
+          "solves": [
+            3921,
+            2894,
+            2410,
+            2721,
+            2816
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 25,
+          "best": 794,
+          "average": 914,
+          "format": "Average of 5",
+          "solves": [
+            990,
+            1186,
+            862,
+            794,
+            890
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "First round",
+          "position": 28,
+          "best": 699,
+          "average": 1101,
+          "format": "Average of 5",
+          "solves": [
+            699,
+            738,
+            1307,
+            1258,
+            1558
+          ]
+        }
+      ]
+    },
     "AeonMallLongBien2024": {
       "222": [
         {
@@ -354,6 +437,7 @@
   "competitionsById": {
     "AeonMallLongBien2024": "Aeon Mall Long Bien 2024",
     "HanoiSideEvents2024": "Hanoi Side Events 2024",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "NxNinHanoi2024": "NxN in Hanoi 2024"
   }
 }

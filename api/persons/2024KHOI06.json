@@ -3,8 +3,9 @@
   "name": "Nguyễn Hoàng Minh Khôi",
   "slug": "nguyen-hoang-minh-khoi",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
+    "HanoiSummer2025",
     "HanoiWinter2024",
     "NxNinHanoi2025"
   ],
@@ -14,27 +15,59 @@
     "singles": [
       {
         "eventId": "333",
-        "best": 1553,
+        "best": 1062,
         "rank": {
-          "world": 66701,
-          "continent": 24289,
-          "country": 1356
+          "world": 23117,
+          "continent": 8431,
+          "country": 520
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 1797,
+        "best": 1375,
         "rank": {
-          "world": 61109,
-          "continent": 22754,
-          "country": 1299
+          "world": 29192,
+          "continent": 11027,
+          "country": 675
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 72,
+          "best": 1062,
+          "average": 1375,
+          "format": "Average of 5",
+          "solves": [
+            1308,
+            1062,
+            1312,
+            1504,
+            1731
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 80,
+          "best": 1289,
+          "average": 1421,
+          "format": "Average of 5",
+          "solves": [
+            1529,
+            1379,
+            2064,
+            1355,
+            1289
+          ]
+        }
+      ]
+    },
     "NxNinHanoi2025": {
       "333": [
         {
@@ -82,6 +115,7 @@
     "average": []
   },
   "competitionsById": {
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiWinter2024": "Hanoi Winter 2024",
     "NxNinHanoi2025": "NxN in Hanoi 2025"
   }

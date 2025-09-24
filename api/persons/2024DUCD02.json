@@ -3,8 +3,9 @@
   "name": "Dương Minh Đức",
   "slug": "duong-minh-duc",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
+    "HanoiSummer2025",
     "VietnamChampionship2024"
   ],
   "numberOfChampionships": 1,
@@ -15,45 +16,79 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 488,
+        "best": 369,
         "rank": {
-          "world": 63995,
-          "continent": 18731,
-          "country": 816
+          "world": 37991,
+          "continent": 10618,
+          "country": 444
         }
       },
       {
         "eventId": "333",
-        "best": 1605,
+        "best": 1200,
         "rank": {
-          "world": 71186,
-          "continent": 25898,
-          "country": 1436
+          "world": 34909,
+          "continent": 12897,
+          "country": 748
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 527,
+        "best": 508,
         "rank": {
-          "world": 32149,
-          "continent": 9541,
-          "country": 436
+          "world": 28741,
+          "continent": 8533,
+          "country": 399
         }
       },
       {
         "eventId": "333",
-        "best": 1816,
+        "best": 1667,
         "rank": {
-          "world": 62490,
-          "continent": 23221,
-          "country": 1326
+          "world": 51355,
+          "continent": 19235,
+          "country": 1138
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 63,
+          "best": 369,
+          "average": 508,
+          "format": "Average of 5",
+          "solves": [
+            592,
+            397,
+            535,
+            620,
+            369
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 92,
+          "best": 1200,
+          "average": 1667,
+          "format": "Average of 5",
+          "solves": [
+            2076,
+            1460,
+            1464,
+            -1,
+            1200
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2024": {
       "222": [
         {
@@ -99,6 +134,7 @@
     "average": []
   },
   "competitionsById": {
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }
 }

@@ -3,8 +3,9 @@
   "name": "Đào Đức Anh",
   "slug": "dao-duc-anh",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
+    "HanoiSummer2025",
     "HanoiWinter2024",
     "NxNinHanoi2024"
   ],
@@ -14,38 +15,38 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 581,
+        "best": 519,
         "rank": {
-          "world": 83038,
-          "continent": 24487,
-          "country": 1059
+          "world": 70690,
+          "continent": 20807,
+          "country": 937
         }
       },
       {
         "eventId": "333",
-        "best": 1143,
+        "best": 1063,
         "rank": {
-          "world": 29746,
-          "continent": 10930,
-          "country": 639
+          "world": 23199,
+          "continent": 8466,
+          "country": 524
         }
       },
       {
         "eventId": "333oh",
         "best": 2823,
         "rank": {
-          "world": 28449,
-          "continent": 10399,
-          "country": 525
+          "world": 28463,
+          "continent": 10412,
+          "country": 538
         }
       },
       {
         "eventId": "444",
-        "best": 7686,
+        "best": 5154,
         "rank": {
-          "world": 40705,
-          "continent": 13015,
-          "country": 712
+          "world": 19936,
+          "continent": 6945,
+          "country": 402
         }
       }
     ],
@@ -54,32 +55,105 @@
         "eventId": "222",
         "best": 650,
         "rank": {
-          "world": 55064,
-          "continent": 16656,
-          "country": 763
+          "world": 55079,
+          "continent": 16671,
+          "country": 778
         }
       },
       {
         "eventId": "333",
-        "best": 1259,
+        "best": 1189,
         "rank": {
-          "world": 21187,
-          "continent": 7950,
-          "country": 496
+          "world": 16800,
+          "continent": 6267,
+          "country": 404
         }
       },
       {
         "eventId": "333oh",
         "best": 4524,
         "rank": {
-          "world": 39355,
-          "continent": 13783,
-          "country": 674
+          "world": 39370,
+          "continent": 13797,
+          "country": 687
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 6047,
+        "rank": {
+          "world": 21120,
+          "continent": 7348,
+          "country": 420
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 85,
+          "best": 519,
+          "average": 693,
+          "format": "Average of 5",
+          "solves": [
+            608,
+            820,
+            653,
+            519,
+            817
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 65,
+          "best": 1063,
+          "average": 1261,
+          "format": "Average of 5",
+          "solves": [
+            1263,
+            1430,
+            1334,
+            1063,
+            1186
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 59,
+          "best": 1118,
+          "average": 1189,
+          "format": "Average of 5",
+          "solves": [
+            1230,
+            1118,
+            1174,
+            1163,
+            1250
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 59,
+          "best": 5154,
+          "average": 6047,
+          "format": "Average of 5",
+          "solves": [
+            6997,
+            5723,
+            5420,
+            7943,
+            5154
+          ]
+        }
+      ]
+    },
     "HanoiWinter2024": {
       "333": [
         {
@@ -203,6 +277,7 @@
     "average": []
   },
   "competitionsById": {
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiWinter2024": "Hanoi Winter 2024",
     "NxNinHanoi2024": "NxN in Hanoi 2024"
   }

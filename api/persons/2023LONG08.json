@@ -3,8 +3,9 @@
   "name": "Nguyễn Việt Long",
   "slug": "nguyen-viet-long",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
+    "HanoiSummer2025",
     "HanoiSuperBrainZyo2023",
     "VietnamChampionship2024"
   ],
@@ -15,28 +16,94 @@
   "rank": {
     "singles": [
       {
-        "eventId": "333",
-        "best": 1050,
+        "eventId": "222",
+        "best": 208,
         "rank": {
-          "world": 22192,
-          "continent": 8061,
-          "country": 478
+          "world": 8570,
+          "continent": 2076,
+          "country": 71
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 738,
+        "rank": {
+          "world": 4282,
+          "continent": 1419,
+          "country": 80
         }
       }
     ],
     "averages": [
       {
-        "eventId": "333",
-        "best": 1365,
+        "eventId": "222",
+        "best": 428,
         "rank": {
-          "world": 28477,
-          "continent": 10755,
-          "country": 648
+          "world": 16098,
+          "continent": 4635,
+          "country": 212
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 958,
+        "rank": {
+          "world": 5511,
+          "continent": 1990,
+          "country": 116
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 38,
+          "best": 208,
+          "average": 428,
+          "format": "Average of 5",
+          "solves": [
+            519,
+            402,
+            770,
+            208,
+            364
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 22,
+          "best": 738,
+          "average": 958,
+          "format": "Average of 5",
+          "solves": [
+            1000,
+            1273,
+            1036,
+            839,
+            738
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 36,
+          "best": 767,
+          "average": 1047,
+          "format": "Average of 5",
+          "solves": [
+            1061,
+            1028,
+            1053,
+            1191,
+            767
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2024": {
       "333": [
         {
@@ -98,6 +165,7 @@
     "average": []
   },
   "competitionsById": {
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }

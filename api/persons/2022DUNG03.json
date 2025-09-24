@@ -3,10 +3,11 @@
   "name": "Đàm Mạnh Dũng",
   "slug": "dam-manh-dung",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HaNoiSummer2022",
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "NxNinHanoi2024"
   ],
   "numberOfChampionships": 0,
@@ -15,45 +16,104 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 488,
+        "best": 404,
         "rank": {
-          "world": 63995,
-          "continent": 18731,
-          "country": 816
+          "world": 45585,
+          "continent": 12955,
+          "country": 559
         }
       },
       {
         "eventId": "333",
-        "best": 1645,
+        "best": 1348,
         "rank": {
-          "world": 74593,
-          "continent": 27079,
-          "country": 1491
+          "world": 48350,
+          "continent": 17846,
+          "country": 1009
+        }
+      },
+      {
+        "eventId": "444",
+        "best": 7899,
+        "rank": {
+          "world": 42130,
+          "continent": 13406,
+          "country": 737
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 643,
+        "best": 511,
         "rank": {
-          "world": 53786,
-          "continent": 16262,
-          "country": 739
+          "world": 29277,
+          "continent": 8683,
+          "country": 407
         }
       },
       {
         "eventId": "333",
-        "best": 1797,
+        "best": 1556,
         "rank": {
-          "world": 61109,
-          "continent": 22754,
-          "country": 1299
+          "world": 42902,
+          "continent": 16172,
+          "country": 960
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 64,
+          "best": 404,
+          "average": 511,
+          "format": "Average of 5",
+          "solves": [
+            404,
+            524,
+            522,
+            486,
+            610
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 87,
+          "best": 1348,
+          "average": 1556,
+          "format": "Average of 5",
+          "solves": [
+            1779,
+            1532,
+            1386,
+            1348,
+            1749
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 73,
+          "best": 7899,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            8500,
+            7899,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "NxNinHanoi2024": {
       "222": [
         {
@@ -169,6 +229,7 @@
   "competitionsById": {
     "HaNoiSummer2022": "Ha Noi Summer 2022",
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "NxNinHanoi2024": "NxN in Hanoi 2024"
   }
 }

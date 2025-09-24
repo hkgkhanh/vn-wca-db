@@ -3,9 +3,10 @@
   "name": "Lê Việt Lâm",
   "slug": "le-viet-lam",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "HanoiCOPOpen2024",
+    "HanoiSummer2025",
     "HanoiWinter2024"
   ],
   "numberOfChampionships": 0,
@@ -14,29 +15,29 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 330,
+        "best": 275,
         "rank": {
-          "world": 29809,
-          "continent": 8190,
-          "country": 320
+          "world": 18972,
+          "continent": 5023,
+          "country": 197
         }
       },
       {
         "eventId": "333",
-        "best": 866,
+        "best": 848,
         "rank": {
-          "world": 9981,
-          "continent": 3530,
-          "country": 203
+          "world": 9018,
+          "continent": 3156,
+          "country": 188
         }
       },
       {
         "eventId": "444",
-        "best": 4480,
+        "best": 4222,
         "rank": {
-          "world": 13269,
-          "continent": 4624,
-          "country": 246
+          "world": 10749,
+          "continent": 3754,
+          "country": 211
         }
       }
     ],
@@ -45,32 +46,96 @@
         "eventId": "222",
         "best": 419,
         "rank": {
-          "world": 14896,
-          "continent": 4234,
-          "country": 180
+          "world": 14903,
+          "continent": 4241,
+          "country": 187
         }
       },
       {
         "eventId": "333",
-        "best": 1065,
+        "best": 909,
         "rank": {
-          "world": 10058,
-          "continent": 3695,
-          "country": 230
+          "world": 3974,
+          "continent": 1427,
+          "country": 86
         }
       },
       {
         "eventId": "444",
-        "best": 4777,
+        "best": 4334,
         "rank": {
-          "world": 10111,
-          "continent": 3596,
-          "country": 200
+          "world": 6669,
+          "continent": 2359,
+          "country": 145
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 72,
+          "best": 275,
+          "average": 558,
+          "format": "Average of 5",
+          "solves": [
+            452,
+            802,
+            762,
+            459,
+            275
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 36,
+          "best": 915,
+          "average": 1044,
+          "format": "Average of 5",
+          "solves": [
+            1042,
+            1078,
+            1012,
+            915,
+            1405
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 17,
+          "best": 848,
+          "average": 909,
+          "format": "Average of 5",
+          "solves": [
+            848,
+            859,
+            906,
+            961,
+            1030
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 30,
+          "best": 4222,
+          "average": 4334,
+          "format": "Average of 5",
+          "solves": [
+            4304,
+            4462,
+            4237,
+            4222,
+            4506
+          ]
+        }
+      ]
+    },
     "HanoiWinter2024": {
       "222": [
         {
@@ -193,6 +258,7 @@
   },
   "competitionsById": {
     "HanoiCOPOpen2024": "Hanoi COP Open 2024",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiWinter2024": "Hanoi Winter 2024"
   }
 }

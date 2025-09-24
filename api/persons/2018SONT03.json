@@ -3,13 +3,14 @@
   "name": "Trần Anh Sơn",
   "slug": "tran-anh-son",
   "country": "VN",
-  "numberOfCompetitions": 6,
+  "numberOfCompetitions": 7,
   "competitionIds": [
     "DaNangOpen2018",
     "KantoSummerPM2025",
     "OtaBlindSummer2022",
     "OtaBlindSummer2023",
     "TokaiWinterAM2021",
+    "TokyoAutumn2025",
     "TokyoChallengeVIII2023"
   ],
   "numberOfChampionships": 0,
@@ -20,54 +21,54 @@
         "eventId": "222",
         "best": 714,
         "rank": {
-          "world": 105000,
-          "continent": 30855,
-          "country": 1295
+          "world": 105020,
+          "continent": 30874,
+          "country": 1314
         }
       },
       {
         "eventId": "333",
         "best": 1068,
         "rank": {
-          "world": 23542,
-          "continent": 8580,
-          "country": 511
+          "world": 23562,
+          "continent": 8600,
+          "country": 531
         }
       },
       {
         "eventId": "444",
         "best": 6632,
         "rank": {
-          "world": 32867,
-          "continent": 10813,
-          "country": 622
+          "world": 32880,
+          "continent": 10824,
+          "country": 632
         }
       },
       {
         "eventId": "555",
         "best": 6410,
         "rank": {
-          "world": 2572,
-          "continent": 881,
-          "country": 51
+          "world": 2574,
+          "continent": 883,
+          "country": 53
         }
       },
       {
         "eventId": "666",
-        "best": 30787,
+        "best": 16516,
         "rank": {
-          "world": 12911,
-          "continent": 3344,
-          "country": 141
+          "world": 4956,
+          "continent": 1568,
+          "country": 71
         }
       },
       {
         "eventId": "777",
-        "best": 25589,
+        "best": 25340,
         "rank": {
-          "world": 4369,
-          "continent": 1398,
-          "country": 60
+          "world": 4270,
+          "continent": 1388,
+          "country": 62
         }
       }
     ],
@@ -76,50 +77,93 @@
         "eventId": "222",
         "best": 944,
         "rank": {
-          "world": 98020,
-          "continent": 29226,
-          "country": 1256
+          "world": 98041,
+          "continent": 29246,
+          "country": 1276
         }
       },
       {
         "eventId": "333",
         "best": 1214,
         "rank": {
-          "world": 18345,
-          "continent": 6858,
-          "country": 425
+          "world": 18365,
+          "continent": 6878,
+          "country": 444
         }
       },
       {
         "eventId": "444",
         "best": 7353,
         "rank": {
-          "world": 30479,
-          "continent": 9924,
-          "country": 590
+          "world": 30490,
+          "continent": 9934,
+          "country": 599
         }
       },
       {
         "eventId": "555",
         "best": 7747,
         "rank": {
-          "world": 3820,
-          "continent": 1325,
-          "country": 67
+          "world": 3824,
+          "continent": 1329,
+          "country": 71
+        }
+      },
+      {
+        "eventId": "666",
+        "best": 20660,
+        "rank": {
+          "world": 7025,
+          "continent": 2100,
+          "country": 101
         }
       },
       {
         "eventId": "777",
-        "best": 30164,
+        "best": 26308,
         "rank": {
-          "world": 5407,
-          "continent": 1663,
-          "country": 72
+          "world": 3960,
+          "continent": 1281,
+          "country": 59
         }
       }
     ]
   },
   "results": {
+    "TokyoAutumn2025": {
+      "666": [
+        {
+          "round": "First round",
+          "position": 52,
+          "best": 16516,
+          "average": 20660,
+          "format": "Mean of 3",
+          "solves": [
+            25645,
+            16516,
+            19820,
+            0,
+            0
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "First round",
+          "position": 42,
+          "best": 25340,
+          "average": 26308,
+          "format": "Mean of 3",
+          "solves": [
+            26749,
+            25340,
+            26835,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "KantoSummerPM2025": {
       "333": [
         {
@@ -308,6 +352,7 @@
     "OtaBlindSummer2022": "Ota Blind Summer 2022",
     "OtaBlindSummer2023": "Ota Blind Summer 2023",
     "TokaiWinterAM2021": "Tokai Winter AM 2021",
+    "TokyoAutumn2025": "Tokyo Autumn 2025",
     "TokyoChallengeVIII2023": "Tokyo Challenge VIII 2023"
   }
 }

@@ -3,7 +3,7 @@
     "page": 1,
     "pageTotal": 3,
     "size": 100,
-    "total": 256
+    "total": 260
   },
   "items": [
     {
@@ -93,7 +93,7 @@
       "personMedals": {
         "gold": 9,
         "silver": 5,
-        "bronze": 5
+        "bronze": 6
       }
     },
     {
@@ -111,13 +111,23 @@
       "personId": "2022KHAN31",
       "personName": "Nông Quốc Khánh",
       "personMedals": {
-        "gold": 8,
+        "gold": 9,
         "silver": 1,
         "bronze": 1
       }
     },
     {
       "actualRank": 12,
+      "personId": "2022DUYN02",
+      "personName": "Nông Quốc Duy",
+      "personMedals": {
+        "gold": 8,
+        "silver": 8,
+        "bronze": 1
+      }
+    },
+    {
+      "actualRank": 13,
       "personId": "2011LEMI02",
       "personName": "Lê Minh Cường",
       "personMedals": {
@@ -127,17 +137,17 @@
       }
     },
     {
-      "actualRank": 13,
-      "personId": "2022DUYN02",
-      "personName": "Nông Quốc Duy",
+      "actualRank": 14,
+      "personId": "2018PHUO05",
+      "personName": "Phạm Đức Phước",
       "personMedals": {
         "gold": 7,
-        "silver": 8,
-        "bronze": 1
+        "silver": 20,
+        "bronze": 17
       }
     },
     {
-      "actualRank": 14,
+      "actualRank": 15,
       "personId": "2022PHUN01",
       "personName": "Nguyễn Hoàng Thiên Phú",
       "personMedals": {
@@ -147,7 +157,17 @@
       }
     },
     {
-      "actualRank": 15,
+      "actualRank": 16,
+      "personId": "2018TIEN05",
+      "personName": "Hoàng Hà Thủy Tiên",
+      "personMedals": {
+        "gold": 7,
+        "silver": 2,
+        "bronze": 5
+      }
+    },
+    {
+      "actualRank": 17,
       "personId": "2015DANH01",
       "personName": "Đoàn Văn Danh",
       "personMedals": {
@@ -157,7 +177,7 @@
       }
     },
     {
-      "actualRank": 16,
+      "actualRank": 18,
       "personId": "2019THAI01",
       "personName": "Nguyễn Thành Thái",
       "personMedals": {
@@ -167,17 +187,17 @@
       }
     },
     {
-      "actualRank": 17,
-      "personId": "2018PHUO05",
-      "personName": "Phạm Đức Phước",
+      "actualRank": 19,
+      "personId": "2018TUNG05",
+      "personName": "Trương Khánh Tùng",
       "personMedals": {
         "gold": 6,
-        "silver": 20,
-        "bronze": 15
+        "silver": 12,
+        "bronze": 6
       }
     },
     {
-      "actualRank": 18,
+      "actualRank": 20,
       "personId": "2017PHON07",
       "personName": "Lê Hà Phong",
       "personMedals": {
@@ -187,17 +207,7 @@
       }
     },
     {
-      "actualRank": 19,
-      "personId": "2018TIEN05",
-      "personName": "Hoàng Hà Thủy Tiên",
-      "personMedals": {
-        "gold": 6,
-        "silver": 2,
-        "bronze": 5
-      }
-    },
-    {
-      "actualRank": 20,
+      "actualRank": 21,
       "personId": "2015LUON01",
       "personName": "Quan Trần Thanh Lương",
       "personMedals": {
@@ -207,7 +217,7 @@
       }
     },
     {
-      "actualRank": 21,
+      "actualRank": 22,
       "personId": "2016CONG01",
       "personName": "Nguyễn Tuấn Công",
       "personMedals": {
@@ -217,7 +227,7 @@
       }
     },
     {
-      "actualRank": 22,
+      "actualRank": 23,
       "personId": "2011DUYA01",
       "personName": "Đoàn Thanh Duy",
       "personMedals": {
@@ -227,7 +237,7 @@
       }
     },
     {
-      "actualRank": 23,
+      "actualRank": 24,
       "personId": "2012NGHI01",
       "personName": "Trần Hưng Nghiêm",
       "personMedals": {
@@ -237,7 +247,7 @@
       }
     },
     {
-      "actualRank": 24,
+      "actualRank": 25,
       "personId": "2020SONN01",
       "personName": "Nguyễn Duy Sơn",
       "personMedals": {
@@ -247,7 +257,7 @@
       }
     },
     {
-      "actualRank": 25,
+      "actualRank": 26,
       "personId": "2018KHAN34",
       "personName": "Nguyễn Hùng Khánh",
       "personMedals": {
@@ -257,23 +267,13 @@
       }
     },
     {
-      "actualRank": 25,
+      "actualRank": 26,
       "personId": "2020QUAN01",
       "personName": "Phạm Anh Quân",
       "personMedals": {
         "gold": 5,
         "silver": 0,
         "bronze": 0
-      }
-    },
-    {
-      "actualRank": 27,
-      "personId": "2018TUNG05",
-      "personName": "Trương Khánh Tùng",
-      "personMedals": {
-        "gold": 4,
-        "silver": 12,
-        "bronze": 6
       }
     },
     {
@@ -528,6 +528,16 @@
     },
     {
       "actualRank": 53,
+      "personId": "2018QUAN17",
+      "personName": "Trần Anh Quân",
+      "personMedals": {
+        "gold": 2,
+        "silver": 2,
+        "bronze": 4
+      }
+    },
+    {
+      "actualRank": 54,
       "personId": "2022NGUY24",
       "personName": "Khôi Minh Nguyễn",
       "personMedals": {
@@ -537,7 +547,7 @@
       }
     },
     {
-      "actualRank": 54,
+      "actualRank": 55,
       "personId": "2016HOAN12",
       "personName": "Nguyễn Huy Hoàng",
       "personMedals": {
@@ -547,7 +557,17 @@
       }
     },
     {
-      "actualRank": 55,
+      "actualRank": 56,
+      "personId": "2022KHAN29",
+      "personName": "Nguyễn Văn Khánh",
+      "personMedals": {
+        "gold": 2,
+        "silver": 1,
+        "bronze": 7
+      }
+    },
+    {
+      "actualRank": 57,
       "personId": "2018HOAN10",
       "personName": "Nguyễn Ngọc Lê Hoàng",
       "personMedals": {
@@ -557,7 +577,17 @@
       }
     },
     {
-      "actualRank": 56,
+      "actualRank": 58,
+      "personId": "2022NGHI01",
+      "personName": "Mai Đức Nghĩa",
+      "personMedals": {
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      }
+    },
+    {
+      "actualRank": 59,
       "personId": "2010VOMI02",
       "personName": "Minh Tan Vo",
       "personMedals": {
@@ -567,7 +597,7 @@
       }
     },
     {
-      "actualRank": 57,
+      "actualRank": 60,
       "personId": "2010VUMI01",
       "personName": "Minh Tan Vu",
       "personMedals": {
@@ -577,7 +607,7 @@
       }
     },
     {
-      "actualRank": 58,
+      "actualRank": 61,
       "personId": "2023HUYT01",
       "personName": "Trần Quốc Huy",
       "personMedals": {
@@ -587,7 +617,7 @@
       }
     },
     {
-      "actualRank": 59,
+      "actualRank": 62,
       "personId": "2010NGUY13",
       "personName": "Hong Quan Nguyen",
       "personMedals": {
@@ -597,7 +627,7 @@
       }
     },
     {
-      "actualRank": 59,
+      "actualRank": 62,
       "personId": "2015LONG02",
       "personName": "Nguyễn Hùng Long",
       "personMedals": {
@@ -607,7 +637,7 @@
       }
     },
     {
-      "actualRank": 59,
+      "actualRank": 62,
       "personId": "2019DUNG01",
       "personName": "Trịnh Quang Dũng",
       "personMedals": {
@@ -617,7 +647,7 @@
       }
     },
     {
-      "actualRank": 59,
+      "actualRank": 62,
       "personId": "2023QUAN06",
       "personName": "Lưu Trần Khiết Quân",
       "personMedals": {
@@ -627,7 +657,7 @@
       }
     },
     {
-      "actualRank": 63,
+      "actualRank": 66,
       "personId": "2016DUYL01",
       "personName": "Lê Thái Duy",
       "personMedals": {
@@ -637,7 +667,7 @@
       }
     },
     {
-      "actualRank": 63,
+      "actualRank": 66,
       "personId": "2019VUNG02",
       "personName": "Nguyễn Hoàng Thiên Vũ",
       "personMedals": {
@@ -647,7 +677,7 @@
       }
     },
     {
-      "actualRank": 63,
+      "actualRank": 66,
       "personId": "2022DIEN01",
       "personName": "Nguyễn Khoa Điền",
       "personMedals": {
@@ -657,7 +687,17 @@
       }
     },
     {
-      "actualRank": 66,
+      "actualRank": 69,
+      "personId": "2020DIEN01",
+      "personName": "Đặng Trần Diễn",
+      "personMedals": {
+        "gold": 1,
+        "silver": 6,
+        "bronze": 7
+      }
+    },
+    {
+      "actualRank": 70,
       "personId": "2011TRAN08",
       "personName": "Trần Văn Thanh Tùng",
       "personMedals": {
@@ -667,7 +707,7 @@
       }
     },
     {
-      "actualRank": 67,
+      "actualRank": 71,
       "personId": "2011NGUY10",
       "personName": "Nguyễn Quang Trung",
       "personMedals": {
@@ -677,7 +717,7 @@
       }
     },
     {
-      "actualRank": 68,
+      "actualRank": 72,
       "personId": "2015SOND02",
       "personName": "Đoàn Trường Sơn",
       "personMedals": {
@@ -687,17 +727,7 @@
       }
     },
     {
-      "actualRank": 69,
-      "personId": "2020DIEN01",
-      "personName": "Đặng Trần Diễn",
-      "personMedals": {
-        "gold": 1,
-        "silver": 4,
-        "bronze": 6
-      }
-    },
-    {
-      "actualRank": 70,
+      "actualRank": 73,
       "personId": "2012HAON01",
       "personName": "Nghiêm Tuấn Hào",
       "personMedals": {
@@ -707,7 +737,7 @@
       }
     },
     {
-      "actualRank": 70,
+      "actualRank": 73,
       "personId": "2017MINH15",
       "personName": "Nguyễn Khang Minh",
       "personMedals": {
@@ -717,7 +747,7 @@
       }
     },
     {
-      "actualRank": 72,
+      "actualRank": 75,
       "personId": "2010DUON01",
       "personName": "Tuan Nghia Duong",
       "personMedals": {
@@ -727,7 +757,7 @@
       }
     },
     {
-      "actualRank": 73,
+      "actualRank": 76,
       "personId": "2017THON01",
       "personName": "Nguyễn Hữu Thông",
       "personMedals": {
@@ -737,7 +767,7 @@
       }
     },
     {
-      "actualRank": 74,
+      "actualRank": 77,
       "personId": "2015NHAT01",
       "personName": "Trần Doãn Minh Nhật",
       "personMedals": {
@@ -747,7 +777,7 @@
       }
     },
     {
-      "actualRank": 75,
+      "actualRank": 78,
       "personId": "2010LEHO01",
       "personName": "Lê Hoàng Công Thành",
       "personMedals": {
@@ -757,7 +787,7 @@
       }
     },
     {
-      "actualRank": 76,
+      "actualRank": 79,
       "personId": "2011HANG01",
       "personName": "Nguyễn Tấn Hưng",
       "personMedals": {
@@ -767,17 +797,7 @@
       }
     },
     {
-      "actualRank": 77,
-      "personId": "2018QUAN17",
-      "personName": "Trần Anh Quân",
-      "personMedals": {
-        "gold": 1,
-        "silver": 2,
-        "bronze": 4
-      }
-    },
-    {
-      "actualRank": 78,
+      "actualRank": 80,
       "personId": "2015HING03",
       "personName": "Nguyễn Ngọc Việt Hải",
       "personMedals": {
@@ -787,7 +807,7 @@
       }
     },
     {
-      "actualRank": 79,
+      "actualRank": 81,
       "personId": "2011PHAC01",
       "personName": "Mai Minh Phúc",
       "personMedals": {
@@ -797,7 +817,7 @@
       }
     },
     {
-      "actualRank": 79,
+      "actualRank": 81,
       "personId": "2016KHAN14",
       "personName": "Lê Quốc Khánh",
       "personMedals": {
@@ -807,7 +827,17 @@
       }
     },
     {
-      "actualRank": 79,
+      "actualRank": 81,
+      "personId": "2022HAIN03",
+      "personName": "Nguyễn Hoàng Hải",
+      "personMedals": {
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0
+      }
+    },
+    {
+      "actualRank": 81,
       "personId": "2022TUYE01",
       "personName": "Dương Công Tuyền",
       "personMedals": {
@@ -817,7 +847,7 @@
       }
     },
     {
-      "actualRank": 82,
+      "actualRank": 85,
       "personId": "2020DATN02",
       "personName": "Nguyễn Thành Đạt",
       "personMedals": {
@@ -827,7 +857,7 @@
       }
     },
     {
-      "actualRank": 82,
+      "actualRank": 85,
       "personId": "2022GIAN02",
       "personName": "Nguyễn Đỗ Hoàng Giang",
       "personMedals": {
@@ -837,7 +867,7 @@
       }
     },
     {
-      "actualRank": 84,
+      "actualRank": 87,
       "personId": "2010MAIM01",
       "personName": "Minh Phuc Mai",
       "personMedals": {
@@ -847,7 +877,7 @@
       }
     },
     {
-      "actualRank": 84,
+      "actualRank": 87,
       "personId": "2010TRIN03",
       "personName": "Trịnh Quốc Anh",
       "personMedals": {
@@ -857,17 +887,7 @@
       }
     },
     {
-      "actualRank": 86,
-      "personId": "2022NGHI01",
-      "personName": "Mai Đức Nghĩa",
-      "personMedals": {
-        "gold": 1,
-        "silver": 1,
-        "bronze": 1
-      }
-    },
-    {
-      "actualRank": 87,
+      "actualRank": 89,
       "personId": "2012HIAP01",
       "personName": "Lê Hoàng Hiệp",
       "personMedals": {
@@ -877,7 +897,7 @@
       }
     },
     {
-      "actualRank": 87,
+      "actualRank": 89,
       "personId": "2017NAMH03",
       "personName": "Huỳnh Phong Nam",
       "personMedals": {
@@ -887,7 +907,7 @@
       }
     },
     {
-      "actualRank": 87,
+      "actualRank": 89,
       "personId": "2019ANHO01",
       "personName": "Hoàng Gia Ân",
       "personMedals": {
@@ -897,7 +917,7 @@
       }
     },
     {
-      "actualRank": 87,
+      "actualRank": 89,
       "personId": "2019DUON06",
       "personName": "Đỗ Duy Dương",
       "personMedals": {
@@ -907,7 +927,7 @@
       }
     },
     {
-      "actualRank": 91,
+      "actualRank": 93,
       "personId": "2013NGCP01",
       "personName": "Phạm Tuấn Ngọc",
       "personMedals": {
@@ -917,17 +937,7 @@
       }
     },
     {
-      "actualRank": 92,
-      "personId": "2022KHAN29",
-      "personName": "Nguyễn Văn Khánh",
-      "personMedals": {
-        "gold": 1,
-        "silver": 0,
-        "bronze": 6
-      }
-    },
-    {
-      "actualRank": 93,
+      "actualRank": 94,
       "personId": "2013BANG01",
       "personName": "Nguyễn Chánh Bá",
       "personMedals": {
@@ -937,7 +947,7 @@
       }
     },
     {
-      "actualRank": 94,
+      "actualRank": 95,
       "personId": "2010NGUY15",
       "personName": "Le Hong Phuc Nguyen",
       "personMedals": {
@@ -947,7 +957,7 @@
       }
     },
     {
-      "actualRank": 94,
+      "actualRank": 95,
       "personId": "2014MINH02",
       "personName": "Lê Hoàng Minh",
       "personMedals": {
@@ -957,7 +967,7 @@
       }
     },
     {
-      "actualRank": 94,
+      "actualRank": 95,
       "personId": "2016DUON02",
       "personName": "Nguyễn Trần Khánh Dương",
       "personMedals": {
@@ -967,7 +977,17 @@
       }
     },
     {
-      "actualRank": 94,
+      "actualRank": 95,
+      "personId": "2020HIEU01",
+      "personName": "Ngô Ngọc Hiếu",
+      "personMedals": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      }
+    },
+    {
+      "actualRank": 95,
       "personId": "2020KHOI01",
       "personName": "Nguyễn Anh Khôi",
       "personMedals": {
@@ -977,33 +997,13 @@
       }
     },
     {
-      "actualRank": 94,
+      "actualRank": 95,
       "personId": "2022KHOA09",
       "personName": "Phạm Đăng Khoa",
       "personMedals": {
         "gold": 1,
         "silver": 0,
         "bronze": 2
-      }
-    },
-    {
-      "actualRank": 94,
-      "personId": "2022PHAT01",
-      "personName": "Phạm Trương Phát",
-      "personMedals": {
-        "gold": 1,
-        "silver": 0,
-        "bronze": 2
-      }
-    },
-    {
-      "actualRank": 100,
-      "personId": "2010LEPH01",
-      "personName": "Pham Thien Chinh Le",
-      "personMedals": {
-        "gold": 1,
-        "silver": 0,
-        "bronze": 1
       }
     }
   ]

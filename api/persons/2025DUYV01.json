@@ -3,8 +3,9 @@
   "name": "Vũ Minh Duy",
   "slug": "vu-minh-duy",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
+    "HanoiSummer2025",
     "NxNinHanoi2025"
   ],
   "numberOfChampionships": 0,
@@ -13,20 +14,38 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 399,
+        "best": 396,
         "rank": {
-          "world": 44484,
-          "continent": 12558,
-          "country": 529
+          "world": 43841,
+          "continent": 12402,
+          "country": 530
         }
       },
       {
         "eventId": "333",
         "best": 742,
         "rank": {
-          "world": 4402,
-          "continent": 1445,
-          "country": 74
+          "world": 4410,
+          "continent": 1453,
+          "country": 81
+        }
+      },
+      {
+        "eventId": "minx",
+        "best": 8973,
+        "rank": {
+          "world": 8596,
+          "continent": 2370,
+          "country": 86
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 363,
+        "rank": {
+          "world": 6843,
+          "continent": 1857,
+          "country": 53
         }
       }
     ],
@@ -35,23 +54,121 @@
         "eventId": "222",
         "best": 454,
         "rank": {
-          "world": 19933,
-          "continent": 5792,
-          "country": 265
+          "world": 19944,
+          "continent": 5803,
+          "country": 276
         }
       },
       {
         "eventId": "333",
-        "best": 1054,
+        "best": 880,
         "rank": {
-          "world": 9513,
-          "continent": 3492,
-          "country": 216
+          "world": 3172,
+          "continent": 1124,
+          "country": 67
+        }
+      },
+      {
+        "eventId": "minx",
+        "best": 9481,
+        "rank": {
+          "world": 7426,
+          "continent": 2060,
+          "country": 75
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 873,
+        "rank": {
+          "world": 20253,
+          "continent": 5818,
+          "country": 138
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 59,
+          "best": 396,
+          "average": 488,
+          "format": "Average of 5",
+          "solves": [
+            871,
+            436,
+            559,
+            469,
+            396
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 31,
+          "best": 786,
+          "average": 1019,
+          "format": "Average of 5",
+          "solves": [
+            981,
+            786,
+            1068,
+            1007,
+            1080
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 12,
+          "best": 807,
+          "average": 880,
+          "format": "Average of 5",
+          "solves": [
+            807,
+            863,
+            820,
+            958,
+            1058
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "Final",
+          "position": 20,
+          "best": 8973,
+          "average": 9481,
+          "format": "Average of 5",
+          "solves": [
+            8973,
+            9604,
+            9280,
+            11851,
+            9559
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 24,
+          "best": 363,
+          "average": 873,
+          "format": "Average of 5",
+          "solves": [
+            773,
+            1160,
+            363,
+            1096,
+            749
+          ]
+        }
+      ]
+    },
     "NxNinHanoi2025": {
       "222": [
         {
@@ -125,6 +242,7 @@
     "average": []
   },
   "competitionsById": {
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "NxNinHanoi2025": "NxN in Hanoi 2025"
   }
 }

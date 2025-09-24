@@ -3,9 +3,10 @@
   "name": "Lưu Đăng Nguyên",
   "slug": "luu-dang-nguyen",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "HanoiWinter2024",
     "VietnamChampionship2024"
   ],
@@ -19,79 +20,159 @@
         "eventId": "222",
         "best": 484,
         "rank": {
-          "world": 63157,
-          "continent": 18460,
-          "country": 802
+          "world": 63172,
+          "continent": 18475,
+          "country": 817
         }
       },
       {
         "eventId": "333",
         "best": 2656,
         "rank": {
-          "world": 144095,
-          "continent": 48613,
-          "country": 2277
+          "world": 144124,
+          "continent": 48640,
+          "country": 2304
         }
       },
       {
         "eventId": "clock",
-        "best": 2131,
+        "best": 1922,
         "rank": {
-          "world": 18530,
-          "continent": 4227,
-          "country": 124
+          "world": 16970,
+          "continent": 3926,
+          "country": 120
         }
       },
       {
         "eventId": "pyram",
-        "best": 536,
+        "best": 468,
         "rank": {
-          "world": 17920,
-          "continent": 4825,
-          "country": 108
+          "world": 12948,
+          "continent": 3497,
+          "country": 83
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 633,
+        "best": 622,
         "rank": {
-          "world": 51846,
-          "continent": 15671,
-          "country": 707
+          "world": 49844,
+          "continent": 15079,
+          "country": 704
         }
       },
       {
         "eventId": "333",
-        "best": 3016,
+        "best": 2853,
         "rank": {
-          "world": 134548,
-          "continent": 45926,
-          "country": 2187
+          "world": 126631,
+          "continent": 43628,
+          "country": 2153
         }
       },
       {
         "eventId": "clock",
-        "best": 2235,
+        "best": 2173,
         "rank": {
-          "world": 15360,
-          "continent": 3562,
-          "country": 103
+          "world": 15060,
+          "continent": 3506,
+          "country": 107
         }
       },
       {
         "eventId": "pyram",
-        "best": 773,
+        "best": 547,
         "rank": {
-          "world": 14400,
-          "continent": 4187,
-          "country": 102
+          "world": 5395,
+          "continent": 1589,
+          "country": 42
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 81,
+          "best": 593,
+          "average": 622,
+          "format": "Average of 5",
+          "solves": [
+            633,
+            624,
+            593,
+            -1,
+            609
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 114,
+          "best": 2701,
+          "average": 2853,
+          "format": "Average of 5",
+          "solves": [
+            2828,
+            2865,
+            2866,
+            2701,
+            3007
+          ]
+        }
+      ],
+      "clock": [
+        {
+          "round": "First round",
+          "position": 28,
+          "best": 1922,
+          "average": 2173,
+          "format": "Average of 5",
+          "solves": [
+            1993,
+            1922,
+            2159,
+            2367,
+            2990
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "Final",
+          "position": 9,
+          "best": 468,
+          "average": 547,
+          "format": "Average of 5",
+          "solves": [
+            521,
+            545,
+            468,
+            576,
+            832
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 14,
+          "best": 470,
+          "average": 693,
+          "format": "Average of 5",
+          "solves": [
+            470,
+            -1,
+            752,
+            587,
+            740
+          ]
+        }
+      ]
+    },
     "HanoiWinter2024": {
       "222": [
         {
@@ -250,6 +331,7 @@
   },
   "competitionsById": {
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiWinter2024": "Hanoi Winter 2024",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }

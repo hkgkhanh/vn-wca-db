@@ -3,12 +3,13 @@
   "name": "Vũ Văn Thủy",
   "slug": "vu-van-thuy",
   "country": "VN",
-  "numberOfCompetitions": 7,
+  "numberOfCompetitions": 8,
   "competitionIds": [
     "AeonMallLongBien2024",
     "HaNoiChampionship2019",
     "HanoiSideEvents2024",
     "HaNoiSummer2022",
+    "HanoiSummer2025",
     "HanoiWinter2024",
     "NxNinHanoi2025",
     "VietnamChampionship2024"
@@ -23,36 +24,36 @@
         "eventId": "222",
         "best": 264,
         "rank": {
-          "world": 17022,
-          "continent": 4461,
-          "country": 158
+          "world": 17032,
+          "continent": 4471,
+          "country": 166
         }
       },
       {
         "eventId": "333",
-        "best": 821,
+        "best": 691,
         "rank": {
-          "world": 7661,
-          "continent": 2642,
-          "country": 140
+          "world": 2887,
+          "continent": 942,
+          "country": 55
         }
       },
       {
         "eventId": "333oh",
         "best": 2629,
         "rank": {
-          "world": 25101,
-          "continent": 9251,
-          "country": 460
+          "world": 25113,
+          "continent": 9262,
+          "country": 471
         }
       },
       {
         "eventId": "pyram",
         "best": 1508,
         "rank": {
-          "world": 97376,
-          "continent": 25857,
-          "country": 597
+          "world": 97388,
+          "continent": 25868,
+          "country": 607
         }
       }
     ],
@@ -61,41 +62,105 @@
         "eventId": "222",
         "best": 455,
         "rank": {
-          "world": 20072,
-          "continent": 5827,
-          "country": 269
+          "world": 20083,
+          "continent": 5838,
+          "country": 280
         }
       },
       {
         "eventId": "333",
         "best": 910,
         "rank": {
-          "world": 3997,
-          "continent": 1433,
-          "country": 83
+          "world": 4001,
+          "continent": 1437,
+          "country": 87
         }
       },
       {
         "eventId": "333oh",
-        "best": 4198,
+        "best": 3738,
         "rank": {
-          "world": 36476,
-          "continent": 12933,
-          "country": 649
+          "world": 31298,
+          "continent": 11395,
+          "country": 597
         }
       },
       {
         "eventId": "pyram",
         "best": 1764,
         "rank": {
-          "world": 82355,
-          "continent": 21982,
-          "country": 526
+          "world": 82368,
+          "continent": 21994,
+          "country": 537
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 57,
+          "best": 359,
+          "average": 484,
+          "format": "Average of 5",
+          "solves": [
+            501,
+            547,
+            359,
+            594,
+            405
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 19,
+          "best": 691,
+          "average": 919,
+          "format": "Average of 5",
+          "solves": [
+            998,
+            943,
+            840,
+            691,
+            975
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 26,
+          "best": 848,
+          "average": 998,
+          "format": "Average of 5",
+          "solves": [
+            962,
+            848,
+            1010,
+            1021,
+            1073
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 66,
+          "best": 3383,
+          "average": 3738,
+          "format": "Average of 5",
+          "solves": [
+            4769,
+            4334,
+            3391,
+            3383,
+            3488
+          ]
+        }
+      ]
+    },
     "NxNinHanoi2025": {
       "222": [
         {
@@ -519,6 +584,7 @@
     "HaNoiChampionship2019": "Ha Noi Championship 2019",
     "HanoiSideEvents2024": "Hanoi Side Events 2024",
     "HaNoiSummer2022": "Ha Noi Summer 2022",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiWinter2024": "Hanoi Winter 2024",
     "NxNinHanoi2025": "NxN in Hanoi 2025",
     "VietnamChampionship2024": "Vietnam Championship 2024"

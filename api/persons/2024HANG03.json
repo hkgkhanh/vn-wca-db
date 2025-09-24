@@ -3,9 +3,10 @@
   "name": "Nguyễn Thanh Hà",
   "slug": "nguyen-thanh-ha",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "HanoiCOPOpen2024",
+    "HanoiSummer2025",
     "VietnamChampionship2024"
   ],
   "numberOfChampionships": 1,
@@ -18,43 +19,77 @@
         "eventId": "222",
         "best": 359,
         "rank": {
-          "world": 35809,
-          "continent": 9970,
-          "country": 409
+          "world": 35821,
+          "continent": 9982,
+          "country": 421
         }
       },
       {
         "eventId": "333",
         "best": 981,
         "rank": {
-          "world": 17068,
-          "continent": 6168,
-          "country": 370
+          "world": 17084,
+          "continent": 6184,
+          "country": 386
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 555,
+        "best": 432,
         "rank": {
-          "world": 37201,
-          "continent": 11240,
-          "country": 513
+          "world": 16694,
+          "continent": 4802,
+          "country": 219
         }
       },
       {
         "eventId": "333",
-        "best": 1385,
+        "best": 1037,
         "rank": {
-          "world": 29912,
-          "continent": 11298,
-          "country": 675
+          "world": 8753,
+          "continent": 3208,
+          "country": 202
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 42,
+          "best": 384,
+          "average": 432,
+          "format": "Average of 5",
+          "solves": [
+            425,
+            384,
+            422,
+            448,
+            516
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 34,
+          "best": 1018,
+          "average": 1037,
+          "format": "Average of 5",
+          "solves": [
+            1201,
+            1022,
+            1018,
+            1061,
+            1027
+          ]
+        }
+      ]
+    },
     "HanoiCOPOpen2024": {
       "222": [
         {
@@ -133,6 +168,7 @@
   },
   "competitionsById": {
     "HanoiCOPOpen2024": "Hanoi COP Open 2024",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }
 }

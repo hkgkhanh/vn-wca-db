@@ -3,9 +3,10 @@
   "name": "Anh Nguyen Tien Duy",
   "slug": "anh-nguyen-tien-duy",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HanoiCOPOpen2024",
+    "HanoiSummer2025",
     "HanoiWinter2024",
     "VietnamChampionship2024"
   ],
@@ -19,36 +20,36 @@
         "eventId": "222",
         "best": 380,
         "rank": {
-          "world": 40298,
-          "continent": 11326,
-          "country": 469
+          "world": 40311,
+          "continent": 11339,
+          "country": 482
         }
       },
       {
         "eventId": "333",
         "best": 1712,
         "rank": {
-          "world": 80044,
-          "continent": 28894,
-          "country": 1570
+          "world": 80061,
+          "continent": 28910,
+          "country": 1586
         }
       },
       {
         "eventId": "pyram",
         "best": 1043,
         "rank": {
-          "world": 66552,
-          "continent": 17603,
-          "country": 440
+          "world": 66564,
+          "continent": 17614,
+          "country": 451
         }
       },
       {
         "eventId": "skewb",
-        "best": 689,
+        "best": 451,
         "rank": {
-          "world": 21715,
-          "continent": 5579,
-          "country": 174
+          "world": 9478,
+          "continent": 2443,
+          "country": 79
         }
       }
     ],
@@ -57,41 +58,73 @@
         "eventId": "222",
         "best": 534,
         "rank": {
-          "world": 33349,
-          "continent": 9949,
-          "country": 455
+          "world": 33362,
+          "continent": 9962,
+          "country": 468
         }
       },
       {
         "eventId": "333",
         "best": 2058,
         "rank": {
-          "world": 79309,
-          "continent": 28955,
-          "country": 1603
+          "world": 79326,
+          "continent": 28972,
+          "country": 1620
         }
       },
       {
         "eventId": "pyram",
         "best": 1196,
         "rank": {
-          "world": 43950,
-          "continent": 12049,
-          "country": 298
+          "world": 43959,
+          "continent": 12058,
+          "country": 307
         }
       },
       {
         "eventId": "skewb",
-        "best": 820,
+        "best": 613,
         "rank": {
-          "world": 12620,
-          "continent": 3512,
-          "country": 96
+          "world": 5683,
+          "continent": 1574,
+          "country": 51
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "skewb": [
+        {
+          "round": "Final",
+          "position": 13,
+          "best": 518,
+          "average": 613,
+          "format": "Average of 5",
+          "solves": [
+            527,
+            957,
+            518,
+            728,
+            585
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 16,
+          "best": 451,
+          "average": 615,
+          "format": "Average of 5",
+          "solves": [
+            617,
+            463,
+            451,
+            764,
+            849
+          ]
+        }
+      ]
+    },
     "HanoiWinter2024": {
       "pyram": [
         {
@@ -188,6 +221,7 @@
   },
   "competitionsById": {
     "HanoiCOPOpen2024": "Hanoi COP Open 2024",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiWinter2024": "Hanoi Winter 2024",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }

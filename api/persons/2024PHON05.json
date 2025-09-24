@@ -3,10 +3,11 @@
   "name": "Nguyễn Gia Phong",
   "slug": "nguyen-gia-phong",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "AeonMallLongBien2024",
     "HanoiCOPOpen2024",
+    "HanoiSummer2025",
     "VietnamChampionship2024"
   ],
   "numberOfChampionships": 1,
@@ -19,18 +20,18 @@
         "eventId": "222",
         "best": 655,
         "rank": {
-          "world": 96109,
-          "continent": 28355,
-          "country": 1217
+          "world": 96129,
+          "continent": 28374,
+          "country": 1236
         }
       },
       {
         "eventId": "333",
         "best": 1001,
         "rank": {
-          "world": 18454,
-          "continent": 6662,
-          "country": 399
+          "world": 18473,
+          "continent": 6681,
+          "country": 418
         }
       }
     ],
@@ -39,23 +40,55 @@
         "eventId": "222",
         "best": 762,
         "rank": {
-          "world": 74098,
-          "continent": 22301,
-          "country": 995
+          "world": 74116,
+          "continent": 22319,
+          "country": 1013
         }
       },
       {
         "eventId": "333",
         "best": 1212,
         "rank": {
-          "world": 18210,
-          "continent": 6808,
-          "country": 421
+          "world": 18230,
+          "continent": 6828,
+          "country": 440
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 71,
+          "best": 1091,
+          "average": 1350,
+          "format": "Average of 5",
+          "solves": [
+            1284,
+            1314,
+            1452,
+            1849,
+            1091
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 70,
+          "best": 1222,
+          "average": 1286,
+          "format": "Average of 5",
+          "solves": [
+            1222,
+            1303,
+            1255,
+            1299,
+            1571
+          ]
+        }
+      ]
+    },
     "HanoiCOPOpen2024": {
       "222": [
         {
@@ -153,6 +186,7 @@
   "competitionsById": {
     "AeonMallLongBien2024": "Aeon Mall Long Bien 2024",
     "HanoiCOPOpen2024": "Hanoi COP Open 2024",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }
 }

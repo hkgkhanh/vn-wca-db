@@ -3,7 +3,7 @@
   "name": "Nguyễn Quốc Bính",
   "slug": "nguyen-quoc-binh",
   "country": "VN",
-  "numberOfCompetitions": 9,
+  "numberOfCompetitions": 10,
   "competitionIds": [
     "HaNoiChampionship2019",
     "HanoiCOPOpen2024",
@@ -12,6 +12,7 @@
     "HaNoiSummer2020",
     "HaNoiSummer2022",
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "HanoiSuperBrainZyo2023",
     "VietnamChampionship2024"
   ],
@@ -25,54 +26,81 @@
         "eventId": "222",
         "best": 270,
         "rank": {
-          "world": 18058,
-          "continent": 4760,
-          "country": 174
+          "world": 18068,
+          "continent": 4770,
+          "country": 183
         }
       },
       {
         "eventId": "333",
         "best": 1009,
         "rank": {
-          "world": 19061,
-          "continent": 6878,
-          "country": 414
+          "world": 19080,
+          "continent": 6897,
+          "country": 433
         }
       },
       {
         "eventId": "333oh",
         "best": 2066,
         "rank": {
-          "world": 14748,
-          "continent": 5494,
-          "country": 289
+          "world": 14757,
+          "continent": 5501,
+          "country": 296
         }
       },
       {
         "eventId": "444",
         "best": 6518,
         "rank": {
-          "world": 31897,
-          "continent": 10539,
-          "country": 604
+          "world": 31910,
+          "continent": 10550,
+          "country": 614
+        }
+      },
+      {
+        "eventId": "555",
+        "best": 13397,
+        "rank": {
+          "world": 21198,
+          "continent": 6351,
+          "country": 360
+        }
+      },
+      {
+        "eventId": "clock",
+        "best": 2271,
+        "rank": {
+          "world": 19482,
+          "continent": 4443,
+          "country": 136
+        }
+      },
+      {
+        "eventId": "minx",
+        "best": 12135,
+        "rank": {
+          "world": 14416,
+          "continent": 3721,
+          "country": 136
         }
       },
       {
         "eventId": "pyram",
         "best": 477,
         "rank": {
-          "world": 13568,
-          "continent": 3669,
-          "country": 83
+          "world": 13570,
+          "continent": 3671,
+          "country": 85
         }
       },
       {
         "eventId": "skewb",
         "best": 601,
         "rank": {
-          "world": 17017,
-          "continent": 4371,
-          "country": 137
+          "world": 17024,
+          "continent": 4378,
+          "country": 144
         }
       }
     ],
@@ -81,59 +109,118 @@
         "eventId": "222",
         "best": 461,
         "rank": {
-          "world": 20978,
-          "continent": 6091,
-          "country": 285
+          "world": 20990,
+          "continent": 6103,
+          "country": 297
         }
       },
       {
         "eventId": "333",
         "best": 1327,
         "rank": {
-          "world": 25763,
-          "continent": 9703,
-          "country": 596
+          "world": 25780,
+          "continent": 9720,
+          "country": 613
         }
       },
       {
         "eventId": "333oh",
         "best": 2528,
         "rank": {
-          "world": 14275,
-          "continent": 5490,
-          "country": 300
+          "world": 14286,
+          "continent": 5500,
+          "country": 310
         }
       },
       {
         "eventId": "444",
         "best": 7014,
         "rank": {
-          "world": 28266,
-          "continent": 9355,
-          "country": 551
+          "world": 28277,
+          "continent": 9365,
+          "country": 561
+        }
+      },
+      {
+        "eventId": "clock",
+        "best": 3408,
+        "rank": {
+          "world": 19327,
+          "continent": 4386,
+          "country": 140
         }
       },
       {
         "eventId": "pyram",
         "best": 767,
         "rank": {
-          "world": 14063,
-          "continent": 4097,
-          "country": 99
+          "world": 14066,
+          "continent": 4100,
+          "country": 102
         }
       },
       {
         "eventId": "skewb",
         "best": 728,
         "rank": {
-          "world": 9308,
-          "continent": 2618,
-          "country": 71
+          "world": 9314,
+          "continent": 2624,
+          "country": 77
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "555": [
+        {
+          "round": "First round",
+          "position": 45,
+          "best": 13397,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            13397,
+            16997,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "clock": [
+        {
+          "round": "First round",
+          "position": 33,
+          "best": 2271,
+          "average": 3408,
+          "format": "Average of 5",
+          "solves": [
+            -1,
+            3590,
+            2271,
+            3606,
+            3027
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "Final",
+          "position": 27,
+          "best": 12135,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            12135,
+            13400,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "HanoiCOPOpen2024": {
       "222": [
         {
@@ -502,6 +589,7 @@
     "HaNoiSummer2020": "Ha Noi Summer 2020",
     "HaNoiSummer2022": "Ha Noi Summer 2022",
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }

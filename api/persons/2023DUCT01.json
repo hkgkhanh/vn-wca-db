@@ -3,10 +3,11 @@
   "name": "Trương Anh Đức",
   "slug": "truong-anh-duc",
   "country": "VN",
-  "numberOfCompetitions": 4,
+  "numberOfCompetitions": 5,
   "competitionIds": [
     "AeonMallLongBien2024",
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "NxNinHanoi2024",
     "VietnamChampionship2023"
   ],
@@ -20,43 +21,77 @@
         "eventId": "222",
         "best": 475,
         "rank": {
-          "world": 61201,
-          "continent": 17868,
-          "country": 773
+          "world": 61215,
+          "continent": 17882,
+          "country": 787
         }
       },
       {
         "eventId": "333",
-        "best": 1389,
+        "best": 1262,
         "rank": {
-          "world": 51997,
-          "continent": 19129,
-          "country": 1071
+          "world": 40526,
+          "continent": 15025,
+          "country": 875
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 718,
+        "best": 531,
         "rank": {
-          "world": 67018,
-          "continent": 20267,
-          "country": 911
+          "world": 32866,
+          "continent": 9780,
+          "country": 457
         }
       },
       {
         "eventId": "333",
         "best": 1579,
         "rank": {
-          "world": 44656,
-          "continent": 16815,
-          "country": 985
+          "world": 44670,
+          "continent": 16829,
+          "country": 999
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 70,
+          "best": 490,
+          "average": 531,
+          "format": "Average of 5",
+          "solves": [
+            493,
+            499,
+            601,
+            490,
+            693
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 88,
+          "best": 1262,
+          "average": 1586,
+          "format": "Average of 5",
+          "solves": [
+            1262,
+            1568,
+            1968,
+            1491,
+            1698
+          ]
+        }
+      ]
+    },
     "AeonMallLongBien2024": {
       "222": [
         {
@@ -206,6 +241,7 @@
   "competitionsById": {
     "AeonMallLongBien2024": "Aeon Mall Long Bien 2024",
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "NxNinHanoi2024": "NxN in Hanoi 2024",
     "VietnamChampionship2023": "Vietnam Championship 2023"
   }

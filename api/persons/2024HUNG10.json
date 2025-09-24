@@ -3,9 +3,10 @@
   "name": "Phạm Vĩnh Hưng",
   "slug": "pham-vinh-hung",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
-    "HanoiCOPOpen2024"
+    "HanoiCOPOpen2024",
+    "HanoiSummer2025"
   ],
   "numberOfChampionships": 0,
   "championshipIds": [],
@@ -13,72 +14,174 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 816,
+        "best": 525,
         "rank": {
-          "world": 117457,
-          "continent": 34333,
-          "country": 1378
+          "world": 71923,
+          "continent": 21156,
+          "country": 949
         }
       },
       {
         "eventId": "333",
         "best": 3878,
         "rank": {
-          "world": 195091,
-          "continent": 62966,
-          "country": 2545
+          "world": 195119,
+          "continent": 62993,
+          "country": 2572
         }
       },
       {
         "eventId": "444",
         "best": 11197,
         "rank": {
-          "world": 59664,
-          "continent": 17293,
-          "country": 892
+          "world": 59678,
+          "continent": 17306,
+          "country": 904
         }
       },
       {
         "eventId": "pyram",
-        "best": 936,
+        "best": 571,
         "rank": {
-          "world": 56468,
-          "continent": 14977,
-          "country": 367
+          "world": 20789,
+          "continent": 5576,
+          "country": 129
+        }
+      },
+      {
+        "eventId": "skewb",
+        "best": 1085,
+        "rank": {
+          "world": 40027,
+          "continent": 9731,
+          "country": 316
+        }
+      },
+      {
+        "eventId": "sq1",
+        "best": 1673,
+        "rank": {
+          "world": 4553,
+          "continent": 1023,
+          "country": 44
         }
       }
     ],
     "averages": [
       {
         "eventId": "222",
-        "best": 1024,
+        "best": 584,
         "rank": {
-          "world": 105768,
-          "continent": 31379,
-          "country": 1304
+          "world": 42669,
+          "continent": 12891,
+          "country": 603
         }
       },
       {
         "eventId": "333",
         "best": 4251,
         "rank": {
-          "world": 181418,
-          "continent": 58856,
-          "country": 2458
+          "world": 181446,
+          "continent": 58883,
+          "country": 2485
         }
       },
       {
         "eventId": "pyram",
-        "best": 1548,
+        "best": 1134,
         "rank": {
-          "world": 69881,
-          "continent": 18777,
-          "country": 471
+          "world": 38978,
+          "continent": 10712,
+          "country": 279
+        }
+      },
+      {
+        "eventId": "skewb",
+        "best": 1288,
+        "rank": {
+          "world": 30098,
+          "continent": 7676,
+          "country": 245
+        }
+      },
+      {
+        "eventId": "sq1",
+        "best": 3062,
+        "rank": {
+          "world": 7574,
+          "continent": 1779,
+          "country": 67
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 76,
+          "best": 525,
+          "average": 584,
+          "format": "Average of 5",
+          "solves": [
+            700,
+            580,
+            569,
+            525,
+            603
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 34,
+          "best": 571,
+          "average": 1134,
+          "format": "Average of 5",
+          "solves": [
+            1140,
+            853,
+            571,
+            1408,
+            1426
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "First round",
+          "position": 35,
+          "best": 1085,
+          "average": 1288,
+          "format": "Average of 5",
+          "solves": [
+            1315,
+            1202,
+            1346,
+            1380,
+            1085
+          ]
+        }
+      ],
+      "sq1": [
+        {
+          "round": "First round",
+          "position": 18,
+          "best": 1673,
+          "average": 3062,
+          "format": "Average of 5",
+          "solves": [
+            1673,
+            2944,
+            4022,
+            3239,
+            3002
+          ]
+        }
+      ]
+    },
     "HanoiCOPOpen2024": {
       "222": [
         {
@@ -156,6 +259,7 @@
     "average": []
   },
   "competitionsById": {
-    "HanoiCOPOpen2024": "Hanoi COP Open 2024"
+    "HanoiCOPOpen2024": "Hanoi COP Open 2024",
+    "HanoiSummer2025": "Hanoi Summer 2025"
   }
 }

@@ -3,13 +3,14 @@
   "name": "Bùi Hải Long",
   "slug": "bui-hai-long",
   "country": "VN",
-  "numberOfCompetitions": 10,
+  "numberOfCompetitions": 11,
   "competitionIds": [
     "AeonMallLongBien2024",
     "DontDNFHanoi2024",
     "HaNoiCubeDay2020",
     "HanoiSideEvents2024",
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "HanoiSuperBrainZyo2023",
     "HanoiWinter2024",
     "NxNinHanoi2024",
@@ -24,119 +25,119 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 367,
+        "best": 339,
         "rank": {
-          "world": 37519,
-          "continent": 10467,
-          "country": 426
+          "world": 31656,
+          "continent": 8755,
+          "country": 360
         }
       },
       {
         "eventId": "333",
-        "best": 997,
+        "best": 925,
         "rank": {
-          "world": 18176,
-          "continent": 6564,
-          "country": 391
+          "world": 13428,
+          "continent": 4825,
+          "country": 302
         }
       },
       {
         "eventId": "333fm",
         "best": 30,
         "rank": {
-          "world": 1595,
+          "world": 1596,
           "continent": 378,
           "country": 8
         }
       },
       {
         "eventId": "333oh",
-        "best": 2170,
+        "best": 2075,
         "rank": {
-          "world": 16709,
-          "continent": 6203,
-          "country": 326
+          "world": 14917,
+          "continent": 5553,
+          "country": 299
         }
       },
       {
         "eventId": "444",
         "best": 3170,
         "rank": {
-          "world": 2715,
-          "continent": 932,
-          "country": 59
+          "world": 2717,
+          "continent": 934,
+          "country": 61
         }
       },
       {
         "eventId": "555",
-        "best": 6113,
+        "best": 5739,
         "rank": {
-          "world": 2000,
-          "continent": 688,
-          "country": 42
+          "world": 1382,
+          "continent": 479,
+          "country": 29
         }
       },
       {
         "eventId": "666",
-        "best": 12079,
+        "best": 11115,
         "rank": {
-          "world": 1550,
-          "continent": 525,
-          "country": 27
+          "world": 1013,
+          "continent": 351,
+          "country": 17
         }
       },
       {
         "eventId": "777",
-        "best": 16898,
+        "best": 16692,
         "rank": {
-          "world": 828,
-          "continent": 312,
-          "country": 16
+          "world": 762,
+          "continent": 286,
+          "country": 14
         }
       },
       {
         "eventId": "clock",
         "best": 861,
         "rank": {
-          "world": 4884,
-          "continent": 1152,
-          "country": 43
+          "world": 4893,
+          "continent": 1161,
+          "country": 47
         }
       },
       {
         "eventId": "minx",
-        "best": 4973,
+        "best": 4637,
         "rank": {
-          "world": 1445,
-          "continent": 365,
-          "country": 15
+          "world": 1013,
+          "continent": 251,
+          "country": 11
         }
       },
       {
         "eventId": "pyram",
         "best": 506,
         "rank": {
-          "world": 15636,
-          "continent": 4225,
-          "country": 94
+          "world": 15639,
+          "continent": 4228,
+          "country": 97
         }
       },
       {
         "eventId": "skewb",
         "best": 1008,
         "rank": {
-          "world": 36954,
-          "continent": 9028,
-          "country": 284
+          "world": 36961,
+          "continent": 9035,
+          "country": 291
         }
       },
       {
         "eventId": "sq1",
-        "best": 1297,
+        "best": 1216,
         "rank": {
-          "world": 2637,
-          "continent": 555,
-          "country": 22
+          "world": 2275,
+          "continent": 477,
+          "country": 19
         }
       }
     ],
@@ -145,122 +146,324 @@
         "eventId": "222",
         "best": 406,
         "rank": {
-          "world": 13286,
-          "continent": 3737,
-          "country": 160
+          "world": 13291,
+          "continent": 3742,
+          "country": 165
         }
       },
       {
         "eventId": "333",
-        "best": 1204,
+        "best": 1069,
         "rank": {
-          "world": 17690,
-          "continent": 6607,
-          "country": 413
+          "world": 10261,
+          "continent": 3787,
+          "country": 245
         }
       },
       {
         "eventId": "333fm",
         "best": 4000,
         "rank": {
-          "world": 2590,
+          "world": 2592,
           "continent": 660,
           "country": 13
         }
       },
       {
         "eventId": "333oh",
-        "best": 2477,
+        "best": 2319,
         "rank": {
-          "world": 13507,
-          "continent": 5193,
-          "country": 284
+          "world": 11186,
+          "continent": 4280,
+          "country": 243
         }
       },
       {
         "eventId": "444",
-        "best": 3502,
+        "best": 3434,
         "rank": {
-          "world": 1961,
-          "continent": 663,
-          "country": 39
+          "world": 1731,
+          "continent": 600,
+          "country": 35
         }
       },
       {
         "eventId": "555",
         "best": 6450,
         "rank": {
-          "world": 1444,
-          "continent": 511,
-          "country": 32
+          "world": 1445,
+          "continent": 512,
+          "country": 33
         }
       },
       {
         "eventId": "666",
-        "best": 12389,
+        "best": 11751,
         "rank": {
-          "world": 1236,
-          "continent": 433,
-          "country": 20
+          "world": 929,
+          "continent": 327,
+          "country": 16
         }
       },
       {
         "eventId": "777",
-        "best": 18756,
+        "best": 17618,
         "rank": {
-          "world": 1056,
-          "continent": 387,
-          "country": 18
+          "world": 739,
+          "continent": 283,
+          "country": 16
         }
       },
       {
         "eventId": "clock",
         "best": 972,
         "rank": {
-          "world": 4110,
-          "continent": 946,
-          "country": 36
+          "world": 4116,
+          "continent": 952,
+          "country": 40
         }
       },
       {
         "eventId": "minx",
-        "best": 5969,
+        "best": 5061,
         "rank": {
-          "world": 1847,
-          "continent": 490,
-          "country": 18
+          "world": 838,
+          "continent": 223,
+          "country": 10
         }
       },
       {
         "eventId": "pyram",
         "best": 747,
         "rank": {
-          "world": 13107,
-          "continent": 3817,
-          "country": 95
+          "world": 13110,
+          "continent": 3820,
+          "country": 98
         }
       },
       {
         "eventId": "skewb",
         "best": 1360,
         "rank": {
-          "world": 32511,
-          "continent": 8196,
-          "country": 259
+          "world": 32522,
+          "continent": 8207,
+          "country": 270
         }
       },
       {
         "eventId": "sq1",
-        "best": 1543,
+        "best": 1442,
         "rank": {
-          "world": 1833,
-          "continent": 422,
+          "world": 1552,
+          "continent": 336,
           "country": 15
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 46,
+          "best": 339,
+          "average": 439,
+          "format": "Average of 5",
+          "solves": [
+            486,
+            509,
+            339,
+            487,
+            344
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 39,
+          "best": 1000,
+          "average": 1069,
+          "format": "Average of 5",
+          "solves": [
+            1005,
+            1165,
+            1096,
+            1000,
+            1105
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 51,
+          "best": 925,
+          "average": 1157,
+          "format": "Average of 5",
+          "solves": [
+            1094,
+            1312,
+            1530,
+            925,
+            1064
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "Final",
+          "position": 16,
+          "best": 3335,
+          "average": 3849,
+          "format": "Average of 5",
+          "solves": [
+            3335,
+            4152,
+            3659,
+            4364,
+            3736
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 14,
+          "best": 3220,
+          "average": 3434,
+          "format": "Average of 5",
+          "solves": [
+            3220,
+            3493,
+            3545,
+            3263,
+            3545
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "Final",
+          "position": 14,
+          "best": 5739,
+          "average": 6847,
+          "format": "Average of 5",
+          "solves": [
+            7087,
+            6620,
+            5739,
+            6835,
+            7867
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 15,
+          "best": 6251,
+          "average": 7072,
+          "format": "Average of 5",
+          "solves": [
+            7815,
+            6656,
+            6959,
+            6251,
+            7601
+          ]
+        }
+      ],
+      "666": [
+        {
+          "round": "Final",
+          "position": 7,
+          "best": 11115,
+          "average": 11751,
+          "format": "Mean of 3",
+          "solves": [
+            11115,
+            11345,
+            12792,
+            0,
+            0
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "Final",
+          "position": 6,
+          "best": 16692,
+          "average": 17618,
+          "format": "Mean of 3",
+          "solves": [
+            16823,
+            19339,
+            16692,
+            0,
+            0
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 40,
+          "best": 2075,
+          "average": 2319,
+          "format": "Average of 5",
+          "solves": [
+            2400,
+            2230,
+            2326,
+            2075,
+            2442
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "Final",
+          "position": 3,
+          "best": 4637,
+          "average": 5061,
+          "format": "Average of 5",
+          "solves": [
+            5270,
+            4994,
+            5467,
+            4637,
+            4920
+          ]
+        }
+      ],
+      "sq1": [
+        {
+          "round": "Final",
+          "position": 7,
+          "best": 1228,
+          "average": 1442,
+          "format": "Average of 5",
+          "solves": [
+            1358,
+            1749,
+            1646,
+            1228,
+            1322
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 10,
+          "best": 1216,
+          "average": 1670,
+          "format": "Average of 5",
+          "solves": [
+            1681,
+            1216,
+            1973,
+            2088,
+            1356
+          ]
+        }
+      ]
+    },
     "NxNinHanoi2025": {
       "444": [
         {
@@ -1435,7 +1638,7 @@
   "medals": {
     "gold": 0,
     "silver": 0,
-    "bronze": 0
+    "bronze": 1
   },
   "records": {
     "single": [],
@@ -1447,6 +1650,7 @@
     "HaNoiCubeDay2020": "Ha Noi Cube Day 2020",
     "HanoiSideEvents2024": "Hanoi Side Events 2024",
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023",
     "HanoiWinter2024": "Hanoi Winter 2024",
     "NxNinHanoi2024": "NxN in Hanoi 2024",

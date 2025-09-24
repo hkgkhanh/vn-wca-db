@@ -3,9 +3,10 @@
   "name": "Nguyễn Tuấn Kiên",
   "slug": "nguyen-tuan-kien",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "NxNinHanoi2024",
     "VietnamChampionship2024"
   ],
@@ -17,54 +18,102 @@
     "singles": [
       {
         "eventId": "333",
-        "best": 998,
+        "best": 754,
         "rank": {
-          "world": 18254,
-          "continent": 6590,
-          "country": 394
+          "world": 4841,
+          "continent": 1609,
+          "country": 95
         }
       },
       {
         "eventId": "333bf",
         "best": 22204,
         "rank": {
-          "world": 6996,
-          "continent": 2302,
-          "country": 53
+          "world": 7000,
+          "continent": 2305,
+          "country": 56
         }
       },
       {
         "eventId": "333oh",
-        "best": 1786,
+        "best": 1530,
         "rank": {
-          "world": 9660,
-          "continent": 3560,
-          "country": 194
+          "world": 5653,
+          "continent": 2034,
+          "country": 115
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 1065,
+        "best": 1005,
         "rank": {
-          "world": 10058,
-          "continent": 3695,
-          "country": 230
+          "world": 7382,
+          "continent": 2687,
+          "country": 166
         }
       },
       {
         "eventId": "333oh",
-        "best": 1896,
+        "best": 1729,
         "rank": {
-          "world": 5485,
-          "continent": 2068,
-          "country": 122
+          "world": 3625,
+          "continent": 1342,
+          "country": 81
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 30,
+          "best": 754,
+          "average": 1019,
+          "format": "Average of 5",
+          "solves": [
+            933,
+            1068,
+            1070,
+            754,
+            1055
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 28,
+          "best": 931,
+          "average": 1005,
+          "format": "Average of 5",
+          "solves": [
+            1058,
+            985,
+            931,
+            1008,
+            1021
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 20,
+          "best": 1530,
+          "average": 1729,
+          "format": "Average of 5",
+          "solves": [
+            1608,
+            2010,
+            1530,
+            1794,
+            1786
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2024": {
       "333": [
         {
@@ -223,6 +272,7 @@
   },
   "competitionsById": {
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "NxNinHanoi2024": "NxN in Hanoi 2024",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }

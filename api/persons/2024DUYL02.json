@@ -3,8 +3,9 @@
   "name": "Lê Ngọc Duy",
   "slug": "le-ngoc-duy",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
+    "HanoiSummer2025",
     "HanoiWinter2024",
     "VietnamChampionship2024"
   ],
@@ -16,20 +17,29 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 635,
+        "best": 580,
         "rank": {
-          "world": 92716,
-          "continent": 27366,
-          "country": 1182
+          "world": 82843,
+          "continent": 24435,
+          "country": 1074
         }
       },
       {
         "eventId": "333",
         "best": 1689,
         "rank": {
-          "world": 78168,
-          "continent": 28222,
-          "country": 1542
+          "world": 78185,
+          "continent": 28238,
+          "country": 1558
+        }
+      },
+      {
+        "eventId": "clock",
+        "best": 684,
+        "rank": {
+          "world": 2777,
+          "continent": 662,
+          "country": 28
         }
       }
     ],
@@ -38,23 +48,96 @@
         "eventId": "222",
         "best": 696,
         "rank": {
-          "world": 63292,
-          "continent": 19142,
-          "country": 856
+          "world": 63308,
+          "continent": 19158,
+          "country": 872
         }
       },
       {
         "eventId": "333",
-        "best": 2338,
+        "best": 2089,
         "rank": {
-          "world": 97464,
-          "continent": 34789,
-          "country": 1831
+          "world": 81471,
+          "continent": 29669,
+          "country": 1651
+        }
+      },
+      {
+        "eventId": "clock",
+        "best": 791,
+        "rank": {
+          "world": 2383,
+          "continent": 559,
+          "country": 23
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 96,
+          "best": 580,
+          "average": 1014,
+          "format": "Average of 5",
+          "solves": [
+            875,
+            -1,
+            851,
+            580,
+            1316
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 104,
+          "best": 1812,
+          "average": 2089,
+          "format": "Average of 5",
+          "solves": [
+            1812,
+            2570,
+            2109,
+            2276,
+            1881
+          ]
+        }
+      ],
+      "clock": [
+        {
+          "round": "Final",
+          "position": 14,
+          "best": 720,
+          "average": 1096,
+          "format": "Average of 5",
+          "solves": [
+            928,
+            720,
+            -1,
+            733,
+            1627
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 8,
+          "best": 684,
+          "average": 791,
+          "format": "Average of 5",
+          "solves": [
+            871,
+            684,
+            773,
+            890,
+            730
+          ]
+        }
+      ]
+    },
     "HanoiWinter2024": {
       "222": [
         {
@@ -134,6 +217,7 @@
     "average": []
   },
   "competitionsById": {
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiWinter2024": "Hanoi Winter 2024",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }

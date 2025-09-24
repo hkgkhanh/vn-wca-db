@@ -3,9 +3,10 @@
   "name": "Nguyễn Đức Minh",
   "slug": "nguyen-duc-minh",
   "country": "VN",
-  "numberOfCompetitions": 3,
+  "numberOfCompetitions": 4,
   "competitionIds": [
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "HanoiSuperBrainZyo2023",
     "VietnamChampionship2024"
   ],
@@ -17,45 +18,121 @@
     "singles": [
       {
         "eventId": "333",
-        "best": 760,
+        "best": 654,
         "rank": {
-          "world": 5061,
-          "continent": 1666,
-          "country": 91
+          "world": 2073,
+          "continent": 687,
+          "country": 41
         }
       },
       {
         "eventId": "333oh",
-        "best": 1365,
+        "best": 1114,
         "rank": {
-          "world": 3528,
-          "continent": 1225,
-          "country": 71
+          "world": 1217,
+          "continent": 389,
+          "country": 28
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 875,
+        "best": 735,
         "rank": {
-          "world": 3038,
-          "continent": 1072,
-          "country": 62
+          "world": 716,
+          "continent": 249,
+          "country": 16
         }
       },
       {
         "eventId": "333oh",
-        "best": 1434,
+        "best": 1282,
         "rank": {
-          "world": 1250,
-          "continent": 444,
-          "country": 32
+          "world": 585,
+          "continent": 208,
+          "country": 18
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "333": [
+        {
+          "round": "Final",
+          "position": 4,
+          "best": 654,
+          "average": 779,
+          "format": "Average of 5",
+          "solves": [
+            772,
+            654,
+            818,
+            853,
+            746
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 9,
+          "best": 749,
+          "average": 809,
+          "format": "Average of 5",
+          "solves": [
+            1017,
+            883,
+            749,
+            773,
+            771
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 3,
+          "best": 657,
+          "average": 735,
+          "format": "Average of 5",
+          "solves": [
+            813,
+            698,
+            715,
+            657,
+            793
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "Final",
+          "position": 4,
+          "best": 1114,
+          "average": 1282,
+          "format": "Average of 5",
+          "solves": [
+            1165,
+            1231,
+            1577,
+            1114,
+            1450
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 11,
+          "best": 1443,
+          "average": 1484,
+          "format": "Average of 5",
+          "solves": [
+            1479,
+            1845,
+            1481,
+            1493,
+            1443
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2024": {
       "333": [
         {
@@ -268,6 +345,7 @@
   },
   "competitionsById": {
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023",
     "VietnamChampionship2024": "Vietnam Championship 2024"
   }

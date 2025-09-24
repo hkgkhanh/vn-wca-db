@@ -3,7 +3,7 @@
   "name": "Trương Khánh Tùng",
   "slug": "truong-khanh-tung",
   "country": "VN",
-  "numberOfCompetitions": 18,
+  "numberOfCompetitions": 19,
   "competitionIds": [
     "AeonMallLongBien2024",
     "cubingHCM3x3Winter2024",
@@ -15,6 +15,7 @@
     "HaNoiSummer2020",
     "HaNoiSummer2022",
     "HanoiSummer2023",
+    "HanoiSummer2025",
     "HanoiSuperBrainZyo2023",
     "HoChiMinhOpen2022",
     "JohorBigCubeChallenge2022",
@@ -36,18 +37,18 @@
         "eventId": "333",
         "best": 637,
         "rank": {
-          "world": 1694,
-          "continent": 552,
-          "country": 34
+          "world": 1695,
+          "continent": 553,
+          "country": 35
         }
       },
       {
         "eventId": "333oh",
         "best": 1880,
         "rank": {
-          "world": 11314,
-          "continent": 4158,
-          "country": 219
+          "world": 11317,
+          "continent": 4159,
+          "country": 220
         }
       },
       {
@@ -79,10 +80,10 @@
       },
       {
         "eventId": "777",
-        "best": 11445,
+        "best": 10642,
         "rank": {
-          "world": 29,
-          "continent": 14,
+          "world": 16,
+          "continent": 8,
           "country": 2
         }
       }
@@ -92,18 +93,18 @@
         "eventId": "333",
         "best": 772,
         "rank": {
-          "world": 1136,
-          "continent": 396,
-          "country": 25
+          "world": 1138,
+          "continent": 398,
+          "country": 27
         }
       },
       {
         "eventId": "333oh",
         "best": 2288,
         "rank": {
-          "world": 10682,
-          "continent": 4085,
-          "country": 224
+          "world": 10689,
+          "continent": 4090,
+          "country": 229
         }
       },
       {
@@ -119,9 +120,9 @@
         "eventId": "555",
         "best": 4810,
         "rank": {
-          "world": 105,
-          "continent": 39,
-          "country": 2
+          "world": 106,
+          "continent": 40,
+          "country": 3
         }
       },
       {
@@ -135,16 +136,140 @@
       },
       {
         "eventId": "777",
-        "best": 12062,
+        "best": 11904,
         "rank": {
-          "world": 24,
-          "continent": 12,
+          "world": 22,
+          "continent": 10,
           "country": 2
         }
       }
     ]
   },
   "results": {
+    "HanoiSummer2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 28,
+          "best": 948,
+          "average": 1011,
+          "format": "Average of 5",
+          "solves": [
+            1029,
+            948,
+            1107,
+            1031,
+            973
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 11,
+          "best": 745,
+          "average": 876,
+          "format": "Average of 5",
+          "solves": [
+            858,
+            745,
+            901,
+            1006,
+            868
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "Final",
+          "position": 8,
+          "best": 2868,
+          "average": 2933,
+          "format": "Average of 5",
+          "solves": [
+            2975,
+            3250,
+            2883,
+            2868,
+            2941
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 7,
+          "best": 2843,
+          "average": 3040,
+          "format": "Average of 5",
+          "solves": [
+            2848,
+            3208,
+            3063,
+            2843,
+            3354
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "Final",
+          "position": 4,
+          "best": 4695,
+          "average": 5330,
+          "format": "Average of 5",
+          "solves": [
+            4695,
+            5663,
+            5032,
+            6037,
+            5296
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 3,
+          "best": 4517,
+          "average": 5081,
+          "format": "Average of 5",
+          "solves": [
+            5600,
+            4900,
+            5373,
+            4517,
+            4970
+          ]
+        }
+      ],
+      "666": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 8470,
+          "average": 9499,
+          "format": "Mean of 3",
+          "solves": [
+            8914,
+            11113,
+            8470,
+            0,
+            0
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 10642,
+          "average": 11904,
+          "format": "Mean of 3",
+          "solves": [
+            12125,
+            12944,
+            10642,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2025": {
       "333": [
         {
@@ -2123,7 +2248,7 @@
     }
   },
   "medals": {
-    "gold": 4,
+    "gold": 6,
     "silver": 12,
     "bronze": 6
   },
@@ -2146,6 +2271,7 @@
     "HaNoiSummer2020": "Ha Noi Summer 2020",
     "HaNoiSummer2022": "Ha Noi Summer 2022",
     "HanoiSummer2023": "Hanoi Summer 2023",
+    "HanoiSummer2025": "Hanoi Summer 2025",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023",
     "HoChiMinhOpen2022": "Ho Chi Minh Open 2022",
     "JohorBigCubeChallenge2022": "Johor Big Cube Challenge 2022",
