@@ -3,11 +3,12 @@
   "name": "Khôi Minh Nguyễn",
   "slug": "khoi-minh-nguyen",
   "country": "VN",
-  "numberOfCompetitions": 5,
+  "numberOfCompetitions": 6,
   "competitionIds": [
     "CubeChella2024",
     "CubingforCancerRPV2022",
     "HoChiMinhCityWarmUp2022",
+    "NubOpenTrabucoHillsFall2025",
     "UCLASummer2025",
     "UCLAWesternsWarmup2025"
   ],
@@ -19,61 +20,70 @@
         "eventId": "222",
         "best": 101,
         "rank": {
-          "world": 882,
+          "world": 883,
           "continent": 137,
           "country": 7
         }
       },
       {
         "eventId": "333",
-        "best": 612,
+        "best": 482,
         "rank": {
-          "world": 1255,
-          "continent": 386,
-          "country": 24
+          "world": 187,
+          "continent": 59,
+          "country": 4
         }
       },
       {
         "eventId": "333oh",
-        "best": 1220,
+        "best": 1109,
         "rank": {
-          "world": 2055,
-          "continent": 667,
-          "country": 42
+          "world": 1185,
+          "continent": 380,
+          "country": 27
         }
       },
       {
         "eventId": "444",
         "best": 3007,
         "rank": {
-          "world": 1962,
-          "continent": 665,
+          "world": 1967,
+          "continent": 666,
           "country": 40
         }
       },
       {
         "eventId": "555",
-        "best": 6695,
+        "best": 5229,
         "rank": {
-          "world": 3231,
-          "continent": 1122,
-          "country": 64
+          "world": 761,
+          "continent": 259,
+          "country": 18
+        }
+      },
+      {
+        "eventId": "666",
+        "best": 10723,
+        "rank": {
+          "world": 817,
+          "continent": 289,
+          "country": 16
         }
       },
       {
         "eventId": "777",
-        "best": 19857,
+        "best": 16941,
         "rank": {
-          "world": 1841,
-          "continent": 652,
-          "country": 27
+          "world": 853,
+          "continent": 323,
+          "country": 18
         }
       },
       {
         "eventId": "minx",
         "best": 4979,
         "rank": {
-          "world": 1452,
+          "world": 1455,
           "continent": 367,
           "country": 16
         }
@@ -82,8 +92,8 @@
         "eventId": "pyram",
         "best": 306,
         "rank": {
-          "world": 4347,
-          "continent": 1166,
+          "world": 4362,
+          "continent": 1167,
           "country": 34
         }
       },
@@ -91,8 +101,8 @@
         "eventId": "skewb",
         "best": 244,
         "rank": {
-          "world": 1615,
-          "continent": 360,
+          "world": 1627,
+          "continent": 363,
           "country": 7
         }
       },
@@ -100,7 +110,7 @@
         "eventId": "sq1",
         "best": 756,
         "rank": {
-          "world": 521,
+          "world": 522,
           "continent": 109,
           "country": 6
         }
@@ -111,54 +121,63 @@
         "eventId": "222",
         "best": 166,
         "rank": {
-          "world": 367,
-          "continent": 73,
+          "world": 369,
+          "continent": 74,
           "country": 3
         }
       },
       {
         "eventId": "333",
-        "best": 697,
+        "best": 655,
         "rank": {
-          "world": 433,
-          "continent": 164,
-          "country": 7
+          "world": 223,
+          "continent": 78,
+          "country": 6
         }
       },
       {
         "eventId": "333oh",
-        "best": 1381,
+        "best": 1206,
         "rank": {
-          "world": 1005,
-          "continent": 357,
-          "country": 27
+          "world": 371,
+          "continent": 128,
+          "country": 13
         }
       },
       {
         "eventId": "444",
         "best": 3264,
         "rank": {
-          "world": 1192,
-          "continent": 411,
+          "world": 1198,
+          "continent": 412,
           "country": 27
         }
       },
       {
         "eventId": "555",
-        "best": 6938,
+        "best": 5850,
         "rank": {
-          "world": 2231,
-          "continent": 787,
-          "country": 45
+          "world": 764,
+          "continent": 272,
+          "country": 21
+        }
+      },
+      {
+        "eventId": "666",
+        "best": 11550,
+        "rank": {
+          "world": 835,
+          "continent": 295,
+          "country": 15
         }
       },
       {
         "eventId": "777",
-        "best": 20822,
+        "best": 18864,
         "rank": {
-          "world": 1748,
-          "continent": 624,
-          "country": 25
+          "world": 1093,
+          "continent": 406,
+          "country": 20
         }
       },
       {
@@ -174,8 +193,8 @@
         "eventId": "pyram",
         "best": 382,
         "rank": {
-          "world": 1813,
-          "continent": 507,
+          "world": 1816,
+          "continent": 508,
           "country": 16
         }
       },
@@ -183,8 +202,8 @@
         "eventId": "skewb",
         "best": 396,
         "rank": {
-          "world": 1064,
-          "continent": 271,
+          "world": 1066,
+          "continent": 272,
           "country": 6
         }
       },
@@ -192,7 +211,7 @@
         "eventId": "sq1",
         "best": 949,
         "rank": {
-          "world": 335,
+          "world": 336,
           "continent": 65,
           "country": 2
         }
@@ -200,6 +219,186 @@
     ]
   },
   "results": {
+    "NubOpenTrabucoHillsFall2025": {
+      "333": [
+        {
+          "round": "Final",
+          "position": 3,
+          "best": 594,
+          "average": 699,
+          "format": "Average of 5",
+          "solves": [
+            706,
+            594,
+            663,
+            786,
+            727
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 3,
+          "best": 482,
+          "average": 655,
+          "format": "Average of 5",
+          "solves": [
+            753,
+            482,
+            724,
+            562,
+            679
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 3,
+          "best": 647,
+          "average": 691,
+          "format": "Average of 5",
+          "solves": [
+            647,
+            696,
+            830,
+            657,
+            720
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "Final",
+          "position": 5,
+          "best": 5229,
+          "average": 5850,
+          "format": "Average of 5",
+          "solves": [
+            5692,
+            6042,
+            6150,
+            5817,
+            5229
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 6,
+          "best": 5687,
+          "average": 5911,
+          "format": "Average of 5",
+          "solves": [
+            6253,
+            6075,
+            5687,
+            5943,
+            5715
+          ]
+        }
+      ],
+      "666": [
+        {
+          "round": "Final",
+          "position": 5,
+          "best": 10723,
+          "average": 11550,
+          "format": "Mean of 3",
+          "solves": [
+            11812,
+            12115,
+            10723,
+            0,
+            0
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 7,
+          "best": 11418,
+          "average": 11975,
+          "format": "Mean of 3",
+          "solves": [
+            12952,
+            11418,
+            11555,
+            0,
+            0
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "Final",
+          "position": 8,
+          "best": 18019,
+          "average": 18864,
+          "format": "Mean of 3",
+          "solves": [
+            18019,
+            20514,
+            18059,
+            0,
+            0
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 8,
+          "best": 16941,
+          "average": 18975,
+          "format": "Mean of 3",
+          "solves": [
+            16941,
+            20272,
+            19713,
+            0,
+            0
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "Final",
+          "position": 2,
+          "best": 1185,
+          "average": 1206,
+          "format": "Average of 5",
+          "solves": [
+            1251,
+            1187,
+            1219,
+            1185,
+            1213
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 4,
+          "best": 1109,
+          "average": 1283,
+          "format": "Average of 5",
+          "solves": [
+            1356,
+            1355,
+            1296,
+            1109,
+            1197
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 3,
+          "best": 1148,
+          "average": 1265,
+          "format": "Average of 5",
+          "solves": [
+            1361,
+            1322,
+            1310,
+            1148,
+            1163
+          ]
+        }
+      ]
+    },
     "UCLAWesternsWarmup2025": {
       "222": [
         {
@@ -829,8 +1028,8 @@
   },
   "medals": {
     "gold": 2,
-    "silver": 2,
-    "bronze": 1
+    "silver": 3,
+    "bronze": 2
   },
   "records": {
     "single": [],
@@ -840,6 +1039,7 @@
     "CubeChella2024": "CubeChella 2024",
     "CubingforCancerRPV2022": "Cubing for Cancer RPV 2022",
     "HoChiMinhCityWarmUp2022": "Ho Chi Minh City Warm Up 2022",
+    "NubOpenTrabucoHillsFall2025": "Nub Open Trabuco Hills Fall 2025",
     "UCLASummer2025": "UCLA Summer 2025",
     "UCLAWesternsWarmup2025": "UCLA Westerns Warmup 2025"
   }

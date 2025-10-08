@@ -3,10 +3,11 @@
   "name": "Fiori Carloleone Tan Viet",
   "slug": "fiori-carloleone-tan-viet",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "SupermiyaCubingTashkent2024",
-    "TashkentOpen2024"
+    "TashkentOpen2024",
+    "UzCubingOpen2025"
   ],
   "numberOfChampionships": 0,
   "championshipIds": [],
@@ -14,37 +15,37 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 330,
+        "best": 320,
         "rank": {
-          "world": 29881,
-          "continent": 8213,
-          "country": 330
+          "world": 27912,
+          "continent": 7605,
+          "country": 301
         }
       },
       {
         "eventId": "333",
-        "best": 1236,
+        "best": 1002,
         "rank": {
-          "world": 38125,
-          "continent": 14112,
-          "country": 826
+          "world": 18639,
+          "continent": 6732,
+          "country": 421
         }
       },
       {
         "eventId": "444",
-        "best": 9766,
+        "best": 9666,
         "rank": {
-          "world": 53039,
-          "continent": 15991,
-          "country": 847
+          "world": 52626,
+          "continent": 15885,
+          "country": 844
         }
       },
       {
         "eventId": "clock",
         "best": 2915,
         "rank": {
-          "world": 22722,
-          "continent": 5026,
+          "world": 22804,
+          "continent": 5036,
           "country": 158
         }
       },
@@ -52,8 +53,8 @@
         "eventId": "pyram",
         "best": 949,
         "rank": {
-          "world": 57894,
-          "continent": 15348,
+          "world": 57999,
+          "continent": 15371,
           "country": 387
         }
       },
@@ -61,8 +62,8 @@
         "eventId": "skewb",
         "best": 1177,
         "rank": {
-          "world": 43420,
-          "continent": 10481,
+          "world": 43494,
+          "continent": 10498,
           "country": 338
         }
       }
@@ -72,26 +73,26 @@
         "eventId": "222",
         "best": 564,
         "rank": {
-          "world": 39018,
-          "continent": 11828,
+          "world": 39102,
+          "continent": 11839,
           "country": 547
         }
       },
       {
         "eventId": "333",
-        "best": 1342,
+        "best": 1229,
         "rank": {
-          "world": 26914,
-          "continent": 10159,
-          "country": 632
+          "world": 19366,
+          "continent": 7232,
+          "country": 465
         }
       },
       {
         "eventId": "pyram",
         "best": 1507,
         "rank": {
-          "world": 67318,
-          "continent": 18127,
+          "world": 67423,
+          "continent": 18145,
           "country": 468
         }
       },
@@ -99,14 +100,108 @@
         "eventId": "skewb",
         "best": 1797,
         "rank": {
-          "world": 44727,
-          "continent": 10890,
+          "world": 44809,
+          "continent": 10907,
           "country": 357
         }
       }
     ]
   },
   "results": {
+    "UzCubingOpen2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 13,
+          "best": 320,
+          "average": 580,
+          "format": "Average of 5",
+          "solves": [
+            778,
+            320,
+            763,
+            489,
+            488
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Final",
+          "position": 10,
+          "best": 1002,
+          "average": 1307,
+          "format": "Average of 5",
+          "solves": [
+            1380,
+            1318,
+            1002,
+            1393,
+            1222
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 10,
+          "best": 1068,
+          "average": 1229,
+          "format": "Average of 5",
+          "solves": [
+            1096,
+            1153,
+            1068,
+            1622,
+            1437
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 18,
+          "best": 1187,
+          "average": 1481,
+          "format": "Average of 5",
+          "solves": [
+            1691,
+            1267,
+            1187,
+            1662,
+            1514
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 19,
+          "best": 9666,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            9666,
+            10656,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 20,
+          "best": 1432,
+          "average": 2043,
+          "format": "Average of 5",
+          "solves": [
+            1500,
+            1432,
+            2491,
+            2138,
+            -1
+          ]
+        }
+      ]
+    },
     "SupermiyaCubingTashkent2024": {
       "222": [
         {
@@ -281,6 +376,7 @@
   },
   "competitionsById": {
     "SupermiyaCubingTashkent2024": "Supermiya Cubing Tashkent 2024",
-    "TashkentOpen2024": "Tashkent Open 2024"
+    "TashkentOpen2024": "Tashkent Open 2024",
+    "UzCubingOpen2025": "UzCubing Open 2025"
   }
 }

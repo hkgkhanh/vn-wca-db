@@ -3,8 +3,9 @@
   "name": "Leo Hoang",
   "slug": "leo-hoang",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
+    "SlowNSteadyUMDFall2025",
     "UMBCSpring2025"
   ],
   "numberOfChampionships": 0,
@@ -13,27 +14,59 @@
     "singles": [
       {
         "eventId": "333",
-        "best": 3151,
+        "best": 1779,
         "rank": {
-          "world": 168259,
-          "continent": 55571,
-          "country": 2443
+          "world": 85839,
+          "continent": 30842,
+          "country": 1667
         }
       }
     ],
     "averages": [
       {
         "eventId": "333",
-        "best": 3511,
+        "best": 2549,
         "rank": {
-          "world": 156355,
-          "continent": 52150,
-          "country": 2362
+          "world": 110647,
+          "continent": 38861,
+          "country": 1992
         }
       }
     ]
   },
   "results": {
+    "SlowNSteadyUMDFall2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 135,
+          "best": 1979,
+          "average": 2549,
+          "format": "Average of 5",
+          "solves": [
+            2731,
+            1979,
+            2784,
+            2507,
+            2408
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 141,
+          "best": 1779,
+          "average": 2598,
+          "format": "Average of 5",
+          "solves": [
+            2467,
+            2967,
+            2360,
+            3025,
+            1779
+          ]
+        }
+      ]
+    },
     "UMBCSpring2025": {
       "333": [
         {
@@ -63,6 +96,7 @@
     "average": []
   },
   "competitionsById": {
+    "SlowNSteadyUMDFall2025": "Slow N Steady UMD Fall 2025",
     "UMBCSpring2025": "UMBC Spring 2025"
   }
 }

@@ -19,6 +19,24 @@
   },
   {
     "round": "Final",
+    "position": 27,
+    "best": 24,
+    "average": -1,
+    "format": "Mean of 3",
+    "solves": [
+      24,
+      -1,
+      27,
+      0,
+      0
+    ],
+    "competitionId": "AustralianNationalsFMC2025",
+    "competitionName": "Australian Nationals FMC 2025",
+    "personId": "2014QUAN03",
+    "personName": "Trần Đăng Quang"
+  },
+  {
+    "round": "Final",
     "position": 18,
     "best": 24,
     "average": -1,
@@ -34,24 +52,6 @@
     "competitionName": "Vietnam Championship 2024",
     "personId": "2023QUAN10",
     "personName": "Đặng Minh Quân"
-  },
-  {
-    "round": "Final",
-    "position": 8,
-    "best": 26,
-    "average": 2733,
-    "format": "Mean of 3",
-    "solves": [
-      29,
-      27,
-      26,
-      0,
-      0
-    ],
-    "competitionId": "OCFMC2024",
-    "competitionName": "Rubik's WCA Oceanic Championship FMC 2024",
-    "personId": "2014QUAN03",
-    "personName": "Trần Đăng Quang"
   },
   {
     "round": "Final",
@@ -217,24 +217,6 @@
   },
   {
     "round": "Final",
-    "position": 7,
-    "best": 32,
-    "average": 4200,
-    "format": "Mean of 3",
-    "solves": [
-      39,
-      32,
-      55,
-      0,
-      0
-    ],
-    "competitionId": "DontDNFHanoi2024",
-    "competitionName": "Don't DNF Hanoi 2024",
-    "personId": "2023ANHL02",
-    "personName": "Lê Anh"
-  },
-  {
-    "round": "Final",
     "position": 9,
     "best": 32,
     "average": -1,
@@ -250,6 +232,24 @@
     "competitionName": "Don't DNF Hanoi 2024",
     "personId": "2019HUNG16",
     "personName": "Đỗ Quang Hưng"
+  },
+  {
+    "round": "Final",
+    "position": 7,
+    "best": 32,
+    "average": 4200,
+    "format": "Mean of 3",
+    "solves": [
+      39,
+      32,
+      55,
+      0,
+      0
+    ],
+    "competitionId": "DontDNFHanoi2024",
+    "competitionName": "Don't DNF Hanoi 2024",
+    "personId": "2023ANHL02",
+    "personName": "Lê Anh"
   },
   {
     "round": "Final",
@@ -379,24 +379,6 @@
   },
   {
     "round": "Final",
-    "position": 10,
-    "best": 36,
-    "average": 3967,
-    "format": "Mean of 3",
-    "solves": [
-      36,
-      45,
-      38,
-      0,
-      0
-    ],
-    "competitionId": "VietnamChampionship2025",
-    "competitionName": "Vietnam Championship 2025",
-    "personId": "2018TUAN01",
-    "personName": "Lê Văn Tuấn"
-  },
-  {
-    "round": "Final",
     "position": 9,
     "best": 36,
     "average": 4000,
@@ -412,6 +394,24 @@
     "competitionName": "Vietnam Championship 2024",
     "personId": "2022KHAN31",
     "personName": "Nông Quốc Khánh"
+  },
+  {
+    "round": "Final",
+    "position": 10,
+    "best": 36,
+    "average": 3967,
+    "format": "Mean of 3",
+    "solves": [
+      36,
+      45,
+      38,
+      0,
+      0
+    ],
+    "competitionId": "VietnamChampionship2025",
+    "competitionName": "Vietnam Championship 2025",
+    "personId": "2018TUAN01",
+    "personName": "Lê Văn Tuấn"
   },
   {
     "round": "Final",
@@ -757,24 +757,6 @@
   },
   {
     "round": "Final",
-    "position": 27,
-    "best": 46,
-    "average": -1,
-    "format": "Mean of 3",
-    "solves": [
-      -2,
-      54,
-      46,
-      0,
-      0
-    ],
-    "competitionId": "VietnamChampionship2024",
-    "competitionName": "Vietnam Championship 2024",
-    "personId": "2022DUON05",
-    "personName": "Nguyễn Đức Dương"
-  },
-  {
-    "round": "Final",
     "position": 36,
     "best": 46,
     "average": -1,
@@ -790,6 +772,24 @@
     "competitionName": "Vietnam Championship 2025",
     "personId": "2022HUNG09",
     "personName": "Nguyễn Minh Phúc Hưng"
+  },
+  {
+    "round": "Final",
+    "position": 27,
+    "best": 46,
+    "average": -1,
+    "format": "Mean of 3",
+    "solves": [
+      -2,
+      54,
+      46,
+      0,
+      0
+    ],
+    "competitionId": "VietnamChampionship2024",
+    "competitionName": "Vietnam Championship 2024",
+    "personId": "2022DUON05",
+    "personName": "Nguyễn Đức Dương"
   },
   {
     "round": "Final",
@@ -878,8 +878,8 @@
     ],
     "competitionId": "HaNoiOpen2011",
     "competitionName": "Hanoi Open 2011",
-    "personId": "2010NGUY37",
-    "personName": "Nguyễn Phúc Nguyên"
+    "personId": "2010VUON03",
+    "personName": "Lê Quý Vượng"
   },
   {
     "round": "Final",
@@ -896,8 +896,8 @@
     ],
     "competitionId": "HaNoiOpen2011",
     "competitionName": "Hanoi Open 2011",
-    "personId": "2010VUON03",
-    "personName": "Lê Quý Vượng"
+    "personId": "2010NGUY37",
+    "personName": "Nguyễn Phúc Nguyên"
   },
   {
     "round": "Final",
@@ -973,21 +973,21 @@
   },
   {
     "round": "Final",
-    "position": 6,
+    "position": 14,
     "best": 53,
-    "average": 6000,
-    "format": "Mean of 3",
+    "average": 0,
+    "format": "Best of 1",
     "solves": [
-      71,
       53,
-      56,
+      0,
+      0,
       0,
       0
     ],
-    "competitionId": "BlindTillNineinVietnam2024",
-    "competitionName": "Blind Till Nine in Vietnam 2024",
-    "personId": "2023DANG01",
-    "personName": "Nhâm Nguyễn Hải Đăng"
+    "competitionId": "VietnamChampionship2023",
+    "competitionName": "Vietnam Championship 2023",
+    "personId": "2022NHAN01",
+    "personName": "Nguyễn Thị Kim Nhã"
   },
   {
     "round": "Final",
@@ -1009,6 +1009,24 @@
   },
   {
     "round": "Final",
+    "position": 6,
+    "best": 53,
+    "average": 6000,
+    "format": "Mean of 3",
+    "solves": [
+      71,
+      53,
+      56,
+      0,
+      0
+    ],
+    "competitionId": "BlindTillNineinVietnam2024",
+    "competitionName": "Blind Till Nine in Vietnam 2024",
+    "personId": "2023DANG01",
+    "personName": "Nhâm Nguyễn Hải Đăng"
+  },
+  {
+    "round": "Final",
     "position": 22,
     "best": 53,
     "average": 5567,
@@ -1024,24 +1042,6 @@
     "competitionName": "Vietnam Championship 2025",
     "personId": "2018HUYE01",
     "personName": "Phạm Thuý Huyền"
-  },
-  {
-    "round": "Final",
-    "position": 14,
-    "best": 53,
-    "average": 0,
-    "format": "Best of 1",
-    "solves": [
-      53,
-      0,
-      0,
-      0,
-      0
-    ],
-    "competitionId": "VietnamChampionship2023",
-    "competitionName": "Vietnam Championship 2023",
-    "personId": "2022NHAN01",
-    "personName": "Nguyễn Thị Kim Nhã"
   },
   {
     "round": "Final",

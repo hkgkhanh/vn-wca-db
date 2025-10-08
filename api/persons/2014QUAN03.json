@@ -3,10 +3,11 @@
   "name": "Trần Đăng Quang",
   "slug": "tran-dang-quang",
   "country": "VN",
-  "numberOfCompetitions": 22,
+  "numberOfCompetitions": 23,
   "competitionIds": [
     "AustralianNationalsFMC2023",
     "AustralianNationalsFMC2024",
+    "AustralianNationalsFMC2025",
     "FMC2024",
     "HCMCSpringOpen2016",
     "HCMCSummerOpen2016",
@@ -28,12 +29,13 @@
     "TryCubingHobart2024",
     "TurnAroundTassie2020"
   ],
-  "numberOfChampionships": 4,
+  "numberOfChampionships": 5,
   "championshipIds": [
     "AustralianNationalsFMC2023",
     "AustralianNationalsFMC2024",
     "OCFMC2024",
-    "OCFMC2024"
+    "OCFMC2024",
+    "AustralianNationalsFMC2025"
   ],
   "rank": {
     "singles": [
@@ -41,8 +43,8 @@
         "eventId": "222",
         "best": 226,
         "rank": {
-          "world": 11001,
-          "continent": 2711,
+          "world": 11026,
+          "continent": 2716,
           "country": 96
         }
       },
@@ -50,26 +52,26 @@
         "eventId": "333",
         "best": 699,
         "rank": {
-          "world": 3107,
+          "world": 3115,
           "continent": 1024,
           "country": 61
         }
       },
       {
         "eventId": "333fm",
-        "best": 26,
+        "best": 24,
         "rank": {
-          "world": 653,
-          "continent": 164,
-          "country": 4
+          "world": 411,
+          "continent": 97,
+          "country": 2
         }
       },
       {
         "eventId": "333oh",
         "best": 1426,
         "rank": {
-          "world": 4278,
-          "continent": 1503,
+          "world": 4294,
+          "continent": 1509,
           "country": 90
         }
       },
@@ -77,8 +79,8 @@
         "eventId": "444",
         "best": 3090,
         "rank": {
-          "world": 2333,
-          "continent": 802,
+          "world": 2339,
+          "continent": 804,
           "country": 52
         }
       },
@@ -86,8 +88,8 @@
         "eventId": "555",
         "best": 7759,
         "rank": {
-          "world": 5983,
-          "continent": 2018,
+          "world": 5997,
+          "continent": 2020,
           "country": 105
         }
       },
@@ -95,16 +97,16 @@
         "eventId": "666",
         "best": 18416,
         "rank": {
-          "world": 6486,
-          "continent": 1942,
-          "country": 93
+          "world": 6510,
+          "continent": 1943,
+          "country": 94
         }
       },
       {
         "eventId": "777",
         "best": 33523,
         "rank": {
-          "world": 7609,
+          "world": 7624,
           "continent": 2237,
           "country": 97
         }
@@ -113,8 +115,8 @@
         "eventId": "clock",
         "best": 5371,
         "rank": {
-          "world": 26770,
-          "continent": 5732,
+          "world": 26869,
+          "continent": 5745,
           "country": 178
         }
       },
@@ -122,8 +124,8 @@
         "eventId": "minx",
         "best": 8395,
         "rank": {
-          "world": 7444,
-          "continent": 2055,
+          "world": 7466,
+          "continent": 2056,
           "country": 73
         }
       },
@@ -131,8 +133,8 @@
         "eventId": "pyram",
         "best": 454,
         "rank": {
-          "world": 12028,
-          "continent": 3245,
+          "world": 12060,
+          "continent": 3251,
           "country": 77
         }
       },
@@ -140,8 +142,8 @@
         "eventId": "skewb",
         "best": 974,
         "rank": {
-          "world": 35577,
-          "continent": 8712,
+          "world": 35641,
+          "continent": 8723,
           "country": 281
         }
       }
@@ -151,8 +153,8 @@
         "eventId": "222",
         "best": 400,
         "rank": {
-          "world": 12536,
-          "continent": 3509,
+          "world": 12567,
+          "continent": 3516,
           "country": 150
         }
       },
@@ -160,8 +162,8 @@
         "eventId": "333",
         "best": 882,
         "rank": {
-          "world": 3235,
-          "continent": 1152,
+          "world": 3248,
+          "continent": 1154,
           "country": 69
         }
       },
@@ -178,8 +180,8 @@
         "eventId": "333oh",
         "best": 1728,
         "rank": {
-          "world": 3622,
-          "continent": 1341,
+          "world": 3636,
+          "continent": 1347,
           "country": 81
         }
       },
@@ -187,8 +189,8 @@
         "eventId": "444",
         "best": 3628,
         "rank": {
-          "world": 2474,
-          "continent": 855,
+          "world": 2483,
+          "continent": 858,
           "country": 55
         }
       },
@@ -196,8 +198,8 @@
         "eventId": "555",
         "best": 8372,
         "rank": {
-          "world": 5330,
-          "continent": 1842,
+          "world": 5345,
+          "continent": 1844,
           "country": 94
         }
       },
@@ -205,16 +207,16 @@
         "eventId": "666",
         "best": 21067,
         "rank": {
-          "world": 7290,
-          "continent": 2162,
-          "country": 107
+          "world": 7318,
+          "continent": 2163,
+          "country": 108
         }
       },
       {
         "eventId": "777",
         "best": 35135,
         "rank": {
-          "world": 6861,
+          "world": 6874,
           "continent": 2023,
           "country": 84
         }
@@ -223,8 +225,8 @@
         "eventId": "minx",
         "best": 9773,
         "rank": {
-          "world": 7964,
-          "continent": 2197,
+          "world": 7983,
+          "continent": 2198,
           "country": 79
         }
       },
@@ -232,8 +234,8 @@
         "eventId": "pyram",
         "best": 882,
         "rank": {
-          "world": 20866,
-          "continent": 5985,
+          "world": 20910,
+          "continent": 5998,
           "country": 142
         }
       },
@@ -241,14 +243,32 @@
         "eventId": "skewb",
         "best": 1803,
         "rank": {
-          "world": 44887,
-          "continent": 10920,
+          "world": 44969,
+          "continent": 10937,
           "country": 363
         }
       }
     ]
   },
   "results": {
+    "AustralianNationalsFMC2025": {
+      "333fm": [
+        {
+          "round": "Final",
+          "position": 27,
+          "best": 24,
+          "average": -1,
+          "format": "Mean of 3",
+          "solves": [
+            24,
+            -1,
+            27,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "TASSideStateChampionship2025": {
       "555": [
         {
@@ -2904,6 +2924,7 @@
   "competitionsById": {
     "AustralianNationalsFMC2023": "Australian Nationals FMC 2023",
     "AustralianNationalsFMC2024": "Australian Nationals FMC 2024",
+    "AustralianNationalsFMC2025": "Australian Nationals FMC 2025",
     "FMC2024": "FMC 2024",
     "HCMCSpringOpen2016": "HCMC Spring Open 2016",
     "HCMCSummerOpen2016": "HCMC Summer Open 2016",
