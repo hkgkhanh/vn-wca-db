@@ -1220,6 +1220,34 @@ async function fetchRecords() {
 	console.log("records rank done");
 }
 
+async function fetchNoeruWcaStats() {
+	const owner = 'noeruchangd';
+	const repo = 'wca_statistics_vn';
+	const branch = 'gh-pages';
+
+	const treeUrl = `https://api.github.com/repos/${owner}/${repo}/git/trees/${branch}?recursive=1`;
+
+	const res = await fetch(treeUrl);
+	const data = await res.json();
+
+	let wca_stats = [];
+
+	for (const item of data.tree) {
+		if (item.path == "README.md") continue;
+
+		const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${item.path}`;
+		let stat_name = item.path.replace(".md", "").replace(/_/g, " ");
+		stat_name = stat_name.charAt(0).toUpperCase() + stat_name.slice(1);
+
+		wca_stats.push({
+			'name': stat_name,
+			'data_url': rawUrl
+		});
+	}
+
+	fs.writeFileSync(path.join(__dirname, `../api/wca_statistics.json`), JSON.stringify(wca_stats, null, 2), 'utf-8');
+}
+
 async function fetchData() {
 	try {
 		await fetchEvents();
@@ -1231,6 +1259,7 @@ async function fetchData() {
 		await fetchKinch();
 		await fetchMedals();
 		await fetchRecords();
+		await fetchNoeruWcaStats();
 	} catch (err) {
 		console.error('Failed to update JSON:', err);
 		process.exit(1); // exit with error for GitHub Actions to mark it as failed
