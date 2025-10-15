@@ -469,6 +469,24 @@
   },
   {
     "round": "First round",
+    "position": 2,
+    "best": 150,
+    "average": 201,
+    "format": "Average of 5",
+    "solves": [
+      259,
+      176,
+      150,
+      167,
+      395
+    ],
+    "competitionId": "SeattleCubeCascadeUW2025",
+    "competitionName": "Seattle Cube Cascade UW 2025",
+    "personId": "2019HUNG16",
+    "personName": "Đỗ Quang Hưng"
+  },
+  {
+    "round": "First round",
     "position": 1,
     "best": 166,
     "average": 201,
@@ -664,6 +682,24 @@
     "competitionName": "Hanoi Winter 2024",
     "personId": "2022KHAN29",
     "personName": "Nguyễn Văn Khánh"
+  },
+  {
+    "round": "Final",
+    "position": 3,
+    "best": 162,
+    "average": 214,
+    "format": "Average of 5",
+    "solves": [
+      191,
+      189,
+      435,
+      162,
+      262
+    ],
+    "competitionId": "SeattleCubeCascadeUW2025",
+    "competitionName": "Seattle Cube Cascade UW 2025",
+    "personId": "2019HUNG16",
+    "personName": "Đỗ Quang Hưng"
   },
   {
     "round": "Second round",
@@ -1762,41 +1798,5 @@
     "competitionName": "HCMC VNC Warm Up 2025",
     "personId": "2022KHOA09",
     "personName": "Phạm Đăng Khoa"
-  },
-  {
-    "round": "Second round",
-    "position": 9,
-    "best": 231,
-    "average": 258,
-    "format": "Average of 5",
-    "solves": [
-      262,
-      279,
-      234,
-      294,
-      231
-    ],
-    "competitionId": "VietnamChampionship2025",
-    "competitionName": "Vietnam Championship 2025",
-    "personId": "2017PHON07",
-    "personName": "Lê Hà Phong"
-  },
-  {
-    "round": "Second round",
-    "position": 4,
-    "best": 220,
-    "average": 259,
-    "format": "Average of 5",
-    "solves": [
-      288,
-      241,
-      247,
-      564,
-      220
-    ],
-    "competitionId": "HanoiWinter2024",
-    "competitionName": "Hanoi Winter 2024",
-    "personId": "2019HUNG16",
-    "personName": "Đỗ Quang Hưng"
   }
 ]

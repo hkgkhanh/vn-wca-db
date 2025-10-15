@@ -667,6 +667,24 @@
   },
   {
     "round": "Final",
+    "position": 6,
+    "best": 1037,
+    "average": 1252,
+    "format": "Average of 5",
+    "solves": [
+      1043,
+      1037,
+      1817,
+      1594,
+      1120
+    ],
+    "competitionId": "SeattleCubeCascadeUW2025",
+    "competitionName": "Seattle Cube Cascade UW 2025",
+    "personId": "2019HUNG16",
+    "personName": "Đỗ Quang Hưng"
+  },
+  {
+    "round": "Final",
     "position": 3,
     "best": 1192,
     "average": 1259,
@@ -826,6 +844,24 @@
     "competitionName": "Vietnam Championship 2024",
     "personId": "2020HOAM01",
     "personName": "Mai Đức Hòa"
+  },
+  {
+    "round": "First round",
+    "position": 8,
+    "best": 954,
+    "average": 1344,
+    "format": "Average of 5",
+    "solves": [
+      2001,
+      1240,
+      954,
+      1377,
+      1414
+    ],
+    "competitionId": "SeattleCubeCascadeUW2025",
+    "competitionName": "Seattle Cube Cascade UW 2025",
+    "personId": "2019HUNG16",
+    "personName": "Đỗ Quang Hưng"
   },
   {
     "round": "Final",
@@ -1762,41 +1798,5 @@
     "competitionName": "Vietnam Championship 2025",
     "personId": "2022DUYN02",
     "personName": "Nông Quốc Duy"
-  },
-  {
-    "round": "Final",
-    "position": 10,
-    "best": 1443,
-    "average": 1800,
-    "format": "Average of 5",
-    "solves": [
-      2276,
-      1925,
-      1443,
-      1706,
-      1770
-    ],
-    "competitionId": "HanoiSummer2023",
-    "competitionName": "Hanoi Summer 2023",
-    "personId": "2018SONT01",
-    "personName": "Trần Ngọc Sơn"
-  },
-  {
-    "round": "Final",
-    "position": 11,
-    "best": 1703,
-    "average": 1801,
-    "format": "Average of 5",
-    "solves": [
-      2045,
-      1724,
-      1781,
-      1897,
-      1703
-    ],
-    "competitionId": "HanoiSummer2023",
-    "competitionName": "Hanoi Summer 2023",
-    "personId": "2018MINH16",
-    "personName": "Hoàng Khang Minh"
   }
 ]

@@ -3,7 +3,7 @@
   "name": "Đỗ Quang Hưng",
   "slug": "do-quang-hung",
   "country": "VN",
-  "numberOfCompetitions": 24,
+  "numberOfCompetitions": 25,
   "competitionIds": [
     "AeonMallLongBien2024",
     "BlindTillNineinVietnam2024",
@@ -25,6 +25,7 @@
     "ParadiseParkBangkokNxNxN2025",
     "RobinsonLatkrabangCubing2024",
     "RubiksWCAAsianChampionship2024",
+    "SeattleCubeCascadeUW2025",
     "SingaporeMax2023",
     "VietnamChampionship2024",
     "VietnamChampionship2025",
@@ -46,17 +47,17 @@
         "eventId": "222",
         "best": 88,
         "rank": {
-          "world": 531,
+          "world": 536,
           "continent": 66,
           "country": 3
         }
       },
       {
         "eventId": "333",
-        "best": 507,
+        "best": 496,
         "rank": {
-          "world": 288,
-          "continent": 89,
+          "world": 241,
+          "continent": 79,
           "country": 8
         }
       },
@@ -64,7 +65,7 @@
         "eventId": "333bf",
         "best": 2360,
         "rank": {
-          "world": 245,
+          "world": 248,
           "continent": 75,
           "country": 1
         }
@@ -73,7 +74,7 @@
         "eventId": "333fm",
         "best": 32,
         "rank": {
-          "world": 2233,
+          "world": 2235,
           "continent": 552,
           "country": 14
         }
@@ -100,7 +101,7 @@
         "eventId": "444bf",
         "best": 23210,
         "rank": {
-          "world": 256,
+          "world": 257,
           "continent": 86,
           "country": 2
         }
@@ -136,8 +137,8 @@
         "eventId": "clock",
         "best": 697,
         "rank": {
-          "world": 2932,
-          "continent": 697,
+          "world": 2952,
+          "continent": 698,
           "country": 29
         }
       },
@@ -154,7 +155,7 @@
         "eventId": "pyram",
         "best": 171,
         "rank": {
-          "world": 726,
+          "world": 730,
           "continent": 166,
           "country": 4
         }
@@ -163,8 +164,8 @@
         "eventId": "skewb",
         "best": 325,
         "rank": {
-          "world": 4016,
-          "continent": 991,
+          "world": 4028,
+          "continent": 992,
           "country": 24
         }
       },
@@ -183,7 +184,7 @@
         "eventId": "222",
         "best": 153,
         "rank": {
-          "world": 222,
+          "world": 226,
           "continent": 44,
           "country": 2
         }
@@ -201,7 +202,7 @@
         "eventId": "333bf",
         "best": 3090,
         "rank": {
-          "world": 240,
+          "world": 243,
           "continent": 72,
           "country": 2
         }
@@ -210,8 +211,8 @@
         "eventId": "333fm",
         "best": 4033,
         "rank": {
-          "world": 2678,
-          "continent": 686,
+          "world": 2682,
+          "continent": 687,
           "country": 14
         }
       },
@@ -219,7 +220,7 @@
         "eventId": "333oh",
         "best": 1034,
         "rank": {
-          "world": 89,
+          "world": 90,
           "continent": 33,
           "country": 3
         }
@@ -264,8 +265,8 @@
         "eventId": "clock",
         "best": 857,
         "rank": {
-          "world": 2989,
-          "continent": 696,
+          "world": 3005,
+          "continent": 697,
           "country": 30
         }
       },
@@ -282,7 +283,7 @@
         "eventId": "pyram",
         "best": 458,
         "rank": {
-          "world": 3232,
+          "world": 3239,
           "continent": 950,
           "country": 27
         }
@@ -291,8 +292,8 @@
         "eventId": "skewb",
         "best": 430,
         "rank": {
-          "world": 1504,
-          "continent": 396,
+          "world": 1513,
+          "continent": 399,
           "country": 9
         }
       },
@@ -300,14 +301,152 @@
         "eventId": "sq1",
         "best": 963,
         "rank": {
-          "world": 362,
-          "continent": 68,
+          "world": 364,
+          "continent": 70,
           "country": 4
         }
       }
     ]
   },
   "results": {
+    "SeattleCubeCascadeUW2025": {
+      "222": [
+        {
+          "round": "Final",
+          "position": 3,
+          "best": 162,
+          "average": 214,
+          "format": "Average of 5",
+          "solves": [
+            191,
+            189,
+            435,
+            162,
+            262
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 2,
+          "best": 150,
+          "average": 201,
+          "format": "Average of 5",
+          "solves": [
+            259,
+            176,
+            150,
+            167,
+            395
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 543,
+          "average": 656,
+          "format": "Average of 5",
+          "solves": [
+            740,
+            543,
+            851,
+            567,
+            662
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 1,
+          "best": 533,
+          "average": 655,
+          "format": "Average of 5",
+          "solves": [
+            570,
+            533,
+            718,
+            677,
+            908
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 1,
+          "best": 496,
+          "average": 622,
+          "format": "Average of 5",
+          "solves": [
+            648,
+            496,
+            621,
+            596,
+            877
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 1845,
+          "average": 2195,
+          "format": "Average of 5",
+          "solves": [
+            2087,
+            2396,
+            2190,
+            2309,
+            1845
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 3619,
+          "average": 3830,
+          "format": "Average of 5",
+          "solves": [
+            4041,
+            3975,
+            3678,
+            3836,
+            3619
+          ]
+        }
+      ],
+      "sq1": [
+        {
+          "round": "Final",
+          "position": 6,
+          "best": 1037,
+          "average": 1252,
+          "format": "Average of 5",
+          "solves": [
+            1043,
+            1037,
+            1817,
+            1594,
+            1120
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 8,
+          "best": 954,
+          "average": 1344,
+          "format": "Average of 5",
+          "solves": [
+            2001,
+            1240,
+            954,
+            1377,
+            1414
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2025": {
       "222": [
         {
@@ -5510,9 +5649,9 @@
     }
   },
   "medals": {
-    "gold": 55,
+    "gold": 58,
     "silver": 23,
-    "bronze": 18
+    "bronze": 19
   },
   "records": {
     "single": {
@@ -5545,6 +5684,7 @@
     "ParadiseParkBangkokNxNxN2025": "Paradise Park Bangkok NxNxN 2025",
     "RobinsonLatkrabangCubing2024": "Robinson Latkrabang Cubing 2024",
     "RubiksWCAAsianChampionship2024": "Rubik's WCA Asian Championship 2024",
+    "SeattleCubeCascadeUW2025": "Seattle Cube Cascade UW 2025",
     "SingaporeMax2023": "Singapore Max 2023",
     "VietnamChampionship2024": "Vietnam Championship 2024",
     "VietnamChampionship2025": "Vietnam Championship 2025",

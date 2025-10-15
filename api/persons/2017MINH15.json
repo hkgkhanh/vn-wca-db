@@ -3,7 +3,7 @@
   "name": "Nguyễn Khang Minh",
   "slug": "nguyen-khang-minh",
   "country": "VN",
-  "numberOfCompetitions": 33,
+  "numberOfCompetitions": 34,
   "competitionIds": [
     "AltonaAlgorithms2019",
     "AltonaAlgorithms2024",
@@ -35,6 +35,7 @@
     "SparkMelbourneJuly2025",
     "SpeedcubingatSeaworks2023",
     "StOliversSpeedySaturday2023",
+    "TheBigCubeMelbourne2025",
     "VICStateChampionship2025",
     "VictorianOpen2023",
     "WC2019"
@@ -51,8 +52,8 @@
         "eventId": "222",
         "best": 151,
         "rank": {
-          "world": 3505,
-          "continent": 781,
+          "world": 3520,
+          "continent": 780,
           "country": 35
         }
       },
@@ -60,8 +61,8 @@
         "eventId": "333",
         "best": 588,
         "rank": {
-          "world": 946,
-          "continent": 285,
+          "world": 950,
+          "continent": 286,
           "country": 22
         }
       },
@@ -69,7 +70,7 @@
         "eventId": "333oh",
         "best": 985,
         "rank": {
-          "world": 564,
+          "world": 566,
           "continent": 182,
           "country": 15
         }
@@ -78,7 +79,7 @@
         "eventId": "444",
         "best": 2718,
         "rank": {
-          "world": 962,
+          "world": 966,
           "continent": 320,
           "country": 21
         }
@@ -87,17 +88,17 @@
         "eventId": "555",
         "best": 6399,
         "rank": {
-          "world": 2568,
-          "continent": 878,
-          "country": 53
+          "world": 2581,
+          "continent": 881,
+          "country": 54
         }
       },
       {
         "eventId": "clock",
         "best": 3130,
         "rank": {
-          "world": 23549,
-          "continent": 5172,
+          "world": 23657,
+          "continent": 5187,
           "country": 162
         }
       },
@@ -105,7 +106,7 @@
         "eventId": "pyram",
         "best": 227,
         "rank": {
-          "world": 1848,
+          "world": 1855,
           "continent": 461,
           "country": 13
         }
@@ -114,7 +115,7 @@
         "eventId": "skewb",
         "best": 393,
         "rank": {
-          "world": 6797,
+          "world": 6815,
           "continent": 1735,
           "country": 57
         }
@@ -123,8 +124,8 @@
         "eventId": "sq1",
         "best": 2728,
         "rank": {
-          "world": 10054,
-          "continent": 2279,
+          "world": 10080,
+          "continent": 2280,
           "country": 84
         }
       }
@@ -134,7 +135,7 @@
         "eventId": "222",
         "best": 253,
         "rank": {
-          "world": 1984,
+          "world": 1994,
           "continent": 489,
           "country": 21
         }
@@ -143,8 +144,8 @@
         "eventId": "333",
         "best": 703,
         "rank": {
-          "world": 465,
-          "continent": 176,
+          "world": 468,
+          "continent": 177,
           "country": 8
         }
       },
@@ -152,8 +153,8 @@
         "eventId": "333oh",
         "best": 1539,
         "rank": {
-          "world": 1993,
-          "continent": 702,
+          "world": 2001,
+          "continent": 703,
           "country": 48
         }
       },
@@ -161,25 +162,25 @@
         "eventId": "444",
         "best": 3164,
         "rank": {
-          "world": 928,
+          "world": 933,
           "continent": 307,
           "country": 20
         }
       },
       {
         "eventId": "555",
-        "best": 7225,
+        "best": 7204,
         "rank": {
-          "world": 2739,
-          "continent": 955,
-          "country": 55
+          "world": 2698,
+          "continent": 938,
+          "country": 52
         }
       },
       {
         "eventId": "pyram",
         "best": 604,
         "rank": {
-          "world": 7240,
+          "world": 7259,
           "continent": 2109,
           "country": 51
         }
@@ -188,8 +189,8 @@
         "eventId": "skewb",
         "best": 544,
         "rank": {
-          "world": 3801,
-          "continent": 1021,
+          "world": 3817,
+          "continent": 1023,
           "country": 33
         }
       },
@@ -197,14 +198,92 @@
         "eventId": "sq1",
         "best": 3407,
         "rank": {
-          "world": 8976,
-          "continent": 2064,
+          "world": 8996,
+          "continent": 2066,
           "country": 77
         }
       }
     ]
   },
   "results": {
+    "TheBigCubeMelbourne2025": {
+      "333": [
+        {
+          "round": "Final",
+          "position": 11,
+          "best": 733,
+          "average": 851,
+          "format": "Average of 5",
+          "solves": [
+            886,
+            903,
+            733,
+            883,
+            783
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 8,
+          "best": 717,
+          "average": 819,
+          "format": "Average of 5",
+          "solves": [
+            983,
+            835,
+            759,
+            862,
+            717
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 7,
+          "best": 744,
+          "average": 825,
+          "format": "Average of 5",
+          "solves": [
+            991,
+            750,
+            744,
+            891,
+            835
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "Final",
+          "position": 11,
+          "best": 6628,
+          "average": 7204,
+          "format": "Average of 5",
+          "solves": [
+            8405,
+            6628,
+            7375,
+            7252,
+            6985
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 27,
+          "best": 339,
+          "average": 694,
+          "format": "Average of 5",
+          "solves": [
+            613,
+            692,
+            804,
+            339,
+            777
+          ]
+        }
+      ]
+    },
     "SparkMelbourneJuly2025": {
       "222": [
         {
@@ -5470,6 +5549,7 @@
     "SparkMelbourneJuly2025": "Spark Melbourne July 2025",
     "SpeedcubingatSeaworks2023": "Speedcubing at Seaworks 2023",
     "StOliversSpeedySaturday2023": "St Oliver's Speedy Saturday 2023",
+    "TheBigCubeMelbourne2025": "The Big Cube Melbourne 2025",
     "VICStateChampionship2025": "VIC State Championship 2025",
     "VictorianOpen2023": "Victorian Open 2023",
     "WC2019": "WCA World Championship 2019"
