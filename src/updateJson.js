@@ -1241,6 +1241,7 @@ async function fetchNoeruWcaStats() {
 
 		wca_stats.push({
 			'name': stat_name,
+			'slug': item.path.replace(".md", ""),
 			'data_url': rawUrl
 		});
 	}
