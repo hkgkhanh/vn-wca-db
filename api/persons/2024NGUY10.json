@@ -3,12 +3,13 @@
   "name": "Thanh Minh Nguyen",
   "slug": "thanh-minh-nguyen",
   "country": "VN",
-  "numberOfCompetitions": 8,
+  "numberOfCompetitions": 9,
   "competitionIds": [
     "ChampionnatCanadien2025",
     "ChampionnatQuebecois2024",
     "GrosJouetsaMontreal2024",
     "NouveauxVenusaMontrealB2024",
+    "OttawaBigCubes2025",
     "OttawaFavourites2024",
     "OttawaSpring2024",
     "OttawaSummer2024",
@@ -24,8 +25,8 @@
         "eventId": "222",
         "best": 368,
         "rank": {
-          "world": 38023,
-          "continent": 10596,
+          "world": 38136,
+          "continent": 10638,
           "country": 441
         }
       },
@@ -33,8 +34,8 @@
         "eventId": "333",
         "best": 924,
         "rank": {
-          "world": 13468,
-          "continent": 4824,
+          "world": 13529,
+          "continent": 4851,
           "country": 299
         }
       },
@@ -42,8 +43,8 @@
         "eventId": "333oh",
         "best": 2203,
         "rank": {
-          "world": 17509,
-          "continent": 6509,
+          "world": 17560,
+          "continent": 6530,
           "country": 353
         }
       },
@@ -51,53 +52,53 @@
         "eventId": "444",
         "best": 4396,
         "rank": {
-          "world": 12547,
-          "continent": 4357,
+          "world": 12596,
+          "continent": 4385,
           "country": 241
         }
       },
       {
         "eventId": "555",
-        "best": 8766,
+        "best": 8323,
         "rank": {
-          "world": 9088,
-          "continent": 2960,
-          "country": 171
+          "world": 7741,
+          "continent": 2549,
+          "country": 145
         }
       },
       {
         "eventId": "666",
-        "best": 18472,
+        "best": 16330,
         "rank": {
-          "world": 6579,
-          "continent": 1958,
-          "country": 95
+          "world": 4864,
+          "continent": 1543,
+          "country": 69
         }
       },
       {
         "eventId": "777",
-        "best": 31452,
+        "best": 24887,
         "rank": {
-          "world": 6876,
-          "continent": 2053,
-          "country": 89
+          "world": 4136,
+          "continent": 1338,
+          "country": 60
         }
       },
       {
         "eventId": "pyram",
         "best": 1428,
         "rank": {
-          "world": 94253,
-          "continent": 24920,
-          "country": 589
+          "world": 94426,
+          "continent": 24967,
+          "country": 590
         }
       },
       {
         "eventId": "skewb",
         "best": 1310,
         "rank": {
-          "world": 47840,
-          "continent": 11406,
+          "world": 48004,
+          "continent": 11430,
           "country": 371
         }
       }
@@ -107,8 +108,8 @@
         "eventId": "222",
         "best": 435,
         "rank": {
-          "world": 17229,
-          "continent": 4952,
+          "world": 17281,
+          "continent": 4973,
           "country": 227
         }
       },
@@ -116,8 +117,8 @@
         "eventId": "333",
         "best": 1291,
         "rank": {
-          "world": 23490,
-          "continent": 8829,
+          "world": 23571,
+          "continent": 8858,
           "country": 564
         }
       },
@@ -125,8 +126,8 @@
         "eventId": "333oh",
         "best": 3352,
         "rank": {
-          "world": 26613,
-          "continent": 9907,
+          "world": 26683,
+          "continent": 9939,
           "country": 524
         }
       },
@@ -134,8 +135,8 @@
         "eventId": "444",
         "best": 4812,
         "rank": {
-          "world": 10519,
-          "continent": 3729,
+          "world": 10557,
+          "continent": 3751,
           "country": 217
         }
       },
@@ -143,41 +144,114 @@
         "eventId": "555",
         "best": 9027,
         "rank": {
-          "world": 7105,
-          "continent": 2384,
+          "world": 7127,
+          "continent": 2389,
           "country": 134
         }
       },
       {
         "eventId": "666",
-        "best": 20704,
+        "best": 18350,
         "rank": {
-          "world": 7109,
-          "continent": 2116,
-          "country": 104
+          "world": 5480,
+          "continent": 1693,
+          "country": 75
+        }
+      },
+      {
+        "eventId": "777",
+        "best": 26357,
+        "rank": {
+          "world": 4030,
+          "continent": 1297,
+          "country": 60
         }
       },
       {
         "eventId": "pyram",
         "best": 2265,
         "rank": {
-          "world": 100188,
-          "continent": 26799,
-          "country": 606
+          "world": 100377,
+          "continent": 26854,
+          "country": 607
         }
       },
       {
         "eventId": "skewb",
         "best": 2298,
         "rank": {
-          "world": 53852,
-          "continent": 12663,
-          "country": 417
+          "world": 54042,
+          "continent": 12693,
+          "country": 419
         }
       }
     ]
   },
   "results": {
+    "OttawaBigCubes2025": {
+      "555": [
+        {
+          "round": "Final",
+          "position": 17,
+          "best": 8323,
+          "average": 9482,
+          "format": "Average of 5",
+          "solves": [
+            9587,
+            8323,
+            9847,
+            9911,
+            9012
+          ]
+        }
+      ],
+      "666": [
+        {
+          "round": "Final",
+          "position": 13,
+          "best": 16330,
+          "average": 18350,
+          "format": "Mean of 3",
+          "solves": [
+            19870,
+            18849,
+            16330,
+            0,
+            0
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 12,
+          "best": 17815,
+          "average": 18820,
+          "format": "Mean of 3",
+          "solves": [
+            20212,
+            17815,
+            18433,
+            0,
+            0
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "Final",
+          "position": 10,
+          "best": 24887,
+          "average": 26357,
+          "format": "Mean of 3",
+          "solves": [
+            27250,
+            26935,
+            24887,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "ChampionnatCanadien2025": {
       "222": [
         {
@@ -805,6 +879,7 @@
     "ChampionnatQuebecois2024": "Championnat Québécois 2024",
     "GrosJouetsaMontreal2024": "Gros Jouets à Montréal 2024",
     "NouveauxVenusaMontrealB2024": "Nouveaux Venus à Montréal B 2024",
+    "OttawaBigCubes2025": "Ottawa Big Cubes 2025",
     "OttawaFavourites2024": "Ottawa Favourites 2024",
     "OttawaSpring2024": "Ottawa Spring 2024",
     "OttawaSummer2024": "Ottawa Summer 2024",

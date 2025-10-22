@@ -3,8 +3,9 @@
   "name": "Anh Tuan Huynh",
   "slug": "anh-tuan-huynh",
   "country": "VN",
-  "numberOfCompetitions": 1,
+  "numberOfCompetitions": 2,
   "competitionIds": [
+    "PolyCubedatPomona2025",
     "UCLAWesternsWarmup2025"
   ],
   "numberOfChampionships": 0,
@@ -15,27 +16,54 @@
         "eventId": "222",
         "best": 383,
         "rank": {
-          "world": 41302,
-          "continent": 11622,
+          "world": 41422,
+          "continent": 11668,
           "country": 494
         }
       },
       {
         "eventId": "333",
-        "best": 1167,
+        "best": 1126,
         "rank": {
-          "world": 32145,
-          "continent": 11846,
-          "country": 709
+          "world": 28566,
+          "continent": 10466,
+          "country": 626
+        }
+      },
+      {
+        "eventId": "333bf",
+        "best": 15709,
+        "rank": {
+          "world": 4982,
+          "continent": 1634,
+          "country": 45
         }
       },
       {
         "eventId": "333oh",
         "best": 2559,
         "rank": {
-          "world": 24036,
-          "continent": 8875,
+          "world": 24099,
+          "continent": 8904,
           "country": 458
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 551,
+        "rank": {
+          "world": 19358,
+          "continent": 5183,
+          "country": 119
+        }
+      },
+      {
+        "eventId": "skewb",
+        "best": 1377,
+        "rank": {
+          "world": 49933,
+          "continent": 11870,
+          "country": 389
         }
       }
     ],
@@ -44,32 +72,139 @@
         "eventId": "222",
         "best": 509,
         "rank": {
-          "world": 29121,
-          "continent": 8625,
+          "world": 29206,
+          "continent": 8657,
           "country": 404
         }
       },
       {
         "eventId": "333",
-        "best": 1447,
+        "best": 1333,
         "rank": {
-          "world": 34748,
-          "continent": 13092,
-          "country": 785
+          "world": 26504,
+          "continent": 9988,
+          "country": 624
+        }
+      },
+      {
+        "eventId": "333bf",
+        "best": 16276,
+        "rank": {
+          "world": 2305,
+          "continent": 675,
+          "country": 16
         }
       },
       {
         "eventId": "333oh",
         "best": 2849,
         "rank": {
-          "world": 19402,
-          "continent": 7403,
+          "world": 19454,
+          "continent": 7429,
           "country": 405
+        }
+      },
+      {
+        "eventId": "pyram",
+        "best": 1161,
+        "rank": {
+          "world": 41529,
+          "continent": 11372,
+          "country": 291
+        }
+      },
+      {
+        "eventId": "skewb",
+        "best": 1925,
+        "rank": {
+          "world": 47886,
+          "continent": 11494,
+          "country": 383
         }
       }
     ]
   },
   "results": {
+    "PolyCubedatPomona2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 35,
+          "best": 1184,
+          "average": 1443,
+          "format": "Average of 5",
+          "solves": [
+            1334,
+            1184,
+            1466,
+            1528,
+            1534
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 32,
+          "best": 1126,
+          "average": 1333,
+          "format": "Average of 5",
+          "solves": [
+            1334,
+            1152,
+            1564,
+            1514,
+            1126
+          ]
+        }
+      ],
+      "333bf": [
+        {
+          "round": "First round",
+          "position": 13,
+          "best": 15709,
+          "average": 16276,
+          "format": "Best of 3",
+          "solves": [
+            16492,
+            16626,
+            15709,
+            0,
+            0
+          ]
+        }
+      ],
+      "pyram": [
+        {
+          "round": "First round",
+          "position": 38,
+          "best": 551,
+          "average": 1161,
+          "format": "Average of 5",
+          "solves": [
+            1221,
+            -1,
+            551,
+            1132,
+            1130
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "First round",
+          "position": 51,
+          "best": 1377,
+          "average": 1925,
+          "format": "Average of 5",
+          "solves": [
+            1377,
+            2464,
+            1532,
+            1780,
+            3014
+          ]
+        }
+      ]
+    },
     "UCLAWesternsWarmup2025": {
       "222": [
         {
@@ -145,6 +280,7 @@
     "average": []
   },
   "competitionsById": {
+    "PolyCubedatPomona2025": "Poly Cubed at Pomona 2025",
     "UCLAWesternsWarmup2025": "UCLA Westerns Warmup 2025"
   }
 }
