@@ -3,8 +3,9 @@
   "name": "Hoàng Quốc Huy",
   "slug": "hoang-quoc-huy",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
+    "KansaiMegaDay2025",
     "KatanoMilkyWay2024",
     "KatanoSummer2025"
   ],
@@ -16,18 +17,27 @@
         "eventId": "222",
         "best": 300,
         "rank": {
-          "world": 24034,
-          "continent": 6432,
+          "world": 24092,
+          "continent": 6452,
           "country": 252
         }
       },
       {
         "eventId": "333",
-        "best": 1154,
+        "best": 1134,
         "rank": {
-          "world": 31159,
-          "continent": 11430,
-          "country": 682
+          "world": 29409,
+          "continent": 10797,
+          "country": 642
+        }
+      },
+      {
+        "eventId": "minx",
+        "best": 11019,
+        "rank": {
+          "world": 12760,
+          "continent": 3375,
+          "country": 109
         }
       }
     ],
@@ -36,23 +46,80 @@
         "eventId": "222",
         "best": 546,
         "rank": {
-          "world": 35950,
-          "continent": 10771,
+          "world": 36052,
+          "continent": 10817,
           "country": 505
         }
       },
       {
         "eventId": "333",
-        "best": 1410,
+        "best": 1317,
         "rank": {
-          "world": 32160,
-          "continent": 12083,
-          "country": 722
+          "world": 25533,
+          "continent": 9613,
+          "country": 606
+        }
+      },
+      {
+        "eventId": "minx",
+        "best": 11752,
+        "rank": {
+          "world": 11585,
+          "continent": 3100,
+          "country": 106
         }
       }
     ]
   },
   "results": {
+    "KansaiMegaDay2025": {
+      "333": [
+        {
+          "round": "Second round",
+          "position": 44,
+          "best": 1134,
+          "average": 1317,
+          "format": "Average of 5",
+          "solves": [
+            1536,
+            1448,
+            1134,
+            1230,
+            1272
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 48,
+          "best": 1198,
+          "average": 1375,
+          "format": "Average of 5",
+          "solves": [
+            1287,
+            1330,
+            1507,
+            1651,
+            1198
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "First round",
+          "position": 48,
+          "best": 11019,
+          "average": 11752,
+          "format": "Average of 5",
+          "solves": [
+            12147,
+            12704,
+            11944,
+            11019,
+            11164
+          ]
+        }
+      ]
+    },
     "KatanoSummer2025": {
       "222": [
         {
@@ -130,6 +197,7 @@
     "average": []
   },
   "competitionsById": {
+    "KansaiMegaDay2025": "Kansai Mega Day 2025",
     "KatanoMilkyWay2024": "Katano Milky Way 2024",
     "KatanoSummer2025": "Katano Summer 2025"
   }
