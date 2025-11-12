@@ -3,7 +3,7 @@
   "name": "Đỗ Quang Hưng",
   "slug": "do-quang-hung",
   "country": "VN",
-  "numberOfCompetitions": 25,
+  "numberOfCompetitions": 26,
   "competitionIds": [
     "AeonMallLongBien2024",
     "BlindTillNineinVietnam2024",
@@ -18,6 +18,7 @@
     "HanoiSummer2023",
     "HanoiSuperBrainZyo2023",
     "HanoiWinter2024",
+    "LakewoodFall2025",
     "MalaysiaCubeChampionship2024",
     "MYHMSingaporeChampionship2024",
     "NxNinHanoi2024",
@@ -56,8 +57,8 @@
         "eventId": "333",
         "best": 496,
         "rank": {
-          "world": 243,
-          "continent": 80,
+          "world": 245,
+          "continent": 81,
           "country": 8
         }
       },
@@ -65,8 +66,8 @@
         "eventId": "333bf",
         "best": 2360,
         "rank": {
-          "world": 249,
-          "continent": 75,
+          "world": 251,
+          "continent": 76,
           "country": 1
         }
       },
@@ -74,7 +75,7 @@
         "eventId": "333fm",
         "best": 32,
         "rank": {
-          "world": 2251,
+          "world": 2256,
           "continent": 557,
           "country": 14
         }
@@ -83,7 +84,7 @@
         "eventId": "333oh",
         "best": 823,
         "rank": {
-          "world": 147,
+          "world": 148,
           "continent": 47,
           "country": 5
         }
@@ -126,10 +127,10 @@
       },
       {
         "eventId": "777",
-        "best": 10418,
+        "best": 9947,
         "rank": {
-          "world": 12,
-          "continent": 7,
+          "world": 9,
+          "continent": 6,
           "country": 1
         }
       },
@@ -137,8 +138,8 @@
         "eventId": "clock",
         "best": 697,
         "rank": {
-          "world": 2982,
-          "continent": 705,
+          "world": 2994,
+          "continent": 709,
           "country": 29
         }
       },
@@ -146,8 +147,8 @@
         "eventId": "minx",
         "best": 3177,
         "rank": {
-          "world": 96,
-          "continent": 28,
+          "world": 98,
+          "continent": 29,
           "country": 1
         }
       },
@@ -155,8 +156,8 @@
         "eventId": "pyram",
         "best": 171,
         "rank": {
-          "world": 732,
-          "continent": 166,
+          "world": 734,
+          "continent": 168,
           "country": 4
         }
       },
@@ -164,8 +165,8 @@
         "eventId": "skewb",
         "best": 325,
         "rank": {
-          "world": 4072,
-          "continent": 996,
+          "world": 4076,
+          "continent": 997,
           "country": 24
         }
       },
@@ -173,8 +174,8 @@
         "eventId": "sq1",
         "best": 692,
         "rank": {
-          "world": 360,
-          "continent": 76,
+          "world": 361,
+          "continent": 77,
           "country": 3
         }
       }
@@ -184,8 +185,8 @@
         "eventId": "222",
         "best": 153,
         "rank": {
-          "world": 227,
-          "continent": 45,
+          "world": 229,
+          "continent": 46,
           "country": 2
         }
       },
@@ -211,7 +212,7 @@
         "eventId": "333fm",
         "best": 4033,
         "rank": {
-          "world": 2700,
+          "world": 2703,
           "continent": 693,
           "country": 14
         }
@@ -254,10 +255,10 @@
       },
       {
         "eventId": "777",
-        "best": 11482,
+        "best": 11094,
         "rank": {
-          "world": 16,
-          "continent": 8,
+          "world": 11,
+          "continent": 6,
           "country": 1
         }
       },
@@ -265,8 +266,8 @@
         "eventId": "clock",
         "best": 857,
         "rank": {
-          "world": 3044,
-          "continent": 704,
+          "world": 3059,
+          "continent": 710,
           "country": 30
         }
       },
@@ -274,8 +275,8 @@
         "eventId": "minx",
         "best": 3556,
         "rank": {
-          "world": 79,
-          "continent": 21,
+          "world": 81,
+          "continent": 23,
           "country": 1
         }
       },
@@ -283,8 +284,8 @@
         "eventId": "pyram",
         "best": 458,
         "rank": {
-          "world": 3263,
-          "continent": 954,
+          "world": 3277,
+          "continent": 961,
           "country": 27
         }
       },
@@ -292,8 +293,8 @@
         "eventId": "skewb",
         "best": 430,
         "rank": {
-          "world": 1537,
-          "continent": 405,
+          "world": 1539,
+          "continent": 406,
           "country": 9
         }
       },
@@ -309,6 +310,112 @@
     ]
   },
   "results": {
+    "LakewoodFall2025": {
+      "333": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 536,
+          "average": 629,
+          "format": "Average of 5",
+          "solves": [
+            653,
+            655,
+            536,
+            651,
+            583
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 1,
+          "best": 580,
+          "average": 603,
+          "format": "Average of 5",
+          "solves": [
+            584,
+            890,
+            644,
+            582,
+            580
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 1,
+          "best": 617,
+          "average": 656,
+          "format": "Average of 5",
+          "solves": [
+            697,
+            617,
+            715,
+            626,
+            644
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 3593,
+          "average": 4019,
+          "format": "Average of 5",
+          "solves": [
+            4160,
+            4171,
+            4160,
+            3738,
+            3593
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 1,
+          "best": 4058,
+          "average": 4292,
+          "format": "Average of 5",
+          "solves": [
+            4078,
+            4371,
+            4427,
+            4481,
+            4058
+          ]
+        }
+      ],
+      "777": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 10593,
+          "average": 11094,
+          "format": "Mean of 3",
+          "solves": [
+            10593,
+            11021,
+            11668,
+            0,
+            0
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 1,
+          "best": 9947,
+          "average": 11216,
+          "format": "Mean of 3",
+          "solves": [
+            11632,
+            12069,
+            9947,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "SeattleCubeCascadeUW2025": {
       "222": [
         {
@@ -5649,18 +5756,18 @@
     }
   },
   "medals": {
-    "gold": 58,
+    "gold": 61,
     "silver": 23,
     "bronze": 19
   },
   "records": {
     "single": {
-      "NR": 28,
+      "NR": 29,
       "CR": 3
     },
     "average": {
-      "CR": 2,
-      "NR": 43
+      "NR": 44,
+      "CR": 2
     }
   },
   "competitionsById": {
@@ -5677,6 +5784,7 @@
     "HanoiSummer2023": "Hanoi Summer 2023",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023",
     "HanoiWinter2024": "Hanoi Winter 2024",
+    "LakewoodFall2025": "Lakewood Fall 2025",
     "MalaysiaCubeChampionship2024": "Malaysia 15th Anniversary Championship 2024",
     "MYHMSingaporeChampionship2024": "MYHM Singapore Championship 2024",
     "NxNinHanoi2024": "NxN in Hanoi 2024",

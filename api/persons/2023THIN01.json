@@ -3,7 +3,7 @@
   "name": "Thomas Đặng Hoàng Thịnh",
   "slug": "thomas-dang-hoang-thinh",
   "country": "VN",
-  "numberOfCompetitions": 18,
+  "numberOfCompetitions": 19,
   "competitionIds": [
     "BASC64LIVESSF2024",
     "BASC65Berkeley2024",
@@ -15,6 +15,7 @@
     "BerkeleyWinterA2023",
     "CalPolySLOWinter2023",
     "CoolDownBerkeley2024",
+    "CoolDownBerkeley2025",
     "EVOSportsExpoCubing2024",
     "FMCAngloAmerica2023",
     "RenoSideBlindSummer2024",
@@ -32,28 +33,28 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 424,
+        "best": 328,
         "rank": {
-          "world": 50753,
-          "continent": 14566,
-          "country": 623
+          "world": 29922,
+          "continent": 8200,
+          "country": 325
         }
       },
       {
         "eventId": "333",
-        "best": 1365,
+        "best": 1210,
         "rank": {
-          "world": 50669,
-          "continent": 18694,
-          "country": 1041
+          "world": 36384,
+          "continent": 13436,
+          "country": 773
         }
       },
       {
         "eventId": "333fm",
         "best": 50,
         "rank": {
-          "world": 9047,
-          "continent": 2501,
+          "world": 9062,
+          "continent": 2502,
           "country": 48
         }
       },
@@ -61,26 +62,26 @@
         "eventId": "333oh",
         "best": 2511,
         "rank": {
-          "world": 23361,
-          "continent": 8636,
+          "world": 23401,
+          "continent": 8655,
           "country": 445
         }
       },
       {
         "eventId": "444",
-        "best": 6510,
+        "best": 5875,
         "rank": {
-          "world": 32259,
-          "continent": 10629,
-          "country": 613
+          "world": 26954,
+          "continent": 9059,
+          "country": 529
         }
       },
       {
         "eventId": "555",
         "best": 15998,
         "rank": {
-          "world": 26456,
-          "continent": 7529,
+          "world": 26509,
+          "continent": 7544,
           "country": 415
         }
       },
@@ -88,8 +89,8 @@
         "eventId": "666",
         "best": 31665,
         "rank": {
-          "world": 13356,
-          "continent": 3446,
+          "world": 13371,
+          "continent": 3451,
           "country": 153
         }
       },
@@ -97,8 +98,8 @@
         "eventId": "clock",
         "best": 884,
         "rank": {
-          "world": 5340,
-          "continent": 1258,
+          "world": 5360,
+          "continent": 1265,
           "country": 50
         }
       },
@@ -106,8 +107,8 @@
         "eventId": "minx",
         "best": 9394,
         "rank": {
-          "world": 9625,
-          "continent": 2624,
+          "world": 9659,
+          "continent": 2647,
           "country": 93
         }
       },
@@ -115,8 +116,8 @@
         "eventId": "pyram",
         "best": 541,
         "rank": {
-          "world": 18608,
-          "continent": 4986,
+          "world": 18640,
+          "continent": 5005,
           "country": 113
         }
       },
@@ -124,8 +125,8 @@
         "eventId": "skewb",
         "best": 786,
         "rank": {
-          "world": 27092,
-          "continent": 6808,
+          "world": 27131,
+          "continent": 6828,
           "country": 223
         }
       },
@@ -133,8 +134,8 @@
         "eventId": "sq1",
         "best": 5826,
         "rank": {
-          "world": 19186,
-          "continent": 4044,
+          "world": 19248,
+          "continent": 4073,
           "country": 133
         }
       }
@@ -142,64 +143,64 @@
     "averages": [
       {
         "eventId": "222",
-        "best": 607,
+        "best": 482,
         "rank": {
-          "world": 47702,
-          "continent": 14383,
-          "country": 667
+          "world": 24737,
+          "continent": 7275,
+          "country": 353
         }
       },
       {
         "eventId": "333",
-        "best": 1686,
+        "best": 1504,
         "rank": {
-          "world": 53503,
-          "continent": 19989,
-          "country": 1162
+          "world": 39559,
+          "continent": 14892,
+          "country": 870
         }
       },
       {
         "eventId": "333oh",
         "best": 3822,
         "rank": {
-          "world": 32743,
-          "continent": 11829,
+          "world": 32805,
+          "continent": 11859,
           "country": 615
         }
       },
       {
         "eventId": "444",
-        "best": 7239,
+        "best": 6240,
         "rank": {
-          "world": 30133,
-          "continent": 9847,
-          "country": 591
+          "world": 23009,
+          "continent": 7902,
+          "country": 450
         }
       },
       {
         "eventId": "clock",
         "best": 1066,
         "rank": {
-          "world": 5280,
-          "continent": 1207,
+          "world": 5299,
+          "continent": 1216,
           "country": 48
         }
       },
       {
         "eventId": "minx",
-        "best": 11235,
+        "best": 10435,
         "rank": {
-          "world": 10746,
-          "continent": 2905,
-          "country": 99
+          "world": 9370,
+          "continent": 2579,
+          "country": 88
         }
       },
       {
         "eventId": "pyram",
         "best": 795,
         "rank": {
-          "world": 15793,
-          "continent": 4572,
+          "world": 15825,
+          "continent": 4587,
           "country": 112
         }
       },
@@ -207,14 +208,94 @@
         "eventId": "skewb",
         "best": 1120,
         "rank": {
-          "world": 24266,
-          "continent": 6345,
+          "world": 24309,
+          "continent": 6370,
           "country": 199
         }
       }
     ]
   },
   "results": {
+    "CoolDownBerkeley2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 38,
+          "best": 328,
+          "average": 482,
+          "format": "Average of 5",
+          "solves": [
+            527,
+            403,
+            328,
+            615,
+            516
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 75,
+          "best": 1496,
+          "average": 1743,
+          "format": "Average of 5",
+          "solves": [
+            1577,
+            2124,
+            1496,
+            1529,
+            2273
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 61,
+          "best": 1210,
+          "average": 1504,
+          "format": "Average of 5",
+          "solves": [
+            1210,
+            1645,
+            1322,
+            1544,
+            2495
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 50,
+          "best": 5875,
+          "average": 6240,
+          "format": "Average of 5",
+          "solves": [
+            6020,
+            6670,
+            5875,
+            8039,
+            6029
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "First round",
+          "position": 31,
+          "best": 9433,
+          "average": 10435,
+          "format": "Average of 5",
+          "solves": [
+            9433,
+            11334,
+            11433,
+            10286,
+            9684
+          ]
+        }
+      ]
+    },
     "SanRamonFall2025": {
       "333": [
         {
@@ -1428,6 +1509,7 @@
     "BerkeleyWinterA2023": "Berkeley Winter A 2023",
     "CalPolySLOWinter2023": "Cal Poly SLO Winter 2023",
     "CoolDownBerkeley2024": "Cool Down Berkeley 2024",
+    "CoolDownBerkeley2025": "Cool Down Berkeley 2025",
     "EVOSportsExpoCubing2024": "EVO Sports Expo Cubing - Santa Clara 2024",
     "FMCAngloAmerica2023": "FMC Anglo America 2023",
     "RenoSideBlindSummer2024": "Reno Side & Blind Summer 2024",
