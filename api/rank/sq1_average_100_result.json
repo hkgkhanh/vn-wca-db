@@ -307,6 +307,24 @@
   },
   {
     "round": "First round",
+    "position": 4,
+    "best": 847,
+    "average": 1131,
+    "format": "Average of 5",
+    "solves": [
+      847,
+      1080,
+      -1,
+      1089,
+      1224
+    ],
+    "competitionId": "KentFall2025",
+    "competitionName": "Kent Fall 2025",
+    "personId": "2019HUNG16",
+    "personName": "Đỗ Quang Hưng"
+  },
+  {
+    "round": "First round",
     "position": 5,
     "best": 906,
     "average": 1133,
@@ -754,6 +772,24 @@
     "competitionName": "Hanoi Summer 2023",
     "personId": "2020SONN01",
     "personName": "Nguyễn Duy Sơn"
+  },
+  {
+    "round": "Final",
+    "position": 8,
+    "best": 773,
+    "average": 1285,
+    "format": "Average of 5",
+    "solves": [
+      937,
+      1551,
+      2243,
+      773,
+      1367
+    ],
+    "competitionId": "KentFall2025",
+    "competitionName": "Kent Fall 2025",
+    "personId": "2019HUNG16",
+    "personName": "Đỗ Quang Hưng"
   },
   {
     "round": "Final",
@@ -1762,41 +1798,5 @@
     "competitionName": "Ho Chi Minh Spring 2024",
     "personId": "2022HUYB02",
     "personName": "Bùi Trương Nhật Huy"
-  },
-  {
-    "round": "First round",
-    "position": 11,
-    "best": 1393,
-    "average": 1790,
-    "format": "Average of 5",
-    "solves": [
-      1681,
-      1393,
-      -1,
-      1943,
-      1747
-    ],
-    "competitionId": "HanoiSummer2025",
-    "competitionName": "Hanoi Summer 2025",
-    "personId": "2020BANG04",
-    "personName": "Nguyễn Khoa Bằng"
-  },
-  {
-    "round": "Final",
-    "position": 11,
-    "best": 1565,
-    "average": 1793,
-    "format": "Average of 5",
-    "solves": [
-      2185,
-      1565,
-      1583,
-      2218,
-      1612
-    ],
-    "competitionId": "VietnamChampionship2025",
-    "competitionName": "Vietnam Championship 2025",
-    "personId": "2022DUYN02",
-    "personName": "Nông Quốc Duy"
   }
 ]

@@ -3,9 +3,10 @@
   "name": "Phú Khang Văn",
   "slug": "phu-khang-van",
   "country": "VN",
-  "numberOfCompetitions": 2,
+  "numberOfCompetitions": 3,
   "competitionIds": [
     "BowlingGreen2025",
+    "BowlingGreenFall2025",
     "VietnamChampionship2025"
   ],
   "numberOfChampionships": 1,
@@ -15,20 +16,29 @@
   "rank": {
     "singles": [
       {
-        "eventId": "333",
-        "best": 1385,
+        "eventId": "222",
+        "best": 565,
         "rank": {
-          "world": 52750,
-          "continent": 19441,
-          "country": 1079
+          "world": 81592,
+          "continent": 24052,
+          "country": 1041
+        }
+      },
+      {
+        "eventId": "333",
+        "best": 1363,
+        "rank": {
+          "world": 50996,
+          "continent": 18913,
+          "country": 1039
         }
       },
       {
         "eventId": "444",
         "best": 5335,
         "rank": {
-          "world": 22107,
-          "continent": 7645,
+          "world": 22177,
+          "continent": 7685,
           "country": 438
         }
       },
@@ -36,37 +46,46 @@
         "eventId": "clock",
         "best": 968,
         "rank": {
-          "world": 6608,
-          "continent": 1550,
+          "world": 6631,
+          "continent": 1559,
           "country": 59
         }
       },
       {
         "eventId": "minx",
-        "best": 9964,
+        "best": 9938,
         "rank": {
-          "world": 10854,
-          "continent": 2951,
-          "country": 100
+          "world": 10840,
+          "continent": 2948,
+          "country": 99
         }
       },
       {
         "eventId": "sq1",
         "best": 1656,
         "rank": {
-          "world": 4559,
-          "continent": 1019,
+          "world": 4572,
+          "continent": 1023,
           "country": 43
         }
       }
     ],
     "averages": [
       {
+        "eventId": "222",
+        "best": 698,
+        "rank": {
+          "world": 64946,
+          "continent": 19650,
+          "country": 880
+        }
+      },
+      {
         "eventId": "333",
         "best": 1670,
         "rank": {
-          "world": 52613,
-          "continent": 19734,
+          "world": 52862,
+          "continent": 19892,
           "country": 1144
         }
       },
@@ -74,8 +93,8 @@
         "eventId": "444",
         "best": 6297,
         "rank": {
-          "world": 23562,
-          "continent": 8055,
+          "world": 23630,
+          "continent": 8091,
           "country": 462
         }
       },
@@ -83,8 +102,8 @@
         "eventId": "clock",
         "best": 1039,
         "rank": {
-          "world": 5023,
-          "continent": 1144,
+          "world": 5044,
+          "continent": 1152,
           "country": 44
         }
       },
@@ -92,8 +111,8 @@
         "eventId": "minx",
         "best": 10647,
         "rank": {
-          "world": 9795,
-          "continent": 2702,
+          "world": 9818,
+          "continent": 2708,
           "country": 93
         }
       },
@@ -101,14 +120,78 @@
         "eventId": "sq1",
         "best": 2227,
         "rank": {
-          "world": 4424,
-          "continent": 1027,
+          "world": 4437,
+          "continent": 1032,
           "country": 40
         }
       }
     ]
   },
   "results": {
+    "BowlingGreenFall2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 41,
+          "best": 565,
+          "average": 698,
+          "format": "Average of 5",
+          "solves": [
+            565,
+            728,
+            791,
+            576,
+            1079
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Second round",
+          "position": 38,
+          "best": 1363,
+          "average": 1768,
+          "format": "Average of 5",
+          "solves": [
+            1874,
+            1947,
+            1795,
+            1363,
+            1636
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 38,
+          "best": 1604,
+          "average": 1753,
+          "format": "Average of 5",
+          "solves": [
+            1774,
+            1828,
+            1955,
+            1604,
+            1658
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "First round",
+          "position": 17,
+          "best": 9938,
+          "average": 10708,
+          "format": "Average of 5",
+          "solves": [
+            10645,
+            10772,
+            10706,
+            10931,
+            9938
+          ]
+        }
+      ]
+    },
     "VietnamChampionship2025": {
       "333": [
         {
@@ -251,6 +334,7 @@
   },
   "competitionsById": {
     "BowlingGreen2025": "Bowling Green 2025",
+    "BowlingGreenFall2025": "Bowling Green Fall 2025",
     "VietnamChampionship2025": "Vietnam Championship 2025"
   }
 }

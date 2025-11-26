@@ -3,7 +3,7 @@
   "name": "Đỗ Quang Hưng",
   "slug": "do-quang-hung",
   "country": "VN",
-  "numberOfCompetitions": 26,
+  "numberOfCompetitions": 27,
   "competitionIds": [
     "AeonMallLongBien2024",
     "BlindTillNineinVietnam2024",
@@ -18,6 +18,7 @@
     "HanoiSummer2023",
     "HanoiSuperBrainZyo2023",
     "HanoiWinter2024",
+    "KentFall2025",
     "LakewoodFall2025",
     "MalaysiaCubeChampionship2024",
     "MYHMSingaporeChampionship2024",
@@ -48,7 +49,7 @@
         "eventId": "222",
         "best": 88,
         "rank": {
-          "world": 548,
+          "world": 549,
           "continent": 67,
           "country": 3
         }
@@ -57,8 +58,8 @@
         "eventId": "333",
         "best": 496,
         "rank": {
-          "world": 248,
-          "continent": 81,
+          "world": 249,
+          "continent": 82,
           "country": 8
         }
       },
@@ -75,7 +76,7 @@
         "eventId": "333fm",
         "best": 32,
         "rank": {
-          "world": 2264,
+          "world": 2265,
           "continent": 558,
           "country": 14
         }
@@ -102,7 +103,7 @@
         "eventId": "444bf",
         "best": 23210,
         "rank": {
-          "world": 261,
+          "world": 262,
           "continent": 87,
           "country": 2
         }
@@ -138,8 +139,8 @@
         "eventId": "clock",
         "best": 697,
         "rank": {
-          "world": 3006,
-          "continent": 709,
+          "world": 3021,
+          "continent": 712,
           "country": 29
         }
       },
@@ -156,8 +157,8 @@
         "eventId": "pyram",
         "best": 171,
         "rank": {
-          "world": 737,
-          "continent": 168,
+          "world": 745,
+          "continent": 171,
           "country": 4
         }
       },
@@ -165,8 +166,8 @@
         "eventId": "skewb",
         "best": 325,
         "rank": {
-          "world": 4086,
-          "continent": 1000,
+          "world": 4098,
+          "continent": 1001,
           "country": 24
         }
       },
@@ -185,17 +186,17 @@
         "eventId": "222",
         "best": 153,
         "rank": {
-          "world": 230,
-          "continent": 47,
+          "world": 231,
+          "continent": 48,
           "country": 2
         }
       },
       {
         "eventId": "333",
-        "best": 595,
+        "best": 577,
         "rank": {
-          "world": 80,
-          "continent": 31,
+          "world": 65,
+          "continent": 28,
           "country": 1
         }
       },
@@ -212,7 +213,7 @@
         "eventId": "333fm",
         "best": 4033,
         "rank": {
-          "world": 2709,
+          "world": 2710,
           "continent": 694,
           "country": 14
         }
@@ -221,8 +222,8 @@
         "eventId": "333oh",
         "best": 1034,
         "rank": {
-          "world": 91,
-          "continent": 34,
+          "world": 92,
+          "continent": 35,
           "country": 3
         }
       },
@@ -257,7 +258,7 @@
         "eventId": "777",
         "best": 11094,
         "rank": {
-          "world": 11,
+          "world": 12,
           "continent": 6,
           "country": 1
         }
@@ -266,8 +267,8 @@
         "eventId": "clock",
         "best": 857,
         "rank": {
-          "world": 3073,
-          "continent": 711,
+          "world": 3086,
+          "continent": 713,
           "country": 30
         }
       },
@@ -284,8 +285,8 @@
         "eventId": "pyram",
         "best": 458,
         "rank": {
-          "world": 3290,
-          "continent": 968,
+          "world": 3316,
+          "continent": 979,
           "country": 27
         }
       },
@@ -293,8 +294,8 @@
         "eventId": "skewb",
         "best": 430,
         "rank": {
-          "world": 1540,
-          "continent": 406,
+          "world": 1547,
+          "continent": 408,
           "country": 9
         }
       },
@@ -310,6 +311,98 @@
     ]
   },
   "results": {
+    "KentFall2025": {
+      "333": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 522,
+          "average": 577,
+          "format": "Average of 5",
+          "solves": [
+            550,
+            542,
+            647,
+            522,
+            638
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 3,
+          "best": 597,
+          "average": 728,
+          "format": "Average of 5",
+          "solves": [
+            805,
+            597,
+            716,
+            662,
+            940
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 2,
+          "best": 537,
+          "average": 697,
+          "format": "Average of 5",
+          "solves": [
+            736,
+            537,
+            703,
+            706,
+            682
+          ]
+        }
+      ],
+      "555": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 3556,
+          "average": 3993,
+          "format": "Average of 5",
+          "solves": [
+            4174,
+            4391,
+            3922,
+            3556,
+            3883
+          ]
+        }
+      ],
+      "sq1": [
+        {
+          "round": "Final",
+          "position": 8,
+          "best": 773,
+          "average": 1285,
+          "format": "Average of 5",
+          "solves": [
+            937,
+            1551,
+            2243,
+            773,
+            1367
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 4,
+          "best": 847,
+          "average": 1131,
+          "format": "Average of 5",
+          "solves": [
+            847,
+            1080,
+            -1,
+            1089,
+            1224
+          ]
+        }
+      ]
+    },
     "LakewoodFall2025": {
       "333": [
         {
@@ -5756,7 +5849,7 @@
     }
   },
   "medals": {
-    "gold": 61,
+    "gold": 63,
     "silver": 23,
     "bronze": 19
   },
@@ -5766,7 +5859,7 @@
       "CR": 3
     },
     "average": {
-      "NR": 44,
+      "NR": 45,
       "CR": 2
     }
   },
@@ -5784,6 +5877,7 @@
     "HanoiSummer2023": "Hanoi Summer 2023",
     "HanoiSuperBrainZyo2023": "Hanoi Super Brain Zyo 2023",
     "HanoiWinter2024": "Hanoi Winter 2024",
+    "KentFall2025": "Kent Fall 2025",
     "LakewoodFall2025": "Lakewood Fall 2025",
     "MalaysiaCubeChampionship2024": "Malaysia 15th Anniversary Championship 2024",
     "MYHMSingaporeChampionship2024": "MYHM Singapore Championship 2024",
