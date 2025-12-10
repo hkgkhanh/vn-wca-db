@@ -216,6 +216,24 @@
     "personName": "Lê Đức Duy Khoa"
   },
   {
+    "round": "Second round",
+    "position": 2,
+    "best": 126,
+    "average": 231,
+    "format": "Average of 5",
+    "solves": [
+      126,
+      306,
+      338,
+      194,
+      194
+    ],
+    "competitionId": "HanoiWinter2024",
+    "competitionName": "Hanoi Winter 2024",
+    "personId": "2022KHAN29",
+    "personName": "Nguyễn Văn Khánh"
+  },
+  {
     "round": "First round",
     "position": 24,
     "best": 126,
@@ -250,24 +268,6 @@
     "competitionName": "Vietnam Championship 2025",
     "personId": "2017PHON07",
     "personName": "Lê Hà Phong"
-  },
-  {
-    "round": "Second round",
-    "position": 2,
-    "best": 126,
-    "average": 231,
-    "format": "Average of 5",
-    "solves": [
-      126,
-      306,
-      338,
-      194,
-      194
-    ],
-    "competitionId": "HanoiWinter2024",
-    "competitionName": "Hanoi Winter 2024",
-    "personId": "2022KHAN29",
-    "personName": "Nguyễn Văn Khánh"
   },
   {
     "round": "First round",
@@ -415,39 +415,21 @@
   },
   {
     "round": "First round",
-    "position": 28,
+    "position": 14,
     "best": 136,
-    "average": 394,
+    "average": 337,
     "format": "Average of 5",
     "solves": [
-      600,
-      664,
-      311,
+      463,
+      304,
+      243,
       136,
-      272
+      -2
     ],
     "competitionId": "HanoiSummer2025",
     "competitionName": "Hanoi Summer 2025",
-    "personId": "2022KHAN31",
-    "personName": "Nông Quốc Khánh"
-  },
-  {
-    "round": "Final",
-    "position": 5,
-    "best": 136,
-    "average": 338,
-    "format": "Average of 5",
-    "solves": [
-      385,
-      404,
-      252,
-      136,
-      376
-    ],
-    "competitionId": "cubingHCM3x3Winter2024",
-    "competitionName": "cubingHCM 3x3 Winter 2024",
-    "personId": "2022NHAN05",
-    "personName": "Nguyễn Thiện Nhân"
+    "personId": "2023QUAN13",
+    "personName": "Lưu Đức Quang"
   },
   {
     "round": "Second round",
@@ -468,22 +450,40 @@
     "personName": "Nguyễn Anh Khôi"
   },
   {
-    "round": "First round",
-    "position": 14,
+    "round": "Final",
+    "position": 5,
     "best": 136,
-    "average": 337,
+    "average": 338,
     "format": "Average of 5",
     "solves": [
-      463,
-      304,
-      243,
+      385,
+      404,
+      252,
       136,
-      -2
+      376
+    ],
+    "competitionId": "cubingHCM3x3Winter2024",
+    "competitionName": "cubingHCM 3x3 Winter 2024",
+    "personId": "2022NHAN05",
+    "personName": "Nguyễn Thiện Nhân"
+  },
+  {
+    "round": "First round",
+    "position": 28,
+    "best": 136,
+    "average": 394,
+    "format": "Average of 5",
+    "solves": [
+      600,
+      664,
+      311,
+      136,
+      272
     ],
     "competitionId": "HanoiSummer2025",
     "competitionName": "Hanoi Summer 2025",
-    "personId": "2023QUAN13",
-    "personName": "Lưu Đức Quang"
+    "personId": "2022KHAN31",
+    "personName": "Nông Quốc Khánh"
   },
   {
     "round": "Final",
@@ -667,21 +667,21 @@
   },
   {
     "round": "First round",
-    "position": 1,
+    "position": 22,
     "best": 155,
-    "average": 245,
+    "average": 422,
     "format": "Average of 5",
     "solves": [
-      233,
+      471,
+      487,
       155,
-      265,
-      265,
-      236
+      507,
+      307
     ],
-    "competitionId": "HCMCVNCWarmUp2025",
-    "competitionName": "HCMC VNC Warm Up 2025",
-    "personId": "2020SONN01",
-    "personName": "Nguyễn Duy Sơn"
+    "competitionId": "cubingHCM3x3Winter2024",
+    "competitionName": "cubingHCM 3x3 Winter 2024",
+    "personId": "2017THON01",
+    "personName": "Nguyễn Hữu Thông"
   },
   {
     "round": "First round",
@@ -703,21 +703,21 @@
   },
   {
     "round": "First round",
-    "position": 22,
+    "position": 1,
     "best": 155,
-    "average": 422,
+    "average": 245,
     "format": "Average of 5",
     "solves": [
-      471,
-      487,
+      233,
       155,
-      507,
-      307
+      265,
+      265,
+      236
     ],
-    "competitionId": "cubingHCM3x3Winter2024",
-    "competitionName": "cubingHCM 3x3 Winter 2024",
-    "personId": "2017THON01",
-    "personName": "Nguyễn Hữu Thông"
+    "competitionId": "HCMCVNCWarmUp2025",
+    "competitionName": "HCMC VNC Warm Up 2025",
+    "personId": "2020SONN01",
+    "personName": "Nguyễn Duy Sơn"
   },
   {
     "round": "First round",
@@ -846,24 +846,6 @@
     "personName": "Hoàng Khang Minh"
   },
   {
-    "round": "Final",
-    "position": 28,
-    "best": 168,
-    "average": 515,
-    "format": "Average of 5",
-    "solves": [
-      -1,
-      938,
-      365,
-      242,
-      168
-    ],
-    "competitionId": "VietnamChampionship2025",
-    "competitionName": "Vietnam Championship 2025",
-    "personId": "2016CONG01",
-    "personName": "Nguyễn Tuấn Công"
-  },
-  {
     "round": "First round",
     "position": 5,
     "best": 168,
@@ -880,6 +862,24 @@
     "competitionName": "Vietnam Championship 2024",
     "personId": "2018SONT01",
     "personName": "Trần Ngọc Sơn"
+  },
+  {
+    "round": "Final",
+    "position": 28,
+    "best": 168,
+    "average": 515,
+    "format": "Average of 5",
+    "solves": [
+      -1,
+      938,
+      365,
+      242,
+      168
+    ],
+    "competitionId": "VietnamChampionship2025",
+    "competitionName": "Vietnam Championship 2025",
+    "personId": "2016CONG01",
+    "personName": "Nguyễn Tuấn Công"
   },
   {
     "round": "Final",
@@ -955,24 +955,6 @@
   },
   {
     "round": "First round",
-    "position": 11,
-    "best": 183,
-    "average": 377,
-    "format": "Average of 5",
-    "solves": [
-      348,
-      323,
-      495,
-      459,
-      183
-    ],
-    "competitionId": "AeonMallLongBien2024",
-    "competitionName": "Aeon Mall Long Bien 2024",
-    "personId": "2024VIET01",
-    "personName": "Phan Minh Việt"
-  },
-  {
-    "round": "First round",
     "position": 9,
     "best": 183,
     "average": 301,
@@ -988,6 +970,24 @@
     "competitionName": "Hanoi Summer 2025",
     "personId": "2022HAIN03",
     "personName": "Nguyễn Hoàng Hải"
+  },
+  {
+    "round": "First round",
+    "position": 11,
+    "best": 183,
+    "average": 377,
+    "format": "Average of 5",
+    "solves": [
+      348,
+      323,
+      495,
+      459,
+      183
+    ],
+    "competitionId": "AeonMallLongBien2024",
+    "competitionName": "Aeon Mall Long Bien 2024",
+    "personId": "2024VIET01",
+    "personName": "Phan Minh Việt"
   },
   {
     "round": "Final",
@@ -1135,24 +1135,6 @@
   },
   {
     "round": "First round",
-    "position": 52,
-    "best": 204,
-    "average": 550,
-    "format": "Average of 5",
-    "solves": [
-      1103,
-      445,
-      585,
-      621,
-      204
-    ],
-    "competitionId": "HCMCVNCWarmUp2025",
-    "competitionName": "HCMC VNC Warm Up 2025",
-    "personId": "2024THIN02",
-    "personName": "Nguyễn Đức Thịnh"
-  },
-  {
-    "round": "First round",
     "position": 2,
     "best": 204,
     "average": 313,
@@ -1168,6 +1150,24 @@
     "competitionName": "Ha Noi Summer 2020",
     "personId": "2019DUNG01",
     "personName": "Trịnh Quang Dũng"
+  },
+  {
+    "round": "First round",
+    "position": 52,
+    "best": 204,
+    "average": 550,
+    "format": "Average of 5",
+    "solves": [
+      1103,
+      445,
+      585,
+      621,
+      204
+    ],
+    "competitionId": "HCMCVNCWarmUp2025",
+    "competitionName": "HCMC VNC Warm Up 2025",
+    "personId": "2024THIN02",
+    "personName": "Nguyễn Đức Thịnh"
   },
   {
     "round": "First round",
@@ -1242,24 +1242,6 @@
     "personName": "Anh H. Nguyen"
   },
   {
-    "round": "Final",
-    "position": 9,
-    "best": 208,
-    "average": 376,
-    "format": "Average of 5",
-    "solves": [
-      373,
-      293,
-      526,
-      462,
-      208
-    ],
-    "competitionId": "HanoiOpen2022",
-    "competitionName": "Hanoi Open 2022",
-    "personId": "2019DANG13",
-    "personName": "Nguyễn Hải Đăng"
-  },
-  {
     "round": "First round",
     "position": 38,
     "best": 208,
@@ -1276,6 +1258,24 @@
     "competitionName": "Hanoi Summer 2025",
     "personId": "2023LONG08",
     "personName": "Nguyễn Việt Long"
+  },
+  {
+    "round": "Final",
+    "position": 9,
+    "best": 208,
+    "average": 376,
+    "format": "Average of 5",
+    "solves": [
+      373,
+      293,
+      526,
+      462,
+      208
+    ],
+    "competitionId": "HanoiOpen2022",
+    "competitionName": "Hanoi Open 2022",
+    "personId": "2019DANG13",
+    "personName": "Nguyễn Hải Đăng"
   },
   {
     "round": "Final",
@@ -1314,6 +1314,24 @@
     "personName": "Trần Hoàng Thân"
   },
   {
+    "round": "Second round",
+    "position": 15,
+    "best": 215,
+    "average": 344,
+    "format": "Average of 5",
+    "solves": [
+      281,
+      688,
+      344,
+      408,
+      215
+    ],
+    "competitionId": "HCMCCubingAutumn2024",
+    "competitionName": "HCMC Cubing Autumn 2024",
+    "personId": "2022DUNG05",
+    "personName": "Tạ Quang Dũng"
+  },
+  {
     "round": "First round",
     "position": 27,
     "best": 215,
@@ -1350,24 +1368,6 @@
     "personName": "Phạm Nguyễn Anh Quân"
   },
   {
-    "round": "Second round",
-    "position": 15,
-    "best": 215,
-    "average": 344,
-    "format": "Average of 5",
-    "solves": [
-      281,
-      688,
-      344,
-      408,
-      215
-    ],
-    "competitionId": "HCMCCubingAutumn2024",
-    "competitionName": "HCMC Cubing Autumn 2024",
-    "personId": "2022DUNG05",
-    "personName": "Tạ Quang Dũng"
-  },
-  {
     "round": "First round",
     "position": 30,
     "best": 215,
@@ -1384,6 +1384,24 @@
     "competitionName": "HCMC Cubing Autumn 2024",
     "personId": "2024CHAU05",
     "personName": "Nguyễn Phước Bảo Châu"
+  },
+  {
+    "round": "First round",
+    "position": 9,
+    "best": 216,
+    "average": 262,
+    "format": "Average of 5",
+    "solves": [
+      216,
+      308,
+      431,
+      252,
+      225
+    ],
+    "competitionId": "VietnamChampionship2025",
+    "competitionName": "Vietnam Championship 2025",
+    "personId": "2022NAMT03",
+    "personName": "Trần Hoàng Bảo Nam"
   },
   {
     "round": "Second round",
@@ -1405,21 +1423,21 @@
   },
   {
     "round": "First round",
-    "position": 9,
-    "best": 216,
-    "average": 262,
+    "position": 33,
+    "best": 217,
+    "average": 425,
     "format": "Average of 5",
     "solves": [
-      216,
-      308,
-      431,
-      252,
-      225
+      426,
+      217,
+      472,
+      435,
+      413
     ],
-    "competitionId": "VietnamChampionship2025",
-    "competitionName": "Vietnam Championship 2025",
-    "personId": "2022NAMT03",
-    "personName": "Trần Hoàng Bảo Nam"
+    "competitionId": "HCMCVNCWarmUp2025",
+    "competitionName": "HCMC VNC Warm Up 2025",
+    "personId": "2023QUAN05",
+    "personName": "Đặng Minh Quân"
   },
   {
     "round": "First round",
@@ -1476,24 +1494,6 @@
     "personName": "Ngô Ngọc Long"
   },
   {
-    "round": "First round",
-    "position": 33,
-    "best": 217,
-    "average": 425,
-    "format": "Average of 5",
-    "solves": [
-      426,
-      217,
-      472,
-      435,
-      413
-    ],
-    "competitionId": "HCMCVNCWarmUp2025",
-    "competitionName": "HCMC VNC Warm Up 2025",
-    "personId": "2023QUAN05",
-    "personName": "Đặng Minh Quân"
-  },
-  {
     "round": "Second round",
     "position": 3,
     "best": 218,
@@ -1512,24 +1512,6 @@
     "personName": "Nguyễn Hoàng Quân"
   },
   {
-    "round": "First round",
-    "position": 13,
-    "best": 219,
-    "average": 395,
-    "format": "Average of 5",
-    "solves": [
-      219,
-      441,
-      385,
-      358,
-      612
-    ],
-    "competitionId": "HanoiOpen2022",
-    "competitionName": "Hanoi Open 2022",
-    "personId": "2020MYNG01",
-    "personName": "Nguyễn Hà My"
-  },
-  {
     "round": "Final",
     "position": 5,
     "best": 219,
@@ -1546,6 +1528,24 @@
     "competitionName": "Ha Noi Summer 2022",
     "personId": "2019ANHN03",
     "personName": "Nguyễn Ngọc Huyền Anh"
+  },
+  {
+    "round": "First round",
+    "position": 13,
+    "best": 219,
+    "average": 395,
+    "format": "Average of 5",
+    "solves": [
+      219,
+      441,
+      385,
+      358,
+      612
+    ],
+    "competitionId": "HanoiOpen2022",
+    "competitionName": "Hanoi Open 2022",
+    "personId": "2020MYNG01",
+    "personName": "Nguyễn Hà My"
   },
   {
     "round": "Second round",
@@ -1620,24 +1620,6 @@
     "personName": "Nguyễn Thành Đạt"
   },
   {
-    "round": "First round",
-    "position": 31,
-    "best": 224,
-    "average": 434,
-    "format": "Average of 5",
-    "solves": [
-      393,
-      518,
-      224,
-      423,
-      487
-    ],
-    "competitionId": "HanoiSummer2023",
-    "competitionName": "Hanoi Summer 2023",
-    "personId": "2023HUNG12",
-    "personName": "Nguyễn Việt Hưng"
-  },
-  {
     "round": "Second round",
     "position": 40,
     "best": 224,
@@ -1654,6 +1636,24 @@
     "competitionName": "Vietnam Championship 2025",
     "personId": "2025KIET02",
     "personName": "Hà Lâm Kiệt"
+  },
+  {
+    "round": "First round",
+    "position": 31,
+    "best": 224,
+    "average": 434,
+    "format": "Average of 5",
+    "solves": [
+      393,
+      518,
+      224,
+      423,
+      487
+    ],
+    "competitionId": "HanoiSummer2023",
+    "competitionName": "Hanoi Summer 2023",
+    "personId": "2023HUNG12",
+    "personName": "Nguyễn Việt Hưng"
   },
   {
     "round": "Final",

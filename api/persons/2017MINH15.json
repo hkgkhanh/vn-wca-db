@@ -3,7 +3,7 @@
   "name": "Nguyễn Khang Minh",
   "slug": "nguyen-khang-minh",
   "country": "VN",
-  "numberOfCompetitions": 34,
+  "numberOfCompetitions": 35,
   "competitionIds": [
     "AltonaAlgorithms2019",
     "AltonaAlgorithms2024",
@@ -22,6 +22,7 @@
     "MelbourneCubeDays2019",
     "MelbourneCubeDays2023",
     "MelbourneCubeDays2024",
+    "MelbourneCubeDays2025",
     "MelbourneforKidsSaturday2023",
     "MelbourneMiniSaturday2022",
     "MelbourneSummer2019",
@@ -52,8 +53,8 @@
         "eventId": "222",
         "best": 151,
         "rank": {
-          "world": 3618,
-          "continent": 804,
+          "world": 3623,
+          "continent": 806,
           "country": 35
         }
       },
@@ -61,8 +62,8 @@
         "eventId": "333",
         "best": 588,
         "rank": {
-          "world": 989,
-          "continent": 306,
+          "world": 994,
+          "continent": 307,
           "country": 22
         }
       },
@@ -70,7 +71,7 @@
         "eventId": "333oh",
         "best": 985,
         "rank": {
-          "world": 590,
+          "world": 593,
           "continent": 189,
           "country": 15
         }
@@ -79,8 +80,8 @@
         "eventId": "444",
         "best": 2718,
         "rank": {
-          "world": 1006,
-          "continent": 338,
+          "world": 1008,
+          "continent": 340,
           "country": 21
         }
       },
@@ -88,8 +89,8 @@
         "eventId": "555",
         "best": 6399,
         "rank": {
-          "world": 2665,
-          "continent": 906,
+          "world": 2681,
+          "continent": 912,
           "country": 54
         }
       },
@@ -97,8 +98,8 @@
         "eventId": "clock",
         "best": 3130,
         "rank": {
-          "world": 24330,
-          "continent": 5315,
+          "world": 24397,
+          "continent": 5322,
           "country": 162
         }
       },
@@ -106,8 +107,8 @@
         "eventId": "pyram",
         "best": 227,
         "rank": {
-          "world": 1893,
-          "continent": 474,
+          "world": 1902,
+          "continent": 475,
           "country": 13
         }
       },
@@ -115,8 +116,8 @@
         "eventId": "skewb",
         "best": 393,
         "rank": {
-          "world": 6938,
-          "continent": 1753,
+          "world": 6949,
+          "continent": 1755,
           "country": 57
         }
       },
@@ -124,8 +125,8 @@
         "eventId": "sq1",
         "best": 2728,
         "rank": {
-          "world": 10249,
-          "continent": 2322,
+          "world": 10284,
+          "continent": 2340,
           "country": 84
         }
       }
@@ -135,8 +136,8 @@
         "eventId": "222",
         "best": 253,
         "rank": {
-          "world": 2054,
-          "continent": 516,
+          "world": 2062,
+          "continent": 520,
           "country": 21
         }
       },
@@ -144,8 +145,8 @@
         "eventId": "333",
         "best": 703,
         "rank": {
-          "world": 492,
-          "continent": 183,
+          "world": 497,
+          "continent": 185,
           "country": 8
         }
       },
@@ -153,17 +154,17 @@
         "eventId": "333oh",
         "best": 1539,
         "rank": {
-          "world": 2053,
-          "continent": 731,
-          "country": 48
+          "world": 2057,
+          "continent": 733,
+          "country": 49
         }
       },
       {
         "eventId": "444",
         "best": 3164,
         "rank": {
-          "world": 970,
-          "continent": 320,
+          "world": 974,
+          "continent": 321,
           "country": 20
         }
       },
@@ -171,17 +172,17 @@
         "eventId": "555",
         "best": 7204,
         "rank": {
-          "world": 2773,
-          "continent": 958,
-          "country": 53
+          "world": 2792,
+          "continent": 967,
+          "country": 54
         }
       },
       {
         "eventId": "pyram",
         "best": 604,
         "rank": {
-          "world": 7399,
-          "continent": 2161,
+          "world": 7417,
+          "continent": 2175,
           "country": 51
         }
       },
@@ -189,8 +190,8 @@
         "eventId": "skewb",
         "best": 544,
         "rank": {
-          "world": 3887,
-          "continent": 1040,
+          "world": 3894,
+          "continent": 1042,
           "country": 33
         }
       },
@@ -198,14 +199,80 @@
         "eventId": "sq1",
         "best": 3407,
         "rank": {
-          "world": 9141,
-          "continent": 2104,
+          "world": 9169,
+          "continent": 2117,
           "country": 77
         }
       }
     ]
   },
   "results": {
+    "MelbourneCubeDays2025": {
+      "222": [
+        {
+          "round": "First round",
+          "position": 25,
+          "best": 266,
+          "average": 329,
+          "format": "Average of 5",
+          "solves": [
+            349,
+            276,
+            361,
+            266,
+            573
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "First round",
+          "position": 8,
+          "best": 770,
+          "average": 798,
+          "format": "Average of 5",
+          "solves": [
+            770,
+            815,
+            1892,
+            807,
+            771
+          ]
+        }
+      ],
+      "444": [
+        {
+          "round": "First round",
+          "position": 6,
+          "best": 3176,
+          "average": 3424,
+          "format": "Average of 5",
+          "solves": [
+            3176,
+            3231,
+            3553,
+            3489,
+            3749
+          ]
+        }
+      ],
+      "333oh": [
+        {
+          "round": "First round",
+          "position": 21,
+          "best": 1474,
+          "average": 1795,
+          "format": "Average of 5",
+          "solves": [
+            1814,
+            1672,
+            -1,
+            1474,
+            1898
+          ]
+        }
+      ]
+    },
     "TheBigCubeMelbourne2025": {
       "333": [
         {
@@ -5536,6 +5603,7 @@
     "MelbourneCubeDays2019": "Melbourne Cube Days 2019",
     "MelbourneCubeDays2023": "Melbourne Cube Days 2023",
     "MelbourneCubeDays2024": "Melbourne Cube Days 2024",
+    "MelbourneCubeDays2025": "Melbourne Cube Days 2025",
     "MelbourneforKidsSaturday2023": "Melbourne Cubing for Kids Saturday 2023",
     "MelbourneMiniSaturday2022": "Melbourne Mini Saturday 2022",
     "MelbourneSummer2019": "Melbourne Summer 2019",

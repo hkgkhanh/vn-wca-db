@@ -504,6 +504,24 @@
     "personName": "Đỗ Quang Hưng"
   },
   {
+    "round": "Second round",
+    "position": 2,
+    "best": 126,
+    "average": 231,
+    "format": "Average of 5",
+    "solves": [
+      126,
+      306,
+      338,
+      194,
+      194
+    ],
+    "competitionId": "HanoiWinter2024",
+    "competitionName": "Hanoi Winter 2024",
+    "personId": "2022KHAN29",
+    "personName": "Nguyễn Văn Khánh"
+  },
+  {
     "round": "First round",
     "position": 24,
     "best": 126,
@@ -538,24 +556,6 @@
     "competitionName": "Vietnam Championship 2025",
     "personId": "2017PHON07",
     "personName": "Lê Hà Phong"
-  },
-  {
-    "round": "Second round",
-    "position": 2,
-    "best": 126,
-    "average": 231,
-    "format": "Average of 5",
-    "solves": [
-      126,
-      306,
-      338,
-      194,
-      194
-    ],
-    "competitionId": "HanoiWinter2024",
-    "competitionName": "Hanoi Winter 2024",
-    "personId": "2022KHAN29",
-    "personName": "Nguyễn Văn Khánh"
   },
   {
     "round": "First round",
@@ -883,39 +883,21 @@
   },
   {
     "round": "First round",
-    "position": 28,
+    "position": 14,
     "best": 136,
-    "average": 394,
+    "average": 337,
     "format": "Average of 5",
     "solves": [
-      600,
-      664,
-      311,
+      463,
+      304,
+      243,
       136,
-      272
+      -2
     ],
     "competitionId": "HanoiSummer2025",
     "competitionName": "Hanoi Summer 2025",
-    "personId": "2022KHAN31",
-    "personName": "Nông Quốc Khánh"
-  },
-  {
-    "round": "Final",
-    "position": 5,
-    "best": 136,
-    "average": 338,
-    "format": "Average of 5",
-    "solves": [
-      385,
-      404,
-      252,
-      136,
-      376
-    ],
-    "competitionId": "cubingHCM3x3Winter2024",
-    "competitionName": "cubingHCM 3x3 Winter 2024",
-    "personId": "2022NHAN05",
-    "personName": "Nguyễn Thiện Nhân"
+    "personId": "2023QUAN13",
+    "personName": "Lưu Đức Quang"
   },
   {
     "round": "Second round",
@@ -936,22 +918,40 @@
     "personName": "Nguyễn Anh Khôi"
   },
   {
-    "round": "First round",
-    "position": 14,
+    "round": "Final",
+    "position": 5,
     "best": 136,
-    "average": 337,
+    "average": 338,
     "format": "Average of 5",
     "solves": [
-      463,
-      304,
-      243,
+      385,
+      404,
+      252,
       136,
-      -2
+      376
+    ],
+    "competitionId": "cubingHCM3x3Winter2024",
+    "competitionName": "cubingHCM 3x3 Winter 2024",
+    "personId": "2022NHAN05",
+    "personName": "Nguyễn Thiện Nhân"
+  },
+  {
+    "round": "First round",
+    "position": 28,
+    "best": 136,
+    "average": 394,
+    "format": "Average of 5",
+    "solves": [
+      600,
+      664,
+      311,
+      136,
+      272
     ],
     "competitionId": "HanoiSummer2025",
     "competitionName": "Hanoi Summer 2025",
-    "personId": "2023QUAN13",
-    "personName": "Lưu Đức Quang"
+    "personId": "2022KHAN31",
+    "personName": "Nông Quốc Khánh"
   },
   {
     "round": "Final",

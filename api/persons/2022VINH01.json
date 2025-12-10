@@ -3,7 +3,7 @@
   "name": "Nguyen Canh Tien Vinh",
   "slug": "nguyen-canh-tien-vinh",
   "country": "VN",
-  "numberOfCompetitions": 20,
+  "numberOfCompetitions": 21,
   "competitionIds": [
     "AdelaideAutumn2022",
     "AdelaideAutumn2023",
@@ -15,6 +15,7 @@
     "AllWelcomeAdelaide2025",
     "AustralianNationals2024",
     "KubinginKlemzig2025",
+    "MarinoMadness2025",
     "NorthernAdelaideCubing2024",
     "OC2022",
     "OntheSideSouthAustralia2023",
@@ -35,19 +36,19 @@
     "singles": [
       {
         "eventId": "222",
-        "best": 276,
+        "best": 239,
         "rank": {
-          "world": 19670,
-          "continent": 5237,
-          "country": 203
+          "world": 13330,
+          "continent": 3381,
+          "country": 115
         }
       },
       {
         "eventId": "333",
         "best": 869,
         "rank": {
-          "world": 10558,
-          "continent": 3768,
+          "world": 10593,
+          "continent": 3785,
           "country": 221
         }
       },
@@ -55,8 +56,8 @@
         "eventId": "333oh",
         "best": 1937,
         "rank": {
-          "world": 12693,
-          "continent": 4704,
+          "world": 12728,
+          "continent": 4718,
           "country": 241
         }
       },
@@ -64,17 +65,17 @@
         "eventId": "444",
         "best": 5222,
         "rank": {
-          "world": 21124,
-          "continent": 7331,
-          "country": 415
+          "world": 21182,
+          "continent": 7356,
+          "country": 416
         }
       },
       {
         "eventId": "555",
         "best": 17020,
         "rank": {
-          "world": 28326,
-          "continent": 7905,
+          "world": 28384,
+          "continent": 7919,
           "country": 435
         }
       },
@@ -82,8 +83,8 @@
         "eventId": "clock",
         "best": 950,
         "rank": {
-          "world": 6383,
-          "continent": 1491,
+          "world": 6401,
+          "continent": 1497,
           "country": 55
         }
       },
@@ -91,8 +92,8 @@
         "eventId": "minx",
         "best": 13347,
         "rank": {
-          "world": 16890,
-          "continent": 4278,
+          "world": 16919,
+          "continent": 4283,
           "country": 157
         }
       },
@@ -100,8 +101,8 @@
         "eventId": "pyram",
         "best": 637,
         "rank": {
-          "world": 27269,
-          "continent": 7308,
+          "world": 27350,
+          "continent": 7338,
           "country": 178
         }
       },
@@ -109,17 +110,17 @@
         "eventId": "skewb",
         "best": 338,
         "rank": {
-          "world": 4594,
-          "continent": 1133,
+          "world": 4599,
+          "continent": 1134,
           "country": 29
         }
       },
       {
         "eventId": "sq1",
-        "best": 3016,
+        "best": 2977,
         "rank": {
-          "world": 11559,
-          "continent": 2580,
+          "world": 11431,
+          "continent": 2559,
           "country": 91
         }
       }
@@ -127,19 +128,19 @@
     "averages": [
       {
         "eventId": "222",
-        "best": 419,
+        "best": 390,
         "rank": {
-          "world": 15323,
-          "continent": 4386,
-          "country": 188
+          "world": 11767,
+          "continent": 3320,
+          "country": 131
         }
       },
       {
         "eventId": "333",
         "best": 1056,
         "rank": {
-          "world": 9985,
-          "continent": 3694,
+          "world": 10028,
+          "continent": 3721,
           "country": 232
         }
       },
@@ -147,8 +148,8 @@
         "eventId": "333oh",
         "best": 2489,
         "rank": {
-          "world": 14035,
-          "continent": 5398,
+          "world": 14065,
+          "continent": 5408,
           "country": 298
         }
       },
@@ -156,17 +157,17 @@
         "eventId": "444",
         "best": 5756,
         "rank": {
-          "world": 19223,
-          "continent": 6737,
-          "country": 383
+          "world": 19290,
+          "continent": 6764,
+          "country": 384
         }
       },
       {
         "eventId": "clock",
         "best": 1054,
         "rank": {
-          "world": 5240,
-          "continent": 1202,
+          "world": 5254,
+          "continent": 1204,
           "country": 46
         }
       },
@@ -174,8 +175,8 @@
         "eventId": "pyram",
         "best": 769,
         "rank": {
-          "world": 14518,
-          "continent": 4213,
+          "world": 14550,
+          "continent": 4235,
           "country": 104
         }
       },
@@ -183,8 +184,8 @@
         "eventId": "skewb",
         "best": 758,
         "rank": {
-          "world": 10621,
-          "continent": 2954,
+          "world": 10647,
+          "continent": 2964,
           "country": 84
         }
       },
@@ -192,14 +193,138 @@
         "eventId": "sq1",
         "best": 3937,
         "rank": {
-          "world": 11042,
-          "continent": 2487,
+          "world": 11079,
+          "continent": 2507,
           "country": 91
         }
       }
     ]
   },
   "results": {
+    "MarinoMadness2025": {
+      "222": [
+        {
+          "round": "Final",
+          "position": 7,
+          "best": 388,
+          "average": 547,
+          "format": "Average of 5",
+          "solves": [
+            620,
+            746,
+            498,
+            523,
+            388
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 5,
+          "best": 239,
+          "average": 390,
+          "format": "Average of 5",
+          "solves": [
+            349,
+            239,
+            371,
+            503,
+            451
+          ]
+        }
+      ],
+      "333": [
+        {
+          "round": "Final",
+          "position": 5,
+          "best": 968,
+          "average": 1121,
+          "format": "Average of 5",
+          "solves": [
+            968,
+            1054,
+            1031,
+            1277,
+            2316
+          ]
+        },
+        {
+          "round": "Second round",
+          "position": 6,
+          "best": 1120,
+          "average": 1188,
+          "format": "Average of 5",
+          "solves": [
+            1148,
+            1328,
+            1221,
+            1120,
+            1195
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 13,
+          "best": 875,
+          "average": 1222,
+          "format": "Average of 5",
+          "solves": [
+            -1,
+            1189,
+            1149,
+            875,
+            1329
+          ]
+        }
+      ],
+      "minx": [
+        {
+          "round": "Final",
+          "position": 16,
+          "best": 15059,
+          "average": 0,
+          "format": "Average of 5",
+          "solves": [
+            15059,
+            -1,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "skewb": [
+        {
+          "round": "First round",
+          "position": 11,
+          "best": 482,
+          "average": 839,
+          "format": "Average of 5",
+          "solves": [
+            482,
+            568,
+            914,
+            1083,
+            1035
+          ]
+        }
+      ],
+      "sq1": [
+        {
+          "round": "Final",
+          "position": 11,
+          "best": 2977,
+          "average": -1,
+          "format": "Average of 5",
+          "solves": [
+            5030,
+            3548,
+            2977,
+            -1,
+            -1
+          ]
+        }
+      ]
+    },
     "KubinginKlemzig2025": {
       "222": [
         {
@@ -2345,6 +2470,7 @@
     "AllWelcomeAdelaide2025": "All Welcome Adelaide 2025",
     "AustralianNationals2024": "Australian Nationals 2024",
     "KubinginKlemzig2025": "Kubing in Klemzig 2025",
+    "MarinoMadness2025": "Marino Madness 2025",
     "NorthernAdelaideCubing2024": "Northern Adelaide Cubing 2024",
     "OC2022": "Rubik's WCA Oceanic Championship 2022",
     "OntheSideSouthAustralia2023": "On the Side South Australia 2023",

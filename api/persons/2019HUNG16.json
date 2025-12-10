@@ -3,7 +3,7 @@
   "name": "Đỗ Quang Hưng",
   "slug": "do-quang-hung",
   "country": "VN",
-  "numberOfCompetitions": 27,
+  "numberOfCompetitions": 28,
   "competitionIds": [
     "AeonMallLongBien2024",
     "BlindTillNineinVietnam2024",
@@ -25,6 +25,7 @@
     "NxNinHanoi2024",
     "NxNinHanoi2025",
     "ParadiseParkBangkokNxNxN2025",
+    "QuietSeattleNovember2025",
     "RobinsonLatkrabangCubing2024",
     "RubiksWCAAsianChampionship2024",
     "SeattleCubeCascadeUW2025",
@@ -49,7 +50,7 @@
         "eventId": "222",
         "best": 88,
         "rank": {
-          "world": 549,
+          "world": 550,
           "continent": 67,
           "country": 3
         }
@@ -65,10 +66,10 @@
       },
       {
         "eventId": "333bf",
-        "best": 2360,
+        "best": 2334,
         "rank": {
-          "world": 255,
-          "continent": 79,
+          "world": 251,
+          "continent": 75,
           "country": 1
         }
       },
@@ -76,17 +77,26 @@
         "eventId": "333fm",
         "best": 32,
         "rank": {
-          "world": 2269,
-          "continent": 559,
+          "world": 2281,
+          "continent": 560,
           "country": 14
+        }
+      },
+      {
+        "eventId": "333mbf",
+        "best": 960041400,
+        "rank": {
+          "world": 1908,
+          "continent": 494,
+          "country": 10
         }
       },
       {
         "eventId": "333oh",
         "best": 823,
         "rank": {
-          "world": 148,
-          "continent": 47,
+          "world": 150,
+          "continent": 48,
           "country": 5
         }
       },
@@ -121,7 +131,7 @@
         "eventId": "666",
         "best": 6683,
         "rank": {
-          "world": 7,
+          "world": 8,
           "continent": 4,
           "country": 1
         }
@@ -139,8 +149,8 @@
         "eventId": "clock",
         "best": 697,
         "rank": {
-          "world": 3035,
-          "continent": 717,
+          "world": 3046,
+          "continent": 718,
           "country": 29
         }
       },
@@ -157,7 +167,7 @@
         "eventId": "pyram",
         "best": 171,
         "rank": {
-          "world": 745,
+          "world": 748,
           "continent": 171,
           "country": 4
         }
@@ -166,8 +176,8 @@
         "eventId": "skewb",
         "best": 325,
         "rank": {
-          "world": 4109,
-          "continent": 1005,
+          "world": 4117,
+          "continent": 1008,
           "country": 24
         }
       },
@@ -175,7 +185,7 @@
         "eventId": "sq1",
         "best": 692,
         "rank": {
-          "world": 362,
+          "world": 363,
           "continent": 77,
           "country": 3
         }
@@ -186,7 +196,7 @@
         "eventId": "222",
         "best": 153,
         "rank": {
-          "world": 232,
+          "world": 234,
           "continent": 48,
           "country": 2
         }
@@ -195,26 +205,26 @@
         "eventId": "333",
         "best": 577,
         "rank": {
-          "world": 66,
-          "continent": 29,
+          "world": 67,
+          "continent": 30,
           "country": 1
         }
       },
       {
         "eventId": "333bf",
-        "best": 3090,
+        "best": 2637,
         "rank": {
-          "world": 249,
-          "continent": 76,
-          "country": 2
+          "world": 166,
+          "continent": 47,
+          "country": 1
         }
       },
       {
         "eventId": "333fm",
         "best": 4033,
         "rank": {
-          "world": 2716,
-          "continent": 695,
+          "world": 2726,
+          "continent": 698,
           "country": 14
         }
       },
@@ -258,7 +268,7 @@
         "eventId": "777",
         "best": 11094,
         "rank": {
-          "world": 12,
+          "world": 13,
           "continent": 6,
           "country": 1
         }
@@ -267,8 +277,8 @@
         "eventId": "clock",
         "best": 857,
         "rank": {
-          "world": 3100,
-          "continent": 717,
+          "world": 3109,
+          "continent": 718,
           "country": 30
         }
       },
@@ -285,8 +295,8 @@
         "eventId": "pyram",
         "best": 458,
         "rank": {
-          "world": 3320,
-          "continent": 980,
+          "world": 3328,
+          "continent": 982,
           "country": 27
         }
       },
@@ -294,7 +304,7 @@
         "eventId": "skewb",
         "best": 430,
         "rank": {
-          "world": 1553,
+          "world": 1558,
           "continent": 409,
           "country": 9
         }
@@ -303,14 +313,94 @@
         "eventId": "sq1",
         "best": 963,
         "rank": {
-          "world": 370,
-          "continent": 72,
+          "world": 373,
+          "continent": 73,
           "country": 4
         }
       }
     ]
   },
   "results": {
+    "QuietSeattleNovember2025": {
+      "333bf": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": 2334,
+          "average": 2637,
+          "format": "Best of 3",
+          "solves": [
+            2334,
+            2624,
+            2952,
+            0,
+            0
+          ]
+        },
+        {
+          "round": "First round",
+          "position": 2,
+          "best": 2573,
+          "average": -1,
+          "format": "Best of 3",
+          "solves": [
+            -1,
+            2573,
+            4006,
+            0,
+            0
+          ]
+        }
+      ],
+      "444bf": [
+        {
+          "round": "Final",
+          "position": 2,
+          "best": -1,
+          "average": -1,
+          "format": "Best of 3",
+          "solves": [
+            -1,
+            -1,
+            -1,
+            0,
+            0
+          ]
+        }
+      ],
+      "555bf": [
+        {
+          "round": "Final",
+          "position": 1,
+          "best": -1,
+          "average": -1,
+          "format": "Best of 3",
+          "solves": [
+            -1,
+            -1,
+            -1,
+            0,
+            0
+          ]
+        }
+      ],
+      "333mbf": [
+        {
+          "round": "Final",
+          "position": 3,
+          "best": 960041400,
+          "average": 0,
+          "format": "Best of 1",
+          "solves": [
+            960041400,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
     "KentFall2025": {
       "333": [
         {
@@ -5849,17 +5939,17 @@
     }
   },
   "medals": {
-    "gold": 63,
-    "silver": 23,
-    "bronze": 19
+    "gold": 65,
+    "silver": 24,
+    "bronze": 20
   },
   "records": {
     "single": {
-      "NR": 29,
+      "NR": 30,
       "CR": 3
     },
     "average": {
-      "NR": 45,
+      "NR": 46,
       "CR": 2
     }
   },
@@ -5884,6 +5974,7 @@
     "NxNinHanoi2024": "NxN in Hanoi 2024",
     "NxNinHanoi2025": "NxN in Hanoi 2025",
     "ParadiseParkBangkokNxNxN2025": "Paradise Park Bangkok NxNxN 2025",
+    "QuietSeattleNovember2025": "Quiet Seattle November 2025",
     "RobinsonLatkrabangCubing2024": "Robinson Latkrabang Cubing 2024",
     "RubiksWCAAsianChampionship2024": "Rubik's WCA Asian Championship 2024",
     "SeattleCubeCascadeUW2025": "Seattle Cube Cascade UW 2025",
