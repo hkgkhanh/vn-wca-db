@@ -1,6 +1,9 @@
 # vnca-db
 statics json files for all Vietnamese WCA exports
 
+> [!WARNING]
+> The [Unofficial WCA API](https://wca-rest-api.robiningelbrecht.be/) will no longer be running as of 15 Jan 2026, therefore this repository will also be out of service as of 22 Dec 2025. I will revisit this project in the near future when I have the time. 
+
 ## Why?
 We are developing a website for the Vietnam Cube Association, organization and community. Fetching data from the [Unofficial WCA API](https://wca-rest-api.robiningelbrecht.be/) or the [WCA API v0](https://docs.worldcubeassociation.org/knowledge_base/v0_api.html) can be slow, especially for custom queries such as sum of ranks or kinch scores.
 
