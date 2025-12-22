@@ -1,8 +1,8 @@
 name: Update data weekly
 
 on:
-  schedule:
-    - cron: '0 0 * * 3'  # every wednesday at 00:00 utc
+  # schedule:
+  #   - cron: '0 0 * * 3'  # every wednesday at 00:00 utc
   workflow_dispatch:
 
 permissions:
